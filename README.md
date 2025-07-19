@@ -25,9 +25,9 @@ Or, simply download the entire repository as a ZIP file and extract it.
 
 Place in Your Vault:
 
-Copy the DDB Importer folder (or just the DDB Spells and DDB Items subfolders within it) into your Obsidian vault's directory.
+Copy the DM Tools folder (or just the DDB Spells and DDB Items subfolders within it) into your Obsidian vault's directory.
 
-For example: YourObsidianVault/DDB Importer/
+For example: YourObsidianVault/DM Tools/
 
 Access Your Content:
 
@@ -37,22 +37,6 @@ You can now search for spells/items, link to them from your session notes, or ev
 
 📂 File Structure
 The content is organized into logical subfolders, typically by type and level:
-
-DM Tools/
-├── Spells/
-│   ├── 0th Level (Cantrip)/
-│   │   ├── Acid Splash.md
-│   │   ├── Mending.md
-│   │   └── ...
-│   ├── 1st Level/
-│   │   └── ...
-│   └── ...
-└── Items/
-    ├── Adventuring Gear/
-    │   └── Lock.md
-    ├── Weapons/
-    │   └── ...
-    └── ...
 
 🧩 Obsidian Plugin Compatibility
 These files are standard Markdown and do not strictly require any specific plugins to be readable. However, if you wish to leverage advanced features like dynamic lists or tables of your spells and items, the Dataview plugin is highly recommended.
