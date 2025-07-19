@@ -1,5 +1,6 @@
 Streamlined D&D Content for Obsidian
 This repository provides a collection of Dungeons & Dragons spell and item descriptions, meticulously formatted for optimal use within Obsidian.md vaults. These files have been processed to remove extraneous data, leaving behind clean, readable Markdown that's perfect for quick reference during your campaigns.
+This is not the end all be all its only what I had avaiable to me at the time. Id like to add monsters (beastiary), but some of the plugins I use already do that so it may be a back burner thing.
 
 ✨ Features
 Clean & Readable Format: Spell and item descriptions are presented in a streamlined, plaintext-like Markdown format, making them easy to read and integrate into your notes.
