@@ -1,0 +1,21 @@
+---
+title: Wand of the War Mage, +2
+icon: ':luggage:'
+aliases: Wand of the War Mage, +2
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dA2osx5xu7miDbz8
+tags:
+- Item
+---
+
+# Wand of the War Mage, +2
+
+**Wand of the War Mage, +2**
+_Wand_
+**Type:** Wand
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 4000 gp
+**Rarity:** Rare
+**Attunement:** Requires Attunement
+
+*<div class="item-attunement"><i>(Requires attunement by a Spellcaster)</i>While holding this wand, you gain a bonus to spell attack rolls determined by the wand’s rarity. In addition, you ignore Half Cover when making a spell attack roll.*

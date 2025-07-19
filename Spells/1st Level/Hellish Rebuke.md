@@ -1,0 +1,23 @@
+---
+title: Hellish Rebuke
+icon: ':luggage:'
+aliases: Hellish Rebuke
+foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.iklTVroTpXpkpZ6N
+tags:
+- Item
+---
+
+# Hellish Rebuke
+
+**Hellish Rebuke**
+_1st-level Evocation_
+**Casting Time:** 1 reaction (which you take in response to taking damage from a creature that you can see within 60 feet of yourself)
+**Attack/Save:** None
+**Range:** 60 ft
+**Components:** V S
+**Duration:** Instantaneous
+**Damage/Effect:** 2d10 Fire damage
+
+*<p>The creature that damaged you is momentarily surrounded by green flames. It makes a [[/save dex format=long]], taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.</p>*

@@ -1,0 +1,21 @@
+---
+title: Case, Map or Scroll
+icon: ':luggage:'
+aliases: Case, Map or Scroll
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hXOJAK6o6LNNymEM
+tags:
+- Item
+---
+
+# Case, Map or Scroll
+
+**Case, Map or Scroll**
+_Unknown_
+**Type:** Unknown
+**Quantity:** 1
+**Weight:** 1 lb
+**Price:** 1 gp
+**Rarity:** 
+**Attunement:** None
+
+*This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.*

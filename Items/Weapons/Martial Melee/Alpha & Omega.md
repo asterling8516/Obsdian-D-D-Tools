@@ -1,0 +1,23 @@
+---
+title: Alpha & Omega
+icon: ':luggage:'
+aliases: Alpha & Omega
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MuMLkZZHmAnQPQJb
+tags:
+- Item
+---
+
+# Alpha & Omega
+
+**Alpha & Omega**
+_Martialm_
+**Type:** Martialm
+**Quantity:** 1
+**Weight:** 6 lb
+**Price:** 750000 gp
+**Rarity:** Artifact
+**Attunement:** Requires Attunement
+
+*<div class="item-attunement"><i>(Requires attunement by a You must take damage from all damage types the armor produces )</i><p>You can change your damage type to any of the four elements that make up your swords. 
+
+Acid, Fire, Cold, Healing</p>*

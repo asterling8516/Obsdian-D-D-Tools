@@ -1,0 +1,21 @@
+---
+title: Druidic Focus
+icon: ':luggage:'
+aliases: Druidic Focus
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kgBXMsiKAQ2PinRW
+tags:
+- Item
+---
+
+# Druidic Focus
+
+**Druidic Focus**
+_Trinket_
+**Type:** Trinket
+**Quantity:** 1
+**Weight:** N/A
+**Price:** N/A
+**Rarity:** 
+**Attunement:** None
+
+*A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus, as described in the <a href="https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting#MaterialM" rel="nofollow">Spellcasting</a> section.*

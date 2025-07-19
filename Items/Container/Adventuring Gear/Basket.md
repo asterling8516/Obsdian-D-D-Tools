@@ -1,0 +1,21 @@
+---
+title: Basket
+icon: ':luggage:'
+aliases: Basket
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BxeFoq07ifItQLxA
+tags:
+- Item
+---
+
+# Basket
+
+**Basket**
+_Unknown_
+**Type:** Unknown
+**Quantity:** 1
+**Weight:** 2 lb
+**Price:** 4 sp
+**Rarity:** 
+**Attunement:** None
+
+*A basket can hold 2 cubic feet/40 pounds of gear.*

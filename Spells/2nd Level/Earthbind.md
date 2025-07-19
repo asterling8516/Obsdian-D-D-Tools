@@ -1,0 +1,21 @@
+---
+title: Earthbind
+icon: ':luggage:'
+aliases: Earthbind
+foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rzLRUl5HLEiGHeZj
+tags:
+- Item
+---
+
+# Earthbind
+
+**Earthbind**
+_2nd-level Transmutation_
+**Casting Time:** 1 action
+**Attack/Save:** None
+**Range:** 300 ft
+**Components:** V
+**Duration:** 1 minute
+**Damage/Effect:** Effect
+
+*Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a [[/save str format=long]], or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.*

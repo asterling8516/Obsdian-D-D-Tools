@@ -1,0 +1,21 @@
+---
+title: Component Pouch
+icon: ':luggage:'
+aliases: Component Pouch
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JligSuUBtAtOdoLo
+tags:
+- Item
+---
+
+# Component Pouch
+
+**Component Pouch**
+_Unknown_
+**Type:** Unknown
+**Quantity:** 1
+**Weight:** 2 lb
+**Price:** 25 gp
+**Rarity:** 
+**Attunement:** None
+
+*A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).*

@@ -1,0 +1,23 @@
+---
+title: Vicious Rapier, +1
+icon: ':luggage:'
+aliases: Vicious Rapier, +1
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ym2lUrocTR1qU1gd
+tags:
+- Item
+---
+
+# Vicious Rapier, +1
+
+**Vicious Rapier, +1**
+_Martialm_
+**Type:** Martialm
+**Quantity:** 1
+**Weight:** 2 lb
+**Price:** 18000 gp
+**Rarity:** Rare
+**Attunement:** None
+
+*<p>When you roll a 20 on your attack roll with this magic weapon, the target takes an extra 7 damage of the weapon’s type.
+
+You have a +1 bonus to attack and damage rolls made with this magic weapon.</p>*

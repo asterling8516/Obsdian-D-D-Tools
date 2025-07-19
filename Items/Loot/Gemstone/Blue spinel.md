@@ -1,0 +1,21 @@
+---
+title: Blue spinel
+icon: ':luggage:'
+aliases: Blue spinel
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.onhxYUeWxefaGz1b
+tags:
+- Item
+---
+
+# Blue spinel
+
+**Blue spinel**
+_Gem_
+**Type:** Gem
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 500 gp
+**Rarity:** 
+**Attunement:** None
+
+*A transparent deep blue gemstone worth 500 gold pieces*

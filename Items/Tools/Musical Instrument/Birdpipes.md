@@ -1,0 +1,21 @@
+---
+title: Birdpipes
+icon: ':luggage:'
+aliases: Birdpipes
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4POKqVsnA8LaxSjb
+tags:
+- Item
+---
+
+# Birdpipes
+
+**Birdpipes**
+__
+**Type:** 
+**Quantity:** 1
+**Weight:** 2 lb
+**Price:** 12 gp
+**Rarity:** 
+**Attunement:** None
+
+*Pan pipes or satyr pipes, also known as the shalm, these are sacred to Lliira and popular with wood elf and wild elf bards.*

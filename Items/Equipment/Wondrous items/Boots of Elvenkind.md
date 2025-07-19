@@ -1,0 +1,21 @@
+---
+title: Boots of Elvenkind
+icon: ':luggage:'
+aliases: Boots of Elvenkind
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FBQK3jswCnRQ4PVP
+tags:
+- Item
+---
+
+# Boots of Elvenkind
+
+**Boots of Elvenkind**
+_Clothing_
+**Type:** Clothing
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 400 gp
+**Rarity:** Uncommon
+**Attunement:** None
+
+*While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have Advantage on Dexterity ([[Stealth]]) checks.*

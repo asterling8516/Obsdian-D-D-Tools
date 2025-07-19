@@ -1,0 +1,21 @@
+---
+title: Wargong
+icon: ':luggage:'
+aliases: Wargong
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wAYEWHhepqWKBj0B
+tags:
+- Item
+---
+
+# Wargong
+
+**Wargong**
+__
+**Type:** 
+**Quantity:** 1
+**Weight:** 6 lb
+**Price:** 30 gp
+**Rarity:** 
+**Attunement:** None
+
+*A metal gong, traditionally made from a shield, particularly the shield of an enemy. Both goblins and dwarves make and play wargongs, their sound echoing through tunnels in the Underdark.*

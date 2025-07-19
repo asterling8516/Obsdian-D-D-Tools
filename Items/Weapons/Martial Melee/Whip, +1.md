@@ -1,0 +1,21 @@
+---
+title: Whip, +1
+icon: ':luggage:'
+aliases: Whip, +1
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RVJFFKsPA8NOP4SY
+tags:
+- Item
+---
+
+# Whip, +1
+
+**Whip, +1**
+_Martialm_
+**Type:** Martialm
+**Quantity:** 1
+**Weight:** 3 lb
+**Price:** 400 gp
+**Rarity:** Uncommon
+**Attunement:** None
+
+*You have a +1 bonus to attack and damage rolls made with this magic weapon.*

@@ -1,0 +1,21 @@
+---
+title: Far Step
+icon: ':luggage:'
+aliases: Far Step
+foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.W3iM4ki1ngAKihWK
+tags:
+- Item
+---
+
+# Far Step
+
+**Far Step**
+_5th-level Conjuration_
+**Casting Time:** 1 bonus
+**Attack/Save:** None
+**Range:** Self
+**Components:** V
+**Duration:** 1 minute
+**Damage/Effect:** Effect
+
+*You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.*

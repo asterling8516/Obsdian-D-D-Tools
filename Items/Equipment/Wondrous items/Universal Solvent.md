@@ -1,0 +1,21 @@
+---
+title: Universal Solvent
+icon: ':luggage:'
+aliases: Universal Solvent
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qo3gi8jpZqDngXu6
+tags:
+- Item
+---
+
+# Universal Solvent
+
+**Universal Solvent**
+_Trinket_
+**Type:** Trinket
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 200000 gp
+**Rarity:** Legendary
+**Attunement:** None
+
+*This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including **sovereign glue**.*

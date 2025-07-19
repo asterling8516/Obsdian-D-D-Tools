@@ -1,0 +1,21 @@
+---
+title: Totem
+icon: ':luggage:'
+aliases: Totem
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xeknb4Gc9jUli6Cp
+tags:
+- Item
+---
+
+# Totem
+
+**Totem**
+_Trinket_
+**Type:** Trinket
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 1 gp
+**Rarity:** 
+**Attunement:** None
+
+*A druid can use a Totem as a spellcasting focus, as described in the <a href="https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting#MaterialM">Spellcasting</a> section.*

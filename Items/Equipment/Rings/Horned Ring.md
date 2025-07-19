@@ -1,0 +1,21 @@
+---
+title: Horned Ring
+icon: ':luggage:'
+aliases: Horned Ring
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GYVERE7FtT2lpJGL
+tags:
+- Item
+---
+
+# Horned Ring
+
+**Horned Ring**
+_Ring_
+**Type:** Ring
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 10000 gp
+**Rarity:** Veryrare
+**Attunement:** Requires Attunement
+
+*Allows an attuned wearer to ignore Undermountain’s magical restrictions (see “*<a href="https://www.dndbeyond.com/compendium/adventures/wdotmm/undermountain-overview#AlterationstoMagic">Alterations to Magic</a>*”).*

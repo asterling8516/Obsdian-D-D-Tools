@@ -1,0 +1,21 @@
+---
+title: Monster Hunter's Pack
+icon: ':luggage:'
+aliases: Monster Hunter's Pack
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yyAtbwUroVNIHTZq
+tags:
+- Item
+---
+
+# Monster Hunter's Pack
+
+**Monster Hunter's Pack**
+_Unknown_
+**Type:** Unknown
+**Quantity:** 1
+**Weight:** 49 lb
+**Price:** 33 gp
+**Rarity:** 
+**Attunement:** None
+
+*Includes a chest, a crowbar, a hammer, three wooden stakes, a holy symbol, a flask of holy water, a set of manacles, a steel mirror, a flask of oil, a tinderbox, and 3 torches.*

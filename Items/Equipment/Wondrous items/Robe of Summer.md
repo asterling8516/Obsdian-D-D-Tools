@@ -1,0 +1,21 @@
+---
+title: Robe of Summer
+icon: ':luggage:'
+aliases: Robe of Summer
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3OnCNFnvPLnEQ3E6
+tags:
+- Item
+---
+
+# Robe of Summer
+
+**Robe of Summer**
+_Trinket_
+**Type:** Trinket
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 9000 gp
+**Rarity:** Rare
+**Attunement:** Requires Attunement
+
+*This elegant garment is made from fine cloth in hues of red, orange, and gold. While you wear the robe, you have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather’s temperature extremes. (Dead in Thay)*

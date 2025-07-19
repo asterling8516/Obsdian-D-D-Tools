@@ -1,0 +1,21 @@
+---
+title: Armor of Psychic Resistance, Plate
+icon: ':luggage:'
+aliases: Armor of Psychic Resistance, Plate
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.981mjaKiS3HjldVf
+tags:
+- Item
+---
+
+# Armor of Psychic Resistance, Plate
+
+**Armor of Psychic Resistance, Plate**
+_Heavy_
+**Type:** Heavy
+**Quantity:** 1
+**Weight:** 65 lb
+**Price:** 4000 gp
+**Rarity:** Rare
+**Attunement:** Requires Attunement
+
+*You have Resistance to Psychic damage while you wear this armor.*

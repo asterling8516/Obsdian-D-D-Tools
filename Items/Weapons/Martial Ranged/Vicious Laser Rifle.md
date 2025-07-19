@@ -1,0 +1,21 @@
+---
+title: Vicious Laser Rifle
+icon: ':luggage:'
+aliases: Vicious Laser Rifle
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NuPDdA2YeHS4qIDN
+tags:
+- Item
+---
+
+# Vicious Laser Rifle
+
+**Vicious Laser Rifle**
+_Martialr_
+**Type:** Martialr
+**Quantity:** 1
+**Weight:** 7 lb
+**Price:** 15000 gp
+**Rarity:** Rare
+**Attunement:** None
+
+*When you roll a 20 on your attack roll with this magic weapon, the target takes an extra 7 damage of the weapon’s type.*

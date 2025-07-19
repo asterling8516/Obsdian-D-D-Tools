@@ -1,0 +1,21 @@
+---
+title: Ring of Poison Resistance
+icon: ':luggage:'
+aliases: Ring of Poison Resistance
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Fc1tIVo4FtxP7Cs5
+tags:
+- Item
+---
+
+# Ring of Poison Resistance
+
+**Ring of Poison Resistance**
+_Ring_
+**Type:** Ring
+**Quantity:** 1
+**Weight:** N/A
+**Price:** 10000 gp
+**Rarity:** Rare
+**Attunement:** Requires Attunement
+
+*You have resistance to poison damage while wearing this amethyst ring.*

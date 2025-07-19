@@ -1,0 +1,21 @@
+---
+title: Viol
+icon: ':luggage:'
+aliases: Viol
+foundryId: Compendium.world.ddb-eureka-ddb-items.Item.duOLb5kTvntF4adt
+tags:
+- Item
+---
+
+# Viol
+
+**Viol**
+_Music_
+**Type:** Music
+**Quantity:** 1
+**Weight:** 1 lb
+**Price:** 30 gp
+**Rarity:** 
+**Attunement:** None
+
+*If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus.*
