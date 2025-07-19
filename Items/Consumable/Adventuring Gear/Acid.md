@@ -1,8 +1,8 @@
 # Acid
 
 **Acid**
-_Trinket_
-**Type:** Trinket
+_Potion_
+**Type:** Potion
 **Quantity:** 1
 **Weight:** 1 lb
 **Price:** 25 gp

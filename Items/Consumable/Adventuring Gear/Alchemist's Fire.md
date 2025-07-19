@@ -1,8 +1,8 @@
 # Alchemist's Fire
 
 **Alchemist's Fire**
-_Trinket_
-**Type:** Trinket
+_Potion_
+**Type:** Potion
 **Quantity:** 1
 **Weight:** 1 lb
 **Price:** 50 gp

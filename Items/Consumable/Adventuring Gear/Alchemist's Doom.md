@@ -1,8 +1,8 @@
 # Alchemist's Doom
 
 **Alchemist's Doom**
-_Trinket_
-**Type:** Trinket
+_Potion_
+**Type:** Potion
 **Quantity:** 1
 **Weight:** 1 lb
 **Price:** N/A

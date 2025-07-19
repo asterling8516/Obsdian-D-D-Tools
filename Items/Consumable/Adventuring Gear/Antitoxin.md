@@ -1,8 +1,8 @@
 # Antitoxin
 
 **Antitoxin**
-_Trinket_
-**Type:** Trinket
+_Potion_
+**Type:** Potion
 **Quantity:** 1
 **Weight:** N/A
 **Price:** 50 gp
