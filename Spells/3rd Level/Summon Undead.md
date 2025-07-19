@@ -1,12 +1,3 @@
----
-title: Summon Undead
-icon: ':luggage:'
-aliases: Summon Undead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0oN126CUJ8dUssmM
-tags:
-- Item
----
-
 # Summon Undead
 
 **Summon Undead**

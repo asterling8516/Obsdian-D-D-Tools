@@ -1,12 +1,3 @@
----
-title: Mace of Terror
-icon: ':luggage:'
-aliases: Mace of Terror
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.A5UyGZhMXZF5VX7K
-tags:
-- Item
----
-
 # Mace of Terror
 
 **Mace of Terror**

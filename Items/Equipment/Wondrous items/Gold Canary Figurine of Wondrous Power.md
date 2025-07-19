@@ -1,12 +1,3 @@
----
-title: Gold Canary Figurine of Wondrous Power
-icon: ':luggage:'
-aliases: Gold Canary Figurine of Wondrous Power
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Dh6MMSaz0to7aa8F
-tags:
-- Item
----
-
 # Gold Canary Figurine of Wondrous Power
 
 **Gold Canary Figurine of Wondrous Power**

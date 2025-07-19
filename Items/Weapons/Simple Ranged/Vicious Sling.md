@@ -1,12 +1,3 @@
----
-title: Vicious Sling
-icon: ':luggage:'
-aliases: Vicious Sling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.siOqgHbTS6E4Fsmk
-tags:
-- Item
----
-
 # Vicious Sling
 
 **Vicious Sling**

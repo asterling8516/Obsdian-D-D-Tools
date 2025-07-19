@@ -1,12 +1,3 @@
----
-title: Bonecounter
-icon: ':luggage:'
-aliases: Bonecounter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nfgUot9wLTHV9Shq
-tags:
-- Item
----
-
 # Bonecounter
 
 **Bonecounter**

@@ -1,12 +1,3 @@
----
-title: Ring of Poison Resistance
-icon: ':luggage:'
-aliases: Ring of Poison Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Fc1tIVo4FtxP7Cs5
-tags:
-- Item
----
-
 # Ring of Poison Resistance
 
 **Ring of Poison Resistance**

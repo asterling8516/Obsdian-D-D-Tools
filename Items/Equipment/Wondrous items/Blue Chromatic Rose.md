@@ -1,12 +1,3 @@
----
-title: Blue Chromatic Rose
-icon: ':luggage:'
-aliases: Blue Chromatic Rose
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m4IOhdvAfeYP7ok6
-tags:
-- Item
----
-
 # Blue Chromatic Rose
 
 **Blue Chromatic Rose**

@@ -1,12 +1,3 @@
----
-title: Armblade (Handaxe)
-icon: ':luggage:'
-aliases: Armblade (Handaxe)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q3DoDK1KLIV746Rv
-tags:
-- Item
----
-
 # Armblade (Handaxe)
 
 **Armblade (Handaxe)**

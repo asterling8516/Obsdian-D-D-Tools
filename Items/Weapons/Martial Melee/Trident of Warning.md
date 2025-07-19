@@ -1,12 +1,3 @@
----
-title: Trident of Warning
-icon: ':luggage:'
-aliases: Trident of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2FUdMvblNvIFEovU
-tags:
-- Item
----
-
 # Trident of Warning
 
 **Trident of Warning**

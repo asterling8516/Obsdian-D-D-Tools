@@ -1,12 +1,3 @@
----
-title: Mighty Fortress
-icon: ':luggage:'
-aliases: Mighty Fortress
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.V7KehFZm7AYhR1Ky
-tags:
-- Item
----
-
 # Mighty Fortress
 
 **Mighty Fortress**

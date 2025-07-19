@@ -1,12 +1,3 @@
----
-title: Vampiric Touch
-icon: ':luggage:'
-aliases: Vampiric Touch
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.yBFXXu76OAZa7NyN
-tags:
-- Item
----
-
 # Vampiric Touch
 
 **Vampiric Touch**

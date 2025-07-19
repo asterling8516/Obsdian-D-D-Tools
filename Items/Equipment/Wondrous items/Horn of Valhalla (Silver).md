@@ -1,12 +1,3 @@
----
-title: Horn of Valhalla (Silver)
-icon: ':luggage:'
-aliases: Horn of Valhalla (Silver)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7wUmOqy9FeRXjMpt
-tags:
-- Item
----
-
 # Horn of Valhalla (Silver)
 
 **Horn of Valhalla (Silver)**

@@ -1,12 +1,3 @@
----
-title: Orb of the Stein Rune
-icon: ':luggage:'
-aliases: Orb of the Stein Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1SNB33wWmEd7ZOcK
-tags:
-- Item
----
-
 # Orb of the Stein Rune
 
 **Orb of the Stein Rune**

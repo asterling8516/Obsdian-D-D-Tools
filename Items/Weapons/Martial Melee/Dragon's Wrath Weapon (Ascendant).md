@@ -1,12 +1,3 @@
----
-title: Dragon's Wrath Weapon (Ascendant)
-icon: ':luggage:'
-aliases: Dragon's Wrath Weapon (Ascendant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.brcBW2MS7wvzBein
-tags:
-- Item
----
-
 # Dragon's Wrath Weapon (Ascendant)
 
 **Dragon's Wrath Weapon (Ascendant)**

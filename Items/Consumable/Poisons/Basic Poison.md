@@ -1,12 +1,3 @@
----
-title: Basic Poison
-icon: ':luggage:'
-aliases: Basic Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YYE53Q2tZ2TLYhUr
-tags:
-- Item
----
-
 # Basic Poison
 
 **Basic Poison**

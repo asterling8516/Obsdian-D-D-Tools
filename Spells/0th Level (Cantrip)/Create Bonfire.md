@@ -1,12 +1,3 @@
----
-title: Create Bonfire
-icon: ':luggage:'
-aliases: Create Bonfire
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.BocwkeV22gqLBCgX
-tags:
-- Item
----
-
 # Create Bonfire
 
 **Create Bonfire**

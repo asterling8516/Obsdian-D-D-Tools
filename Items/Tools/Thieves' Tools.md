@@ -1,12 +1,3 @@
----
-title: Thieves' Tools
-icon: ':luggage:'
-aliases: Thieves' Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qfjsPaXbEmUgdd3B
-tags:
-- Item
----
-
 # Thieves' Tools
 
 **Thieves' Tools**

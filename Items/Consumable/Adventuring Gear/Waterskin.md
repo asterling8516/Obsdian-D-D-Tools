@@ -1,12 +1,3 @@
----
-title: Waterskin
-icon: ':luggage:'
-aliases: Waterskin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.37GT5Zc8exyuw1AH
-tags:
-- Item
----
-
 # Waterskin
 
 **Waterskin**

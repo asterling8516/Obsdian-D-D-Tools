@@ -1,12 +1,3 @@
----
-title: Spear of Warning
-icon: ':luggage:'
-aliases: Spear of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4O4whBhxC1xZxxvK
-tags:
-- Item
----
-
 # Spear of Warning
 
 **Spear of Warning**

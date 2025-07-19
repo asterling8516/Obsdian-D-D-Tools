@@ -1,12 +1,3 @@
----
-title: Greatsword of Vengeance
-icon: ':luggage:'
-aliases: Greatsword of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KTRXA51368k5tVIu
-tags:
-- Item
----
-
 # Greatsword of Vengeance
 
 **Greatsword of Vengeance**

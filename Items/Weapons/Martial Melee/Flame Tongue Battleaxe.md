@@ -1,12 +1,3 @@
----
-title: Flame Tongue Battleaxe
-icon: ':luggage:'
-aliases: Flame Tongue Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GNvLPBJ1HGELzqa3
-tags:
-- Item
----
-
 # Flame Tongue Battleaxe
 
 **Flame Tongue Battleaxe**

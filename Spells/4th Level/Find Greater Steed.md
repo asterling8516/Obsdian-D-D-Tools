@@ -1,12 +1,3 @@
----
-title: Find Greater Steed
-icon: ':luggage:'
-aliases: Find Greater Steed
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QffjmsWXiFXHaikd
-tags:
-- Item
----
-
 # Find Greater Steed
 
 **Find Greater Steed**

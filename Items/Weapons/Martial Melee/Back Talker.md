@@ -1,12 +1,3 @@
----
-title: Back Talker
-icon: ':luggage:'
-aliases: Back Talker
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SDL7UFv8k9NEmZUX
-tags:
-- Item
----
-
 # Back Talker
 
 **Back Talker**

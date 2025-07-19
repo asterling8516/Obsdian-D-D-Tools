@@ -1,12 +1,3 @@
----
-title: Bowl of Commanding Water Elementals
-icon: ':luggage:'
-aliases: Bowl of Commanding Water Elementals
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S4sBKskT3RgyIeAq
-tags:
-- Item
----
-
 # Bowl of Commanding Water Elementals
 
 **Bowl of Commanding Water Elementals**

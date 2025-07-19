@@ -1,12 +1,3 @@
----
-title: Repulsion Shield
-icon: ':luggage:'
-aliases: Repulsion Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MIssJGgp78HVDENN
-tags:
-- Item
----
-
 # Repulsion Shield
 
 **Repulsion Shield**

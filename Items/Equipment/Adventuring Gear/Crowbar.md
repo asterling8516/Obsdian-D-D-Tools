@@ -1,12 +1,3 @@
----
-title: Crowbar
-icon: ':luggage:'
-aliases: Crowbar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EEJzCetYHiR788bK
-tags:
-- Item
----
-
 # Crowbar
 
 **Crowbar**

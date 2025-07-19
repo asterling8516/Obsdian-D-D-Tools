@@ -1,12 +1,3 @@
----
-title: Abracadabrus
-icon: ':luggage:'
-aliases: Abracadabrus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uWUZjdaRUc0u7svJ
-tags:
-- Item
----
-
 # Abracadabrus
 
 **Abracadabrus**

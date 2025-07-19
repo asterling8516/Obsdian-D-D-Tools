@@ -1,12 +1,3 @@
----
-title: Siren Song Lyre
-icon: ':luggage:'
-aliases: Siren Song Lyre
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RFtEfFB0Yye9MBpi
-tags:
-- Item
----
-
 # Siren Song Lyre
 
 **Siren Song Lyre**

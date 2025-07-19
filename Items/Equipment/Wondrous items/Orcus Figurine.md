@@ -1,12 +1,3 @@
----
-title: Orcus Figurine
-icon: ':luggage:'
-aliases: Orcus Figurine
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PSTYhIABZygE0vvT
-tags:
-- Item
----
-
 # Orcus Figurine
 
 **Orcus Figurine**

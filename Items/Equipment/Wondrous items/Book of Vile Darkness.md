@@ -1,12 +1,3 @@
----
-title: Book of Vile Darkness
-icon: ':luggage:'
-aliases: Book of Vile Darkness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AgaKFmOQPoWsUeE3
-tags:
-- Item
----
-
 # Book of Vile Darkness
 
 **Book of Vile Darkness**

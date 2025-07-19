@@ -1,12 +1,3 @@
----
-title: Vicious Crossbow, Hand
-icon: ':luggage:'
-aliases: Vicious Crossbow, Hand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z2SMIQG2OFHyTJ3w
-tags:
-- Item
----
-
 # Vicious Crossbow, Hand
 
 **Vicious Crossbow, Hand**

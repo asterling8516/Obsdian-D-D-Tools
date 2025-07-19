@@ -1,12 +1,3 @@
----
-title: Living Loot Satchel
-icon: ':luggage:'
-aliases: Living Loot Satchel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HgpJ3kZJsrixvwup
-tags:
-- Item
----
-
 # Living Loot Satchel
 
 **Living Loot Satchel**

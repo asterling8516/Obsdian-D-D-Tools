@@ -1,12 +1,3 @@
----
-title: Moss agate
-icon: ':luggage:'
-aliases: Moss agate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hnlSKmJExWnAWyHB
-tags:
-- Item
----
-
 # Moss agate
 
 **Moss agate**

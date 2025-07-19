@@ -1,12 +1,3 @@
----
-title: Travel Alchemical Kit
-icon: ':luggage:'
-aliases: Travel Alchemical Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JocUA1JFNfDOZj2g
-tags:
-- Item
----
-
 # Travel Alchemical Kit
 
 **Travel Alchemical Kit**

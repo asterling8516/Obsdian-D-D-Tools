@@ -1,12 +1,3 @@
----
-title: Longship
-icon: ':luggage:'
-aliases: Longship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jusZrZsMfrPuUt23
-tags:
-- Item
----
-
 # Longship
 
 **Longship**

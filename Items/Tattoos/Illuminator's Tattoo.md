@@ -1,12 +1,3 @@
----
-title: Illuminator's Tattoo
-icon: ':luggage:'
-aliases: Illuminator's Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8T34JwCW9bg7Pthg
-tags:
-- Item
----
-
 # Illuminator's Tattoo
 
 **Illuminator's Tattoo**

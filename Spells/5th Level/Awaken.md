@@ -1,12 +1,3 @@
----
-title: Awaken
-icon: ':luggage:'
-aliases: Awaken
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.EzWqRwwVxM8G3K4P
-tags:
-- Item
----
-
 # Awaken
 
 **Awaken**

@@ -1,12 +1,3 @@
----
-title: Ring of Lightning Resistance
-icon: ':luggage:'
-aliases: Ring of Lightning Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AGuN3KNy85Ay5Hhj
-tags:
-- Item
----
-
 # Ring of Lightning Resistance
 
 **Ring of Lightning Resistance**

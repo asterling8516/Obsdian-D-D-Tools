@@ -1,12 +1,3 @@
----
-title: Melf's Acid Arrow
-icon: ':luggage:'
-aliases: Melf's Acid Arrow
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.8RVnJK7krHBLfEnA
-tags:
-- Item
----
-
 # Melf's Acid Arrow
 
 **Melf's Acid Arrow**

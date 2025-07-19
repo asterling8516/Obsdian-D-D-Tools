@@ -1,12 +1,3 @@
----
-title: Boots of Levitation
-icon: ':luggage:'
-aliases: Boots of Levitation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZixGtVDhwwdcXo6Y
-tags:
-- Item
----
-
 # Boots of Levitation
 
 **Boots of Levitation**

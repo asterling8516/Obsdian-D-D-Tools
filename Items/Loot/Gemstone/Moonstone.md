@@ -1,12 +1,3 @@
----
-title: Moonstone
-icon: ':luggage:'
-aliases: Moonstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WtoqCf4SCs4yXLZQ
-tags:
-- Item
----
-
 # Moonstone
 
 **Moonstone**

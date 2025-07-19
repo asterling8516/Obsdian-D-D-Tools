@@ -1,12 +1,3 @@
----
-title: Staggering Smite
-icon: ':luggage:'
-aliases: Staggering Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IzTP4bs5vrKECo36
-tags:
-- Item
----
-
 # Staggering Smite
 
 **Staggering Smite**

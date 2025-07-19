@@ -1,12 +1,3 @@
----
-title: Instant Fortress
-icon: ':luggage:'
-aliases: Instant Fortress
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IRiPsKEBQaF2fCbz
-tags:
-- Item
----
-
 # Instant Fortress
 
 **Instant Fortress**

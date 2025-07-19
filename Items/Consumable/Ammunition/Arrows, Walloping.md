@@ -1,12 +1,3 @@
----
-title: Arrows, Walloping
-icon: ':luggage:'
-aliases: Arrows, Walloping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.joZPYZSAzom6tohT
-tags:
-- Item
----
-
 # Arrows, Walloping
 
 **Arrows, Walloping**

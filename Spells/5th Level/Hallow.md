@@ -1,12 +1,3 @@
----
-title: Hallow
-icon: ':luggage:'
-aliases: Hallow
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5puJu5TGgjRpPvfw
-tags:
-- Item
----
-
 # Hallow
 
 **Hallow**

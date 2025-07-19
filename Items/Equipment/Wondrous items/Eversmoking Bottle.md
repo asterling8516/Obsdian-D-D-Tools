@@ -1,12 +1,3 @@
----
-title: Eversmoking Bottle
-icon: ':luggage:'
-aliases: Eversmoking Bottle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7y87QWgk0xMMzHXY
-tags:
-- Item
----
-
 # Eversmoking Bottle
 
 **Eversmoking Bottle**

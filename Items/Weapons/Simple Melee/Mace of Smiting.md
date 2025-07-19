@@ -1,12 +1,3 @@
----
-title: Mace of Smiting
-icon: ':luggage:'
-aliases: Mace of Smiting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PdNSwLeBHMIPLt3S
-tags:
-- Item
----
-
 # Mace of Smiting
 
 **Mace of Smiting**

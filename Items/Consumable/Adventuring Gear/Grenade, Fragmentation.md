@@ -1,12 +1,3 @@
----
-title: Grenade, Fragmentation
-icon: ':luggage:'
-aliases: Grenade, Fragmentation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Jj3DPMj6cIZfHp2i
-tags:
-- Item
----
-
 # Grenade, Fragmentation
 
 **Grenade, Fragmentation**

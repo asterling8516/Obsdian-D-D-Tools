@@ -1,12 +1,3 @@
----
-title: The Codicil of White
-icon: ':luggage:'
-aliases: The Codicil of White
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NtwztyM8t9cvyTUC
-tags:
-- Item
----
-
 # The Codicil of White
 
 **The Codicil of White**

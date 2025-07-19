@@ -1,12 +1,3 @@
----
-title: Tasha's Mind Whip
-icon: ':luggage:'
-aliases: Tasha's Mind Whip
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bg6YyaED27ft7RiU
-tags:
-- Item
----
-
 # Tasha's Mind Whip
 
 **Tasha's Mind Whip**

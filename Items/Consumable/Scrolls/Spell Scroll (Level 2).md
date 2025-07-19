@@ -1,12 +1,3 @@
----
-title: Spell Scroll (Level 2)
-icon: ':luggage:'
-aliases: Spell Scroll (Level 2)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Vy1hmZwmHo0ukvQi
-tags:
-- Item
----
-
 # Spell Scroll (Level 2)
 
 **Spell Scroll (Level 2)**

@@ -1,12 +1,3 @@
----
-title: Rifle, Automatic, +3
-icon: ':luggage:'
-aliases: Rifle, Automatic, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iTB9VkDNNsqeH7SC
-tags:
-- Item
----
-
 # Rifle, Automatic, +3
 
 **Rifle, Automatic, +3**

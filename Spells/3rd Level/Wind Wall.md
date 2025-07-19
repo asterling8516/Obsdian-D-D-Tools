@@ -1,12 +1,3 @@
----
-title: Wind Wall
-icon: ':luggage:'
-aliases: Wind Wall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.VdD1MLub1JAwpDWa
-tags:
-- Item
----
-
 # Wind Wall
 
 **Wind Wall**

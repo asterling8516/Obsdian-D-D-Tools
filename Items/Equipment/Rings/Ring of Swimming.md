@@ -1,12 +1,3 @@
----
-title: Ring of Swimming
-icon: ':luggage:'
-aliases: Ring of Swimming
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hNvf6HgJwckzJ2xQ
-tags:
-- Item
----
-
 # Ring of Swimming
 
 **Ring of Swimming**

@@ -1,12 +1,3 @@
----
-title: Molten Bronze Skin, Plate
-icon: ':luggage:'
-aliases: Molten Bronze Skin, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ppbwCMf2lC4IYDem
-tags:
-- Item
----
-
 # Molten Bronze Skin, Plate
 
 **Molten Bronze Skin, Plate**

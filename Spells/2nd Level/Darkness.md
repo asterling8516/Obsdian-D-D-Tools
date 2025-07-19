@@ -1,12 +1,3 @@
----
-title: Darkness
-icon: ':luggage:'
-aliases: Darkness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.n7hRNWYxRuwjKAe4
-tags:
-- Item
----
-
 # Darkness
 
 **Darkness**

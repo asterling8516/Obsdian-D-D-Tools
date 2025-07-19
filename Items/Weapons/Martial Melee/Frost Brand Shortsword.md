@@ -1,12 +1,3 @@
----
-title: Frost Brand Shortsword
-icon: ':luggage:'
-aliases: Frost Brand Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZMrAk87IikrZa7ks
-tags:
-- Item
----
-
 # Frost Brand Shortsword
 
 **Frost Brand Shortsword**

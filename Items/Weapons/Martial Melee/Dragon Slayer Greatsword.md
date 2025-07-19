@@ -1,12 +1,3 @@
----
-title: Dragon Slayer Greatsword
-icon: ':luggage:'
-aliases: Dragon Slayer Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CjUQoV37j7blZxL5
-tags:
-- Item
----
-
 # Dragon Slayer Greatsword
 
 **Dragon Slayer Greatsword**

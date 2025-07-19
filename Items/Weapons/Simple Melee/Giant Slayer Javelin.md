@@ -1,12 +1,3 @@
----
-title: Giant Slayer Javelin
-icon: ':luggage:'
-aliases: Giant Slayer Javelin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FIm4mOLWd4zfcN0Q
-tags:
-- Item
----
-
 # Giant Slayer Javelin
 
 **Giant Slayer Javelin**

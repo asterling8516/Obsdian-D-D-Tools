@@ -1,12 +1,3 @@
----
-title: Mending
-icon: ':luggage:'
-aliases: Mending
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.W1RKcapO2Z4owNXP
-tags:
-- Item
----
-
 # Mending
 
 **Mending**

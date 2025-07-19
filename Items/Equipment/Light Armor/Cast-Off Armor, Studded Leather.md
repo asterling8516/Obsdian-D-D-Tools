@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Studded Leather
-icon: ':luggage:'
-aliases: Cast-Off Armor, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qn9wtqRI6GyRYQVe
-tags:
-- Item
----
-
 # Cast-Off Armor, Studded Leather
 
 **Cast-Off Armor, Studded Leather**

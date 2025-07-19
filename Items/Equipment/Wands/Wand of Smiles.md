@@ -1,12 +1,3 @@
----
-title: Wand of Smiles
-icon: ':luggage:'
-aliases: Wand of Smiles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PhP3GY5JGDMz8MGh
-tags:
-- Item
----
-
 # Wand of Smiles
 
 **Wand of Smiles**

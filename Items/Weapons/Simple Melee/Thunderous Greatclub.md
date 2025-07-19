@@ -1,12 +1,3 @@
----
-title: Thunderous Greatclub
-icon: ':luggage:'
-aliases: Thunderous Greatclub
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0OJtFRKXHMoOI1dN
-tags:
-- Item
----
-
 # Thunderous Greatclub
 
 **Thunderous Greatclub**

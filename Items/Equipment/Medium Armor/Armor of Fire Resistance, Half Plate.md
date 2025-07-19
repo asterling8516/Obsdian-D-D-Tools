@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PMHwUzMISHx1hHQO
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Half Plate
 
 **Armor of Fire Resistance, Half Plate**

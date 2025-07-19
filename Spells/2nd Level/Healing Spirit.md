@@ -1,12 +1,3 @@
----
-title: Healing Spirit
-icon: ':luggage:'
-aliases: Healing Spirit
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.RwZBB90s3zSr5zPb
-tags:
-- Item
----
-
 # Healing Spirit
 
 **Healing Spirit**

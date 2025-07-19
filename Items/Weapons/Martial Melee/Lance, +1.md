@@ -1,12 +1,3 @@
----
-title: Lance, +1
-icon: ':luggage:'
-aliases: Lance, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oaotYzkoAkq1dndG
-tags:
-- Item
----
-
 # Lance, +1
 
 **Lance, +1**

@@ -1,12 +1,3 @@
----
-title: Spell Gem (Amber)
-icon: ':luggage:'
-aliases: Spell Gem (Amber)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3wRXcwFHencYmz7z
-tags:
-- Item
----
-
 # Spell Gem (Amber)
 
 **Spell Gem (Amber)**

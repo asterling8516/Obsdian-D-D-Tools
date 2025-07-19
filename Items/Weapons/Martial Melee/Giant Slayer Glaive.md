@@ -1,12 +1,3 @@
----
-title: Giant Slayer Glaive
-icon: ':luggage:'
-aliases: Giant Slayer Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VSKcP5fqDr0Ry6Ua
-tags:
-- Item
----
-
 # Giant Slayer Glaive
 
 **Giant Slayer Glaive**

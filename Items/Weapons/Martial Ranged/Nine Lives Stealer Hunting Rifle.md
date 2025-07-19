@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Hunting Rifle
-icon: ':luggage:'
-aliases: Nine Lives Stealer Hunting Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.C5OOmgmNNREKvNCx
-tags:
-- Item
----
-
 # Nine Lives Stealer Hunting Rifle
 
 **Nine Lives Stealer Hunting Rifle**

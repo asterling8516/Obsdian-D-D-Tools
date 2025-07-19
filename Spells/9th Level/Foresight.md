@@ -1,12 +1,3 @@
----
-title: Foresight
-icon: ':luggage:'
-aliases: Foresight
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.05eIim3Fm3bb6SoW
-tags:
-- Item
----
-
 # Foresight
 
 **Foresight**

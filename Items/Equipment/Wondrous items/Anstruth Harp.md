@@ -1,12 +1,3 @@
----
-title: Anstruth Harp
-icon: ':luggage:'
-aliases: Anstruth Harp
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.clXl0xLZX9IlOGZR
-tags:
-- Item
----
-
 # Anstruth Harp
 
 **Anstruth Harp**

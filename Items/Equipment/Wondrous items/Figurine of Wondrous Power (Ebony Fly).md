@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Ebony Fly)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Ebony Fly)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.F0FNviE0AUaDxcDV
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Ebony Fly)
 
 **Figurine of Wondrous Power (Ebony Fly)**

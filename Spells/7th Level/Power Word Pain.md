@@ -1,12 +1,3 @@
----
-title: Power Word Pain
-icon: ':luggage:'
-aliases: Power Word Pain
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0hlsU7sBBS4olP4s
-tags:
-- Item
----
-
 # Power Word Pain
 
 **Power Word Pain**

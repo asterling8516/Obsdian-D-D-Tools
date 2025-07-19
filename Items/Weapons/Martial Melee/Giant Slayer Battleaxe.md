@@ -1,12 +1,3 @@
----
-title: Giant Slayer Battleaxe
-icon: ':luggage:'
-aliases: Giant Slayer Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.li3pfu2TtlcnIcPh
-tags:
-- Item
----
-
 # Giant Slayer Battleaxe
 
 **Giant Slayer Battleaxe**

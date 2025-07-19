@@ -1,12 +1,3 @@
----
-title: Climber's Kit
-icon: ':luggage:'
-aliases: Climber's Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nnNyQMzI3OVJRRNE
-tags:
-- Item
----
-
 # Climber's Kit
 
 **Climber's Kit**

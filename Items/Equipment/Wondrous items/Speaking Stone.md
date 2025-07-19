@@ -1,12 +1,3 @@
----
-title: Speaking Stone
-icon: ':luggage:'
-aliases: Speaking Stone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tkv505Zc6FU4MwvH
-tags:
-- Item
----
-
 # Speaking Stone
 
 **Speaking Stone**

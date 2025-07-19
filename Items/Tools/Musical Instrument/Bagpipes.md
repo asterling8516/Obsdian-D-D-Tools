@@ -1,12 +1,3 @@
----
-title: Bagpipes
-icon: ':luggage:'
-aliases: Bagpipes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QSe1PVisIXiqUDhq
-tags:
-- Item
----
-
 # Bagpipes
 
 **Bagpipes**

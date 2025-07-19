@@ -1,12 +1,3 @@
----
-title: Oil of Sharpness
-icon: ':luggage:'
-aliases: Oil of Sharpness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VLYWPMKjsK4kDOmP
-tags:
-- Item
----
-
 # Oil of Sharpness
 
 **Oil of Sharpness**

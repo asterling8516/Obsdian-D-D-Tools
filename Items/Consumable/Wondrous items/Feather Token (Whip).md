@@ -1,12 +1,3 @@
----
-title: Feather Token (Whip)
-icon: ':luggage:'
-aliases: Feather Token (Whip)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QsoB6l88fCzwDXfW
-tags:
-- Item
----
-
 # Feather Token (Whip)
 
 **Feather Token (Whip)**

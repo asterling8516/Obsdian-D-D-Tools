@@ -1,12 +1,3 @@
----
-title: Wand of Polymorph
-icon: ':luggage:'
-aliases: Wand of Polymorph
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wIEpOUvMGKxIk5vU
-tags:
-- Item
----
-
 # Wand of Polymorph
 
 **Wand of Polymorph**

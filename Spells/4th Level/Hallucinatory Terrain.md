@@ -1,12 +1,3 @@
----
-title: Hallucinatory Terrain
-icon: ':luggage:'
-aliases: Hallucinatory Terrain
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.FHbYJTx4qQBWXkSZ
-tags:
-- Item
----
-
 # Hallucinatory Terrain
 
 **Hallucinatory Terrain**

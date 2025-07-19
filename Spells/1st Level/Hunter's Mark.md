@@ -1,12 +1,3 @@
----
-title: Hunter's Mark
-icon: ':luggage:'
-aliases: Hunter's Mark
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IJEVc672eza9485o
-tags:
-- Item
----
-
 # Hunter's Mark
 
 **Hunter's Mark**

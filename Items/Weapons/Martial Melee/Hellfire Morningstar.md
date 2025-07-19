@@ -1,12 +1,3 @@
----
-title: Hellfire Morningstar
-icon: ':luggage:'
-aliases: Hellfire Morningstar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XQMwsLs6GnzvG1dj
-tags:
-- Item
----
-
 # Hellfire Morningstar
 
 **Hellfire Morningstar**

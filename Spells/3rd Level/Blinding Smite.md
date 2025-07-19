@@ -1,12 +1,3 @@
----
-title: Blinding Smite
-icon: ':luggage:'
-aliases: Blinding Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.RvkwS0Sn9t0onSRh
-tags:
-- Item
----
-
 # Blinding Smite
 
 **Blinding Smite**

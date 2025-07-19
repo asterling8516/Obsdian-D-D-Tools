@@ -1,12 +1,3 @@
----
-title: Lamp
-icon: ':luggage:'
-aliases: Lamp
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3QPjuuqDiBOTiyaW
-tags:
-- Item
----
-
 # Lamp
 
 **Lamp**

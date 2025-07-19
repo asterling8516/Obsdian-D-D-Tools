@@ -1,12 +1,3 @@
----
-title: Frost Brand Glaive
-icon: ':luggage:'
-aliases: Frost Brand Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JA9y2lVQfnuhh6wt
-tags:
-- Item
----
-
 # Frost Brand Glaive
 
 **Frost Brand Glaive**

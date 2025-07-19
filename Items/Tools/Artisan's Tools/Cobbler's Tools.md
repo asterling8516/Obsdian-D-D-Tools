@@ -1,12 +1,3 @@
----
-title: Cobbler's Tools
-icon: ':luggage:'
-aliases: Cobbler's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iqoZdjICeng64bN5
-tags:
-- Item
----
-
 # Cobbler's Tools
 
 **Cobbler's Tools**

@@ -1,12 +1,3 @@
----
-title: Seeming
-icon: ':luggage:'
-aliases: Seeming
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.z9NWkjzdXUR2lxPa
-tags:
-- Item
----
-
 # Seeming
 
 **Seeming**

@@ -1,12 +1,3 @@
----
-title: Inflict Wounds
-icon: ':luggage:'
-aliases: Inflict Wounds
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3vhBEZ0vWslfxwOO
-tags:
-- Item
----
-
 # Inflict Wounds
 
 **Inflict Wounds**

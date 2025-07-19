@@ -1,12 +1,3 @@
----
-title: Midnight Tears
-icon: ':luggage:'
-aliases: Midnight Tears
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Pzdu4mCgJCNTQ1aW
-tags:
-- Item
----
-
 # Midnight Tears
 
 **Midnight Tears**

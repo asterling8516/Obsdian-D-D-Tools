@@ -1,12 +1,3 @@
----
-title: Shortsword of Vengeance
-icon: ':luggage:'
-aliases: Shortsword of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S1P03nYTVOGyuJVc
-tags:
-- Item
----
-
 # Shortsword of Vengeance
 
 **Shortsword of Vengeance**

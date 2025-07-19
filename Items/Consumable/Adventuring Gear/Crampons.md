@@ -1,12 +1,3 @@
----
-title: Crampons
-icon: ':luggage:'
-aliases: Crampons
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QDr9HidyIGdmVBEP
-tags:
-- Item
----
-
 # Crampons
 
 **Crampons**

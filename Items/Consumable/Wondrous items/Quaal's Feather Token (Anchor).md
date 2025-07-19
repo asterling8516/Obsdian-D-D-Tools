@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Anchor)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Anchor)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KP2AG2pkdbOpOvdG
-tags:
-- Item
----
-
 # Quaal's Feather Token (Anchor)
 
 **Quaal's Feather Token (Anchor)**

@@ -1,12 +1,3 @@
----
-title: Greatsword of Wounding
-icon: ':luggage:'
-aliases: Greatsword of Wounding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YfIYFmJW4aVxo7xF
-tags:
-- Item
----
-
 # Greatsword of Wounding
 
 **Greatsword of Wounding**

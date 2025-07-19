@@ -1,12 +1,3 @@
----
-title: Gift of Gab
-icon: ':luggage:'
-aliases: Gift of Gab
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ho7rtkhc7hexYOTA
-tags:
-- Item
----
-
 # Gift of Gab
 
 **Gift of Gab**

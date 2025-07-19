@@ -1,12 +1,3 @@
----
-title: Snilloc's Snowball Swarm
-icon: ':luggage:'
-aliases: Snilloc's Snowball Swarm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.v43Psuoj0R4GeqcQ
-tags:
-- Item
----
-
 # Snilloc's Snowball Swarm
 
 **Snilloc's Snowball Swarm**

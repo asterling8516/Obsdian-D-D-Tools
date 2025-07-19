@@ -1,12 +1,3 @@
----
-title: Potion of Cold Resistance
-icon: ':luggage:'
-aliases: Potion of Cold Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kUQ3eTCdzSkQIzen
-tags:
-- Item
----
-
 # Potion of Cold Resistance
 
 **Potion of Cold Resistance**

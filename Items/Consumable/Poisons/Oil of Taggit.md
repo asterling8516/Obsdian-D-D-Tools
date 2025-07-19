@@ -1,12 +1,3 @@
----
-title: Oil of Taggit
-icon: ':luggage:'
-aliases: Oil of Taggit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.W2CwI2UraJ9ogDh4
-tags:
-- Item
----
-
 # Oil of Taggit
 
 **Oil of Taggit**

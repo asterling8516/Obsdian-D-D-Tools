@@ -1,12 +1,3 @@
----
-title: Manual of Iron Golems
-icon: ':luggage:'
-aliases: Manual of Iron Golems
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2LNL0b5Q4sJmUDxq
-tags:
-- Item
----
-
 # Manual of Iron Golems
 
 **Manual of Iron Golems**

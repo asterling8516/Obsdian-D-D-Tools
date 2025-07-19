@@ -1,12 +1,3 @@
----
-title: Locate Animals or Plants
-icon: ':luggage:'
-aliases: Locate Animals or Plants
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fJR6AGJr22fPwiqK
-tags:
-- Item
----
-
 # Locate Animals or Plants
 
 **Locate Animals or Plants**

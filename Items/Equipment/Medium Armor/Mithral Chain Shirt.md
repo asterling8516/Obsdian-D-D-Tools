@@ -1,12 +1,3 @@
----
-title: Mithral Chain Shirt
-icon: ':luggage:'
-aliases: Mithral Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.exXcBhP8R9gMstEA
-tags:
-- Item
----
-
 # Mithral Chain Shirt
 
 **Mithral Chain Shirt**

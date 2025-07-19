@@ -1,12 +1,3 @@
----
-title: Call Lightning
-icon: ':luggage:'
-aliases: Call Lightning
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.35OKdHER63ymnh56
-tags:
-- Item
----
-
 # Call Lightning
 
 **Call Lightning**

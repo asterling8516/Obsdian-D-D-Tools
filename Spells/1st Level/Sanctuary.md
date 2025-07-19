@@ -1,12 +1,3 @@
----
-title: Sanctuary
-icon: ':luggage:'
-aliases: Sanctuary
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hnX92D3boxZppi5N
-tags:
-- Item
----
-
 # Sanctuary
 
 **Sanctuary**

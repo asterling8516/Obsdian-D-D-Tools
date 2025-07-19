@@ -1,12 +1,3 @@
----
-title: Cartographer's Tools
-icon: ':luggage:'
-aliases: Cartographer's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bszjlmtDioTy58un
-tags:
-- Item
----
-
 # Cartographer's Tools
 
 **Cartographer's Tools**

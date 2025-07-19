@@ -1,12 +1,3 @@
----
-title: Periapt of Wound Closure
-icon: ':luggage:'
-aliases: Periapt of Wound Closure
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DY4U3Eco0IFAPSNE
-tags:
-- Item
----
-
 # Periapt of Wound Closure
 
 **Periapt of Wound Closure**

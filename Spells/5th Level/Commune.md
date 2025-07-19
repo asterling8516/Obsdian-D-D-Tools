@@ -1,12 +1,3 @@
----
-title: Commune
-icon: ':luggage:'
-aliases: Commune
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ch3HfLMsWKMI1dwA
-tags:
-- Item
----
-
 # Commune
 
 **Commune**

@@ -1,12 +1,3 @@
----
-title: Gem of Brightness
-icon: ':luggage:'
-aliases: Gem of Brightness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LOrYFSYnKIJK8T8E
-tags:
-- Item
----
-
 # Gem of Brightness
 
 **Gem of Brightness**

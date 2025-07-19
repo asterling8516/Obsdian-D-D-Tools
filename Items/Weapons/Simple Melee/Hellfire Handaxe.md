@@ -1,12 +1,3 @@
----
-title: Hellfire Handaxe
-icon: ':luggage:'
-aliases: Hellfire Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jNq1mms2GYiR4cyt
-tags:
-- Item
----
-
 # Hellfire Handaxe
 
 **Hellfire Handaxe**

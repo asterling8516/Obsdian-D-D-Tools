@@ -1,12 +1,3 @@
----
-title: Incite Greed
-icon: ':luggage:'
-aliases: Incite Greed
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CIIsaZmGnTzeyEOW
-tags:
-- Item
----
-
 # Incite Greed
 
 **Incite Greed**

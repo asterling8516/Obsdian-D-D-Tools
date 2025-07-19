@@ -1,12 +1,3 @@
----
-title: Orrery of the Wanderer
-icon: ':luggage:'
-aliases: Orrery of the Wanderer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BDOYcfYdwyoN6cAa
-tags:
-- Item
----
-
 # Orrery of the Wanderer
 
 **Orrery of the Wanderer**

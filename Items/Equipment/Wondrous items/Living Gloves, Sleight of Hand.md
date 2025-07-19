@@ -1,12 +1,3 @@
----
-title: Living Gloves, Sleight of Hand
-icon: ':luggage:'
-aliases: Living Gloves, Sleight of Hand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fh8RyWwdYzsTbQrv
-tags:
-- Item
----
-
 # Living Gloves, Sleight of Hand
 
 **Living Gloves, Sleight of Hand**

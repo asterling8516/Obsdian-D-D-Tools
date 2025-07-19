@@ -1,12 +1,3 @@
----
-title: Carrion Crawler Mucus
-icon: ':luggage:'
-aliases: Carrion Crawler Mucus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j6rTp03mlzXk2Gmi
-tags:
-- Item
----
-
 # Carrion Crawler Mucus
 
 **Carrion Crawler Mucus**

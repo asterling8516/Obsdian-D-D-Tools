@@ -1,12 +1,3 @@
----
-title: Cloak of Silent Steps
-icon: ':luggage:'
-aliases: Cloak of Silent Steps
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LUCiezSe0J1RPyrz
-tags:
-- Item
----
-
 # Cloak of Silent Steps
 
 **Cloak of Silent Steps**

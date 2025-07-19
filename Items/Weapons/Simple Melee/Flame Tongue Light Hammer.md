@@ -1,12 +1,3 @@
----
-title: Flame Tongue Light Hammer
-icon: ':luggage:'
-aliases: Flame Tongue Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TBEZIchtJl8JYN1a
-tags:
-- Item
----
-
 # Flame Tongue Light Hammer
 
 **Flame Tongue Light Hammer**

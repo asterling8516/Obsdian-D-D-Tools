@@ -1,12 +1,3 @@
----
-title: Potion of Heroism
-icon: ':luggage:'
-aliases: Potion of Heroism
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yabId8lF8Sq0VhTu
-tags:
-- Item
----
-
 # Potion of Heroism
 
 **Potion of Heroism**

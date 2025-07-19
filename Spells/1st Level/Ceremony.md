@@ -1,12 +1,3 @@
----
-title: Ceremony
-icon: ':luggage:'
-aliases: Ceremony
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.nTV1hRqHXcpcpAqj
-tags:
-- Item
----
-
 # Ceremony
 
 **Ceremony**

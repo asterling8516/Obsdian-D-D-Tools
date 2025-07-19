@@ -1,12 +1,3 @@
----
-title: Murgaxor's Orb
-icon: ':luggage:'
-aliases: Murgaxor's Orb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uFWG5wBbXi5SagJd
-tags:
-- Item
----
-
 # Murgaxor's Orb
 
 **Murgaxor's Orb**

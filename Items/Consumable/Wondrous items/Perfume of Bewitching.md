@@ -1,12 +1,3 @@
----
-title: Perfume of Bewitching
-icon: ':luggage:'
-aliases: Perfume of Bewitching
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FTHow6a9ikLHE7yY
-tags:
-- Item
----
-
 # Perfume of Bewitching
 
 **Perfume of Bewitching**

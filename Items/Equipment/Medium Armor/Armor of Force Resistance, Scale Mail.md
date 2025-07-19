@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rE1aAVJ29D9nQAaD
-tags:
-- Item
----
-
 # Armor of Force Resistance, Scale Mail
 
 **Armor of Force Resistance, Scale Mail**

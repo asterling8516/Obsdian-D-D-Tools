@@ -1,12 +1,3 @@
----
-title: Spell Scroll (5th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (5th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PMuMHfTk5VzJtWHK
-tags:
-- Item
----
-
 # Spell Scroll (5th Level)
 
 **Spell Scroll (5th Level)**

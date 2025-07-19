@@ -1,12 +1,3 @@
----
-title: Radiance
-icon: ':luggage:'
-aliases: Radiance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qjpxrH97yWWXxTyV
-tags:
-- Item
----
-
 # Radiance
 
 **Radiance**

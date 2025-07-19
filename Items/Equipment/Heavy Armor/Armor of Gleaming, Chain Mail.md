@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Gleaming, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RSMuO2p6E2fn7j8f
-tags:
-- Item
----
-
 # Armor of Gleaming, Chain Mail
 
 **Armor of Gleaming, Chain Mail**

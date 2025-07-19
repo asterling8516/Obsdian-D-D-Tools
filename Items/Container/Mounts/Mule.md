@@ -1,12 +1,3 @@
----
-title: Mule
-icon: ':luggage:'
-aliases: Mule
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BjcSGUUv3h5fDPXy
-tags:
-- Item
----
-
 # Mule
 
 **Mule**

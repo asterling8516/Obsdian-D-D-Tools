@@ -1,12 +1,3 @@
----
-title: Coin of Decisionry
-icon: ':luggage:'
-aliases: Coin of Decisionry
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aXKRnbLoAitPWbvJ
-tags:
-- Item
----
-
 # Coin of Decisionry
 
 **Coin of Decisionry**

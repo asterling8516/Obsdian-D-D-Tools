@@ -1,12 +1,3 @@
----
-title: Smiths Arm
-icon: ':luggage:'
-aliases: Smiths Arm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xpov4j5vSOoQAObd
-tags:
-- Item
----
-
 # Smiths Arm
 
 **Smiths Arm**

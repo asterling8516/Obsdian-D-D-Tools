@@ -1,12 +1,3 @@
----
-title: Psi Crystal (Int 3-7)
-icon: ':luggage:'
-aliases: Psi Crystal (Int 3-7)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CKXw26azKL7A5a7Q
-tags:
-- Item
----
-
 # Psi Crystal (Int 3-7)
 
 **Psi Crystal (Int 3-7)**

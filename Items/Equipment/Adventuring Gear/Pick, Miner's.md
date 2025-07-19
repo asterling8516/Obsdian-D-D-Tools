@@ -1,12 +1,3 @@
----
-title: Pick, Miner's
-icon: ':luggage:'
-aliases: Pick, Miner's
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zLRzAlzGripP1ueF
-tags:
-- Item
----
-
 # Pick, Miner's
 
 **Pick, Miner's**

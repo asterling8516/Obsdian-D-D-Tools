@@ -1,12 +1,3 @@
----
-title: Periapt of Health
-icon: ':luggage:'
-aliases: Periapt of Health
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.D3KhDi7bXdXh6olN
-tags:
-- Item
----
-
 # Periapt of Health
 
 **Periapt of Health**

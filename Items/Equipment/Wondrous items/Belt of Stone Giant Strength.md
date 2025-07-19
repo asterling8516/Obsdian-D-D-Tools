@@ -1,12 +1,3 @@
----
-title: Belt of Stone Giant Strength
-icon: ':luggage:'
-aliases: Belt of Stone Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.K9ToHetHkkpOH3Q9
-tags:
-- Item
----
-
 # Belt of Stone Giant Strength
 
 **Belt of Stone Giant Strength**

@@ -1,12 +1,3 @@
----
-title: Lolth's Sting
-icon: ':luggage:'
-aliases: Lolth's Sting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j0B0SkrGaSMXXXdY
-tags:
-- Item
----
-
 # Lolth's Sting
 
 **Lolth's Sting**

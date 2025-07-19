@@ -1,12 +1,3 @@
----
-title: Vicious Javelin
-icon: ':luggage:'
-aliases: Vicious Javelin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sIvtbZ0H4qYS6d7t
-tags:
-- Item
----
-
 # Vicious Javelin
 
 **Vicious Javelin**

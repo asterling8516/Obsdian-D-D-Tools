@@ -1,12 +1,3 @@
----
-title: Power Word Stun
-icon: ':luggage:'
-aliases: Power Word Stun
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ks1282heLTpQ5P7D
-tags:
-- Item
----
-
 # Power Word Stun
 
 **Power Word Stun**

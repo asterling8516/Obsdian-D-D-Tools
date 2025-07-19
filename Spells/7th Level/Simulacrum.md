@@ -1,12 +1,3 @@
----
-title: Simulacrum
-icon: ':luggage:'
-aliases: Simulacrum
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0XhZM4KSgIQJRdXr
-tags:
-- Item
----
-
 # Simulacrum
 
 **Simulacrum**

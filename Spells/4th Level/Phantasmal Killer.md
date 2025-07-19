@@ -1,12 +1,3 @@
----
-title: Phantasmal Killer
-icon: ':luggage:'
-aliases: Phantasmal Killer
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KXcx1IMENOIr2Jt1
-tags:
-- Item
----
-
 # Phantasmal Killer
 
 **Phantasmal Killer**

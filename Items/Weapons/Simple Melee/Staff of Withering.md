@@ -1,12 +1,3 @@
----
-title: Staff of Withering
-icon: ':luggage:'
-aliases: Staff of Withering
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4E0QaUUGZG6E6EyW
-tags:
-- Item
----
-
 # Staff of Withering
 
 **Staff of Withering**

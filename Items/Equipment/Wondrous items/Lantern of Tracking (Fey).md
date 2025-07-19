@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Fey)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Fey)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vOhLbvoJ0eUyJEKk
-tags:
-- Item
----
-
 # Lantern of Tracking (Fey)
 
 **Lantern of Tracking (Fey)**

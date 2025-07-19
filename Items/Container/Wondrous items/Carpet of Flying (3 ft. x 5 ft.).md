@@ -1,12 +1,3 @@
----
-title: Carpet of Flying (3 ft. x 5 ft.)
-icon: ':luggage:'
-aliases: Carpet of Flying (3 ft. x 5 ft.)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cem6FQCxp9IjurZp
-tags:
-- Item
----
-
 # Carpet of Flying (3 ft. x 5 ft.)
 
 **Carpet of Flying (3 ft. x 5 ft.)**

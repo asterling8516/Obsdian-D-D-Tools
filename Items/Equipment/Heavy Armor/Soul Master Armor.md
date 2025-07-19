@@ -1,12 +1,3 @@
----
-title: Soul Master Armor
-icon: ':luggage:'
-aliases: Soul Master Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.id2hO9RAdnxMkDHW
-tags:
-- Item
----
-
 # Soul Master Armor
 
 **Soul Master Armor**

@@ -1,12 +1,3 @@
----
-title: Blowgun of Warning
-icon: ':luggage:'
-aliases: Blowgun of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.B9nuZKHiejkZEyqD
-tags:
-- Item
----
-
 # Blowgun of Warning
 
 **Blowgun of Warning**

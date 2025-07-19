@@ -1,12 +1,3 @@
----
-title: Disguise Kit
-icon: ':luggage:'
-aliases: Disguise Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2zsOx0u4NGotANrd
-tags:
-- Item
----
-
 # Disguise Kit
 
 **Disguise Kit**

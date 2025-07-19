@@ -1,12 +1,3 @@
----
-title: Deck of Illusions
-icon: ':luggage:'
-aliases: Deck of Illusions
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XRItijrHCWS6OzYW
-tags:
-- Item
----
-
 # Deck of Illusions
 
 **Deck of Illusions**

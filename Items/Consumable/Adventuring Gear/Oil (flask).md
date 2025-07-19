@@ -1,12 +1,3 @@
----
-title: Oil (flask)
-icon: ':luggage:'
-aliases: Oil (flask)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sbSEGb2TuGQyiyeX
-tags:
-- Item
----
-
 # Oil (flask)
 
 **Oil (flask)**

@@ -1,12 +1,3 @@
----
-title: Jim's Glowing Coin
-icon: ':luggage:'
-aliases: Jim's Glowing Coin
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hKBCpgKzVF59U7Sy
-tags:
-- Item
----
-
 # Jim's Glowing Coin
 
 **Jim's Glowing Coin**

@@ -1,12 +1,3 @@
----
-title: Horseshoes of a Zephyr
-icon: ':luggage:'
-aliases: Horseshoes of a Zephyr
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xZRTp4nR0ZXN8Nev
-tags:
-- Item
----
-
 # Horseshoes of a Zephyr
 
 **Horseshoes of a Zephyr**

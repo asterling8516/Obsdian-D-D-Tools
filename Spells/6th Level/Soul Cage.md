@@ -1,12 +1,3 @@
----
-title: Soul Cage
-icon: ':luggage:'
-aliases: Soul Cage
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.j9ELpkPtc74GpfJG
-tags:
-- Item
----
-
 # Soul Cage
 
 **Soul Cage**

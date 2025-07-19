@@ -1,12 +1,3 @@
----
-title: Wand of Conducting
-icon: ':luggage:'
-aliases: Wand of Conducting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kEg0cqS8ohFcAL0L
-tags:
-- Item
----
-
 # Wand of Conducting
 
 **Wand of Conducting**

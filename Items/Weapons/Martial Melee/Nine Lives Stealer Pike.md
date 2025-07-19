@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Pike
-icon: ':luggage:'
-aliases: Nine Lives Stealer Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.K6eOqZvMF9ROIayr
-tags:
-- Item
----
-
 # Nine Lives Stealer Pike
 
 **Nine Lives Stealer Pike**

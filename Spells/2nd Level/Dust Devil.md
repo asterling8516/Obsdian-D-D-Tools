@@ -1,12 +1,3 @@
----
-title: Dust Devil
-icon: ':luggage:'
-aliases: Dust Devil
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hxeDm9Jr7XWtsUwO
-tags:
-- Item
----
-
 # Dust Devil
 
 **Dust Devil**

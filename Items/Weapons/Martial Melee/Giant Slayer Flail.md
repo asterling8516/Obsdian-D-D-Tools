@@ -1,12 +1,3 @@
----
-title: Giant Slayer Flail
-icon: ':luggage:'
-aliases: Giant Slayer Flail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7g11NF8os3etMgtj
-tags:
-- Item
----
-
 # Giant Slayer Flail
 
 **Giant Slayer Flail**

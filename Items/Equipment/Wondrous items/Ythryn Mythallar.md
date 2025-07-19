@@ -1,12 +1,3 @@
----
-title: Ythryn Mythallar
-icon: ':luggage:'
-aliases: Ythryn Mythallar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LkICQ8luz5whHGsp
-tags:
-- Item
----
-
 # Ythryn Mythallar
 
 **Ythryn Mythallar**

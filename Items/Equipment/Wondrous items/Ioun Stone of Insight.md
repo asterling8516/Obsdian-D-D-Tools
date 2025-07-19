@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Insight
-icon: ':luggage:'
-aliases: Ioun Stone of Insight
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EzIkhFOLoYN20nbZ
-tags:
-- Item
----
-
 # Ioun Stone of Insight
 
 **Ioun Stone of Insight**

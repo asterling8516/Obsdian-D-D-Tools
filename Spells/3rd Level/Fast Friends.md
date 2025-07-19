@@ -1,12 +1,3 @@
----
-title: Fast Friends
-icon: ':luggage:'
-aliases: Fast Friends
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rXI4oJC0kbldQSBN
-tags:
-- Item
----
-
 # Fast Friends
 
 **Fast Friends**

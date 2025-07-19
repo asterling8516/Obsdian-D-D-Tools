@@ -1,12 +1,3 @@
----
-title: Purple Worm Poison (Injury)
-icon: ':luggage:'
-aliases: Purple Worm Poison (Injury)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gpTPhWptV1l28Lr1
-tags:
-- Item
----
-
 # Purple Worm Poison (Injury)
 
 **Purple Worm Poison (Injury)**

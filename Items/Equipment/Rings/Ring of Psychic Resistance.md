@@ -1,12 +1,3 @@
----
-title: Ring of Psychic Resistance
-icon: ':luggage:'
-aliases: Ring of Psychic Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m1KghV1Ch9BpcWdG
-tags:
-- Item
----
-
 # Ring of Psychic Resistance
 
 **Ring of Psychic Resistance**

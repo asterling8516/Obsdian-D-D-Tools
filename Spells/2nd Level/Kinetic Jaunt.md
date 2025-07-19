@@ -1,12 +1,3 @@
----
-title: Kinetic Jaunt
-icon: ':luggage:'
-aliases: Kinetic Jaunt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.9fkoYAtamOyXMxJy
-tags:
-- Item
----
-
 # Kinetic Jaunt
 
 **Kinetic Jaunt**

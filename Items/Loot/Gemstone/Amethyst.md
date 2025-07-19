@@ -1,12 +1,3 @@
----
-title: Amethyst
-icon: ':luggage:'
-aliases: Amethyst
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ip86aGD2fmESKDoL
-tags:
-- Item
----
-
 # Amethyst
 
 **Amethyst**

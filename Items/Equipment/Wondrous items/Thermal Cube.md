@@ -1,12 +1,3 @@
----
-title: Thermal Cube
-icon: ':luggage:'
-aliases: Thermal Cube
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vHRT8wy5GgtWxDV6
-tags:
-- Item
----
-
 # Thermal Cube
 
 **Thermal Cube**

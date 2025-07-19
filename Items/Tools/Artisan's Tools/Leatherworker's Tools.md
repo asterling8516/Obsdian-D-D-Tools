@@ -1,12 +1,3 @@
----
-title: Leatherworker's Tools
-icon: ':luggage:'
-aliases: Leatherworker's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HLVsEZN8WjHTWKX5
-tags:
-- Item
----
-
 # Leatherworker's Tools
 
 **Leatherworker's Tools**

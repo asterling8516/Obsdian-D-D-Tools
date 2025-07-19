@@ -1,12 +1,3 @@
----
-title: Beast Bond
-icon: ':luggage:'
-aliases: Beast Bond
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.mbllhOPTie4c1rNk
-tags:
-- Item
----
-
 # Beast Bond
 
 **Beast Bond**

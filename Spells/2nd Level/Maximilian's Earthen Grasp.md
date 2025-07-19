@@ -1,12 +1,3 @@
----
-title: Maximilian's Earthen Grasp
-icon: ':luggage:'
-aliases: Maximilian's Earthen Grasp
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.4SlNjWjSbAUrAzU4
-tags:
-- Item
----
-
 # Maximilian's Earthen Grasp
 
 **Maximilian's Earthen Grasp**

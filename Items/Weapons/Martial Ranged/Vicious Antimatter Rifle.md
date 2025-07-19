@@ -1,12 +1,3 @@
----
-title: Vicious Antimatter Rifle
-icon: ':luggage:'
-aliases: Vicious Antimatter Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7txOqEbEIyVXBYCc
-tags:
-- Item
----
-
 # Vicious Antimatter Rifle
 
 **Vicious Antimatter Rifle**

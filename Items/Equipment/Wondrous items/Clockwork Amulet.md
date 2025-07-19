@@ -1,12 +1,3 @@
----
-title: Clockwork Amulet
-icon: ':luggage:'
-aliases: Clockwork Amulet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qjwEYnLEMegyz98C
-tags:
-- Item
----
-
 # Clockwork Amulet
 
 **Clockwork Amulet**

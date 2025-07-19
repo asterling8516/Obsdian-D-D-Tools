@@ -1,12 +1,3 @@
----
-title: Glibness
-icon: ':luggage:'
-aliases: Glibness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.E0l8J7LELcEDb4q3
-tags:
-- Item
----
-
 # Glibness
 
 **Glibness**

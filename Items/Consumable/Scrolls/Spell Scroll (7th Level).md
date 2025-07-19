@@ -1,12 +1,3 @@
----
-title: Spell Scroll (7th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (7th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pMGlPDeCluXAq7VI
-tags:
-- Item
----
-
 # Spell Scroll (7th Level)
 
 **Spell Scroll (7th Level)**

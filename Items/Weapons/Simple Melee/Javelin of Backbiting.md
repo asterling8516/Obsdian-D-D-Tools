@@ -1,12 +1,3 @@
----
-title: Javelin of Backbiting
-icon: ':luggage:'
-aliases: Javelin of Backbiting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aJLEBQqCPIRK4878
-tags:
-- Item
----
-
 # Javelin of Backbiting
 
 **Javelin of Backbiting**

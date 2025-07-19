@@ -1,12 +1,3 @@
----
-title: Flask
-icon: ':luggage:'
-aliases: Flask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.snrxhQXTDmHU6mWX
-tags:
-- Item
----
-
 # Flask
 
 **Flask**

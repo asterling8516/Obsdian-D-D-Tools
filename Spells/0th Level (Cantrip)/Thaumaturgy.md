@@ -1,12 +1,3 @@
----
-title: Thaumaturgy
-icon: ':luggage:'
-aliases: Thaumaturgy
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jLzmxlCY7ONBbal7
-tags:
-- Item
----
-
 # Thaumaturgy
 
 **Thaumaturgy**

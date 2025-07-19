@@ -1,12 +1,3 @@
----
-title: Shield of Faith
-icon: ':luggage:'
-aliases: Shield of Faith
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.vDq28pDpgJyW3msC
-tags:
-- Item
----
-
 # Shield of Faith
 
 **Shield of Faith**

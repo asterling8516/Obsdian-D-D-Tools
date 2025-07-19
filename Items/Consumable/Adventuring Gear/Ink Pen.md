@@ -1,12 +1,3 @@
----
-title: Ink Pen
-icon: ':luggage:'
-aliases: Ink Pen
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BW9xXBKMZftJQ4sl
-tags:
-- Item
----
-
 # Ink Pen
 
 **Ink Pen**

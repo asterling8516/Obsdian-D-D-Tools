@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Cold
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Cold
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.X01VXxQrUQEsUdBT
-tags:
-- Item
----
-
 # Absorbing Tattoo, Cold
 
 **Absorbing Tattoo, Cold**

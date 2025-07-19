@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Light Hammer
-icon: ':luggage:'
-aliases: Nine Lives Stealer Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pzzFXr6pDSKfRVPy
-tags:
-- Item
----
-
 # Nine Lives Stealer Light Hammer
 
 **Nine Lives Stealer Light Hammer**

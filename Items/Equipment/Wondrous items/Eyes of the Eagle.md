@@ -1,12 +1,3 @@
----
-title: Eyes of the Eagle
-icon: ':luggage:'
-aliases: Eyes of the Eagle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XuXXTTQOQ4XqeLoC
-tags:
-- Item
----
-
 # Eyes of the Eagle
 
 **Eyes of the Eagle**

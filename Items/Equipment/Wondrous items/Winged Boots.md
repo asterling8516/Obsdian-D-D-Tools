@@ -1,12 +1,3 @@
----
-title: Winged Boots
-icon: ':luggage:'
-aliases: Winged Boots
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SwGuDRI6y8bmQ8Uq
-tags:
-- Item
----
-
 # Winged Boots
 
 **Winged Boots**

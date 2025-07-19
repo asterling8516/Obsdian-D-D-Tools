@@ -1,12 +1,3 @@
----
-title: Quarterstaff of the Acrobat
-icon: ':luggage:'
-aliases: Quarterstaff of the Acrobat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Rog9zN6w86adK0Nm
-tags:
-- Item
----
-
 # Quarterstaff of the Acrobat
 
 **Quarterstaff of the Acrobat**

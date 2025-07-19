@@ -1,12 +1,3 @@
----
-title: Wand of Entangle
-icon: ':luggage:'
-aliases: Wand of Entangle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uz08uCAHnqV6CvDt
-tags:
-- Item
----
-
 # Wand of Entangle
 
 **Wand of Entangle**

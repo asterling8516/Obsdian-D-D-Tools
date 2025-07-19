@@ -1,12 +1,3 @@
----
-title: Padded
-icon: ':luggage:'
-aliases: Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FdOGlRqM2TVGBzgO
-tags:
-- Item
----
-
 # Padded
 
 **Padded**

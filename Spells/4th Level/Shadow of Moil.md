@@ -1,12 +1,3 @@
----
-title: Shadow of Moil
-icon: ':luggage:'
-aliases: Shadow of Moil
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.AHXAstm2AVcDnYcr
-tags:
-- Item
----
-
 # Shadow of Moil
 
 **Shadow of Moil**

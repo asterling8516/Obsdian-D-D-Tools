@@ -1,12 +1,3 @@
----
-title: Living Gloves, Tinker's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Tinker's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Pu4xAOEXGp9nEmCf
-tags:
-- Item
----
-
 # Living Gloves, Tinker's Tools
 
 **Living Gloves, Tinker's Tools**

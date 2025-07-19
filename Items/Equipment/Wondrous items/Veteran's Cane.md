@@ -1,12 +1,3 @@
----
-title: Veteran's Cane
-icon: ':luggage:'
-aliases: Veteran's Cane
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z6t7cg6YgPSdLe2P
-tags:
-- Item
----
-
 # Veteran's Cane
 
 **Veteran's Cane**

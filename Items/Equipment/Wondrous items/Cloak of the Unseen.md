@@ -1,12 +1,3 @@
----
-title: Cloak of the Unseen
-icon: ':luggage:'
-aliases: Cloak of the Unseen
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2GgJnffIT4dJ3yGA
-tags:
-- Item
----
-
 # Cloak of the Unseen
 
 **Cloak of the Unseen**

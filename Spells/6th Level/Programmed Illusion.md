@@ -1,12 +1,3 @@
----
-title: Programmed Illusion
-icon: ':luggage:'
-aliases: Programmed Illusion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.EBs4n2RZILjx9rfY
-tags:
-- Item
----
-
 # Programmed Illusion
 
 **Programmed Illusion**

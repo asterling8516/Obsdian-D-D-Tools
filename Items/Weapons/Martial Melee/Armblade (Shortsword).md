@@ -1,12 +1,3 @@
----
-title: Armblade (Shortsword)
-icon: ':luggage:'
-aliases: Armblade (Shortsword)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tFEB4KFydGWrJ0nD
-tags:
-- Item
----
-
 # Armblade (Shortsword)
 
 **Armblade (Shortsword)**

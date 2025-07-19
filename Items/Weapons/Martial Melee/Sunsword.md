@@ -1,12 +1,3 @@
----
-title: Sunsword
-icon: ':luggage:'
-aliases: Sunsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Q7PbDkjbE4Yg81ef
-tags:
-- Item
----
-
 # Sunsword
 
 **Sunsword**

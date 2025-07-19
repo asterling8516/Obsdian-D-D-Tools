@@ -1,12 +1,3 @@
----
-title: Tyrant Ship
-icon: ':luggage:'
-aliases: Tyrant Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.J6JsFC4SQFLBZwu2
-tags:
-- Item
----
-
 # Tyrant Ship
 
 **Tyrant Ship**

@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Chain Mail
-icon: ':luggage:'
-aliases: Mizzium Armor, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ViomKx613nw5GOpG
-tags:
-- Item
----
-
 # Mizzium Armor, Chain Mail
 
 **Mizzium Armor, Chain Mail**

@@ -1,12 +1,3 @@
----
-title: Blade of Avernus
-icon: ':luggage:'
-aliases: Blade of Avernus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hRutXH3GAJQP1b2n
-tags:
-- Item
----
-
 # Blade of Avernus
 
 **Blade of Avernus**

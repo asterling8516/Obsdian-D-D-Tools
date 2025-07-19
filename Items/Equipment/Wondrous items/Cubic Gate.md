@@ -1,12 +1,3 @@
----
-title: Cubic Gate
-icon: ':luggage:'
-aliases: Cubic Gate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5bhInYdX5mYY1G3T
-tags:
-- Item
----
-
 # Cubic Gate
 
 **Cubic Gate**

@@ -1,12 +1,3 @@
----
-title: Silent Image
-icon: ':luggage:'
-aliases: Silent Image
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Nxm9IIuXEXp8Lcyu
-tags:
-- Item
----
-
 # Silent Image
 
 **Silent Image**

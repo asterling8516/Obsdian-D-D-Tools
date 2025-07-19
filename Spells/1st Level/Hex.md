@@ -1,12 +1,3 @@
----
-title: Hex
-icon: ':luggage:'
-aliases: Hex
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hoXnbqkziXxblLPq
-tags:
-- Item
----
-
 # Hex
 
 **Hex**

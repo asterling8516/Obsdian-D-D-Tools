@@ -1,12 +1,3 @@
----
-title: Greater Restoration
-icon: ':luggage:'
-aliases: Greater Restoration
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.PW3CoqezWkPWzLmk
-tags:
-- Item
----
-
 # Greater Restoration
 
 **Greater Restoration**

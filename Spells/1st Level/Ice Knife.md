@@ -1,12 +1,3 @@
----
-title: Ice Knife
-icon: ':luggage:'
-aliases: Ice Knife
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.buoAUBXYbHAcjM5x
-tags:
-- Item
----
-
 # Ice Knife
 
 **Ice Knife**

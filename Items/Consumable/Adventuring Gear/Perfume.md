@@ -1,12 +1,3 @@
----
-title: Perfume
-icon: ':luggage:'
-aliases: Perfume
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TxPwSuRcLv2qQlHN
-tags:
-- Item
----
-
 # Perfume
 
 **Perfume**

@@ -1,12 +1,3 @@
----
-title: Speak with Animals
-icon: ':luggage:'
-aliases: Speak with Animals
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gmfnuYc3GcK8nQpA
-tags:
-- Item
----
-
 # Speak with Animals
 
 **Speak with Animals**

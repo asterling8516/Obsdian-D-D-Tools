@@ -1,12 +1,3 @@
----
-title: Chain
-icon: ':luggage:'
-aliases: Chain
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CLztrPFIGUXMbmvd
-tags:
-- Item
----
-
 # Chain
 
 **Chain**

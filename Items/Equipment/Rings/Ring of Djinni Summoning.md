@@ -1,12 +1,3 @@
----
-title: Ring of Djinni Summoning
-icon: ':luggage:'
-aliases: Ring of Djinni Summoning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SK2lQFDL4CLbZBel
-tags:
-- Item
----
-
 # Ring of Djinni Summoning
 
 **Ring of Djinni Summoning**

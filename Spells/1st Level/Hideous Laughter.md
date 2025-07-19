@@ -1,12 +1,3 @@
----
-title: Hideous Laughter
-icon: ':luggage:'
-aliases: Hideous Laughter
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.8IRJupZqRaAQcoxd
-tags:
-- Item
----
-
 # Hideous Laughter
 
 **Hideous Laughter**

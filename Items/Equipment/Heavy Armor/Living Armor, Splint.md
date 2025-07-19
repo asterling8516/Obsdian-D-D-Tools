@@ -1,12 +1,3 @@
----
-title: Living Armor, Splint
-icon: ':luggage:'
-aliases: Living Armor, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.J17IndxogxoicQ9r
-tags:
-- Item
----
-
 # Living Armor, Splint
 
 **Living Armor, Splint**

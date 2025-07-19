@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Force
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Force
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.72Hd58W0jdmAXLJN
-tags:
-- Item
----
-
 # Absorbing Tattoo, Force
 
 **Absorbing Tattoo, Force**

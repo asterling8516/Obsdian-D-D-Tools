@@ -1,12 +1,3 @@
----
-title: Intellect Fortress
-icon: ':luggage:'
-aliases: Intellect Fortress
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GUFWUvdnNzYeoDme
-tags:
-- Item
----
-
 # Intellect Fortress
 
 **Intellect Fortress**

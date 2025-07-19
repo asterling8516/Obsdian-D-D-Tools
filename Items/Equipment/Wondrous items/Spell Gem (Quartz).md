@@ -1,12 +1,3 @@
----
-title: Spell Gem (Quartz)
-icon: ':luggage:'
-aliases: Spell Gem (Quartz)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Hx7hJXdoAFr48t2C
-tags:
-- Item
----
-
 # Spell Gem (Quartz)
 
 **Spell Gem (Quartz)**

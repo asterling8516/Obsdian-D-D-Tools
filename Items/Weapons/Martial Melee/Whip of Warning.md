@@ -1,12 +1,3 @@
----
-title: Whip of Warning
-icon: ':luggage:'
-aliases: Whip of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iV586elkE19uxpVy
-tags:
-- Item
----
-
 # Whip of Warning
 
 **Whip of Warning**

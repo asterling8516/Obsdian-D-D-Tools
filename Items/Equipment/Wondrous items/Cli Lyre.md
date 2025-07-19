@@ -1,12 +1,3 @@
----
-title: Cli Lyre
-icon: ':luggage:'
-aliases: Cli Lyre
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GykS2cEZc1JRh4o5
-tags:
-- Item
----
-
 # Cli Lyre
 
 **Cli Lyre**

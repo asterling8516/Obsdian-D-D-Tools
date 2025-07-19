@@ -1,12 +1,3 @@
----
-title: Hail of Thorns
-icon: ':luggage:'
-aliases: Hail of Thorns
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gl9gJm4F7EvXDt96
-tags:
-- Item
----
-
 # Hail of Thorns
 
 **Hail of Thorns**

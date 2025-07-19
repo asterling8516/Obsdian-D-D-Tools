@@ -1,12 +1,3 @@
----
-title: Hellfire Greatsword
-icon: ':luggage:'
-aliases: Hellfire Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pXInw0kebppJjv7z
-tags:
-- Item
----
-
 # Hellfire Greatsword
 
 **Hellfire Greatsword**

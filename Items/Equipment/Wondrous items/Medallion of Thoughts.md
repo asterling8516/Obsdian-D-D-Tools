@@ -1,12 +1,3 @@
----
-title: Medallion of Thoughts
-icon: ':luggage:'
-aliases: Medallion of Thoughts
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tDH4lYOEfp1d30Cx
-tags:
-- Item
----
-
 # Medallion of Thoughts
 
 **Medallion of Thoughts**

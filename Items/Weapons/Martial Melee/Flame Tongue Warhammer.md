@@ -1,12 +1,3 @@
----
-title: Flame Tongue Warhammer
-icon: ':luggage:'
-aliases: Flame Tongue Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GsysU82I8KRKiK0z
-tags:
-- Item
----
-
 # Flame Tongue Warhammer
 
 **Flame Tongue Warhammer**

@@ -1,12 +1,3 @@
----
-title: Hellfire Boomerang
-icon: ':luggage:'
-aliases: Hellfire Boomerang
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.T6rqc0THAkZgjbE0
-tags:
-- Item
----
-
 # Hellfire Boomerang
 
 **Hellfire Boomerang**

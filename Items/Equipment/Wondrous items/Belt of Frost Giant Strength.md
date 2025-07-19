@@ -1,12 +1,3 @@
----
-title: Belt of Frost Giant Strength
-icon: ':luggage:'
-aliases: Belt of Frost Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pzqInC3PzWT9Msuy
-tags:
-- Item
----
-
 # Belt of Frost Giant Strength
 
 **Belt of Frost Giant Strength**

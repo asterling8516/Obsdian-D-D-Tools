@@ -1,12 +1,3 @@
----
-title: Bell
-icon: ':luggage:'
-aliases: Bell
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zRd0fXfFn3VXyvn0
-tags:
-- Item
----
-
 # Bell
 
 **Bell**

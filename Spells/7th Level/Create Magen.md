@@ -1,12 +1,3 @@
----
-title: Create Magen
-icon: ':luggage:'
-aliases: Create Magen
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.BNrFLYxC5gqzePhF
-tags:
-- Item
----
-
 # Create Magen
 
 **Create Magen**

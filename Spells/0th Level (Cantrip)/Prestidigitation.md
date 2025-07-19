@@ -1,12 +1,3 @@
----
-title: Prestidigitation
-icon: ':luggage:'
-aliases: Prestidigitation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UZo4lLCFlnplaHtX
-tags:
-- Item
----
-
 # Prestidigitation
 
 **Prestidigitation**

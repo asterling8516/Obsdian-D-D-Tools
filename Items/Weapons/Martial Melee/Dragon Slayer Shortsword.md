@@ -1,12 +1,3 @@
----
-title: Dragon Slayer Shortsword
-icon: ':luggage:'
-aliases: Dragon Slayer Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.COrqcEQhImkn2shA
-tags:
-- Item
----
-
 # Dragon Slayer Shortsword
 
 **Dragon Slayer Shortsword**

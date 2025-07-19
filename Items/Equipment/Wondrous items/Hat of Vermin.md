@@ -1,12 +1,3 @@
----
-title: Hat of Vermin
-icon: ':luggage:'
-aliases: Hat of Vermin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JvBSdDu5FIidrGUH
-tags:
-- Item
----
-
 # Hat of Vermin
 
 **Hat of Vermin**

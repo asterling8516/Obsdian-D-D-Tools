@@ -1,12 +1,3 @@
----
-title: Staff of Striking
-icon: ':luggage:'
-aliases: Staff of Striking
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kyVV2uXUghcFN1YO
-tags:
-- Item
----
-
 # Staff of Striking
 
 **Staff of Striking**

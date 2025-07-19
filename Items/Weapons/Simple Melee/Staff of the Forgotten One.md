@@ -1,12 +1,3 @@
----
-title: Staff of the Forgotten One
-icon: ':luggage:'
-aliases: Staff of the Forgotten One
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dQkFG81udbxXctAO
-tags:
-- Item
----
-
 # Staff of the Forgotten One
 
 **Staff of the Forgotten One**

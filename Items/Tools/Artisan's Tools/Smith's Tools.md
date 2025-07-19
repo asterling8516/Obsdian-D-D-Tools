@@ -1,12 +1,3 @@
----
-title: Smith's Tools
-icon: ':luggage:'
-aliases: Smith's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.phHDCT7f0myk52bJ
-tags:
-- Item
----
-
 # Smith's Tools
 
 **Smith's Tools**

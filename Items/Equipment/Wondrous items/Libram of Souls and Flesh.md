@@ -1,12 +1,3 @@
----
-title: Libram of Souls and Flesh
-icon: ':luggage:'
-aliases: Libram of Souls and Flesh
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hEMhVbWQnzsxlf9f
-tags:
-- Item
----
-
 # Libram of Souls and Flesh
 
 **Libram of Souls and Flesh**

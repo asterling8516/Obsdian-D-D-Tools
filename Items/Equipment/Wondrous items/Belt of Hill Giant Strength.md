@@ -1,12 +1,3 @@
----
-title: Belt of Hill Giant Strength
-icon: ':luggage:'
-aliases: Belt of Hill Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.orixXJ1UlcNE7sto
-tags:
-- Item
----
-
 # Belt of Hill Giant Strength
 
 **Belt of Hill Giant Strength**

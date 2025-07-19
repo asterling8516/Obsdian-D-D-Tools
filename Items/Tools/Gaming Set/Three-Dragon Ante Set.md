@@ -1,12 +1,3 @@
----
-title: Three-Dragon Ante Set
-icon: ':luggage:'
-aliases: Three-Dragon Ante Set
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MJ6j39OOPoqIRCqy
-tags:
-- Item
----
-
 # Three-Dragon Ante Set
 
 **Three-Dragon Ante Set**

@@ -1,12 +1,3 @@
----
-title: Summon Lesser Demons
-icon: ':luggage:'
-aliases: Summon Lesser Demons
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3MYrGwrk2MA9pdCm
-tags:
-- Item
----
-
 # Summon Lesser Demons
 
 **Summon Lesser Demons**

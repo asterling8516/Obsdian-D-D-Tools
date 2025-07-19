@@ -1,12 +1,3 @@
----
-title: Antipathy/Sympathy
-icon: ':luggage:'
-aliases: Antipathy/Sympathy
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gJ2xy8GuY7FCloLY
-tags:
-- Item
----
-
 # Antipathy/Sympathy
 
 **Antipathy/Sympathy**

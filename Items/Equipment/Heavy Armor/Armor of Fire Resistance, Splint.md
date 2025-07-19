@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Mb1yDvFrCpK5YINq
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Splint
 
 **Armor of Fire Resistance, Splint**

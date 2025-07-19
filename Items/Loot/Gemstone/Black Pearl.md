@@ -1,12 +1,3 @@
----
-title: Black Pearl
-icon: ':luggage:'
-aliases: Black Pearl
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CptGBJXpQvU0177h
-tags:
-- Item
----
-
 # Black Pearl
 
 **Black Pearl**

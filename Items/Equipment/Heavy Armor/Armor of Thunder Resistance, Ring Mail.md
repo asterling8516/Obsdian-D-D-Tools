@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y1vzs4NgzAluqG6f
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Ring Mail
 
 **Armor of Thunder Resistance, Ring Mail**

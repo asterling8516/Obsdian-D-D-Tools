@@ -1,12 +1,3 @@
----
-title: Zulkoon
-icon: ':luggage:'
-aliases: Zulkoon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ULM3GiPsJJiZGt1i
-tags:
-- Item
----
-
 # Zulkoon
 
 **Zulkoon**

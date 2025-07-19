@@ -1,12 +1,3 @@
----
-title: Ring of Jumping
-icon: ':luggage:'
-aliases: Ring of Jumping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FolMGDC86AR0BxeC
-tags:
-- Item
----
-
 # Ring of Jumping
 
 **Ring of Jumping**

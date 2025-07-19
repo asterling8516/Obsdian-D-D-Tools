@@ -1,12 +1,3 @@
----
-title: Staff of Thunder and Lightning
-icon: ':luggage:'
-aliases: Staff of Thunder and Lightning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CvjxYXbaT2skrl1L
-tags:
-- Item
----
-
 # Staff of Thunder and Lightning
 
 **Staff of Thunder and Lightning**

@@ -1,12 +1,3 @@
----
-title: Gunman's Duster
-icon: ':luggage:'
-aliases: Gunman's Duster
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.e7Q9GKxVonDoXCon
-tags:
-- Item
----
-
 # Gunman's Duster
 
 **Gunman's Duster**

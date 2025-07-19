@@ -1,12 +1,3 @@
----
-title: Greataxe
-icon: ':luggage:'
-aliases: Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kgvFgEMPeJ72HjXL
-tags:
-- Item
----
-
 # Greataxe
 
 **Greataxe**

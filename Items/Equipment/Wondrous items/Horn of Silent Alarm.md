@@ -1,12 +1,3 @@
----
-title: Horn of Silent Alarm
-icon: ':luggage:'
-aliases: Horn of Silent Alarm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rWjrC2AG8xGpmfxF
-tags:
-- Item
----
-
 # Horn of Silent Alarm
 
 **Horn of Silent Alarm**

@@ -1,12 +1,3 @@
----
-title: Disguise Self
-icon: ':luggage:'
-aliases: Disguise Self
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6EGMHMVlRv4m7BlR
-tags:
-- Item
----
-
 # Disguise Self
 
 **Disguise Self**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Sling
-icon: ':luggage:'
-aliases: Giant Slayer Sling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6r0Qos7HlNSEpnsa
-tags:
-- Item
----
-
 # Giant Slayer Sling
 
 **Giant Slayer Sling**

@@ -1,12 +1,3 @@
----
-title: Spyglass
-icon: ':luggage:'
-aliases: Spyglass
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JquU7NVtjLTeSgej
-tags:
-- Item
----
-
 # Spyglass
 
 **Spyglass**

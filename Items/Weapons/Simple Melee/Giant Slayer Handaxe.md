@@ -1,12 +1,3 @@
----
-title: Giant Slayer Handaxe
-icon: ':luggage:'
-aliases: Giant Slayer Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s2jsk04KBaSIQKAA
-tags:
-- Item
----
-
 # Giant Slayer Handaxe
 
 **Giant Slayer Handaxe**

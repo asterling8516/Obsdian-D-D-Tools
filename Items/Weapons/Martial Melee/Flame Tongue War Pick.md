@@ -1,12 +1,3 @@
----
-title: Flame Tongue War Pick
-icon: ':luggage:'
-aliases: Flame Tongue War Pick
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zjJAbSn42SQHsy7i
-tags:
-- Item
----
-
 # Flame Tongue War Pick
 
 **Flame Tongue War Pick**

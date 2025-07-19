@@ -1,12 +1,3 @@
----
-title: Detect Magic
-icon: ':luggage:'
-aliases: Detect Magic
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1T1sXRK12dKq9XJh
-tags:
-- Item
----
-
 # Detect Magic
 
 **Detect Magic**

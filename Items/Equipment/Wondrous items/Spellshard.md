@@ -1,12 +1,3 @@
----
-title: Spellshard
-icon: ':luggage:'
-aliases: Spellshard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FiC5UBJhjzzpsiVC
-tags:
-- Item
----
-
 # Spellshard
 
 **Spellshard**

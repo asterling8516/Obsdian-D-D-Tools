@@ -1,12 +1,3 @@
----
-title: Lock
-icon: ':luggage:'
-aliases: Lock
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0PFtwR5vkDlXcNX8
-tags:
-- Item
----
-
 # Lock
 
 **Lock**

@@ -1,12 +1,3 @@
----
-title: Finder's Goggles
-icon: ':luggage:'
-aliases: Finder's Goggles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CrE1RWVLUlU0Z3pU
-tags:
-- Item
----
-
 # Finder's Goggles
 
 **Finder's Goggles**

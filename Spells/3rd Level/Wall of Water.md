@@ -1,12 +1,3 @@
----
-title: Wall of Water
-icon: ':luggage:'
-aliases: Wall of Water
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IGQvLF0LbSnD6DYG
-tags:
-- Item
----
-
 # Wall of Water
 
 **Wall of Water**

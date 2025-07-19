@@ -1,12 +1,3 @@
----
-title: Spell Scroll (Level 1)
-icon: ':luggage:'
-aliases: Spell Scroll (Level 1)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wbJ55thCzZFKikzl
-tags:
-- Item
----
-
 # Spell Scroll (Level 1)
 
 **Spell Scroll (Level 1)**

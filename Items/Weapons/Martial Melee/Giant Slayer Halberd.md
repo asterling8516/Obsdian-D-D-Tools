@@ -1,12 +1,3 @@
----
-title: Giant Slayer Halberd
-icon: ':luggage:'
-aliases: Giant Slayer Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eNl00UbGC7edMfw3
-tags:
-- Item
----
-
 # Giant Slayer Halberd
 
 **Giant Slayer Halberd**

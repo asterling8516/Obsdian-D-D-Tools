@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0NEiJZik9Qin6cEH
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Studded Leather
 
 **Armor of Necrotic Resistance, Studded Leather**

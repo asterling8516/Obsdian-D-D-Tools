@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Javelin
-icon: ':luggage:'
-aliases: Nine Lives Stealer Javelin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6vPcrakDqSqwKN0k
-tags:
-- Item
----
-
 # Nine Lives Stealer Javelin
 
 **Nine Lives Stealer Javelin**

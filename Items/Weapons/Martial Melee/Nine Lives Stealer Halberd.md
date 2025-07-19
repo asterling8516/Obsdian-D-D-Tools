@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Halberd
-icon: ':luggage:'
-aliases: Nine Lives Stealer Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9njlJu2rJl6HYBJ1
-tags:
-- Item
----
-
 # Nine Lives Stealer Halberd
 
 **Nine Lives Stealer Halberd**

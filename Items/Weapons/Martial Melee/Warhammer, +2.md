@@ -1,12 +1,3 @@
----
-title: Warhammer, +2
-icon: ':luggage:'
-aliases: Warhammer, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0U9vvXxUnbdzl7YD
-tags:
-- Item
----
-
 # Warhammer, +2
 
 **Warhammer, +2**

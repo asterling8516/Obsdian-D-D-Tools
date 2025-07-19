@@ -1,12 +1,3 @@
----
-title: Yester Hill Axe
-icon: ':luggage:'
-aliases: Yester Hill Axe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qT8Z2U7HX7tzHK4k
-tags:
-- Item
----
-
 # Yester Hill Axe
 
 **Yester Hill Axe**

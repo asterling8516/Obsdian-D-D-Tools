@@ -1,12 +1,3 @@
----
-title: Wrath of Nature
-icon: ':luggage:'
-aliases: Wrath of Nature
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gWE3xDfhvDB0Wr2P
-tags:
-- Item
----
-
 # Wrath of Nature
 
 **Wrath of Nature**

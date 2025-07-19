@@ -1,12 +1,3 @@
----
-title: Giant Slayer Greatsword
-icon: ':luggage:'
-aliases: Giant Slayer Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jvjrJs5DTExU5VgO
-tags:
-- Item
----
-
 # Giant Slayer Greatsword
 
 **Giant Slayer Greatsword**

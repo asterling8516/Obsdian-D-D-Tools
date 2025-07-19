@@ -1,12 +1,3 @@
----
-title: Warship
-icon: ':luggage:'
-aliases: Warship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Im9US902aIZkvAok
-tags:
-- Item
----
-
 # Warship
 
 **Warship**

@@ -1,12 +1,3 @@
----
-title: True Resurrection
-icon: ':luggage:'
-aliases: True Resurrection
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.EyyxMqpUYfpN7OQP
-tags:
-- Item
----
-
 # True Resurrection
 
 **True Resurrection**

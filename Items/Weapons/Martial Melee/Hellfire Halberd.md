@@ -1,12 +1,3 @@
----
-title: Hellfire Halberd
-icon: ':luggage:'
-aliases: Hellfire Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FOSnyEwJKcVAmjdn
-tags:
-- Item
----
-
 # Hellfire Halberd
 
 **Hellfire Halberd**

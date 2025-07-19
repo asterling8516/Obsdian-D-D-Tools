@@ -1,12 +1,3 @@
----
-title: Living Gloves, Weaver's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Weaver's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qI6wGJXsrqjizjfi
-tags:
-- Item
----
-
 # Living Gloves, Weaver's Tools
 
 **Living Gloves, Weaver's Tools**

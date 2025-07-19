@@ -1,12 +1,3 @@
----
-title: Quarterstaff, +2
-icon: ':luggage:'
-aliases: Quarterstaff, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IEK5aqy08GuiJ4f5
-tags:
-- Item
----
-
 # Quarterstaff, +2
 
 **Quarterstaff, +2**

@@ -1,12 +1,3 @@
----
-title: Dragongleam
-icon: ':luggage:'
-aliases: Dragongleam
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.il698MvdppVYL4H7
-tags:
-- Item
----
-
 # Dragongleam
 
 **Dragongleam**

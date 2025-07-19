@@ -1,12 +1,3 @@
----
-title: Laser Pistol, +3
-icon: ':luggage:'
-aliases: Laser Pistol, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bL7xovtlRLIgqpCi
-tags:
-- Item
----
-
 # Laser Pistol, +3
 
 **Laser Pistol, +3**

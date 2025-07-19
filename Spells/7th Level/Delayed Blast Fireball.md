@@ -1,12 +1,3 @@
----
-title: Delayed Blast Fireball
-icon: ':luggage:'
-aliases: Delayed Blast Fireball
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ji3kcdXAcpIWbkVT
-tags:
-- Item
----
-
 # Delayed Blast Fireball
 
 **Delayed Blast Fireball**

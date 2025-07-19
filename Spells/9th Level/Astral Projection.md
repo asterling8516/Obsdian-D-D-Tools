@@ -1,12 +1,3 @@
----
-title: Astral Projection
-icon: ':luggage:'
-aliases: Astral Projection
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.DY0wj0j7u7SBHRMc
-tags:
-- Item
----
-
 # Astral Projection
 
 **Astral Projection**

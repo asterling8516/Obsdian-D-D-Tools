@@ -1,12 +1,3 @@
----
-title: Playing Card Set
-icon: ':luggage:'
-aliases: Playing Card Set
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.o7jrtLkpFtU3jxQD
-tags:
-- Item
----
-
 # Playing Card Set
 
 **Playing Card Set**

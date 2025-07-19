@@ -1,12 +1,3 @@
----
-title: Etherealness
-icon: ':luggage:'
-aliases: Etherealness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1UrNr8mSigfQuJYQ
-tags:
-- Item
----
-
 # Etherealness
 
 **Etherealness**

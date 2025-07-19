@@ -1,12 +1,3 @@
----
-title: Jet
-icon: ':luggage:'
-aliases: Jet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9baFZZ5EKh33g25G
-tags:
-- Item
----
-
 # Jet
 
 **Jet**

@@ -1,12 +1,3 @@
----
-title: Hunting Trap
-icon: ':luggage:'
-aliases: Hunting Trap
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PlVdO5iAUXAyzgr5
-tags:
-- Item
----
-
 # Hunting Trap
 
 **Hunting Trap**

@@ -1,12 +1,3 @@
----
-title: Watery Sphere
-icon: ':luggage:'
-aliases: Watery Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.t1qKeSdADDsNpNQb
-tags:
-- Item
----
-
 # Watery Sphere
 
 **Watery Sphere**

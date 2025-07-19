@@ -1,12 +1,3 @@
----
-title: Emerald Pen
-icon: ':luggage:'
-aliases: Emerald Pen
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FDw9RlbJAfq9CiWc
-tags:
-- Item
----
-
 # Emerald Pen
 
 **Emerald Pen**

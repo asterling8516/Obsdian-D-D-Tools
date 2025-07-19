@@ -1,12 +1,3 @@
----
-title: Pearl
-icon: ':luggage:'
-aliases: Pearl
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ttUuMmVdHhENBNXs
-tags:
-- Item
----
-
 # Pearl
 
 **Pearl**

@@ -1,12 +1,3 @@
----
-title: Crossbow, Heavy, +1
-icon: ':luggage:'
-aliases: Crossbow, Heavy, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MN0wq24cWguVNCQv
-tags:
-- Item
----
-
 # Crossbow, Heavy, +1
 
 **Crossbow, Heavy, +1**

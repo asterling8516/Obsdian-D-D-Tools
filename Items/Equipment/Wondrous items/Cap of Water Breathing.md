@@ -1,12 +1,3 @@
----
-title: Cap of Water Breathing
-icon: ':luggage:'
-aliases: Cap of Water Breathing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ojCtWqdzxyla3DmN
-tags:
-- Item
----
-
 # Cap of Water Breathing
 
 **Cap of Water Breathing**

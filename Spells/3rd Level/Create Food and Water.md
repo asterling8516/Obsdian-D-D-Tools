@@ -1,12 +1,3 @@
----
-title: Create Food and Water
-icon: ':luggage:'
-aliases: Create Food and Water
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3dD4X8ofOXdLp1vr
-tags:
-- Item
----
-
 # Create Food and Water
 
 **Create Food and Water**

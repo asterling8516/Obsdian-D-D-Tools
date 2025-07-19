@@ -1,12 +1,3 @@
----
-title: Hell Hound Cloak
-icon: ':luggage:'
-aliases: Hell Hound Cloak
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f29Bw7JFRsGOk5sF
-tags:
-- Item
----
-
 # Hell Hound Cloak
 
 **Hell Hound Cloak**

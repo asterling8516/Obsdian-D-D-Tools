@@ -1,12 +1,3 @@
----
-title: Horn of Valhalla (Brass)
-icon: ':luggage:'
-aliases: Horn of Valhalla (Brass)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qm3Rld7o3pFR8Uaf
-tags:
-- Item
----
-
 # Horn of Valhalla (Brass)
 
 **Horn of Valhalla (Brass)**

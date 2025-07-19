@@ -1,12 +1,3 @@
----
-title: Rapier of Life Stealing
-icon: ':luggage:'
-aliases: Rapier of Life Stealing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.grk0LnSAhTfE5kP5
-tags:
-- Item
----
-
 # Rapier of Life Stealing
 
 **Rapier of Life Stealing**

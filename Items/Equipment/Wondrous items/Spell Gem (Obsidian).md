@@ -1,12 +1,3 @@
----
-title: Spell Gem (Obsidian)
-icon: ':luggage:'
-aliases: Spell Gem (Obsidian)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y9jKpkIsWvOnkLAv
-tags:
-- Item
----
-
 # Spell Gem (Obsidian)
 
 **Spell Gem (Obsidian)**

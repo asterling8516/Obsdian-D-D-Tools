@@ -1,12 +1,3 @@
----
-title: Keycharm
-icon: ':luggage:'
-aliases: Keycharm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vVuHqb7wGfA2BvHc
-tags:
-- Item
----
-
 # Keycharm
 
 **Keycharm**

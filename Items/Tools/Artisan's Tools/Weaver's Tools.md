@@ -1,12 +1,3 @@
----
-title: Weaver's Tools
-icon: ':luggage:'
-aliases: Weaver's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Xy3CkyZ6xWbzbiNu
-tags:
-- Item
----
-
 # Weaver's Tools
 
 **Weaver's Tools**

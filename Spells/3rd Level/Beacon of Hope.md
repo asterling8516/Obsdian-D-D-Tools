@@ -1,12 +1,3 @@
----
-title: Beacon of Hope
-icon: ':luggage:'
-aliases: Beacon of Hope
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.z7yu6gBPmlYQhmZu
-tags:
-- Item
----
-
 # Beacon of Hope
 
 **Beacon of Hope**

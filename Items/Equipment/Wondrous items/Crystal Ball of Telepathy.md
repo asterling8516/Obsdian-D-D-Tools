@@ -1,12 +1,3 @@
----
-title: Crystal Ball of Telepathy
-icon: ':luggage:'
-aliases: Crystal Ball of Telepathy
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nj588j0eTzRpjhjj
-tags:
-- Item
----
-
 # Crystal Ball of Telepathy
 
 **Crystal Ball of Telepathy**

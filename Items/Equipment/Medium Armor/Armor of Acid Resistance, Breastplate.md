@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xoARpob2vYVUGJZi
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Breastplate
 
 **Armor of Acid Resistance, Breastplate**

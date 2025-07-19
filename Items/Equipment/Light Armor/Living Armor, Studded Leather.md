@@ -1,12 +1,3 @@
----
-title: Living Armor, Studded Leather
-icon: ':luggage:'
-aliases: Living Armor, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TgHHMFdaVLofkv0U
-tags:
-- Item
----
-
 # Living Armor, Studded Leather
 
 **Living Armor, Studded Leather**

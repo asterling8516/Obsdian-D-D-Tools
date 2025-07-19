@@ -1,12 +1,3 @@
----
-title: Parchment
-icon: ':luggage:'
-aliases: Parchment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4a6ZtHsCdkZ1QWB1
-tags:
-- Item
----
-
 # Parchment
 
 **Parchment**

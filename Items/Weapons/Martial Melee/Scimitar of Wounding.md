@@ -1,12 +1,3 @@
----
-title: Scimitar of Wounding
-icon: ':luggage:'
-aliases: Scimitar of Wounding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ekR4245l8FX4cSd1
-tags:
-- Item
----
-
 # Scimitar of Wounding
 
 **Scimitar of Wounding**

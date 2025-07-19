@@ -1,12 +1,3 @@
----
-title: Failed Experiment Wand
-icon: ':luggage:'
-aliases: Failed Experiment Wand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9ugUe2tpO1oGwibl
-tags:
-- Item
----
-
 # Failed Experiment Wand
 
 **Failed Experiment Wand**

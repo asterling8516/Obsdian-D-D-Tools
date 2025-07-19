@@ -1,12 +1,3 @@
----
-title: Banner of the Krig Rune
-icon: ':luggage:'
-aliases: Banner of the Krig Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0r9aCZVOp0PJUZaE
-tags:
-- Item
----
-
 # Banner of the Krig Rune
 
 **Banner of the Krig Rune**

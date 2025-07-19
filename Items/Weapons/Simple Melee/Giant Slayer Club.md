@@ -1,12 +1,3 @@
----
-title: Giant Slayer Club
-icon: ':luggage:'
-aliases: Giant Slayer Club
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EikmNCizkW4ug9LB
-tags:
-- Item
----
-
 # Giant Slayer Club
 
 **Giant Slayer Club**

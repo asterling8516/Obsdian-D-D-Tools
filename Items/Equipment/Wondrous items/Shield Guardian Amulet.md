@@ -1,12 +1,3 @@
----
-title: Shield Guardian Amulet
-icon: ':luggage:'
-aliases: Shield Guardian Amulet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4TO2uosQEoUWFUkU
-tags:
-- Item
----
-
 # Shield Guardian Amulet
 
 **Shield Guardian Amulet**

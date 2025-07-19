@@ -1,12 +1,3 @@
----
-title: Pyroconverger
-icon: ':luggage:'
-aliases: Pyroconverger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kxllCBqCxocZbkQS
-tags:
-- Item
----
-
 # Pyroconverger
 
 **Pyroconverger**

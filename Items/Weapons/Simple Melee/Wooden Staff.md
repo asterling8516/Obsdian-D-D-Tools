@@ -1,12 +1,3 @@
----
-title: Wooden Staff
-icon: ':luggage:'
-aliases: Wooden Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U6Eh2SsLlBLhmWK2
-tags:
-- Item
----
-
 # Wooden Staff
 
 **Wooden Staff**

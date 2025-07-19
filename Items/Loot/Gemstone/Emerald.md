@@ -1,12 +1,3 @@
----
-title: Emerald
-icon: ':luggage:'
-aliases: Emerald
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZYqNk3MoDiZmSs0r
-tags:
-- Item
----
-
 # Emerald
 
 **Emerald**

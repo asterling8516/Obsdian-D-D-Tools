@@ -1,12 +1,3 @@
----
-title: Dagger of Venom
-icon: ':luggage:'
-aliases: Dagger of Venom
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jwruyuxRKLBRVHXX
-tags:
-- Item
----
-
 # Dagger of Venom
 
 **Dagger of Venom**

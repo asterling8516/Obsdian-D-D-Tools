@@ -1,12 +1,3 @@
----
-title: Painter's Supplies
-icon: ':luggage:'
-aliases: Painter's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RMAmLSRLtrr7mA45
-tags:
-- Item
----
-
 # Painter's Supplies
 
 **Painter's Supplies**

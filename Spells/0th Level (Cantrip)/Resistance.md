@@ -1,12 +1,3 @@
----
-title: Resistance
-icon: ':luggage:'
-aliases: Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.AwXwXwh5H1ORZIiH
-tags:
-- Item
----
-
 # Resistance
 
 **Resistance**

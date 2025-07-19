@@ -1,12 +1,3 @@
----
-title: Cauldron of Rebirth
-icon: ':luggage:'
-aliases: Cauldron of Rebirth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6B4cyE7MlL1DtZfs
-tags:
-- Item
----
-
 # Cauldron of Rebirth
 
 **Cauldron of Rebirth**

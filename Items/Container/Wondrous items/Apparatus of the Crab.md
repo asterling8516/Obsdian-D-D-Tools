@@ -1,12 +1,3 @@
----
-title: Apparatus of the Crab
-icon: ':luggage:'
-aliases: Apparatus of the Crab
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KhBlGYN7i28Vyg2V
-tags:
-- Item
----
-
 # Apparatus of the Crab
 
 **Apparatus of the Crab**

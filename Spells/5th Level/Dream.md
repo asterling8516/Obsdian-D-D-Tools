@@ -1,12 +1,3 @@
----
-title: Dream
-icon: ':luggage:'
-aliases: Dream
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.m5Q9D3Xqup3n3u7k
-tags:
-- Item
----
-
 # Dream
 
 **Dream**

@@ -1,12 +1,3 @@
----
-title: Spiritual Weapon
-icon: ':luggage:'
-aliases: Spiritual Weapon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1fRsABpupuhXGFxC
-tags:
-- Item
----
-
 # Spiritual Weapon
 
 **Spiritual Weapon**

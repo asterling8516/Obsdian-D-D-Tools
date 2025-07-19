@@ -1,12 +1,3 @@
----
-title: Vestments
-icon: ':luggage:'
-aliases: Vestments
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.z44cjnbynVwjjv95
-tags:
-- Item
----
-
 # Vestments
 
 **Vestments**

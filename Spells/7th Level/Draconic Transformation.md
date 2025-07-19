@@ -1,12 +1,3 @@
----
-title: Draconic Transformation
-icon: ':luggage:'
-aliases: Draconic Transformation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.aNUqhE92S5xSRQXQ
-tags:
-- Item
----
-
 # Draconic Transformation
 
 **Draconic Transformation**

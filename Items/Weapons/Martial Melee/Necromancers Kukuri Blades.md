@@ -1,12 +1,3 @@
----
-title: Necromancers Kukuri Blades
-icon: ':luggage:'
-aliases: Necromancers Kukuri Blades
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IszLjd5GzmIJgpBH
-tags:
-- Item
----
-
 # Necromancers Kukuri Blades
 
 **Necromancers Kukuri Blades**

@@ -1,12 +1,3 @@
----
-title: Magic Jar
-icon: ':luggage:'
-aliases: Magic Jar
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xWokgWGZdMaPeIiM
-tags:
-- Item
----
-
 # Magic Jar
 
 **Magic Jar**

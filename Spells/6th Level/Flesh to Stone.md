@@ -1,12 +1,3 @@
----
-title: Flesh to Stone
-icon: ':luggage:'
-aliases: Flesh to Stone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bEMkq97MR1tFtbW5
-tags:
-- Item
----
-
 # Flesh to Stone
 
 **Flesh to Stone**

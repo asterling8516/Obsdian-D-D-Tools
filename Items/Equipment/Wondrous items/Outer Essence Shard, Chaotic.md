@@ -1,12 +1,3 @@
----
-title: Outer Essence Shard, Chaotic
-icon: ':luggage:'
-aliases: Outer Essence Shard, Chaotic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YfbC2VRIw2WxKNFK
-tags:
-- Item
----
-
 # Outer Essence Shard, Chaotic
 
 **Outer Essence Shard, Chaotic**

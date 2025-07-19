@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yJzJ3pEaBCQMsvwb
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Breastplate
 
 **Armor of Psychic Resistance, Breastplate**

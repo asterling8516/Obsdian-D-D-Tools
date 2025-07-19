@@ -1,12 +1,3 @@
----
-title: Sheenra's Longsword
-icon: ':luggage:'
-aliases: Sheenra's Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.seOJKqvnYgyacsK5
-tags:
-- Item
----
-
 # Sheenra's Longsword
 
 **Sheenra's Longsword**

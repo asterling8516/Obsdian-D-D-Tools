@@ -1,12 +1,3 @@
----
-title: Rakdos Keyrune
-icon: ':luggage:'
-aliases: Rakdos Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l9TJ1mzkTbxAgKzo
-tags:
-- Item
----
-
 # Rakdos Keyrune
 
 **Rakdos Keyrune**

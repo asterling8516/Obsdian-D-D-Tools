@@ -1,12 +1,3 @@
----
-title: Saddle, Pack
-icon: ':luggage:'
-aliases: Saddle, Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PVFpwZom3xlkBN03
-tags:
-- Item
----
-
 # Saddle, Pack
 
 **Saddle, Pack**

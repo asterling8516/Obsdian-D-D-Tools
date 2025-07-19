@@ -1,12 +1,3 @@
----
-title: Propeller Helm
-icon: ':luggage:'
-aliases: Propeller Helm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.anSgBhtL6mzyztFk
-tags:
-- Item
----
-
 # Propeller Helm
 
 **Propeller Helm**

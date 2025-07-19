@@ -1,12 +1,3 @@
----
-title: Rakdos Guild Signet
-icon: ':luggage:'
-aliases: Rakdos Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KghamycDx6Tmjd5p
-tags:
-- Item
----
-
 # Rakdos Guild Signet
 
 **Rakdos Guild Signet**

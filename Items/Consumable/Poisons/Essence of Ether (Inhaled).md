@@ -1,12 +1,3 @@
----
-title: Essence of Ether (Inhaled)
-icon: ':luggage:'
-aliases: Essence of Ether (Inhaled)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GN96QKbBXgxsoL3t
-tags:
-- Item
----
-
 # Essence of Ether (Inhaled)
 
 **Essence of Ether (Inhaled)**

@@ -1,12 +1,3 @@
----
-title: Amber
-icon: ':luggage:'
-aliases: Amber
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q7MLcOZB0gOc31Ne
-tags:
-- Item
----
-
 # Amber
 
 **Amber**

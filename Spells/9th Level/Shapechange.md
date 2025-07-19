@@ -1,12 +1,3 @@
----
-title: Shapechange
-icon: ':luggage:'
-aliases: Shapechange
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fcnSbOLMfteQS2In
-tags:
-- Item
----
-
 # Shapechange
 
 **Shapechange**

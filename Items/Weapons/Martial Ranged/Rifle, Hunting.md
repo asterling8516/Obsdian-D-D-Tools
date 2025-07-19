@@ -1,12 +1,3 @@
----
-title: Rifle, Hunting
-icon: ':luggage:'
-aliases: Rifle, Hunting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VJUyCRzpURkJn0tT
-tags:
-- Item
----
-
 # Rifle, Hunting
 
 **Rifle, Hunting**

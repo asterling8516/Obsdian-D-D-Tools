@@ -1,12 +1,3 @@
----
-title: Power Word Heal
-icon: ':luggage:'
-aliases: Power Word Heal
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.8Ai37j6bUT2RgA5M
-tags:
-- Item
----
-
 # Power Word Heal
 
 **Power Word Heal**

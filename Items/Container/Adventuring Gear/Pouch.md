@@ -1,12 +1,3 @@
----
-title: Pouch
-icon: ':luggage:'
-aliases: Pouch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QgCEZmJw2qmY7qu1
-tags:
-- Item
----
-
 # Pouch
 
 **Pouch**

@@ -1,12 +1,3 @@
----
-title: Vicious Rifle, Automatic
-icon: ':luggage:'
-aliases: Vicious Rifle, Automatic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UDWRNudufbT9WAVk
-tags:
-- Item
----
-
 # Vicious Rifle, Automatic
 
 **Vicious Rifle, Automatic**

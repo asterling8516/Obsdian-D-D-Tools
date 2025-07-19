@@ -1,12 +1,3 @@
----
-title: Dragon Wing Light Crossbow
-icon: ':luggage:'
-aliases: Dragon Wing Light Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8yjcGP5wpqNIxluU
-tags:
-- Item
----
-
 # Dragon Wing Light Crossbow
 
 **Dragon Wing Light Crossbow**

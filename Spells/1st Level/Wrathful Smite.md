@@ -1,12 +1,3 @@
----
-title: Wrathful Smite
-icon: ':luggage:'
-aliases: Wrathful Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6kz16kbj8vr3KCB5
-tags:
-- Item
----
-
 # Wrathful Smite
 
 **Wrathful Smite**

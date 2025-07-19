@@ -1,12 +1,3 @@
----
-title: Orb of Direction
-icon: ':luggage:'
-aliases: Orb of Direction
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WDRDIqRarmG4LY89
-tags:
-- Item
----
-
 # Orb of Direction
 
 **Orb of Direction**

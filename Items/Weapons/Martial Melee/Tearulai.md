@@ -1,12 +1,3 @@
----
-title: Tearulai
-icon: ':luggage:'
-aliases: Tearulai
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.e9Lu0cwClUPlfXXI
-tags:
-- Item
----
-
 # Tearulai
 
 **Tearulai**

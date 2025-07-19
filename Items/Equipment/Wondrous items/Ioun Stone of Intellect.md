@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Intellect
-icon: ':luggage:'
-aliases: Ioun Stone of Intellect
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AmBx5xnA8zQJ7FPO
-tags:
-- Item
----
-
 # Ioun Stone of Intellect
 
 **Ioun Stone of Intellect**

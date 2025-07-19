@@ -1,12 +1,3 @@
----
-title: Conjure Animals
-icon: ':luggage:'
-aliases: Conjure Animals
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Z8hMnbemVG7xHF8U
-tags:
-- Item
----
-
 # Conjure Animals
 
 **Conjure Animals**

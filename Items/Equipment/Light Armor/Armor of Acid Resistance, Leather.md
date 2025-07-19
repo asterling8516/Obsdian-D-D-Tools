@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7opGvebw8DPFAgWD
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Leather
 
 **Armor of Acid Resistance, Leather**

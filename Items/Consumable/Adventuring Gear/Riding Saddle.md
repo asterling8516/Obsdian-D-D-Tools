@@ -1,12 +1,3 @@
----
-title: Riding Saddle
-icon: ':luggage:'
-aliases: Riding Saddle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.buUlKZeAHhuhsUxj
-tags:
-- Item
----
-
 # Riding Saddle
 
 **Riding Saddle**

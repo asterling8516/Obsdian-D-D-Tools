@@ -1,12 +1,3 @@
----
-title: Garnet
-icon: ':luggage:'
-aliases: Garnet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CLBJgVHUc955ziTH
-tags:
-- Item
----
-
 # Garnet
 
 **Garnet**

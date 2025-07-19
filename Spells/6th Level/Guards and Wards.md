@@ -1,12 +1,3 @@
----
-title: Guards and Wards
-icon: ':luggage:'
-aliases: Guards and Wards
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.sdLbIBPnCOVXiOHk
-tags:
-- Item
----
-
 # Guards and Wards
 
 **Guards and Wards**

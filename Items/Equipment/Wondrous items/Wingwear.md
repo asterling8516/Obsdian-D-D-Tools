@@ -1,12 +1,3 @@
----
-title: Wingwear
-icon: ':luggage:'
-aliases: Wingwear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hpIA2vjGkOSgGX0k
-tags:
-- Item
----
-
 # Wingwear
 
 **Wingwear**

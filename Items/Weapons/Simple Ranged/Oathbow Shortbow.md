@@ -1,12 +1,3 @@
----
-title: Oathbow Shortbow
-icon: ':luggage:'
-aliases: Oathbow Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pgs6Eh34kGOdJV08
-tags:
-- Item
----
-
 # Oathbow Shortbow
 
 **Oathbow Shortbow**

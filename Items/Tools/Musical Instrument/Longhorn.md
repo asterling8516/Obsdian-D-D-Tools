@@ -1,12 +1,3 @@
----
-title: Longhorn
-icon: ':luggage:'
-aliases: Longhorn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.p2z9TGafykbF17rz
-tags:
-- Item
----
-
 # Longhorn
 
 **Longhorn**

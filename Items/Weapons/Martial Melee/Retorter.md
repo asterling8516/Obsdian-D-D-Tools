@@ -1,12 +1,3 @@
----
-title: Retorter
-icon: ':luggage:'
-aliases: Retorter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bPTV6ACEJ00GBJi2
-tags:
-- Item
----
-
 # Retorter
 
 **Retorter**

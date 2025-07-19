@@ -1,12 +1,3 @@
----
-title: Bell Branch
-icon: ':luggage:'
-aliases: Bell Branch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HZBbAhJFeMWV4Za9
-tags:
-- Item
----
-
 # Bell Branch
 
 **Bell Branch**

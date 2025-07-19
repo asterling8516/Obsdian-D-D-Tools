@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Giants)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Giants)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NeLnOpSFexQThbYR
-tags:
-- Item
----
-
 # Lantern of Tracking (Giants)
 
 **Lantern of Tracking (Giants)**

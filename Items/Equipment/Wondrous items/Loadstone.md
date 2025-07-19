@@ -1,12 +1,3 @@
----
-title: Loadstone
-icon: ':luggage:'
-aliases: Loadstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vQDJNPeeGuMbkIqv
-tags:
-- Item
----
-
 # Loadstone
 
 **Loadstone**

@@ -1,12 +1,3 @@
----
-title: Nautiloid
-icon: ':luggage:'
-aliases: Nautiloid
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Vjg74remunVbgoxb
-tags:
-- Item
----
-
 # Nautiloid
 
 **Nautiloid**

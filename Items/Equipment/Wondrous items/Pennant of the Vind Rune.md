@@ -1,12 +1,3 @@
----
-title: Pennant of the Vind Rune
-icon: ':luggage:'
-aliases: Pennant of the Vind Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.foH56iVHAwd6bjk0
-tags:
-- Item
----
-
 # Pennant of the Vind Rune
 
 **Pennant of the Vind Rune**

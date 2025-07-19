@@ -1,12 +1,3 @@
----
-title: Daylight
-icon: ':luggage:'
-aliases: Daylight
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NQRH7Xqlo2rqGkpL
-tags:
-- Item
----
-
 # Daylight
 
 **Daylight**

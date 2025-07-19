@@ -1,12 +1,3 @@
----
-title: Charm Monster
-icon: ':luggage:'
-aliases: Charm Monster
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.4dhRL1JPZilACXXg
-tags:
-- Item
----
-
 # Charm Monster
 
 **Charm Monster**

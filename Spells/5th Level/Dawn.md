@@ -1,12 +1,3 @@
----
-title: Dawn
-icon: ':luggage:'
-aliases: Dawn
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.aF6M7roXxvVCwnrR
-tags:
-- Item
----
-
 # Dawn
 
 **Dawn**

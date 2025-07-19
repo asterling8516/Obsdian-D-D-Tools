@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Radiant)
-icon: ':luggage:'
-aliases: Orb of Shielding (Radiant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dN2MhIBEtNgXHncR
-tags:
-- Item
----
-
 # Orb of Shielding (Radiant)
 
 **Orb of Shielding (Radiant)**

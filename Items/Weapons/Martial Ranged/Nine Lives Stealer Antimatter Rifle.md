@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Antimatter Rifle
-icon: ':luggage:'
-aliases: Nine Lives Stealer Antimatter Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nJIu3LfwR4K0O6x3
-tags:
-- Item
----
-
 # Nine Lives Stealer Antimatter Rifle
 
 **Nine Lives Stealer Antimatter Rifle**

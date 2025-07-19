@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Shortsword
-icon: ':luggage:'
-aliases: Nine Lives Stealer Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KuokZVgPB0H6P994
-tags:
-- Item
----
-
 # Nine Lives Stealer Shortsword
 
 **Nine Lives Stealer Shortsword**

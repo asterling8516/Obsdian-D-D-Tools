@@ -1,12 +1,3 @@
----
-title: Astral Shard
-icon: ':luggage:'
-aliases: Astral Shard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yQk83JV7mUPluKQ6
-tags:
-- Item
----
-
 # Astral Shard
 
 **Astral Shard**

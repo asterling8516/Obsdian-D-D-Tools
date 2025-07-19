@@ -1,12 +1,3 @@
----
-title: Alter Self
-icon: ':luggage:'
-aliases: Alter Self
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fILkaR4JPvELm3YF
-tags:
-- Item
----
-
 # Alter Self
 
 **Alter Self**

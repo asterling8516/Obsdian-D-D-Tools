@@ -1,12 +1,3 @@
----
-title: Demiplane
-icon: ':luggage:'
-aliases: Demiplane
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rRBWUnlrqRaYj22u
-tags:
-- Item
----
-
 # Demiplane
 
 **Demiplane**

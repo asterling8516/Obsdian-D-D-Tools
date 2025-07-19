@@ -1,12 +1,3 @@
----
-title: Hypnotic Pattern
-icon: ':luggage:'
-aliases: Hypnotic Pattern
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ZHozxaxR10N1J24W
-tags:
-- Item
----
-
 # Hypnotic Pattern
 
 **Hypnotic Pattern**

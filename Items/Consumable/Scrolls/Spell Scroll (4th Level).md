@@ -1,12 +1,3 @@
----
-title: Spell Scroll (4th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (4th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yfub5mJV0h5AlwDW
-tags:
-- Item
----
-
 # Spell Scroll (4th Level)
 
 **Spell Scroll (4th Level)**

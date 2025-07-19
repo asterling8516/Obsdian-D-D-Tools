@@ -1,12 +1,3 @@
----
-title: Bead of Force
-icon: ':luggage:'
-aliases: Bead of Force
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1jKO8JeEL4OyBZNk
-tags:
-- Item
----
-
 # Bead of Force
 
 **Bead of Force**

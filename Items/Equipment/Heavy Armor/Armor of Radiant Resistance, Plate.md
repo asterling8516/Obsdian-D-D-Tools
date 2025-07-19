@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tlWwmKBWy3e5sWe0
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Plate
 
 **Armor of Radiant Resistance, Plate**

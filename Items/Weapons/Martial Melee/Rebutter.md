@@ -1,12 +1,3 @@
----
-title: Rebutter
-icon: ':luggage:'
-aliases: Rebutter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ahOVzjN9cl58a2zF
-tags:
-- Item
----
-
 # Rebutter
 
 **Rebutter**

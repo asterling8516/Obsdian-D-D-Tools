@@ -1,12 +1,3 @@
----
-title: Potion of Healing (Greater)
-icon: ':luggage:'
-aliases: Potion of Healing (Greater)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0wGp0VYMyp0fKrvt
-tags:
-- Item
----
-
 # Potion of Healing (Greater)
 
 **Potion of Healing (Greater)**

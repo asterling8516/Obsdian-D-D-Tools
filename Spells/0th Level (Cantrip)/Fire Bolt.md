@@ -1,12 +1,3 @@
----
-title: Fire Bolt
-icon: ':luggage:'
-aliases: Fire Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SMek5SxLxbDokOQA
-tags:
-- Item
----
-
 # Fire Bolt
 
 **Fire Bolt**

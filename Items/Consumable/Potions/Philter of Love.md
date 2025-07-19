@@ -1,12 +1,3 @@
----
-title: Philter of Love
-icon: ':luggage:'
-aliases: Philter of Love
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IggSNu0g6KvnIhHi
-tags:
-- Item
----
-
 # Philter of Love
 
 **Philter of Love**

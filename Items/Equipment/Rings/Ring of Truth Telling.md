@@ -1,12 +1,3 @@
----
-title: Ring of Truth Telling
-icon: ':luggage:'
-aliases: Ring of Truth Telling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bua0eF2DuJ98K9lT
-tags:
-- Item
----
-
 # Ring of Truth Telling
 
 **Ring of Truth Telling**

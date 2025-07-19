@@ -1,12 +1,3 @@
----
-title: Bane
-icon: ':luggage:'
-aliases: Bane
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xBrsxyOjH2kwthW5
-tags:
-- Item
----
-
 # Bane
 
 **Bane**

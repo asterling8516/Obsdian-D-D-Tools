@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Splint
-icon: ':luggage:'
-aliases: Mizzium Armor, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1lVmSkVy37qfjCol
-tags:
-- Item
----
-
 # Mizzium Armor, Splint
 
 **Mizzium Armor, Splint**

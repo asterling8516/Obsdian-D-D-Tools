@@ -1,12 +1,3 @@
----
-title: Stone of Good Luck (Luckstone)
-icon: ':luggage:'
-aliases: Stone of Good Luck (Luckstone)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4wEYAaIiwZKtZ8bT
-tags:
-- Item
----
-
 # Stone of Good Luck (Luckstone)
 
 **Stone of Good Luck (Luckstone)**

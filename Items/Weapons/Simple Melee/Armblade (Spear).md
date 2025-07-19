@@ -1,12 +1,3 @@
----
-title: Armblade (Spear)
-icon: ':luggage:'
-aliases: Armblade (Spear)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.do2B8eDtUafrVEae
-tags:
-- Item
----
-
 # Armblade (Spear)
 
 **Armblade (Spear)**

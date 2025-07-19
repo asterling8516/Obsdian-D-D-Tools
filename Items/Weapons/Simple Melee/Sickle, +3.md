@@ -1,12 +1,3 @@
----
-title: Sickle, +3
-icon: ':luggage:'
-aliases: Sickle, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.am2nxo4xT5iysoGm
-tags:
-- Item
----
-
 # Sickle, +3
 
 **Sickle, +3**

@@ -1,12 +1,3 @@
----
-title: Dragontooth Dagger
-icon: ':luggage:'
-aliases: Dragontooth Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nzDlsOAHhsL11llw
-tags:
-- Item
----
-
 # Dragontooth Dagger
 
 **Dragontooth Dagger**

@@ -1,12 +1,3 @@
----
-title: Zone of Truth
-icon: ':luggage:'
-aliases: Zone of Truth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.LP2KHRODK4JkRiQl
-tags:
-- Item
----
-
 # Zone of Truth
 
 **Zone of Truth**

@@ -1,12 +1,3 @@
----
-title: Darkvision
-icon: ':luggage:'
-aliases: Darkvision
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kMlXuELtMevSw96u
-tags:
-- Item
----
-
 # Darkvision
 
 **Darkvision**

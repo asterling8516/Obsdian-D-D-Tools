@@ -1,12 +1,3 @@
----
-title: Paper
-icon: ':luggage:'
-aliases: Paper
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PKDrrN6RYFUk4eRR
-tags:
-- Item
----
-
 # Paper
 
 **Paper**

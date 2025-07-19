@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Spear
-icon: ':luggage:'
-aliases: Nine Lives Stealer Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NTltAAGDeiQlUbzw
-tags:
-- Item
----
-
 # Nine Lives Stealer Spear
 
 **Nine Lives Stealer Spear**

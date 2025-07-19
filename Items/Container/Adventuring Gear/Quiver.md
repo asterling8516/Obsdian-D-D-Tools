@@ -1,12 +1,3 @@
----
-title: Quiver
-icon: ':luggage:'
-aliases: Quiver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.F3SAtcK6dj3cwoiP
-tags:
-- Item
----
-
 # Quiver
 
 **Quiver**

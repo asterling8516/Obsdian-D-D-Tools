@@ -1,12 +1,3 @@
----
-title: Conjure Volley
-icon: ':luggage:'
-aliases: Conjure Volley
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xEp13g3asigQsMxA
-tags:
-- Item
----
-
 # Conjure Volley
 
 **Conjure Volley**

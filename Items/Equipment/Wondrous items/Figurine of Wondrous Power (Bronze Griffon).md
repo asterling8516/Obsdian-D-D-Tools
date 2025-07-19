@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Bronze Griffon)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Bronze Griffon)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vXdmR9PA2AuGgC1Y
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Bronze Griffon)
 
 **Figurine of Wondrous Power (Bronze Griffon)**

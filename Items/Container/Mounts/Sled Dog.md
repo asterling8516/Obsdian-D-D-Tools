@@ -1,12 +1,3 @@
----
-title: Sled Dog
-icon: ':luggage:'
-aliases: Sled Dog
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.42ukj33CJDi9d7uV
-tags:
-- Item
----
-
 # Sled Dog
 
 **Sled Dog**

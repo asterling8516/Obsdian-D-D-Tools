@@ -1,12 +1,3 @@
----
-title: Moonbeam
-icon: ':luggage:'
-aliases: Moonbeam
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WSVCuX6nTNzF8ThS
-tags:
-- Item
----
-
 # Moonbeam
 
 **Moonbeam**

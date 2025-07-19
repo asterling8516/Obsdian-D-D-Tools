@@ -1,12 +1,3 @@
----
-title: Danse Macabre
-icon: ':luggage:'
-aliases: Danse Macabre
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Bj3TD0lP8iH0B8ME
-tags:
-- Item
----
-
 # Danse Macabre
 
 **Danse Macabre**

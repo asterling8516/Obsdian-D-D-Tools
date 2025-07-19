@@ -1,12 +1,3 @@
----
-title: Defender Scimitar
-icon: ':luggage:'
-aliases: Defender Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UCIwgyhmDel8OvBz
-tags:
-- Item
----
-
 # Defender Scimitar
 
 **Defender Scimitar**

@@ -1,12 +1,3 @@
----
-title: Badge of the Watch
-icon: ':luggage:'
-aliases: Badge of the Watch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CyXLQAv34r54lS1V
-tags:
-- Item
----
-
 # Badge of the Watch
 
 **Badge of the Watch**

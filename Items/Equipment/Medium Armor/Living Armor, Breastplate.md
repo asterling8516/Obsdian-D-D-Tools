@@ -1,12 +1,3 @@
----
-title: Living Armor, Breastplate
-icon: ':luggage:'
-aliases: Living Armor, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eNoLkxDQdb5iNHZv
-tags:
-- Item
----
-
 # Living Armor, Breastplate
 
 **Living Armor, Breastplate**

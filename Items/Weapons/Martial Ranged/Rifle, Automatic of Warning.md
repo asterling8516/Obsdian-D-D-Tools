@@ -1,12 +1,3 @@
----
-title: Rifle, Automatic of Warning
-icon: ':luggage:'
-aliases: Rifle, Automatic of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KxtwN7nkibvkWyfV
-tags:
-- Item
----
-
 # Rifle, Automatic of Warning
 
 **Rifle, Automatic of Warning**

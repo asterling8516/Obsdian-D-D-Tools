@@ -1,12 +1,3 @@
----
-title: Charm of Plant Command
-icon: ':luggage:'
-aliases: Charm of Plant Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ukAx4LLYEUAji2kK
-tags:
-- Item
----
-
 # Charm of Plant Command
 
 **Charm of Plant Command**

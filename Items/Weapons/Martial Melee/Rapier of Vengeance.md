@@ -1,12 +1,3 @@
----
-title: Rapier of Vengeance
-icon: ':luggage:'
-aliases: Rapier of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.X80FmFyv7xn6saYD
-tags:
-- Item
----
-
 # Rapier of Vengeance
 
 **Rapier of Vengeance**

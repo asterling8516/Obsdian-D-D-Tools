@@ -1,12 +1,3 @@
----
-title: Wall of Fire
-icon: ':luggage:'
-aliases: Wall of Fire
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.D7vz0127qkkeTzfR
-tags:
-- Item
----
-
 # Wall of Fire
 
 **Wall of Fire**

@@ -1,12 +1,3 @@
----
-title: Purple Worm Poison
-icon: ':luggage:'
-aliases: Purple Worm Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rL4UOWIRCePcdpvJ
-tags:
-- Item
----
-
 # Purple Worm Poison
 
 **Purple Worm Poison**

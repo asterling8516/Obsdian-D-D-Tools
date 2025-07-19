@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KFDFBotu11aB9XiR
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Chain Mail
 
 **Armor of Cold Resistance, Chain Mail**

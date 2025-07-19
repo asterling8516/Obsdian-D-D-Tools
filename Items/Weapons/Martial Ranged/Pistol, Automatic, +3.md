@@ -1,12 +1,3 @@
----
-title: Pistol, Automatic, +3
-icon: ':luggage:'
-aliases: Pistol, Automatic, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zqUbgBfh2icihL9z
-tags:
-- Item
----
-
 # Pistol, Automatic, +3
 
 **Pistol, Automatic, +3**

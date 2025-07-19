@@ -1,12 +1,3 @@
----
-title: Turtle Ship
-icon: ':luggage:'
-aliases: Turtle Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g1Cn7mLpuBBObUZo
-tags:
-- Item
----
-
 # Turtle Ship
 
 **Turtle Ship**

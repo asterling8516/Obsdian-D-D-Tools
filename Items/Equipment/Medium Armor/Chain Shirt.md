@@ -1,12 +1,3 @@
----
-title: Chain Shirt
-icon: ':luggage:'
-aliases: Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QvfjCCCDvfXOm8Ha
-tags:
-- Item
----
-
 # Chain Shirt
 
 **Chain Shirt**

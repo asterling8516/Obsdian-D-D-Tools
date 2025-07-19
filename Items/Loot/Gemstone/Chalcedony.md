@@ -1,12 +1,3 @@
----
-title: Chalcedony
-icon: ':luggage:'
-aliases: Chalcedony
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vSnqrxC58wYr3NZh
-tags:
-- Item
----
-
 # Chalcedony
 
 **Chalcedony**

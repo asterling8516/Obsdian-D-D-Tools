@@ -1,12 +1,3 @@
----
-title: Teleport
-icon: ':luggage:'
-aliases: Teleport
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.4j1uE3dsmLT3UZH2
-tags:
-- Item
----
-
 # Teleport
 
 **Teleport**

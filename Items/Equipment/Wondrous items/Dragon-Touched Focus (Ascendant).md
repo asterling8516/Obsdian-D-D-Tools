@@ -1,12 +1,3 @@
----
-title: Dragon-Touched Focus (Ascendant)
-icon: ':luggage:'
-aliases: Dragon-Touched Focus (Ascendant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5DvLv2Ovo9Iv0H9Y
-tags:
-- Item
----
-
 # Dragon-Touched Focus (Ascendant)
 
 **Dragon-Touched Focus (Ascendant)**

@@ -1,12 +1,3 @@
----
-title: Speak with Dead
-icon: ':luggage:'
-aliases: Speak with Dead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WqypBaWGGF4paIE5
-tags:
-- Item
----
-
 # Speak with Dead
 
 **Speak with Dead**

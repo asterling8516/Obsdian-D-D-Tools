@@ -1,12 +1,3 @@
----
-title: Greatsword, +1
-icon: ':luggage:'
-aliases: Greatsword, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rJvFRWqSLZbN5bZe
-tags:
-- Item
----
-
 # Greatsword, +1
 
 **Greatsword, +1**

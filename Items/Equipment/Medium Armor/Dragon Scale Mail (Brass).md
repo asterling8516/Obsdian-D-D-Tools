@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Brass)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Brass)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RtBIJJc1QjR2mjDM
-tags:
-- Item
----
-
 # Dragon Scale Mail (Brass)
 
 **Dragon Scale Mail (Brass)**

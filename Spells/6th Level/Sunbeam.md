@@ -1,12 +1,3 @@
----
-title: Sunbeam
-icon: ':luggage:'
-aliases: Sunbeam
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SE4ZdNjXYYfl15Kg
-tags:
-- Item
----
-
 # Sunbeam
 
 **Sunbeam**

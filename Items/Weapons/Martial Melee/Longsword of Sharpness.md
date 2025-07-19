@@ -1,12 +1,3 @@
----
-title: Longsword of Sharpness
-icon: ':luggage:'
-aliases: Longsword of Sharpness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.B7dkDzebBcb2xW5P
-tags:
-- Item
----
-
 # Longsword of Sharpness
 
 **Longsword of Sharpness**

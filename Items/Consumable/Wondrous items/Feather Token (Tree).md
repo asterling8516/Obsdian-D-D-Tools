@@ -1,12 +1,3 @@
----
-title: Feather Token (Tree)
-icon: ':luggage:'
-aliases: Feather Token (Tree)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DpMZO8Obt7kwKqNl
-tags:
-- Item
----
-
 # Feather Token (Tree)
 
 **Feather Token (Tree)**

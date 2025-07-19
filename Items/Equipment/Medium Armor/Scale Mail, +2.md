@@ -1,12 +1,3 @@
----
-title: Scale Mail, +2
-icon: ':luggage:'
-aliases: Scale Mail, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XjzGSb9BNoZUgnPA
-tags:
-- Item
----
-
 # Scale Mail, +2
 
 **Scale Mail, +2**

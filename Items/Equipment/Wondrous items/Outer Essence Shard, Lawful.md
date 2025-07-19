@@ -1,12 +1,3 @@
----
-title: Outer Essence Shard, Lawful
-icon: ':luggage:'
-aliases: Outer Essence Shard, Lawful
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8NK54EiO9uYp45Cl
-tags:
-- Item
----
-
 # Outer Essence Shard, Lawful
 
 **Outer Essence Shard, Lawful**

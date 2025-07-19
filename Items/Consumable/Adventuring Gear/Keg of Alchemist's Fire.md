@@ -1,12 +1,3 @@
----
-title: Keg of Alchemist's Fire
-icon: ':luggage:'
-aliases: Keg of Alchemist's Fire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2Yj1cKoIYMwSnSzO
-tags:
-- Item
----
-
 # Keg of Alchemist's Fire
 
 **Keg of Alchemist's Fire**

@@ -1,12 +1,3 @@
----
-title: Hellfire Crossbow, Hand
-icon: ':luggage:'
-aliases: Hellfire Crossbow, Hand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7z7th6ff6vMUTSAG
-tags:
-- Item
----
-
 # Hellfire Crossbow, Hand
 
 **Hellfire Crossbow, Hand**

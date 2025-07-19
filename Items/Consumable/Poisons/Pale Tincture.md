@@ -1,12 +1,3 @@
----
-title: Pale Tincture
-icon: ':luggage:'
-aliases: Pale Tincture
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IX7AdZbv3DXTry3P
-tags:
-- Item
----
-
 # Pale Tincture
 
 **Pale Tincture**

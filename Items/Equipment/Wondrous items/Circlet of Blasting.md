@@ -1,12 +1,3 @@
----
-title: Circlet of Blasting
-icon: ':luggage:'
-aliases: Circlet of Blasting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XeX8lCaWbe3tf9fZ
-tags:
-- Item
----
-
 # Circlet of Blasting
 
 **Circlet of Blasting**

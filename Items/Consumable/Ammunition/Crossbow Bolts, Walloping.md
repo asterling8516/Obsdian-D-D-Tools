@@ -1,12 +1,3 @@
----
-title: Crossbow Bolts, Walloping
-icon: ':luggage:'
-aliases: Crossbow Bolts, Walloping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.r9Zg8qB6rgn7imM4
-tags:
-- Item
----
-
 # Crossbow Bolts, Walloping
 
 **Crossbow Bolts, Walloping**

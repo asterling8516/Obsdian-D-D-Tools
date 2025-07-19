@@ -1,12 +1,3 @@
----
-title: Hellfire Revolver
-icon: ':luggage:'
-aliases: Hellfire Revolver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9rwbN3iqQlqZtPdv
-tags:
-- Item
----
-
 # Hellfire Revolver
 
 **Hellfire Revolver**

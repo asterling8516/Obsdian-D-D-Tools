@@ -1,12 +1,3 @@
----
-title: Potter's Tools
-icon: ':luggage:'
-aliases: Potter's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XYtcV99SwhtyViC0
-tags:
-- Item
----
-
 # Potter's Tools
 
 **Potter's Tools**

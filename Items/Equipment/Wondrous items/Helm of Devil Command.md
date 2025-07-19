@@ -1,12 +1,3 @@
----
-title: Helm of Devil Command
-icon: ':luggage:'
-aliases: Helm of Devil Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SNnWXKwBygOc3yqq
-tags:
-- Item
----
-
 # Helm of Devil Command
 
 **Helm of Devil Command**

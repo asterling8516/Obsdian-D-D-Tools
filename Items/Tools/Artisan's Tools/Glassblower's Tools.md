@@ -1,12 +1,3 @@
----
-title: Glassblower's Tools
-icon: ':luggage:'
-aliases: Glassblower's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7ezp6626YnwrlzZQ
-tags:
-- Item
----
-
 # Glassblower's Tools
 
 **Glassblower's Tools**

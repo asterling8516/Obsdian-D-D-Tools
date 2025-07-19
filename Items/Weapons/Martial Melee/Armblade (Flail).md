@@ -1,12 +1,3 @@
----
-title: Armblade (Flail)
-icon: ':luggage:'
-aliases: Armblade (Flail)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uJzF3tDKqedxc3NN
-tags:
-- Item
----
-
 # Armblade (Flail)
 
 **Armblade (Flail)**

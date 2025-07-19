@@ -1,12 +1,3 @@
----
-title: Concluder
-icon: ':luggage:'
-aliases: Concluder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8jZFfQhV3EpUpAxC
-tags:
-- Item
----
-
 # Concluder
 
 **Concluder**

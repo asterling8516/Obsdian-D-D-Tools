@@ -1,12 +1,3 @@
----
-title: Wand of Binding
-icon: ':luggage:'
-aliases: Wand of Binding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3nFbf5X4feE68D3O
-tags:
-- Item
----
-
 # Wand of Binding
 
 **Wand of Binding**

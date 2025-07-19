@@ -1,12 +1,3 @@
----
-title: Nondetection
-icon: ':luggage:'
-aliases: Nondetection
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3AQZXj7vwiP8vfPU
-tags:
-- Item
----
-
 # Nondetection
 
 **Nondetection**

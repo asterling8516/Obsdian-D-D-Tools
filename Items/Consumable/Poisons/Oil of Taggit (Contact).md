@@ -1,12 +1,3 @@
----
-title: Oil of Taggit (Contact)
-icon: ':luggage:'
-aliases: Oil of Taggit (Contact)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PrBQYUABrak5QEUu
-tags:
-- Item
----
-
 # Oil of Taggit (Contact)
 
 **Oil of Taggit (Contact)**

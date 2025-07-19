@@ -1,12 +1,3 @@
----
-title: Lantern of Revealing
-icon: ':luggage:'
-aliases: Lantern of Revealing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HwAB3yimonAdYuA5
-tags:
-- Item
----
-
 # Lantern of Revealing
 
 **Lantern of Revealing**

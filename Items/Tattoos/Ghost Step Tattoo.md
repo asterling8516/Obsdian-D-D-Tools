@@ -1,12 +1,3 @@
----
-title: Ghost Step Tattoo
-icon: ':luggage:'
-aliases: Ghost Step Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f59hBReGTfe05104
-tags:
-- Item
----
-
 # Ghost Step Tattoo
 
 **Ghost Step Tattoo**

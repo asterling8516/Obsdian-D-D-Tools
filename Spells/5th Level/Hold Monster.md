@@ -1,12 +1,3 @@
----
-title: Hold Monster
-icon: ':luggage:'
-aliases: Hold Monster
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.G2ceHgH0A3z3fwYq
-tags:
-- Item
----
-
 # Hold Monster
 
 **Hold Monster**

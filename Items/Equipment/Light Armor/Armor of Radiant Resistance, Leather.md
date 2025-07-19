@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qxdGVBNOWW0z7UYz
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Leather
 
 **Armor of Radiant Resistance, Leather**

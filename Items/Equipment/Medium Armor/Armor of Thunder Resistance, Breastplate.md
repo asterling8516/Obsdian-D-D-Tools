@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NTrlSIJ3BntDDsKH
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Breastplate
 
 **Armor of Thunder Resistance, Breastplate**

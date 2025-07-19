@@ -1,12 +1,3 @@
----
-title: Potion of Water Breathing
-icon: ':luggage:'
-aliases: Potion of Water Breathing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.F3BLAcJgvXrVziC2
-tags:
-- Item
----
-
 # Potion of Water Breathing
 
 **Potion of Water Breathing**

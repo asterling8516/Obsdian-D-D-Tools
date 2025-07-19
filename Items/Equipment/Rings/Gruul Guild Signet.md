@@ -1,12 +1,3 @@
----
-title: Gruul Guild Signet
-icon: ':luggage:'
-aliases: Gruul Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PnTADjNX2JaAMxYT
-tags:
-- Item
----
-
 # Gruul Guild Signet
 
 **Gruul Guild Signet**

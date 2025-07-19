@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dxkxRbjsNOwcJJ1H
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Hide
 
 **Armor of Acid Resistance, Hide**

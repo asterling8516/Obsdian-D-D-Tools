@@ -1,12 +1,3 @@
----
-title: Resurrection
-icon: ':luggage:'
-aliases: Resurrection
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.J4LYqhSrcK1HgEFT
-tags:
-- Item
----
-
 # Resurrection
 
 **Resurrection**

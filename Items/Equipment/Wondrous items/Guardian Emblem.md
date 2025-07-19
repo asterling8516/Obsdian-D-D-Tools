@@ -1,12 +1,3 @@
----
-title: Guardian Emblem
-icon: ':luggage:'
-aliases: Guardian Emblem
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zWqTmZ5pvFIvrEfA
-tags:
-- Item
----
-
 # Guardian Emblem
 
 **Guardian Emblem**

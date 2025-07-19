@@ -1,12 +1,3 @@
----
-title: Potion of Flying
-icon: ':luggage:'
-aliases: Potion of Flying
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yZOEWb3yaBPxMCsE
-tags:
-- Item
----
-
 # Potion of Flying
 
 **Potion of Flying**

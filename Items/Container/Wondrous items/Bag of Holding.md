@@ -1,12 +1,3 @@
----
-title: Bag of Holding
-icon: ':luggage:'
-aliases: Bag of Holding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3QOkn5d7WFqNOivr
-tags:
-- Item
----
-
 # Bag of Holding
 
 **Bag of Holding**

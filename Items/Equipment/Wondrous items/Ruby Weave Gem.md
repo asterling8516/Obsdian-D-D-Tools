@@ -1,12 +1,3 @@
----
-title: Ruby Weave Gem
-icon: ':luggage:'
-aliases: Ruby Weave Gem
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1H69d02MaKsiiXRA
-tags:
-- Item
----
-
 # Ruby Weave Gem
 
 **Ruby Weave Gem**

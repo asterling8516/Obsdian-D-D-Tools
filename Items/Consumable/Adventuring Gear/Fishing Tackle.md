@@ -1,12 +1,3 @@
----
-title: Fishing Tackle
-icon: ':luggage:'
-aliases: Fishing Tackle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qfNB4vGswW4eznb0
-tags:
-- Item
----
-
 # Fishing Tackle
 
 **Fishing Tackle**

@@ -1,12 +1,3 @@
----
-title: Draft Horse
-icon: ':luggage:'
-aliases: Draft Horse
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BnawgYg7CTixNLJK
-tags:
-- Item
----
-
 # Draft Horse
 
 **Draft Horse**

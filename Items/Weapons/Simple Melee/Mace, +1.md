@@ -1,12 +1,3 @@
----
-title: Mace, +1
-icon: ':luggage:'
-aliases: Mace, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aimeuF150B93rwZP
-tags:
-- Item
----
-
 # Mace, +1
 
 **Mace, +1**

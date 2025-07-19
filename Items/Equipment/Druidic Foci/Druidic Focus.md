@@ -1,12 +1,3 @@
----
-title: Druidic Focus
-icon: ':luggage:'
-aliases: Druidic Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kgBXMsiKAQ2PinRW
-tags:
-- Item
----
-
 # Druidic Focus
 
 **Druidic Focus**

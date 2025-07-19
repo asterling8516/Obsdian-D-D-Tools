@@ -1,12 +1,3 @@
----
-title: Amethyst Lodestone
-icon: ':luggage:'
-aliases: Amethyst Lodestone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.a3BcZjfEh5xy0jIe
-tags:
-- Item
----
-
 # Amethyst Lodestone
 
 **Amethyst Lodestone**

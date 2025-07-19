@@ -1,12 +1,3 @@
----
-title: Protection from Poison
-icon: ':luggage:'
-aliases: Protection from Poison
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5iHE1wVFiqGWRzeZ
-tags:
-- Item
----
-
 # Protection from Poison
 
 **Protection from Poison**

@@ -1,12 +1,3 @@
----
-title: Sovereign Glue
-icon: ':luggage:'
-aliases: Sovereign Glue
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8VE3KtAPFNOM73lf
-tags:
-- Item
----
-
 # Sovereign Glue
 
 **Sovereign Glue**

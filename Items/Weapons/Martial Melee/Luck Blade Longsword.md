@@ -1,12 +1,3 @@
----
-title: Luck Blade Longsword
-icon: ':luggage:'
-aliases: Luck Blade Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NnNr0K7ktLvhwWTZ
-tags:
-- Item
----
-
 # Luck Blade Longsword
 
 **Luck Blade Longsword**

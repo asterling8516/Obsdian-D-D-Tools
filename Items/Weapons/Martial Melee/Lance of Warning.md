@@ -1,12 +1,3 @@
----
-title: Lance of Warning
-icon: ':luggage:'
-aliases: Lance of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lBTb1xJZUoAevHnq
-tags:
-- Item
----
-
 # Lance of Warning
 
 **Lance of Warning**

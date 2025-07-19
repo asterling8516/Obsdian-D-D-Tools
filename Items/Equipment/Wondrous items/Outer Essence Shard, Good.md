@@ -1,12 +1,3 @@
----
-title: Outer Essence Shard, Good
-icon: ':luggage:'
-aliases: Outer Essence Shard, Good
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g6eASABmhiUTfOm2
-tags:
-- Item
----
-
 # Outer Essence Shard, Good
 
 **Outer Essence Shard, Good**

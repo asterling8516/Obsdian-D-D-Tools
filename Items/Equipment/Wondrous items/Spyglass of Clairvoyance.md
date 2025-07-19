@@ -1,12 +1,3 @@
----
-title: Spyglass of Clairvoyance
-icon: ':luggage:'
-aliases: Spyglass of Clairvoyance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.B5ItILB6oPecBQRo
-tags:
-- Item
----
-
 # Spyglass of Clairvoyance
 
 **Spyglass of Clairvoyance**

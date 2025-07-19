@@ -1,12 +1,3 @@
----
-title: Chrysoprase
-icon: ':luggage:'
-aliases: Chrysoprase
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d97YqNZhf9FNs03O
-tags:
-- Item
----
-
 # Chrysoprase
 
 **Chrysoprase**

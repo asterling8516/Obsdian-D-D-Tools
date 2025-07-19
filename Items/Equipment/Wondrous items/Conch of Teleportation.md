@@ -1,12 +1,3 @@
----
-title: Conch of Teleportation
-icon: ':luggage:'
-aliases: Conch of Teleportation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1ewjYwTZ3I3wGzDi
-tags:
-- Item
----
-
 # Conch of Teleportation
 
 **Conch of Teleportation**

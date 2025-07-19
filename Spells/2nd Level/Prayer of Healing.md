@@ -1,12 +1,3 @@
----
-title: Prayer of Healing
-icon: ':luggage:'
-aliases: Prayer of Healing
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1RZ2APwa7gY1aIXn
-tags:
-- Item
----
-
 # Prayer of Healing
 
 **Prayer of Healing**

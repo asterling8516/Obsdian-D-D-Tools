@@ -1,12 +1,3 @@
----
-title: Wildspace Orrery
-icon: ':luggage:'
-aliases: Wildspace Orrery
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zkck3MHmNbgfF33N
-tags:
-- Item
----
-
 # Wildspace Orrery
 
 **Wildspace Orrery**

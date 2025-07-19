@@ -1,12 +1,3 @@
----
-title: Mind Spike
-icon: ':luggage:'
-aliases: Mind Spike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5zn6InT2qRHTUW6p
-tags:
-- Item
----
-
 # Mind Spike
 
 **Mind Spike**

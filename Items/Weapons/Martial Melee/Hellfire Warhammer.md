@@ -1,12 +1,3 @@
----
-title: Hellfire Warhammer
-icon: ':luggage:'
-aliases: Hellfire Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VAQiQ7RQOqIibHqy
-tags:
-- Item
----
-
 # Hellfire Warhammer
 
 **Hellfire Warhammer**

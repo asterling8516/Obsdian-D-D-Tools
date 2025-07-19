@@ -1,12 +1,3 @@
----
-title: Flying Citadel Helm
-icon: ':luggage:'
-aliases: Flying Citadel Helm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nl61aqZ7BJiBuTGT
-tags:
-- Item
----
-
 # Flying Citadel Helm
 
 **Flying Citadel Helm**

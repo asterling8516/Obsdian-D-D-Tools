@@ -1,12 +1,3 @@
----
-title: Plate Armor of Etherealness
-icon: ':luggage:'
-aliases: Plate Armor of Etherealness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JzRLkyKszra7NF0F
-tags:
-- Item
----
-
 # Plate Armor of Etherealness
 
 **Plate Armor of Etherealness**

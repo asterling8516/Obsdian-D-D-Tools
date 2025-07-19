@@ -1,12 +1,3 @@
----
-title: Compulsion
-icon: ':luggage:'
-aliases: Compulsion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5vwYzELbo8irCQ7E
-tags:
-- Item
----
-
 # Compulsion
 
 **Compulsion**

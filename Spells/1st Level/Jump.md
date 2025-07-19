@@ -1,12 +1,3 @@
----
-title: Jump
-icon: ':luggage:'
-aliases: Jump
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.eIIE4dtiJ3nq07pb
-tags:
-- Item
----
-
 # Jump
 
 **Jump**

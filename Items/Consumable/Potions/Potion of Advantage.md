@@ -1,12 +1,3 @@
----
-title: Potion of Advantage
-icon: ':luggage:'
-aliases: Potion of Advantage
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gBwS6mvtkX9hZv70
-tags:
-- Item
----
-
 # Potion of Advantage
 
 **Potion of Advantage**

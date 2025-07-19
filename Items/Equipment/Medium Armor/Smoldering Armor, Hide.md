@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Hide
-icon: ':luggage:'
-aliases: Smoldering Armor, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uZZcpeXMGkgKc0jb
-tags:
-- Item
----
-
 # Smoldering Armor, Hide
 
 **Smoldering Armor, Hide**

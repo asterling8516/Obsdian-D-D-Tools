@@ -1,12 +1,3 @@
----
-title: Vicious Light Hammer
-icon: ':luggage:'
-aliases: Vicious Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DySjnEacHAtCUkMk
-tags:
-- Item
----
-
 # Vicious Light Hammer
 
 **Vicious Light Hammer**

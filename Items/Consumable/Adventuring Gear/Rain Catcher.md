@@ -1,12 +1,3 @@
----
-title: Rain Catcher
-icon: ':luggage:'
-aliases: Rain Catcher
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ygIZz6dQZuSoU0M1
-tags:
-- Item
----
-
 # Rain Catcher
 
 **Rain Catcher**

@@ -1,12 +1,3 @@
----
-title: Raulothim's Psychic Lance
-icon: ':luggage:'
-aliases: Raulothim's Psychic Lance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.DnT2WkFVOrXA8HPi
-tags:
-- Item
----
-
 # Raulothim's Psychic Lance
 
 **Raulothim's Psychic Lance**

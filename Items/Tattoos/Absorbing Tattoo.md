@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo
-icon: ':luggage:'
-aliases: Absorbing Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KbBPujKPPMxJJkHX
-tags:
-- Item
----
-
 # Absorbing Tattoo
 
 **Absorbing Tattoo**

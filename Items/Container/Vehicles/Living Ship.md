@@ -1,12 +1,3 @@
----
-title: Living Ship
-icon: ':luggage:'
-aliases: Living Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TLgl63Rbiu2onMbM
-tags:
-- Item
----
-
 # Living Ship
 
 **Living Ship**

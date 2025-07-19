@@ -1,12 +1,3 @@
----
-title: Light Hammer of Warning
-icon: ':luggage:'
-aliases: Light Hammer of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7RCPBlNroS76578P
-tags:
-- Item
----
-
 # Light Hammer of Warning
 
 **Light Hammer of Warning**

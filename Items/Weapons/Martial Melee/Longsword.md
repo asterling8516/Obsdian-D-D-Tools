@@ -1,12 +1,3 @@
----
-title: Longsword
-icon: ':luggage:'
-aliases: Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4n4Vq1ALrchyd2KR
-tags:
-- Item
----
-
 # Longsword
 
 **Longsword**

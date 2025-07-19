@@ -1,12 +1,3 @@
----
-title: Revenant Double-Bladed Scimitar
-icon: ':luggage:'
-aliases: Revenant Double-Bladed Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bYBylCBTraV2cX6w
-tags:
-- Item
----
-
 # Revenant Double-Bladed Scimitar
 
 **Revenant Double-Bladed Scimitar**

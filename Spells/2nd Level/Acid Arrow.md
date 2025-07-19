@@ -1,12 +1,3 @@
----
-title: Acid Arrow
-icon: ':luggage:'
-aliases: Acid Arrow
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YQjU4jy0JEzcVLhU
-tags:
-- Item
----
-
 # Acid Arrow
 
 **Acid Arrow**

@@ -1,12 +1,3 @@
----
-title: Mordenkainen's Faithful Hound
-icon: ':luggage:'
-aliases: Mordenkainen's Faithful Hound
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.LIsFwvLcpXKtNB0S
-tags:
-- Item
----
-
 # Mordenkainen's Faithful Hound
 
 **Mordenkainen's Faithful Hound**

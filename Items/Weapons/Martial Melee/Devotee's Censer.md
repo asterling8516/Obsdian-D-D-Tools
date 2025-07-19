@@ -1,12 +1,3 @@
----
-title: Devotee's Censer
-icon: ':luggage:'
-aliases: Devotee's Censer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HaYy7nIGWWYExtOm
-tags:
-- Item
----
-
 # Devotee's Censer
 
 **Devotee's Censer**

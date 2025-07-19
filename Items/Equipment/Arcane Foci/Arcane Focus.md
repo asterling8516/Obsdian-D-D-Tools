@@ -1,12 +1,3 @@
----
-title: Arcane Focus
-icon: ':luggage:'
-aliases: Arcane Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Am0FsLGVCJ6SFGtZ
-tags:
-- Item
----
-
 # Arcane Focus
 
 **Arcane Focus**

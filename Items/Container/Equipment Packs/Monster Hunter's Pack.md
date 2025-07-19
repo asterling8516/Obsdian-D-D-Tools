@@ -1,12 +1,3 @@
----
-title: Monster Hunter's Pack
-icon: ':luggage:'
-aliases: Monster Hunter's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yyAtbwUroVNIHTZq
-tags:
-- Item
----
-
 # Monster Hunter's Pack
 
 **Monster Hunter's Pack**

@@ -1,12 +1,3 @@
----
-title: Investiture of Ice
-icon: ':luggage:'
-aliases: Investiture of Ice
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gqY9YyguQbMssxMW
-tags:
-- Item
----
-
 # Investiture of Ice
 
 **Investiture of Ice**

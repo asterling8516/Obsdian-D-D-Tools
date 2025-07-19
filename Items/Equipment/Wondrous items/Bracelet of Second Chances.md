@@ -1,12 +1,3 @@
----
-title: Bracelet of Second Chances
-icon: ':luggage:'
-aliases: Bracelet of Second Chances
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LKQMP1OAjUKQC8HN
-tags:
-- Item
----
-
 # Bracelet of Second Chances
 
 **Bracelet of Second Chances**

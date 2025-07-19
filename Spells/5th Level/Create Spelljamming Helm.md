@@ -1,12 +1,3 @@
----
-title: Create Spelljamming Helm
-icon: ':luggage:'
-aliases: Create Spelljamming Helm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SlBdPVaQKIOR4p8Y
-tags:
-- Item
----
-
 # Create Spelljamming Helm
 
 **Create Spelljamming Helm**

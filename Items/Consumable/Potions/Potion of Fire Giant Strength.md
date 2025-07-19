@@ -1,12 +1,3 @@
----
-title: Potion of Fire Giant Strength
-icon: ':luggage:'
-aliases: Potion of Fire Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7w2oVbHbgwXCO6Hv
-tags:
-- Item
----
-
 # Potion of Fire Giant Strength
 
 **Potion of Fire Giant Strength**

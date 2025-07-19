@@ -1,12 +1,3 @@
----
-title: Wall of Force
-icon: ':luggage:'
-aliases: Wall of Force
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jEnQD7HsNzZLbsHb
-tags:
-- Item
----
-
 # Wall of Force
 
 **Wall of Force**

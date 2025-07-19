@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.o1bP2UQBDkgY27Zk
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Chain Shirt
 
 **Armor of Cold Resistance, Chain Shirt**

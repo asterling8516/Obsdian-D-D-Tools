@@ -1,12 +1,3 @@
----
-title: Gloves of Luz
-icon: ':luggage:'
-aliases: Gloves of Luz
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EsBFayhnAfgCGjfo
-tags:
-- Item
----
-
 # Gloves of Luz
 
 **Gloves of Luz**

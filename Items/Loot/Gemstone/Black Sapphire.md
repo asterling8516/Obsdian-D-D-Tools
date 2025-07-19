@@ -1,12 +1,3 @@
----
-title: Black Sapphire
-icon: ':luggage:'
-aliases: Black Sapphire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DMcqGpMxabb4Ov4Q
-tags:
-- Item
----
-
 # Black Sapphire
 
 **Black Sapphire**

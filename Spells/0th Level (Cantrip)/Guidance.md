@@ -1,12 +1,3 @@
----
-title: Guidance
-icon: ':luggage:'
-aliases: Guidance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.x50yddb7F3VjogW3
-tags:
-- Item
----
-
 # Guidance
 
 **Guidance**

@@ -1,12 +1,3 @@
----
-title: Stonespeaker Crystal
-icon: ':luggage:'
-aliases: Stonespeaker Crystal
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kCKCc35NJFhypd2W
-tags:
-- Item
----
-
 # Stonespeaker Crystal
 
 **Stonespeaker Crystal**

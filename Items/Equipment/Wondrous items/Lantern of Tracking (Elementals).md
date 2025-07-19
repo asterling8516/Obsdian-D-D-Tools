@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Elementals)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Elementals)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uOC3OQTDwQ3gVJjX
-tags:
-- Item
----
-
 # Lantern of Tracking (Elementals)
 
 **Lantern of Tracking (Elementals)**

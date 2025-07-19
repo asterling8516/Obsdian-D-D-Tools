@@ -1,12 +1,3 @@
----
-title: Dust of Disappearance
-icon: ':luggage:'
-aliases: Dust of Disappearance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hvv1t7RLbfzpxkao
-tags:
-- Item
----
-
 # Dust of Disappearance
 
 **Dust of Disappearance**

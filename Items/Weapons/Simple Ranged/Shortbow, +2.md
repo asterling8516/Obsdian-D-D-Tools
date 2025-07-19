@@ -1,12 +1,3 @@
----
-title: Shortbow, +2
-icon: ':luggage:'
-aliases: Shortbow, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7V0xtqN6nXImPFu3
-tags:
-- Item
----
-
 # Shortbow, +2
 
 **Shortbow, +2**

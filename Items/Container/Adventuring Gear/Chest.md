@@ -1,12 +1,3 @@
----
-title: Chest
-icon: ':luggage:'
-aliases: Chest
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iTP6qVZDmAaTeNtd
-tags:
-- Item
----
-
 # Chest
 
 **Chest**

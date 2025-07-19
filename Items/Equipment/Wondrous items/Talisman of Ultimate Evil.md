@@ -1,12 +1,3 @@
----
-title: Talisman of Ultimate Evil
-icon: ':luggage:'
-aliases: Talisman of Ultimate Evil
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4UGNzUvMshWt1x2P
-tags:
-- Item
----
-
 # Talisman of Ultimate Evil
 
 **Talisman of Ultimate Evil**

@@ -1,12 +1,3 @@
----
-title: Bottled Breath
-icon: ':luggage:'
-aliases: Bottled Breath
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9ymBHkvfAwx9Ic9v
-tags:
-- Item
----
-
 # Bottled Breath
 
 **Bottled Breath**

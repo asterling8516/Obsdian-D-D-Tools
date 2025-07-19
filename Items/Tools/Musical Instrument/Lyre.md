@@ -1,12 +1,3 @@
----
-title: Lyre
-icon: ':luggage:'
-aliases: Lyre
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nYFWqT9ST4I1bmfS
-tags:
-- Item
----
-
 # Lyre
 
 **Lyre**

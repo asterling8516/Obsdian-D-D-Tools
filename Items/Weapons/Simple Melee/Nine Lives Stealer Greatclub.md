@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Greatclub
-icon: ':luggage:'
-aliases: Nine Lives Stealer Greatclub
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xRnby8glq5rQ6tMd
-tags:
-- Item
----
-
 # Nine Lives Stealer Greatclub
 
 **Nine Lives Stealer Greatclub**

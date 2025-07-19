@@ -1,12 +1,3 @@
----
-title: Explorer's Pack
-icon: ':luggage:'
-aliases: Explorer's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dkjLKo5sNOFsEP1G
-tags:
-- Item
----
-
 # Explorer's Pack
 
 **Explorer's Pack**

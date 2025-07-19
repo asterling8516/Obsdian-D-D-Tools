@@ -1,12 +1,3 @@
----
-title: Sunburst
-icon: ':luggage:'
-aliases: Sunburst
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5313nHyofY4p6uHE
-tags:
-- Item
----
-
 # Sunburst
 
 **Sunburst**

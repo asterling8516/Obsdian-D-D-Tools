@@ -1,12 +1,3 @@
----
-title: Mariner's Ring Mail
-icon: ':luggage:'
-aliases: Mariner's Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eDwuZwSazA3FnyPz
-tags:
-- Item
----
-
 # Mariner's Ring Mail
 
 **Mariner's Ring Mail**

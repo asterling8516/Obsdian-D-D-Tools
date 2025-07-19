@@ -1,12 +1,3 @@
----
-title: Potion of Dragon's Majesty
-icon: ':luggage:'
-aliases: Potion of Dragon's Majesty
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5ImCeOmEUMiICsOD
-tags:
-- Item
----
-
 # Potion of Dragon's Majesty
 
 **Potion of Dragon's Majesty**

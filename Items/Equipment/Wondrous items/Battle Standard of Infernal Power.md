@@ -1,12 +1,3 @@
----
-title: Battle Standard of Infernal Power
-icon: ':luggage:'
-aliases: Battle Standard of Infernal Power
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6ALXVkq6DIlLeAim
-tags:
-- Item
----
-
 # Battle Standard of Infernal Power
 
 **Battle Standard of Infernal Power**

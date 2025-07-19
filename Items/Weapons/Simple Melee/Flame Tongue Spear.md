@@ -1,12 +1,3 @@
----
-title: Flame Tongue Spear
-icon: ':luggage:'
-aliases: Flame Tongue Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.frNURgcptba5JmDW
-tags:
-- Item
----
-
 # Flame Tongue Spear
 
 **Flame Tongue Spear**

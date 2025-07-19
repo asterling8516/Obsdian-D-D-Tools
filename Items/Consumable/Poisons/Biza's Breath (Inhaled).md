@@ -1,12 +1,3 @@
----
-title: Biza's Breath (Inhaled)
-icon: ':luggage:'
-aliases: Biza's Breath (Inhaled)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.epnOIev8i9CUKAe4
-tags:
-- Item
----
-
 # Biza's Breath (Inhaled)
 
 **Biza's Breath (Inhaled)**

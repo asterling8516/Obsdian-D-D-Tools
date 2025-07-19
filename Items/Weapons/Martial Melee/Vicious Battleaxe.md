@@ -1,12 +1,3 @@
----
-title: Vicious Battleaxe
-icon: ':luggage:'
-aliases: Vicious Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IO6yn7iFDk37SLtY
-tags:
-- Item
----
-
 # Vicious Battleaxe
 
 **Vicious Battleaxe**

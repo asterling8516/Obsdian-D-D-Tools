@@ -1,12 +1,3 @@
----
-title: Stone Shape
-icon: ':luggage:'
-aliases: Stone Shape
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.o05lfue4sbQrJAmr
-tags:
-- Item
----
-
 # Stone Shape
 
 **Stone Shape**

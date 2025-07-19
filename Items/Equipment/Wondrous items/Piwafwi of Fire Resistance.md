@@ -1,12 +1,3 @@
----
-title: Piwafwi of Fire Resistance
-icon: ':luggage:'
-aliases: Piwafwi of Fire Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AZDSY0vwAjThvnOa
-tags:
-- Item
----
-
 # Piwafwi of Fire Resistance
 
 **Piwafwi of Fire Resistance**

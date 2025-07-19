@@ -1,12 +1,3 @@
----
-title: Fargab
-icon: ':luggage:'
-aliases: Fargab
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ra0097y0LrGql9v7
-tags:
-- Item
----
-
 # Fargab
 
 **Fargab**

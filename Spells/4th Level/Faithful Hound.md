@@ -1,12 +1,3 @@
----
-title: Faithful Hound
-icon: ':luggage:'
-aliases: Faithful Hound
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Bx3Coq1EwheBr6rl
-tags:
-- Item
----
-
 # Faithful Hound
 
 **Faithful Hound**

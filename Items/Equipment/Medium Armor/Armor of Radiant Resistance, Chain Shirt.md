@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DNTSmq9vjDJWTo5G
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Chain Shirt
 
 **Armor of Radiant Resistance, Chain Shirt**

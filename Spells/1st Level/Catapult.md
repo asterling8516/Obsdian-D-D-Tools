@@ -1,12 +1,3 @@
----
-title: Catapult
-icon: ':luggage:'
-aliases: Catapult
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.x3zbd1Lg2fOaysIi
-tags:
-- Item
----
-
 # Catapult
 
 **Catapult**

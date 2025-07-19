@@ -1,12 +1,3 @@
----
-title: Fog Cloud
-icon: ':luggage:'
-aliases: Fog Cloud
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.r2ZiOPF6mt0Bto6F
-tags:
-- Item
----
-
 # Fog Cloud
 
 **Fog Cloud**

@@ -1,12 +1,3 @@
----
-title: Flame Tongue Trident
-icon: ':luggage:'
-aliases: Flame Tongue Trident
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CRaqISgM8QaXk6hx
-tags:
-- Item
----
-
 # Flame Tongue Trident
 
 **Flame Tongue Trident**

@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Marble Elephant)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Marble Elephant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iCJb7iZauEAv5ult
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Marble Elephant)
 
 **Figurine of Wondrous Power (Marble Elephant)**

@@ -1,12 +1,3 @@
----
-title: Chromatic Orb
-icon: ':luggage:'
-aliases: Chromatic Orb
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.J2QkYb6M3KwhRlPQ
-tags:
-- Item
----
-
 # Chromatic Orb
 
 **Chromatic Orb**

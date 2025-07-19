@@ -1,12 +1,3 @@
----
-title: Smokepowder
-icon: ':luggage:'
-aliases: Smokepowder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.66V6p4I5ylvv4Mh9
-tags:
-- Item
----
-
 # Smokepowder
 
 **Smokepowder**

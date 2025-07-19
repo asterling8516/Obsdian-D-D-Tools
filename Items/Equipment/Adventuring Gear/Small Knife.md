@@ -1,12 +1,3 @@
----
-title: Small Knife
-icon: ':luggage:'
-aliases: Small Knife
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kplx2cnzi8AnmGYl
-tags:
-- Item
----
-
 # Small Knife
 
 **Small Knife**

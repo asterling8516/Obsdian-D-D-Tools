@@ -1,12 +1,3 @@
----
-title: Riding Horse
-icon: ':luggage:'
-aliases: Riding Horse
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ovhu42pYeHzRpXAc
-tags:
-- Item
----
-
 # Riding Horse
 
 **Riding Horse**

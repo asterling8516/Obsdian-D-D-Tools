@@ -1,12 +1,3 @@
----
-title: Helm of Teleportation
-icon: ':luggage:'
-aliases: Helm of Teleportation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.66ntKVhYY7zWtwi1
-tags:
-- Item
----
-
 # Helm of Teleportation
 
 **Helm of Teleportation**

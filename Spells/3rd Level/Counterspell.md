@@ -1,12 +1,3 @@
----
-title: Counterspell
-icon: ':luggage:'
-aliases: Counterspell
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ug1YASVhpIZfXY3d
-tags:
-- Item
----
-
 # Counterspell
 
 **Counterspell**

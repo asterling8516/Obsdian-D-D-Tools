@@ -1,12 +1,3 @@
----
-title: Lamannian Oak Focus
-icon: ':luggage:'
-aliases: Lamannian Oak Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dsk6KNqgaJCUmFTR
-tags:
-- Item
----
-
 # Lamannian Oak Focus
 
 **Lamannian Oak Focus**

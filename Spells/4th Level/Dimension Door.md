@@ -1,12 +1,3 @@
----
-title: Dimension Door
-icon: ':luggage:'
-aliases: Dimension Door
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.p6T9uVZEzmy5E6Hk
-tags:
-- Item
----
-
 # Dimension Door
 
 **Dimension Door**

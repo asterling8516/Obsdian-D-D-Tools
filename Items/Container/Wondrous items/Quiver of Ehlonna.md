@@ -1,12 +1,3 @@
----
-title: Quiver of Ehlonna
-icon: ':luggage:'
-aliases: Quiver of Ehlonna
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2SWb3gYub35wPQvq
-tags:
-- Item
----
-
 # Quiver of Ehlonna
 
 **Quiver of Ehlonna**

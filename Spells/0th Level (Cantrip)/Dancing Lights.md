@@ -1,12 +1,3 @@
----
-title: Dancing Lights
-icon: ':luggage:'
-aliases: Dancing Lights
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.FQWsAuw00coeMbNi
-tags:
-- Item
----
-
 # Dancing Lights
 
 **Dancing Lights**

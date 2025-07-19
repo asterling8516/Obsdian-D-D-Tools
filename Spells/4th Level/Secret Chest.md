@@ -1,12 +1,3 @@
----
-title: Secret Chest
-icon: ':luggage:'
-aliases: Secret Chest
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.phCcy8wtRXzAoTM7
-tags:
-- Item
----
-
 # Secret Chest
 
 **Secret Chest**

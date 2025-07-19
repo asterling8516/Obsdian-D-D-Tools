@@ -1,12 +1,3 @@
----
-title: Tiny Servant
-icon: ':luggage:'
-aliases: Tiny Servant
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qKyY2wNJomVKNDrs
-tags:
-- Item
----
-
 # Tiny Servant
 
 **Tiny Servant**

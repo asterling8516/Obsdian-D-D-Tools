@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Heavy Crossbow
-icon: ':luggage:'
-aliases: Nine Lives Stealer Heavy Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kUbc0SE3JYow2VpZ
-tags:
-- Item
----
-
 # Nine Lives Stealer Heavy Crossbow
 
 **Nine Lives Stealer Heavy Crossbow**

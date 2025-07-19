@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oc4UdPOsDe3gVCFR
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Padded
 
 **Armor of Cold Resistance, Padded**

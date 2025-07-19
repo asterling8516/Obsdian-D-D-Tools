@@ -1,12 +1,3 @@
----
-title: Hellfire Pistol, Automatic
-icon: ':luggage:'
-aliases: Hellfire Pistol, Automatic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WeQ8HW8rEm9FKb8u
-tags:
-- Item
----
-
 # Hellfire Pistol, Automatic
 
 **Hellfire Pistol, Automatic**

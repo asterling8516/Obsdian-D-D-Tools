@@ -1,12 +1,3 @@
----
-title: Potion of Animal Friendship
-icon: ':luggage:'
-aliases: Potion of Animal Friendship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ooCOtqOYk1IjuCgA
-tags:
-- Item
----
-
 # Potion of Animal Friendship
 
 **Potion of Animal Friendship**

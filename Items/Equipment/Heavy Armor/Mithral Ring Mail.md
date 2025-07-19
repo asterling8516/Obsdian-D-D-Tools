@@ -1,12 +1,3 @@
----
-title: Mithral Ring Mail
-icon: ':luggage:'
-aliases: Mithral Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.34j6D3UWDFjntORh
-tags:
-- Item
----
-
 # Mithral Ring Mail
 
 **Mithral Ring Mail**

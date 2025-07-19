@@ -1,12 +1,3 @@
----
-title: Rakdos Riteknife
-icon: ':luggage:'
-aliases: Rakdos Riteknife
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7KbAyRsdtJ9uZqNk
-tags:
-- Item
----
-
 # Rakdos Riteknife
 
 **Rakdos Riteknife**

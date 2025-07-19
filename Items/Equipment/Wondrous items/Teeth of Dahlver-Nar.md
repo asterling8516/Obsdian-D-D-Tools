@@ -1,12 +1,3 @@
----
-title: Teeth of Dahlver-Nar
-icon: ':luggage:'
-aliases: Teeth of Dahlver-Nar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IZFNwe10pkxthGhF
-tags:
-- Item
----
-
 # Teeth of Dahlver-Nar
 
 **Teeth of Dahlver-Nar**

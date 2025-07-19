@@ -1,12 +1,3 @@
----
-title: Black Ghost Orchid Seed
-icon: ':luggage:'
-aliases: Black Ghost Orchid Seed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.N5RRSp30ZFZphcLs
-tags:
-- Item
----
-
 # Black Ghost Orchid Seed
 
 **Black Ghost Orchid Seed**

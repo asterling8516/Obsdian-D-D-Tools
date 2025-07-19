@@ -1,12 +1,3 @@
----
-title: Gust of Wind
-icon: ':luggage:'
-aliases: Gust of Wind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wv1U6wHctC9BZnrd
-tags:
-- Item
----
-
 # Gust of Wind
 
 **Gust of Wind**

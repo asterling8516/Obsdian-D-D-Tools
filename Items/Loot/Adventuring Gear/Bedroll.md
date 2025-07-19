@@ -1,12 +1,3 @@
----
-title: Bedroll
-icon: ':luggage:'
-aliases: Bedroll
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EzRL2ZUm6GkG9KY8
-tags:
-- Item
----
-
 # Bedroll
 
 **Bedroll**

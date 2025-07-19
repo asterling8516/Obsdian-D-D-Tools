@@ -1,12 +1,3 @@
----
-title: Flame Tongue Pike
-icon: ':luggage:'
-aliases: Flame Tongue Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tmFjtLWU9Z43gkA5
-tags:
-- Item
----
-
 # Flame Tongue Pike
 
 **Flame Tongue Pike**

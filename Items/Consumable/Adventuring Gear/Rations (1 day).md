@@ -1,12 +1,3 @@
----
-title: Rations (1 day)
-icon: ':luggage:'
-aliases: Rations (1 day)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Rojy6MZ8oTyjHHhZ
-tags:
-- Item
----
-
 # Rations (1 day)
 
 **Rations (1 day)**

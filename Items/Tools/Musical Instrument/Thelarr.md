@@ -1,12 +1,3 @@
----
-title: Thelarr
-icon: ':luggage:'
-aliases: Thelarr
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s3Urb9rEdJrcTkTb
-tags:
-- Item
----
-
 # Thelarr
 
 **Thelarr**

@@ -1,12 +1,3 @@
----
-title: Hellfire Battleaxe
-icon: ':luggage:'
-aliases: Hellfire Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XOabWX1mLuu1W0fr
-tags:
-- Item
----
-
 # Hellfire Battleaxe
 
 **Hellfire Battleaxe**

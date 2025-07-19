@@ -1,12 +1,3 @@
----
-title: Eldritch Blast
-icon: ':luggage:'
-aliases: Eldritch Blast
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UyYIyiGIGWBAeynK
-tags:
-- Item
----
-
 # Eldritch Blast
 
 **Eldritch Blast**

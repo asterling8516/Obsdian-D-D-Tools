@@ -1,12 +1,3 @@
----
-title: Orb of Gonging
-icon: ':luggage:'
-aliases: Orb of Gonging
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z833MDoW2kHHkIXW
-tags:
-- Item
----
-
 # Orb of Gonging
 
 **Orb of Gonging**

@@ -1,12 +1,3 @@
----
-title: Jaded Shield Bow
-icon: ':luggage:'
-aliases: Jaded Shield Bow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qt2b0dCqiBxqEuyB
-tags:
-- Item
----
-
 # Jaded Shield Bow
 
 **Jaded Shield Bow**

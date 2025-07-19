@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Glaive
-icon: ':luggage:'
-aliases: Nine Lives Stealer Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dUKm7DAuvm3btXyR
-tags:
-- Item
----
-
 # Nine Lives Stealer Glaive
 
 **Nine Lives Stealer Glaive**

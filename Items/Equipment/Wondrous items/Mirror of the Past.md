@@ -1,12 +1,3 @@
----
-title: Mirror of the Past
-icon: ':luggage:'
-aliases: Mirror of the Past
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MmkRVJf2NjA2Z3V6
-tags:
-- Item
----
-
 # Mirror of the Past
 
 **Mirror of the Past**

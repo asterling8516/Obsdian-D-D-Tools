@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Acid
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Acid
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dgXfCJkTDanYipBz
-tags:
-- Item
----
-
 # Absorbing Tattoo, Acid
 
 **Absorbing Tattoo, Acid**

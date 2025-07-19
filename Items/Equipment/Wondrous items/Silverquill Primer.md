@@ -1,12 +1,3 @@
----
-title: Silverquill Primer
-icon: ':luggage:'
-aliases: Silverquill Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XSCgb4UneUbc1iM3
-tags:
-- Item
----
-
 # Silverquill Primer
 
 **Silverquill Primer**

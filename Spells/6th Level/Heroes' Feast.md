@@ -1,12 +1,3 @@
----
-title: Heroes' Feast
-icon: ':luggage:'
-aliases: Heroes' Feast
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rfQQjDCFehM6ZNle
-tags:
-- Item
----
-
 # Heroes' Feast
 
 **Heroes' Feast**

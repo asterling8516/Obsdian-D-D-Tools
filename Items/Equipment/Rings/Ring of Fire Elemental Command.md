@@ -1,12 +1,3 @@
----
-title: Ring of Fire Elemental Command
-icon: ':luggage:'
-aliases: Ring of Fire Elemental Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MperFXh1ed9Qmv9u
-tags:
-- Item
----
-
 # Ring of Fire Elemental Command
 
 **Ring of Fire Elemental Command**

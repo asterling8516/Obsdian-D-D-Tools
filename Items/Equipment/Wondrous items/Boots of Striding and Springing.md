@@ -1,12 +1,3 @@
----
-title: Boots of Striding and Springing
-icon: ':luggage:'
-aliases: Boots of Striding and Springing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.O8gBJFrxwf81yBKg
-tags:
-- Item
----
-
 # Boots of Striding and Springing
 
 **Boots of Striding and Springing**

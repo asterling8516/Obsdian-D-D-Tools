@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GdtQbxfi0Kr22XzU
-tags:
-- Item
----
-
 # Armor of Force Resistance, Chain Shirt
 
 **Armor of Force Resistance, Chain Shirt**

@@ -1,12 +1,3 @@
----
-title: Crossbow Bolts, +1
-icon: ':luggage:'
-aliases: Crossbow Bolts, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iJeq35XVP4o6fljo
-tags:
-- Item
----
-
 # Crossbow Bolts, +1
 
 **Crossbow Bolts, +1**

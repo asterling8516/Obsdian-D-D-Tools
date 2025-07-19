@@ -1,12 +1,3 @@
----
-title: Rust Bag of Tricks
-icon: ':luggage:'
-aliases: Rust Bag of Tricks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j772zxC18OG1qtPv
-tags:
-- Item
----
-
 # Rust Bag of Tricks
 
 **Rust Bag of Tricks**

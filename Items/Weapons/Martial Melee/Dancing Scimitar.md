@@ -1,12 +1,3 @@
----
-title: Dancing Scimitar
-icon: ':luggage:'
-aliases: Dancing Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yKHhkUaiVpxnjRYj
-tags:
-- Item
----
-
 # Dancing Scimitar
 
 **Dancing Scimitar**

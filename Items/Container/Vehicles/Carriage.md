@@ -1,12 +1,3 @@
----
-title: Carriage
-icon: ':luggage:'
-aliases: Carriage
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sO2mibPJ4vuZFQfO
-tags:
-- Item
----
-
 # Carriage
 
 **Carriage**

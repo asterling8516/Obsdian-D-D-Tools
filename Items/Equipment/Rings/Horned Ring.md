@@ -1,12 +1,3 @@
----
-title: Horned Ring
-icon: ':luggage:'
-aliases: Horned Ring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GYVERE7FtT2lpJGL
-tags:
-- Item
----
-
 # Horned Ring
 
 **Horned Ring**

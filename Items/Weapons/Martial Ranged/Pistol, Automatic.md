@@ -1,12 +1,3 @@
----
-title: Pistol, Automatic
-icon: ':luggage:'
-aliases: Pistol, Automatic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.snbfo36SryoHRNMt
-tags:
-- Item
----
-
 # Pistol, Automatic
 
 **Pistol, Automatic**

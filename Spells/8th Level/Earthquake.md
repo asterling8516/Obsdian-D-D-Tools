@@ -1,12 +1,3 @@
----
-title: Earthquake
-icon: ':luggage:'
-aliases: Earthquake
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.z2oo2sOAEEMofXP5
-tags:
-- Item
----
-
 # Earthquake
 
 **Earthquake**

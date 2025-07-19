@@ -1,12 +1,3 @@
----
-title: Prosthetic Limb
-icon: ':luggage:'
-aliases: Prosthetic Limb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AEdiAcGhFtHYF43c
-tags:
-- Item
----
-
 # Prosthetic Limb
 
 **Prosthetic Limb**

@@ -1,12 +1,3 @@
----
-title: Summon Elemental
-icon: ':luggage:'
-aliases: Summon Elemental
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.R1HFcgh6xRLCgjfS
-tags:
-- Item
----
-
 # Summon Elemental
 
 **Summon Elemental**

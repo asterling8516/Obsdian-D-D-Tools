@@ -1,12 +1,3 @@
----
-title: Topaz Annihilator
-icon: ':luggage:'
-aliases: Topaz Annihilator
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EQLUTo8V0DlzPkJj
-tags:
-- Item
----
-
 # Topaz Annihilator
 
 **Topaz Annihilator**

@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1wB2TqAEmgOHg4WG
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Half Plate
 
 **Armor of Acid Resistance, Half Plate**

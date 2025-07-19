@@ -1,12 +1,3 @@
----
-title: Priest's Pack
-icon: ':luggage:'
-aliases: Priest's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MSkbuEaQXkn1b3Dj
-tags:
-- Item
----
-
 # Priest's Pack
 
 **Priest's Pack**

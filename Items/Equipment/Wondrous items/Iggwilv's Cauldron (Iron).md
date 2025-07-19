@@ -1,12 +1,3 @@
----
-title: Iggwilv's Cauldron (Iron)
-icon: ':luggage:'
-aliases: Iggwilv's Cauldron (Iron)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.z4cjM8XnI2Z6Wf4r
-tags:
-- Item
----
-
 # Iggwilv's Cauldron (Iron)
 
 **Iggwilv's Cauldron (Iron)**

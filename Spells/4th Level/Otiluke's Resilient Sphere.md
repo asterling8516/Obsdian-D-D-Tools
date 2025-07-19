@@ -1,12 +1,3 @@
----
-title: Otiluke's Resilient Sphere
-icon: ':luggage:'
-aliases: Otiluke's Resilient Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3jnM41a2zLQwEY7q
-tags:
-- Item
----
-
 # Otiluke's Resilient Sphere
 
 **Otiluke's Resilient Sphere**

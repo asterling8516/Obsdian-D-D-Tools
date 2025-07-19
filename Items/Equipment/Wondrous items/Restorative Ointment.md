@@ -1,12 +1,3 @@
----
-title: Restorative Ointment
-icon: ':luggage:'
-aliases: Restorative Ointment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AyELrMTFMne9twbg
-tags:
-- Item
----
-
 # Restorative Ointment
 
 **Restorative Ointment**

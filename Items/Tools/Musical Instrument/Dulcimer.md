@@ -1,12 +1,3 @@
----
-title: Dulcimer
-icon: ':luggage:'
-aliases: Dulcimer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NAFmO2Wcw6txfeQA
-tags:
-- Item
----
-
 # Dulcimer
 
 **Dulcimer**

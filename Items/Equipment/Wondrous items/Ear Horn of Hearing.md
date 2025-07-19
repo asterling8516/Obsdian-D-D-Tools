@@ -1,12 +1,3 @@
----
-title: Ear Horn of Hearing
-icon: ':luggage:'
-aliases: Ear Horn of Hearing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GwqV5lsHIRu2W6Km
-tags:
-- Item
----
-
 # Ear Horn of Hearing
 
 **Ear Horn of Hearing**

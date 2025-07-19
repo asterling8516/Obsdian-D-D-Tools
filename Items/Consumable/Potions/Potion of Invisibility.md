@@ -1,12 +1,3 @@
----
-title: Potion of Invisibility
-icon: ':luggage:'
-aliases: Potion of Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7KpBNa72PmIxwUyg
-tags:
-- Item
----
-
 # Potion of Invisibility
 
 **Potion of Invisibility**

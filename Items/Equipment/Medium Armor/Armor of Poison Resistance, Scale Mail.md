@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bItkd40biTTZqISD
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Scale Mail
 
 **Armor of Poison Resistance, Scale Mail**

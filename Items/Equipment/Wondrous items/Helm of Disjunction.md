@@ -1,12 +1,3 @@
----
-title: Helm of Disjunction
-icon: ':luggage:'
-aliases: Helm of Disjunction
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AiefbJXSDC0RK9zp
-tags:
-- Item
----
-
 # Helm of Disjunction
 
 **Helm of Disjunction**

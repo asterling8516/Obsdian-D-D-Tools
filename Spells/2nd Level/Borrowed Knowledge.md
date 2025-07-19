@@ -1,12 +1,3 @@
----
-title: Borrowed Knowledge
-icon: ':luggage:'
-aliases: Borrowed Knowledge
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.si8tPBxyTVAb8IkN
-tags:
-- Item
----
-
 # Borrowed Knowledge
 
 **Borrowed Knowledge**

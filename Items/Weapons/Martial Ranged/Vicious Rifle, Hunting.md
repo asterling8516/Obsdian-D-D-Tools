@@ -1,12 +1,3 @@
----
-title: Vicious Rifle, Hunting
-icon: ':luggage:'
-aliases: Vicious Rifle, Hunting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zdJdOgv6NARyhuxq
-tags:
-- Item
----
-
 # Vicious Rifle, Hunting
 
 **Vicious Rifle, Hunting**

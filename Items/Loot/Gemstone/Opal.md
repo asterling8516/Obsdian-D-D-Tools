@@ -1,12 +1,3 @@
----
-title: Opal
-icon: ':luggage:'
-aliases: Opal
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KfhsVs1pNO3s0fZ9
-tags:
-- Item
----
-
 # Opal
 
 **Opal**

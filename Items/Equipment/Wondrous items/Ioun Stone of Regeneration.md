@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Regeneration
-icon: ':luggage:'
-aliases: Ioun Stone of Regeneration
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AKLVZ2iIEjHZFfOB
-tags:
-- Item
----
-
 # Ioun Stone of Regeneration
 
 **Ioun Stone of Regeneration**

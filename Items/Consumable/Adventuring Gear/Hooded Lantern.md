@@ -1,12 +1,3 @@
----
-title: Hooded Lantern
-icon: ':luggage:'
-aliases: Hooded Lantern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yRR2alznw928hM1f
-tags:
-- Item
----
-
 # Hooded Lantern
 
 **Hooded Lantern**

@@ -1,12 +1,3 @@
----
-title: Hellfire Lance
-icon: ':luggage:'
-aliases: Hellfire Lance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LF0mMNIoT4JtyFE3
-tags:
-- Item
----
-
 # Hellfire Lance
 
 **Hellfire Lance**

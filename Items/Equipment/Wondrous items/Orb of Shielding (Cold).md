@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Cold)
-icon: ':luggage:'
-aliases: Orb of Shielding (Cold)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.n6Z2PJh6ZcysvjRd
-tags:
-- Item
----
-
 # Orb of Shielding (Cold)
 
 **Orb of Shielding (Cold)**

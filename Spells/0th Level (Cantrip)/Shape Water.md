@@ -1,12 +1,3 @@
----
-title: Shape Water
-icon: ':luggage:'
-aliases: Shape Water
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WDPJJKkum6yByOnQ
-tags:
-- Item
----
-
 # Shape Water
 
 **Shape Water**

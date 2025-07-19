@@ -1,12 +1,3 @@
----
-title: Potion of Mind Control (Beast)
-icon: ':luggage:'
-aliases: Potion of Mind Control (Beast)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UHgrJLOEKrs54Cqz
-tags:
-- Item
----
-
 # Potion of Mind Control (Beast)
 
 **Potion of Mind Control (Beast)**

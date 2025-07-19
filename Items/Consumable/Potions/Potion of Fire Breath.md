@@ -1,12 +1,3 @@
----
-title: Potion of Fire Breath
-icon: ':luggage:'
-aliases: Potion of Fire Breath
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bXrxRspdUiX26oEc
-tags:
-- Item
----
-
 # Potion of Fire Breath
 
 **Potion of Fire Breath**

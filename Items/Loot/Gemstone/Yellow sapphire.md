@@ -1,12 +1,3 @@
----
-title: Yellow sapphire
-icon: ':luggage:'
-aliases: Yellow sapphire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PbSniFJFUeVW3ZQk
-tags:
-- Item
----
-
 # Yellow sapphire
 
 **Yellow sapphire**

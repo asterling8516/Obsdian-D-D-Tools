@@ -1,12 +1,3 @@
----
-title: Flame Tongue Javelin
-icon: ':luggage:'
-aliases: Flame Tongue Javelin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i0BD2wXbOcMMGQwq
-tags:
-- Item
----
-
 # Flame Tongue Javelin
 
 **Flame Tongue Javelin**

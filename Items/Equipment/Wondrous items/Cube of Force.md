@@ -1,12 +1,3 @@
----
-title: Cube of Force
-icon: ':luggage:'
-aliases: Cube of Force
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XfQwgxpJXl9zhuHK
-tags:
-- Item
----
-
 # Cube of Force
 
 **Cube of Force**

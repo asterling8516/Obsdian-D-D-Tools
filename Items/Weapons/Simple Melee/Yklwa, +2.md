@@ -1,12 +1,3 @@
----
-title: Yklwa, +2
-icon: ':luggage:'
-aliases: Yklwa, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.agZOCTdKkBkvbsco
-tags:
-- Item
----
-
 # Yklwa, +2
 
 **Yklwa, +2**

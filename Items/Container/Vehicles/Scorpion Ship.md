@@ -1,12 +1,3 @@
----
-title: Scorpion Ship
-icon: ':luggage:'
-aliases: Scorpion Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CJI5vtYG1CN5pJPI
-tags:
-- Item
----
-
 # Scorpion Ship
 
 **Scorpion Ship**

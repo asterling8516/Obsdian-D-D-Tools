@@ -1,12 +1,3 @@
----
-title: Helm of the Gods
-icon: ':luggage:'
-aliases: Helm of the Gods
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eJb7fFdgU53Krajw
-tags:
-- Item
----
-
 # Helm of the Gods
 
 **Helm of the Gods**

@@ -1,12 +1,3 @@
----
-title: Ersatz Eye
-icon: ':luggage:'
-aliases: Ersatz Eye
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6UKykxpdvgLLOcUo
-tags:
-- Item
----
-
 # Ersatz Eye
 
 **Ersatz Eye**

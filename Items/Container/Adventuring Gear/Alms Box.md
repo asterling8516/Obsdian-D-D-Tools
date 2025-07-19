@@ -1,12 +1,3 @@
----
-title: Alms Box
-icon: ':luggage:'
-aliases: Alms Box
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ritGjMrocLo9mo0F
-tags:
-- Item
----
-
 # Alms Box
 
 **Alms Box**

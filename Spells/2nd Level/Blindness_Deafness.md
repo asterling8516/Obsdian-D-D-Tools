@@ -1,12 +1,3 @@
----
-title: Blindness/Deafness
-icon: ':luggage:'
-aliases: Blindness/Deafness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.m5dAFOWRr3mW10v1
-tags:
-- Item
----
-
 # Blindness/Deafness
 
 **Blindness/Deafness**

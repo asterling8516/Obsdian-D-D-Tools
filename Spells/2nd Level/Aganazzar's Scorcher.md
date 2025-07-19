@@ -1,12 +1,3 @@
----
-title: Aganazzar's Scorcher
-icon: ':luggage:'
-aliases: Aganazzar's Scorcher
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.k7zBjvsz4z2ovtaC
-tags:
-- Item
----
-
 # Aganazzar's Scorcher
 
 **Aganazzar's Scorcher**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Leatherworker's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Leatherworker's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uYBYoXbBjVlZ3YNJ
-tags:
-- Item
----
-
 # Living Gloves, Leatherworker's Tools
 
 **Living Gloves, Leatherworker's Tools**

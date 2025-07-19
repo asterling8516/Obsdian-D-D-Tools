@@ -1,12 +1,3 @@
----
-title: Mace, +2
-icon: ':luggage:'
-aliases: Mace, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MDIO6fmrj9OtPKKy
-tags:
-- Item
----
-
 # Mace, +2
 
 **Mace, +2**

@@ -1,12 +1,3 @@
----
-title: Tidal Wave
-icon: ':luggage:'
-aliases: Tidal Wave
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Y8geEEoNT8Gslu9w
-tags:
-- Item
----
-
 # Tidal Wave
 
 **Tidal Wave**

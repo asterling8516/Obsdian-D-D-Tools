@@ -1,12 +1,3 @@
----
-title: Catapult Munition
-icon: ':luggage:'
-aliases: Catapult Munition
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vyGLMRWp9KOPbqYQ
-tags:
-- Item
----
-
 # Catapult Munition
 
 **Catapult Munition**

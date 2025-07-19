@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Pistol
-icon: ':luggage:'
-aliases: Nine Lives Stealer Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3F8U8xday3jx3X9g
-tags:
-- Item
----
-
 # Nine Lives Stealer Pistol
 
 **Nine Lives Stealer Pistol**

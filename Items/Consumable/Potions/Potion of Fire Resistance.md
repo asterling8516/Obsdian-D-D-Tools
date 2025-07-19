@@ -1,12 +1,3 @@
----
-title: Potion of Fire Resistance
-icon: ':luggage:'
-aliases: Potion of Fire Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fbYgaProZ22v2Idb
-tags:
-- Item
----
-
 # Potion of Fire Resistance
 
 **Potion of Fire Resistance**

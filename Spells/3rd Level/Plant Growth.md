@@ -1,12 +1,3 @@
----
-title: Plant Growth
-icon: ':luggage:'
-aliases: Plant Growth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NmIzpxGCWfGyUT1q
-tags:
-- Item
----
-
 # Plant Growth
 
 **Plant Growth**

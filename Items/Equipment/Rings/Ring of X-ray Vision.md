@@ -1,12 +1,3 @@
----
-title: Ring of X-ray Vision
-icon: ':luggage:'
-aliases: Ring of X-ray Vision
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nASyj1iJ8SSYUkdU
-tags:
-- Item
----
-
 # Ring of X-ray Vision
 
 **Ring of X-ray Vision**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Quarterstaff
-icon: ':luggage:'
-aliases: Nine Lives Stealer Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sEZ63Yy1fh5ddkp6
-tags:
-- Item
----
-
 # Nine Lives Stealer Quarterstaff
 
 **Nine Lives Stealer Quarterstaff**

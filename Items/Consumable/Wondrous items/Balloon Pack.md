@@ -1,12 +1,3 @@
----
-title: Balloon Pack
-icon: ':luggage:'
-aliases: Balloon Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.k2RksFHWl6GqVBiY
-tags:
-- Item
----
-
 # Balloon Pack
 
 **Balloon Pack**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Hunting Rifle
-icon: ':luggage:'
-aliases: Giant Slayer Hunting Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cA6ZNufIY8nSKR2Q
-tags:
-- Item
----
-
 # Giant Slayer Hunting Rifle
 
 **Giant Slayer Hunting Rifle**

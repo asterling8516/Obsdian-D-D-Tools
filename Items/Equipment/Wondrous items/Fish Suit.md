@@ -1,12 +1,3 @@
----
-title: Fish Suit
-icon: ':luggage:'
-aliases: Fish Suit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jb0sxrPAqQUS71bf
-tags:
-- Item
----
-
 # Fish Suit
 
 **Fish Suit**

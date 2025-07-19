@@ -1,12 +1,3 @@
----
-title: Whirlwind
-icon: ':luggage:'
-aliases: Whirlwind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fTO6CvIMUXNvNn8f
-tags:
-- Item
----
-
 # Whirlwind
 
 **Whirlwind**

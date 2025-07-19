@@ -1,12 +1,3 @@
----
-title: Helm of Brilliance
-icon: ':luggage:'
-aliases: Helm of Brilliance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vi8FxI1dcwwmL5kN
-tags:
-- Item
----
-
 # Helm of Brilliance
 
 **Helm of Brilliance**

@@ -1,12 +1,3 @@
----
-title: Bag of Bounty
-icon: ':luggage:'
-aliases: Bag of Bounty
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.43StOm8hWDw10ZuA
-tags:
-- Item
----
-
 # Bag of Bounty
 
 **Bag of Bounty**

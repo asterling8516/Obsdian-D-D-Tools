@@ -1,12 +1,3 @@
----
-title: Armblade (Lance)
-icon: ':luggage:'
-aliases: Armblade (Lance)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E6AqLII0ZdOhgbGe
-tags:
-- Item
----
-
 # Armblade (Lance)
 
 **Armblade (Lance)**

@@ -1,12 +1,3 @@
----
-title: Energy Shortbow
-icon: ':luggage:'
-aliases: Energy Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ySm5uniEOMlrL4K9
-tags:
-- Item
----
-
 # Energy Shortbow
 
 **Energy Shortbow**

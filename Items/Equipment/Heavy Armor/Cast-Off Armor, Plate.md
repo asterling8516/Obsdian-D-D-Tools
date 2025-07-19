@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Plate
-icon: ':luggage:'
-aliases: Cast-Off Armor, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SDwnOCOl54NmVfc5
-tags:
-- Item
----
-
 # Cast-Off Armor, Plate
 
 **Cast-Off Armor, Plate**

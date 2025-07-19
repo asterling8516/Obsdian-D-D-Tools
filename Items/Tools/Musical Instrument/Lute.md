@@ -1,12 +1,3 @@
----
-title: Lute
-icon: ':luggage:'
-aliases: Lute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7sgOY1lUZCt4oezj
-tags:
-- Item
----
-
 # Lute
 
 **Lute**

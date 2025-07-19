@@ -1,12 +1,3 @@
----
-title: Portfolio Keeper
-icon: ':luggage:'
-aliases: Portfolio Keeper
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8WVLK4cscvj9KGuR
-tags:
-- Item
----
-
 # Portfolio Keeper
 
 **Portfolio Keeper**

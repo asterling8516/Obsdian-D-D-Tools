@@ -1,12 +1,3 @@
----
-title: Holy Avenger Shortsword
-icon: ':luggage:'
-aliases: Holy Avenger Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.spXAqt4u2aCj0Ts4
-tags:
-- Item
----
-
 # Holy Avenger Shortsword
 
 **Holy Avenger Shortsword**

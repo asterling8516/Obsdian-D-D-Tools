@@ -1,12 +1,3 @@
----
-title: Entertainer's Pack
-icon: ':luggage:'
-aliases: Entertainer's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XJgtkPW2VmduKQSP
-tags:
-- Item
----
-
 # Entertainer's Pack
 
 **Entertainer's Pack**

@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0ezPRKpJZYQW8ptF
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Plate
 
 **Armor of Poison Resistance, Plate**

@@ -1,12 +1,3 @@
----
-title: Defender Shortsword
-icon: ':luggage:'
-aliases: Defender Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RtuwGK1ibkhyIycr
-tags:
-- Item
----
-
 # Defender Shortsword
 
 **Defender Shortsword**

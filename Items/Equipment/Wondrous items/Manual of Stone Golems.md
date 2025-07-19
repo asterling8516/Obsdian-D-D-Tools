@@ -1,12 +1,3 @@
----
-title: Manual of Stone Golems
-icon: ':luggage:'
-aliases: Manual of Stone Golems
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y1IXNXfjyKjf2RJj
-tags:
-- Item
----
-
 # Manual of Stone Golems
 
 **Manual of Stone Golems**

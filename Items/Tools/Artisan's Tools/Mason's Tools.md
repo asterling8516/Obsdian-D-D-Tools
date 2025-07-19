@@ -1,12 +1,3 @@
----
-title: Mason's Tools
-icon: ':luggage:'
-aliases: Mason's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hI2uKpYWVMLwvPEh
-tags:
-- Item
----
-
 # Mason's Tools
 
 **Mason's Tools**

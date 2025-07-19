@@ -1,12 +1,3 @@
----
-title: Insignia of Claws
-icon: ':luggage:'
-aliases: Insignia of Claws
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gw0c5OXJ91LnmOyP
-tags:
-- Item
----
-
 # Insignia of Claws
 
 **Insignia of Claws**

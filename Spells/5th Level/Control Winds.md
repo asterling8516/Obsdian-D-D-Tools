@@ -1,12 +1,3 @@
----
-title: Control Winds
-icon: ':luggage:'
-aliases: Control Winds
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CeUYad8bXjo7BzxQ
-tags:
-- Item
----
-
 # Control Winds
 
 **Control Winds**

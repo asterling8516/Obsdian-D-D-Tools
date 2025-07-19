@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U5cT6tnEVVHiKWI6
-tags:
-- Item
----
-
 # Armor of Force Resistance, Padded
 
 **Armor of Force Resistance, Padded**

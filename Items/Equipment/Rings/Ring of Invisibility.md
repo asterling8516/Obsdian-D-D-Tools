@@ -1,12 +1,3 @@
----
-title: Ring of Invisibility
-icon: ':luggage:'
-aliases: Ring of Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.v94fWl8RpwgNaawL
-tags:
-- Item
----
-
 # Ring of Invisibility
 
 **Ring of Invisibility**

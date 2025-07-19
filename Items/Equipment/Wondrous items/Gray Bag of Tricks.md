@@ -1,12 +1,3 @@
----
-title: Gray Bag of Tricks
-icon: ':luggage:'
-aliases: Gray Bag of Tricks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OgKYfMYAmXlhkHL0
-tags:
-- Item
----
-
 # Gray Bag of Tricks
 
 **Gray Bag of Tricks**

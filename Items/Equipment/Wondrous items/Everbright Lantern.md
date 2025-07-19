@@ -1,12 +1,3 @@
----
-title: Everbright Lantern
-icon: ':luggage:'
-aliases: Everbright Lantern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.etcslnYc7qSD4fgk
-tags:
-- Item
----
-
 # Everbright Lantern
 
 **Everbright Lantern**

@@ -1,12 +1,3 @@
----
-title: Sunforger
-icon: ':luggage:'
-aliases: Sunforger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mVbLTQq0ULAke5Tx
-tags:
-- Item
----
-
 # Sunforger
 
 **Sunforger**

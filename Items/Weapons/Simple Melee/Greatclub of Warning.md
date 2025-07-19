@@ -1,12 +1,3 @@
----
-title: Greatclub of Warning
-icon: ':luggage:'
-aliases: Greatclub of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BtlYzmru1Le4yBsl
-tags:
-- Item
----
-
 # Greatclub of Warning
 
 **Greatclub of Warning**

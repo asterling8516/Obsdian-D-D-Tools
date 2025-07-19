@@ -1,12 +1,3 @@
----
-title: Dust of Corrosion
-icon: ':luggage:'
-aliases: Dust of Corrosion
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4RD86WRgUPBtyzvn
-tags:
-- Item
----
-
 # Dust of Corrosion
 
 **Dust of Corrosion**

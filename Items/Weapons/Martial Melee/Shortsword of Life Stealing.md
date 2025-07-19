@@ -1,12 +1,3 @@
----
-title: Shortsword of Life Stealing
-icon: ':luggage:'
-aliases: Shortsword of Life Stealing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OvPBoUGYCdDkW9c0
-tags:
-- Item
----
-
 # Shortsword of Life Stealing
 
 **Shortsword of Life Stealing**

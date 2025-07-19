@@ -1,12 +1,3 @@
----
-title: Mariner's Plate
-icon: ':luggage:'
-aliases: Mariner's Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vStgf97o0PAvhlSe
-tags:
-- Item
----
-
 # Mariner's Plate
 
 **Mariner's Plate**

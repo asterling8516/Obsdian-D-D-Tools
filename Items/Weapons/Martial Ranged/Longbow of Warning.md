@@ -1,12 +1,3 @@
----
-title: Longbow of Warning
-icon: ':luggage:'
-aliases: Longbow of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xYr0Tml0qWML14wr
-tags:
-- Item
----
-
 # Longbow of Warning
 
 **Longbow of Warning**

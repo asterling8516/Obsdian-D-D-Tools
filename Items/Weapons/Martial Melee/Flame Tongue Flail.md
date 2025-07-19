@@ -1,12 +1,3 @@
----
-title: Flame Tongue Flail
-icon: ':luggage:'
-aliases: Flame Tongue Flail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lPQktsl1rw6tT9lm
-tags:
-- Item
----
-
 # Flame Tongue Flail
 
 **Flame Tongue Flail**

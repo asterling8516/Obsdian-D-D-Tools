@@ -1,12 +1,3 @@
----
-title: Adamantine Ring Mail
-icon: ':luggage:'
-aliases: Adamantine Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WjmBkt05YPBzcHRa
-tags:
-- Item
----
-
 # Adamantine Ring Mail
 
 **Adamantine Ring Mail**

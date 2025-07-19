@@ -1,12 +1,3 @@
----
-title: Armor of Eli
-icon: ':luggage:'
-aliases: Armor of Eli
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BjvOqNKcCWqYVnhG
-tags:
-- Item
----
-
 # Armor of Eli
 
 **Armor of Eli**

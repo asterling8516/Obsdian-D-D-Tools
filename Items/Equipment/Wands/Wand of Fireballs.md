@@ -1,12 +1,3 @@
----
-title: Wand of Fireballs
-icon: ':luggage:'
-aliases: Wand of Fireballs
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z1gh8V299iau6Y87
-tags:
-- Item
----
-
 # Wand of Fireballs
 
 **Wand of Fireballs**

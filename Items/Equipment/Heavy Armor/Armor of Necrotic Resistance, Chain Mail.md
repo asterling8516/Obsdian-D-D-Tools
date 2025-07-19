@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y1nZ5VzA5s1rmYnp
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Chain Mail
 
 **Armor of Necrotic Resistance, Chain Mail**

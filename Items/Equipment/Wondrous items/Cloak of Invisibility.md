@@ -1,12 +1,3 @@
----
-title: Cloak of Invisibility
-icon: ':luggage:'
-aliases: Cloak of Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9Fuh6iJwXnL3X5nv
-tags:
-- Item
----
-
 # Cloak of Invisibility
 
 **Cloak of Invisibility**

@@ -1,12 +1,3 @@
----
-title: Atlas of Endless Horizons
-icon: ':luggage:'
-aliases: Atlas of Endless Horizons
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mPbkgP5aBPePBWVM
-tags:
-- Item
----
-
 # Atlas of Endless Horizons
 
 **Atlas of Endless Horizons**

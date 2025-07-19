@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Tree)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Tree)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZCKtDQZ7ibCASWQn
-tags:
-- Item
----
-
 # Quaal's Feather Token (Tree)
 
 **Quaal's Feather Token (Tree)**

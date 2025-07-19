@@ -1,12 +1,3 @@
----
-title: Hammock of Worlds
-icon: ':luggage:'
-aliases: Hammock of Worlds
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yjnMRGb4NQtV9cij
-tags:
-- Item
----
-
 # Hammock of Worlds
 
 **Hammock of Worlds**

@@ -1,12 +1,3 @@
----
-title: Blade Barrier
-icon: ':luggage:'
-aliases: Blade Barrier
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.iDJqPWZTSfOtB56g
-tags:
-- Item
----
-
 # Blade Barrier
 
 **Blade Barrier**

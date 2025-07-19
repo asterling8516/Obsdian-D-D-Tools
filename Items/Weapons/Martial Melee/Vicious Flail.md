@@ -1,12 +1,3 @@
----
-title: Vicious Flail
-icon: ':luggage:'
-aliases: Vicious Flail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RTwVU6imNPrxX9vH
-tags:
-- Item
----
-
 # Vicious Flail
 
 **Vicious Flail**

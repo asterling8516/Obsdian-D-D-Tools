@@ -1,12 +1,3 @@
----
-title: Detect Poison and Disease
-icon: ':luggage:'
-aliases: Detect Poison and Disease
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qpZVZDuDEFA3ZRvM
-tags:
-- Item
----
-
 # Detect Poison and Disease
 
 **Detect Poison and Disease**

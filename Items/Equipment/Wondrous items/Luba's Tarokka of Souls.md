@@ -1,12 +1,3 @@
----
-title: Luba's Tarokka of Souls
-icon: ':luggage:'
-aliases: Luba's Tarokka of Souls
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JS9YrUhY9bfP4tkK
-tags:
-- Item
----
-
 # Luba's Tarokka of Souls
 
 **Luba's Tarokka of Souls**

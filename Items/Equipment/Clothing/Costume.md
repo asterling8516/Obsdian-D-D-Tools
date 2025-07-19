@@ -1,12 +1,3 @@
----
-title: Costume
-icon: ':luggage:'
-aliases: Costume
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wlLp1w6yRObE7JyE
-tags:
-- Item
----
-
 # Costume
 
 **Costume**

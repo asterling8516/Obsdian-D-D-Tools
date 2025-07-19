@@ -1,12 +1,3 @@
----
-title: Speak with Plants
-icon: ':luggage:'
-aliases: Speak with Plants
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WwVKEQnKsl2qdP54
-tags:
-- Item
----
-
 # Speak with Plants
 
 **Speak with Plants**

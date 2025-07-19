@@ -1,12 +1,3 @@
----
-title: Hellfire Yklwa
-icon: ':luggage:'
-aliases: Hellfire Yklwa
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2Fuj8PRyBPe1YXqH
-tags:
-- Item
----
-
 # Hellfire Yklwa
 
 **Hellfire Yklwa**

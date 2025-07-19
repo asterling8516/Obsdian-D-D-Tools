@@ -1,12 +1,3 @@
----
-title: Night Caller
-icon: ':luggage:'
-aliases: Night Caller
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s9aUcg316dxm6Ez2
-tags:
-- Item
----
-
 # Night Caller
 
 **Night Caller**

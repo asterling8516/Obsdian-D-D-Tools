@@ -1,12 +1,3 @@
----
-title: Frost Brand Rapier
-icon: ':luggage:'
-aliases: Frost Brand Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b2r1FbkVs2sRWrzE
-tags:
-- Item
----
-
 # Frost Brand Rapier
 
 **Frost Brand Rapier**

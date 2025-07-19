@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3ljvon7IGLeAAIhW
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Padded
 
 **Armor of Radiant Resistance, Padded**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Dart
-icon: ':luggage:'
-aliases: Nine Lives Stealer Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CkZp9NCJIXtXzaUR
-tags:
-- Item
----
-
 # Nine Lives Stealer Dart
 
 **Nine Lives Stealer Dart**

@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YaOefAf5dnPdLu5p
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Hide
 
 **Armor of Radiant Resistance, Hide**

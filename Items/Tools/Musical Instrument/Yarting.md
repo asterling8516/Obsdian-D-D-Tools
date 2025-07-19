@@ -1,12 +1,3 @@
----
-title: Yarting
-icon: ':luggage:'
-aliases: Yarting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8cLcV0iWDgWJYyqd
-tags:
-- Item
----
-
 # Yarting
 
 **Yarting**

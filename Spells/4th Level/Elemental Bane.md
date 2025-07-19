@@ -1,12 +1,3 @@
----
-title: Elemental Bane
-icon: ':luggage:'
-aliases: Elemental Bane
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hFQIjadt5DrIHQwy
-tags:
-- Item
----
-
 # Elemental Bane
 
 **Elemental Bane**

@@ -1,12 +1,3 @@
----
-title: Mizzium Mortar
-icon: ':luggage:'
-aliases: Mizzium Mortar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4AXWG3oRgouXAm6J
-tags:
-- Item
----
-
 # Mizzium Mortar
 
 **Mizzium Mortar**

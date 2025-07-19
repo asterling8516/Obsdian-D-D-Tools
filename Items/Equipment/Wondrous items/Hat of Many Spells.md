@@ -1,12 +1,3 @@
----
-title: Hat of Many Spells
-icon: ':luggage:'
-aliases: Hat of Many Spells
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.StVyIeeldwGmjvBw
-tags:
-- Item
----
-
 # Hat of Many Spells
 
 **Hat of Many Spells**

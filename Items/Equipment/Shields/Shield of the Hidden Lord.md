@@ -1,12 +1,3 @@
----
-title: Shield of the Hidden Lord
-icon: ':luggage:'
-aliases: Shield of the Hidden Lord
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.swkBMzNrGp9akAAD
-tags:
-- Item
----
-
 # Shield of the Hidden Lord
 
 **Shield of the Hidden Lord**

@@ -1,12 +1,3 @@
----
-title: Moonblade
-icon: ':luggage:'
-aliases: Moonblade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q6LrNzvb4iEWEdB6
-tags:
-- Item
----
-
 # Moonblade
 
 **Moonblade**

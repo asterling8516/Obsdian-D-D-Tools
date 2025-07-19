@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Thunder)
-icon: ':luggage:'
-aliases: Orb of Shielding (Thunder)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tycyroWZmnlkVPwo
-tags:
-- Item
----
-
 # Orb of Shielding (Thunder)
 
 **Orb of Shielding (Thunder)**

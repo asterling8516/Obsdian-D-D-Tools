@@ -1,12 +1,3 @@
----
-title: Truth Serum
-icon: ':luggage:'
-aliases: Truth Serum
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kHzOb2l4BqcmsZ5l
-tags:
-- Item
----
-
 # Truth Serum
 
 **Truth Serum**

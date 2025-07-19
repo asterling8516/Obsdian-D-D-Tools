@@ -1,12 +1,3 @@
----
-title: Moodmark Paint
-icon: ':luggage:'
-aliases: Moodmark Paint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xj1v7YRohRG4mHKS
-tags:
-- Item
----
-
 # Moodmark Paint
 
 **Moodmark Paint**

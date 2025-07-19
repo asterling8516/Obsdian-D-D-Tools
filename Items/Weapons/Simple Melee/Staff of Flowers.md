@@ -1,12 +1,3 @@
----
-title: Staff of Flowers
-icon: ':luggage:'
-aliases: Staff of Flowers
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OwF0qE9rRwplfHKP
-tags:
-- Item
----
-
 # Staff of Flowers
 
 **Staff of Flowers**

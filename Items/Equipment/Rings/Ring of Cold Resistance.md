@@ -1,12 +1,3 @@
----
-title: Ring of Cold Resistance
-icon: ':luggage:'
-aliases: Ring of Cold Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.n3ocjKbjp2xEEc8u
-tags:
-- Item
----
-
 # Ring of Cold Resistance
 
 **Ring of Cold Resistance**

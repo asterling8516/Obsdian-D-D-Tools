@@ -1,12 +1,3 @@
----
-title: Necklace of Fireballs
-icon: ':luggage:'
-aliases: Necklace of Fireballs
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FqgFC0O0uIy6XNUy
-tags:
-- Item
----
-
 # Necklace of Fireballs
 
 **Necklace of Fireballs**

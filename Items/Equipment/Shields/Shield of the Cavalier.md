@@ -1,12 +1,3 @@
----
-title: Shield of the Cavalier
-icon: ':luggage:'
-aliases: Shield of the Cavalier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yAjIlVxbpafwHnV1
-tags:
-- Item
----
-
 # Shield of the Cavalier
 
 **Shield of the Cavalier**

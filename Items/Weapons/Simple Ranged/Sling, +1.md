@@ -1,12 +1,3 @@
----
-title: Sling, +1
-icon: ':luggage:'
-aliases: Sling, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kNNjT2LG8TLGNy3U
-tags:
-- Item
----
-
 # Sling, +1
 
 **Sling, +1**

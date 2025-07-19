@@ -1,12 +1,3 @@
----
-title: Mirror Image
-icon: ':luggage:'
-aliases: Mirror Image
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.h8eude0mgqoxDJwh
-tags:
-- Item
----
-
 # Mirror Image
 
 **Mirror Image**

@@ -1,12 +1,3 @@
----
-title: Vicious Greataxe
-icon: ':luggage:'
-aliases: Vicious Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y6W6MX5O15eMNgGF
-tags:
-- Item
----
-
 # Vicious Greataxe
 
 **Vicious Greataxe**

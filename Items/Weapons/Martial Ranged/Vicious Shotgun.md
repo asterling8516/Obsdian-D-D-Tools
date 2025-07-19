@@ -1,12 +1,3 @@
----
-title: Vicious Shotgun
-icon: ':luggage:'
-aliases: Vicious Shotgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b5nLB9zF4YAaIxLe
-tags:
-- Item
----
-
 # Vicious Shotgun
 
 **Vicious Shotgun**

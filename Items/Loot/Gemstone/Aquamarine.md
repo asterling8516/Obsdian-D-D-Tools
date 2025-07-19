@@ -1,12 +1,3 @@
----
-title: Aquamarine
-icon: ':luggage:'
-aliases: Aquamarine
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.o5B7jv5joKqQVyy4
-tags:
-- Item
----
-
 # Aquamarine
 
 **Aquamarine**

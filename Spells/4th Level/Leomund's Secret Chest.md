@@ -1,12 +1,3 @@
----
-title: Leomund's Secret Chest
-icon: ':luggage:'
-aliases: Leomund's Secret Chest
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qkWL2jsZ2QqoHVSd
-tags:
-- Item
----
-
 # Leomund's Secret Chest
 
 **Leomund's Secret Chest**

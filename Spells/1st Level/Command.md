@@ -1,12 +1,3 @@
----
-title: Command
-icon: ':luggage:'
-aliases: Command
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.B4nNLbDrTLi5mzJk
-tags:
-- Item
----
-
 # Command
 
 **Command**

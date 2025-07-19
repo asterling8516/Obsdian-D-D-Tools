@@ -1,12 +1,3 @@
----
-title: Piwafwi (Cloak of Elvenkind)
-icon: ':luggage:'
-aliases: Piwafwi (Cloak of Elvenkind)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3b0hrJllyhjoPpwx
-tags:
-- Item
----
-
 # Piwafwi (Cloak of Elvenkind)
 
 **Piwafwi (Cloak of Elvenkind)**

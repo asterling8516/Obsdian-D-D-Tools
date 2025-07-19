@@ -1,12 +1,3 @@
----
-title: Dissonant Whispers
-icon: ':luggage:'
-aliases: Dissonant Whispers
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.EZiFsHAEoVsaWKoB
-tags:
-- Item
----
-
 # Dissonant Whispers
 
 **Dissonant Whispers**

@@ -1,12 +1,3 @@
----
-title: Keelboat
-icon: ':luggage:'
-aliases: Keelboat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OBnl3J8zgIOtPOT3
-tags:
-- Item
----
-
 # Keelboat
 
 **Keelboat**

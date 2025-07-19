@@ -1,12 +1,3 @@
----
-title: String
-icon: ':luggage:'
-aliases: String
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.knmp92C7K0Xj7stc
-tags:
-- Item
----
-
 # String
 
 **String**

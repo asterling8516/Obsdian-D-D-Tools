@@ -1,12 +1,3 @@
----
-title: Belt of Cloud Giant Strength
-icon: ':luggage:'
-aliases: Belt of Cloud Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.N4iEJzHq3K83w8Pb
-tags:
-- Item
----
-
 # Belt of Cloud Giant Strength
 
 **Belt of Cloud Giant Strength**

@@ -1,12 +1,3 @@
----
-title: Ollamh Harp
-icon: ':luggage:'
-aliases: Ollamh Harp
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.knTorr7T8g6CcIv4
-tags:
-- Item
----
-
 # Ollamh Harp
 
 **Ollamh Harp**

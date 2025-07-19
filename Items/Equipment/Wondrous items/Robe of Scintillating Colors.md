@@ -1,12 +1,3 @@
----
-title: Robe of Scintillating Colors
-icon: ':luggage:'
-aliases: Robe of Scintillating Colors
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ghkCkaehj4PJm454
-tags:
-- Item
----
-
 # Robe of Scintillating Colors
 
 **Robe of Scintillating Colors**

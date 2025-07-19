@@ -1,12 +1,3 @@
----
-title: Spell Gem (Bloodstone)
-icon: ':luggage:'
-aliases: Spell Gem (Bloodstone)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.REK8hXODXW12Dtdf
-tags:
-- Item
----
-
 # Spell Gem (Bloodstone)
 
 **Spell Gem (Bloodstone)**

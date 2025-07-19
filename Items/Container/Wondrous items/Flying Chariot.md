@@ -1,12 +1,3 @@
----
-title: Flying Chariot
-icon: ':luggage:'
-aliases: Flying Chariot
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l0vyyGnqVwTclqYP
-tags:
-- Item
----
-
 # Flying Chariot
 
 **Flying Chariot**

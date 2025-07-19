@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.p9ljowjtAWK9RZ8v
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Padded
 
 **Armor of Thunder Resistance, Padded**

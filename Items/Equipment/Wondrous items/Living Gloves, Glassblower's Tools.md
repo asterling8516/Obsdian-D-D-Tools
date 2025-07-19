@@ -1,12 +1,3 @@
----
-title: Living Gloves, Glassblower's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Glassblower's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RKJjAig3cIey7VyZ
-tags:
-- Item
----
-
 # Living Gloves, Glassblower's Tools
 
 **Living Gloves, Glassblower's Tools**

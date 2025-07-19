@@ -1,12 +1,3 @@
----
-title: Spell Scroll (Cantrip)
-icon: ':luggage:'
-aliases: Spell Scroll (Cantrip)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mX1ujTQSwyiEwibm
-tags:
-- Item
----
-
 # Spell Scroll (Cantrip)
 
 **Spell Scroll (Cantrip)**

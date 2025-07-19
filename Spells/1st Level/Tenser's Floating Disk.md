@@ -1,12 +1,3 @@
----
-title: Tenser's Floating Disk
-icon: ':luggage:'
-aliases: Tenser's Floating Disk
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.h4xdwbgtqFc7aY78
-tags:
-- Item
----
-
 # Tenser's Floating Disk
 
 **Tenser's Floating Disk**

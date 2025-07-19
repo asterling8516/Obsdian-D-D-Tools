@@ -1,12 +1,3 @@
----
-title: Vicious Weapon
-icon: ':luggage:'
-aliases: Vicious Weapon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Bn5HTY3hYZ8ZKoJp
-tags:
-- Item
----
-
 # Vicious Weapon
 
 **Vicious Weapon**

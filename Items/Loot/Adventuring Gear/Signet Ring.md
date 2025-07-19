@@ -1,12 +1,3 @@
----
-title: Signet Ring
-icon: ':luggage:'
-aliases: Signet Ring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.G6QAmjqTAki00TRM
-tags:
-- Item
----
-
 # Signet Ring
 
 **Signet Ring**

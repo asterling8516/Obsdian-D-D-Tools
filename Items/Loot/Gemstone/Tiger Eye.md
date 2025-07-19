@@ -1,12 +1,3 @@
----
-title: Tiger Eye
-icon: ':luggage:'
-aliases: Tiger Eye
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WhFL01WLoaRwf9ei
-tags:
-- Item
----
-
 # Tiger Eye
 
 **Tiger Eye**

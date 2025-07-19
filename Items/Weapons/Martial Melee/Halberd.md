@@ -1,12 +1,3 @@
----
-title: Halberd
-icon: ':luggage:'
-aliases: Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bYPAtM41CbmT58Rx
-tags:
-- Item
----
-
 # Halberd
 
 **Halberd**

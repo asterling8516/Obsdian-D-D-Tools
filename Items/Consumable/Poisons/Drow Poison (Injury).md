@@ -1,12 +1,3 @@
----
-title: Drow Poison (Injury)
-icon: ':luggage:'
-aliases: Drow Poison (Injury)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VdHd3eSzaF93ycxq
-tags:
-- Item
----
-
 # Drow Poison (Injury)
 
 **Drow Poison (Injury)**

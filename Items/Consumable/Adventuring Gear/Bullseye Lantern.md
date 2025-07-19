@@ -1,12 +1,3 @@
----
-title: Bullseye Lantern
-icon: ':luggage:'
-aliases: Bullseye Lantern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0ZnIUOLWAGbvkYxK
-tags:
-- Item
----
-
 # Bullseye Lantern
 
 **Bullseye Lantern**

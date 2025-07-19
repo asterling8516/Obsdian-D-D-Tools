@@ -1,12 +1,3 @@
----
-title: Cloak of the Manta Ray
-icon: ':luggage:'
-aliases: Cloak of the Manta Ray
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ubRlTFS8kw5h3ggj
-tags:
-- Item
----
-
 # Cloak of the Manta Ray
 
 **Cloak of the Manta Ray**

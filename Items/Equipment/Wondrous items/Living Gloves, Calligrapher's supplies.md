@@ -1,12 +1,3 @@
----
-title: Living Gloves, Calligrapher's supplies
-icon: ':luggage:'
-aliases: Living Gloves, Calligrapher's supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xpHL7yjQ4rDaEIKK
-tags:
-- Item
----
-
 # Living Gloves, Calligrapher's supplies
 
 **Living Gloves, Calligrapher's supplies**

@@ -1,12 +1,3 @@
----
-title: Vicious Spear
-icon: ':luggage:'
-aliases: Vicious Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lpmssoh0ZaEKGVrM
-tags:
-- Item
----
-
 # Vicious Spear
 
 **Vicious Spear**

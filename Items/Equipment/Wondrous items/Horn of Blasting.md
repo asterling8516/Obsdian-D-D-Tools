@@ -1,12 +1,3 @@
----
-title: Horn of Blasting
-icon: ':luggage:'
-aliases: Horn of Blasting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.L8ZAffMfXz7CW0YW
-tags:
-- Item
----
-
 # Horn of Blasting
 
 **Horn of Blasting**

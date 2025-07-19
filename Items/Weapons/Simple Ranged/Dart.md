@@ -1,12 +1,3 @@
----
-title: Dart
-icon: ':luggage:'
-aliases: Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.t5IvwT83yeIawLO3
-tags:
-- Item
----
-
 # Dart
 
 **Dart**

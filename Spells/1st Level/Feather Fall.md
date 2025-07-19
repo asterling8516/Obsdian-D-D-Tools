@@ -1,12 +1,3 @@
----
-title: Feather Fall
-icon: ':luggage:'
-aliases: Feather Fall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ae7qCriLN46aefnI
-tags:
-- Item
----
-
 # Feather Fall
 
 **Feather Fall**

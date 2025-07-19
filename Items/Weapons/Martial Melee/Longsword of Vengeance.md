@@ -1,12 +1,3 @@
----
-title: Longsword of Vengeance
-icon: ':luggage:'
-aliases: Longsword of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rZGspQw4SdLJdSLB
-tags:
-- Item
----
-
 # Longsword of Vengeance
 
 **Longsword of Vengeance**

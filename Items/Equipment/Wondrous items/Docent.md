@@ -1,12 +1,3 @@
----
-title: Docent
-icon: ':luggage:'
-aliases: Docent
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3v4NrTiJZv3ZPw8I
-tags:
-- Item
----
-
 # Docent
 
 **Docent**

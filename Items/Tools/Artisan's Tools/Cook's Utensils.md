@@ -1,12 +1,3 @@
----
-title: Cook's Utensils
-icon: ':luggage:'
-aliases: Cook's Utensils
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GhzW54ugjUOO821F
-tags:
-- Item
----
-
 # Cook's Utensils
 
 **Cook's Utensils**

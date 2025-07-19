@@ -1,12 +1,3 @@
----
-title: Giant Slayer Heavy Crossbow
-icon: ':luggage:'
-aliases: Giant Slayer Heavy Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MPQll5Ixiwt0Pr3S
-tags:
-- Item
----
-
 # Giant Slayer Heavy Crossbow
 
 **Giant Slayer Heavy Crossbow**

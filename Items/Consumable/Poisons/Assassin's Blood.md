@@ -1,12 +1,3 @@
----
-title: Assassin's Blood
-icon: ':luggage:'
-aliases: Assassin's Blood
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.T2jni6XTuVR1yz3X
-tags:
-- Item
----
-
 # Assassin's Blood
 
 **Assassin's Blood**

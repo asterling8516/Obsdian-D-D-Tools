@@ -1,12 +1,3 @@
----
-title: Signal Whistle
-icon: ':luggage:'
-aliases: Signal Whistle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2I8AO9XjCvkGPjdx
-tags:
-- Item
----
-
 # Signal Whistle
 
 **Signal Whistle**

@@ -1,12 +1,3 @@
----
-title: True Strike
-icon: ':luggage:'
-aliases: True Strike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.cngyZqqqRxX8Cyzt
-tags:
-- Item
----
-
 # True Strike
 
 **True Strike**

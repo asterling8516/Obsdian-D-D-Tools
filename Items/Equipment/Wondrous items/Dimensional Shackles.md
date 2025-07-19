@@ -1,12 +1,3 @@
----
-title: Dimensional Shackles
-icon: ':luggage:'
-aliases: Dimensional Shackles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5BESHxv5cYLV6dKj
-tags:
-- Item
----
-
 # Dimensional Shackles
 
 **Dimensional Shackles**

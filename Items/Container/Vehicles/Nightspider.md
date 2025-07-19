@@ -1,12 +1,3 @@
----
-title: Nightspider
-icon: ':luggage:'
-aliases: Nightspider
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Mth2aZW4yhwr556B
-tags:
-- Item
----
-
 # Nightspider
 
 **Nightspider**

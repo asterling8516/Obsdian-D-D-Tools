@@ -1,12 +1,3 @@
----
-title: Armblade (Rapier)
-icon: ':luggage:'
-aliases: Armblade (Rapier)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.O1uEhsYossG3KKih
-tags:
-- Item
----
-
 # Armblade (Rapier)
 
 **Armblade (Rapier)**

@@ -1,12 +1,3 @@
----
-title: Galley
-icon: ':luggage:'
-aliases: Galley
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kVh8rGYBMF2RP7QJ
-tags:
-- Item
----
-
 # Galley
 
 **Galley**

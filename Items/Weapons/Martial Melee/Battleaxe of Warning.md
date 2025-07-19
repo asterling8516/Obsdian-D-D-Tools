@@ -1,12 +1,3 @@
----
-title: Battleaxe of Warning
-icon: ':luggage:'
-aliases: Battleaxe of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.muU3OjdgA5ecBGB2
-tags:
-- Item
----
-
 # Battleaxe of Warning
 
 **Battleaxe of Warning**

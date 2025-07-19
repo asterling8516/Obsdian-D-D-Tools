@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8py3ev9VEBnpjbPF
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Breastplate
 
 **Armor of Lightning Resistance, Breastplate**

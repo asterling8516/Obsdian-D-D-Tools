@@ -1,12 +1,3 @@
----
-title: Mess Kit
-icon: ':luggage:'
-aliases: Mess Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.z5Spr66fSJnGPRJD
-tags:
-- Item
----
-
 # Mess Kit
 
 **Mess Kit**

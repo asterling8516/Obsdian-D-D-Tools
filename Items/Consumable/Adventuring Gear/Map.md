@@ -1,12 +1,3 @@
----
-title: Map
-icon: ':luggage:'
-aliases: Map
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.K9ReUd7f9t5ugmey
-tags:
-- Item
----
-
 # Map
 
 **Map**

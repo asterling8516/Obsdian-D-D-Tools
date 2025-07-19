@@ -1,12 +1,3 @@
----
-title: Color Spray
-icon: ':luggage:'
-aliases: Color Spray
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.RXAE8uYtCUBqxvRR
-tags:
-- Item
----
-
 # Color Spray
 
 **Color Spray**

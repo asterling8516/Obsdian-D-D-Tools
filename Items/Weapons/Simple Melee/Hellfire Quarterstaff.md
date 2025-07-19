@@ -1,12 +1,3 @@
----
-title: Hellfire Quarterstaff
-icon: ':luggage:'
-aliases: Hellfire Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MwTwGJBU8W2M2VVA
-tags:
-- Item
----
-
 # Hellfire Quarterstaff
 
 **Hellfire Quarterstaff**

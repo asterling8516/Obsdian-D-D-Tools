@@ -1,12 +1,3 @@
----
-title: Living Gloves, Carpenter's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Carpenter's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QBN3fizv3RdSPl3V
-tags:
-- Item
----
-
 # Living Gloves, Carpenter's Tools
 
 **Living Gloves, Carpenter's Tools**

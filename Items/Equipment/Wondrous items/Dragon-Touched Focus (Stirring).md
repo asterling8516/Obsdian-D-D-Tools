@@ -1,12 +1,3 @@
----
-title: Dragon-Touched Focus (Stirring)
-icon: ':luggage:'
-aliases: Dragon-Touched Focus (Stirring)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d1IrVqPrE2Vf5whE
-tags:
-- Item
----
-
 # Dragon-Touched Focus (Stirring)
 
 **Dragon-Touched Focus (Stirring)**

@@ -1,12 +1,3 @@
----
-title: Red Chromatic Rose
-icon: ':luggage:'
-aliases: Red Chromatic Rose
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zX8dfVha2y8zuSuR
-tags:
-- Item
----
-
 # Red Chromatic Rose
 
 **Red Chromatic Rose**

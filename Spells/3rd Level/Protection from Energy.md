@@ -1,12 +1,3 @@
----
-title: Protection from Energy
-icon: ':luggage:'
-aliases: Protection from Energy
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GnHK4kmHmRBM1stT
-tags:
-- Item
----
-
 # Protection from Energy
 
 **Protection from Energy**

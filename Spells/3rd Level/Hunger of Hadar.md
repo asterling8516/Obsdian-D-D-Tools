@@ -1,12 +1,3 @@
----
-title: Hunger of Hadar
-icon: ':luggage:'
-aliases: Hunger of Hadar
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GtgkHsI7XhpSDexZ
-tags:
-- Item
----
-
 # Hunger of Hadar
 
 **Hunger of Hadar**

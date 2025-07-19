@@ -1,12 +1,3 @@
----
-title: Insect Plague
-icon: ':luggage:'
-aliases: Insect Plague
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fcGm2gTIv8NqYIRI
-tags:
-- Item
----
-
 # Insect Plague
 
 **Insect Plague**

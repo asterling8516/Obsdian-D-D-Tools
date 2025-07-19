@@ -1,12 +1,3 @@
----
-title: Far Realm Shard
-icon: ':luggage:'
-aliases: Far Realm Shard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dYwKETtGV3VRnP92
-tags:
-- Item
----
-
 # Far Realm Shard
 
 **Far Realm Shard**

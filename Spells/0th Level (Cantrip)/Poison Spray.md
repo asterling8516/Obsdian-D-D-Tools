@@ -1,12 +1,3 @@
----
-title: Poison Spray
-icon: ':luggage:'
-aliases: Poison Spray
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.x8lqnt2iQvzOeNLl
-tags:
-- Item
----
-
 # Poison Spray
 
 **Poison Spray**

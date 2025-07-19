@@ -1,12 +1,3 @@
----
-title: Morningstar, +3
-icon: ':luggage:'
-aliases: Morningstar, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4yr7d7URYCg7WVym
-tags:
-- Item
----
-
 # Morningstar, +3
 
 **Morningstar, +3**

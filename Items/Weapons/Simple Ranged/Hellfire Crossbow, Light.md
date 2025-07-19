@@ -1,12 +1,3 @@
----
-title: Hellfire Crossbow, Light
-icon: ':luggage:'
-aliases: Hellfire Crossbow, Light
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZgcZmXSaGamR0Ho6
-tags:
-- Item
----
-
 # Hellfire Crossbow, Light
 
 **Hellfire Crossbow, Light**

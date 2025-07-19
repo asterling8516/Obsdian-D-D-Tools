@@ -1,12 +1,3 @@
----
-title: Antitoxin
-icon: ':luggage:'
-aliases: Antitoxin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7BBGsiHLtTZ1V9Rh
-tags:
-- Item
----
-
 # Antitoxin
 
 **Antitoxin**

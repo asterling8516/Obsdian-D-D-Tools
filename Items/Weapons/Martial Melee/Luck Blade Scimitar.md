@@ -1,12 +1,3 @@
----
-title: Luck Blade Scimitar
-icon: ':luggage:'
-aliases: Luck Blade Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ePTwjRMbPecFfqYF
-tags:
-- Item
----
-
 # Luck Blade Scimitar
 
 **Luck Blade Scimitar**

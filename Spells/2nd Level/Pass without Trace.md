@@ -1,12 +1,3 @@
----
-title: Pass without Trace
-icon: ':luggage:'
-aliases: Pass without Trace
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hhUMJhyCZwTSUj8V
-tags:
-- Item
----
-
 # Pass without Trace
 
 **Pass without Trace**

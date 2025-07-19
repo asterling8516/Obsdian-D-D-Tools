@@ -1,12 +1,3 @@
----
-title: Tent
-icon: ':luggage:'
-aliases: Tent
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.woi9YerHtj0XGE79
-tags:
-- Item
----
-
 # Tent
 
 **Tent**

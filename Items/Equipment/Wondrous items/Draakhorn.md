@@ -1,12 +1,3 @@
----
-title: Draakhorn
-icon: ':luggage:'
-aliases: Draakhorn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xpIzHSQzO66uqt0Y
-tags:
-- Item
----
-
 # Draakhorn
 
 **Draakhorn**

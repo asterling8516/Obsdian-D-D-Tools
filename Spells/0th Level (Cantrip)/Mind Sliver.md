@@ -1,12 +1,3 @@
----
-title: Mind Sliver
-icon: ':luggage:'
-aliases: Mind Sliver
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.lWOwCvywceb6zMqV
-tags:
-- Item
----
-
 # Mind Sliver
 
 **Mind Sliver**

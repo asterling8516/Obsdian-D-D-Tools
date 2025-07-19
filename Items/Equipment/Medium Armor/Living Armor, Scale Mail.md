@@ -1,12 +1,3 @@
----
-title: Living Armor, Scale Mail
-icon: ':luggage:'
-aliases: Living Armor, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BD4jMOvhkzNp042M
-tags:
-- Item
----
-
 # Living Armor, Scale Mail
 
 **Living Armor, Scale Mail**

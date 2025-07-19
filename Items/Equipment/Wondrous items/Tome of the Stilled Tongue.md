@@ -1,12 +1,3 @@
----
-title: Tome of the Stilled Tongue
-icon: ':luggage:'
-aliases: Tome of the Stilled Tongue
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QVGh9tT0oGwcDTgc
-tags:
-- Item
----
-
 # Tome of the Stilled Tongue
 
 **Tome of the Stilled Tongue**

@@ -1,12 +1,3 @@
----
-title: Sword of Zariel
-icon: ':luggage:'
-aliases: Sword of Zariel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DNSEDqRc6AaQoM8U
-tags:
-- Item
----
-
 # Sword of Zariel
 
 **Sword of Zariel**

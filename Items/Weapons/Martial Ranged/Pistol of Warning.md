@@ -1,12 +1,3 @@
----
-title: Pistol of Warning
-icon: ':luggage:'
-aliases: Pistol of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f61VHPB46Yi4UYzg
-tags:
-- Item
----
-
 # Pistol of Warning
 
 **Pistol of Warning**

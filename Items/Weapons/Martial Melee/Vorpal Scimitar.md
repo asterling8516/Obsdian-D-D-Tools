@@ -1,12 +1,3 @@
----
-title: Vorpal Scimitar
-icon: ':luggage:'
-aliases: Vorpal Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iCDyhh0MEaB88ZNc
-tags:
-- Item
----
-
 # Vorpal Scimitar
 
 **Vorpal Scimitar**

@@ -1,12 +1,3 @@
----
-title: Hellfire Double-Bladed Scimitar
-icon: ':luggage:'
-aliases: Hellfire Double-Bladed Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.axEEBnymt1YQic4a
-tags:
-- Item
----
-
 # Hellfire Double-Bladed Scimitar
 
 **Hellfire Double-Bladed Scimitar**

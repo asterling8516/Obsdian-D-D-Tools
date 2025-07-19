@@ -1,12 +1,3 @@
----
-title: Flame Tongue Quarterstaff
-icon: ':luggage:'
-aliases: Flame Tongue Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.crDbwVeGp45bX80X
-tags:
-- Item
----
-
 # Flame Tongue Quarterstaff
 
 **Flame Tongue Quarterstaff**

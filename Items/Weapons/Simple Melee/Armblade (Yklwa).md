@@ -1,12 +1,3 @@
----
-title: Armblade (Yklwa)
-icon: ':luggage:'
-aliases: Armblade (Yklwa)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UhFWN3SmCjE6FYRe
-tags:
-- Item
----
-
 # Armblade (Yklwa)
 
 **Armblade (Yklwa)**

@@ -1,12 +1,3 @@
----
-title: Flail, +1
-icon: ':luggage:'
-aliases: Flail, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ITVC7cQoFrabDJQ9
-tags:
-- Item
----
-
 # Flail, +1
 
 **Flail, +1**

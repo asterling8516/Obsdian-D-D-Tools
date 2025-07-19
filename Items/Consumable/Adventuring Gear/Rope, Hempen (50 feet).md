@@ -1,12 +1,3 @@
----
-title: Rope, Hempen (50 feet)
-icon: ':luggage:'
-aliases: Rope, Hempen (50 feet)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OIlt9aXsC1Nm5IEN
-tags:
-- Item
----
-
 # Rope, Hempen (50 feet)
 
 **Rope, Hempen (50 feet)**

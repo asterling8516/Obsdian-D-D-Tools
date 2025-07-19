@@ -1,12 +1,3 @@
----
-title: Living Gloves, Painter's Supplies
-icon: ':luggage:'
-aliases: Living Gloves, Painter's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iS7oGxP9JjhZ7A0M
-tags:
-- Item
----
-
 # Living Gloves, Painter's Supplies
 
 **Living Gloves, Painter's Supplies**

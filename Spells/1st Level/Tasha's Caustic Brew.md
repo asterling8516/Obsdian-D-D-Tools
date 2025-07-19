@@ -1,12 +1,3 @@
----
-title: Tasha's Caustic Brew
-icon: ':luggage:'
-aliases: Tasha's Caustic Brew
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.st1zb2R4evDqAFkt
-tags:
-- Item
----
-
 # Tasha's Caustic Brew
 
 **Tasha's Caustic Brew**

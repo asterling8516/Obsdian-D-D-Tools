@@ -1,12 +1,3 @@
----
-title: Ball Bearings
-icon: ':luggage:'
-aliases: Ball Bearings
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FcfTJeZqtuLN7hC3
-tags:
-- Item
----
-
 # Ball Bearings
 
 **Ball Bearings**

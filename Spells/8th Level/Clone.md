@@ -1,12 +1,3 @@
----
-title: Clone
-icon: ':luggage:'
-aliases: Clone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.92f1rn9gJrf9fEPd
-tags:
-- Item
----
-
 # Clone
 
 **Clone**

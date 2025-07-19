@@ -1,12 +1,3 @@
----
-title: Illusory Script
-icon: ':luggage:'
-aliases: Illusory Script
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1sVeZnvNiqGiXIwO
-tags:
-- Item
----
-
 # Illusory Script
 
 **Illusory Script**

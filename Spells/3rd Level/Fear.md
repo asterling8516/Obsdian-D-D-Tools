@@ -1,12 +1,3 @@
----
-title: Fear
-icon: ':luggage:'
-aliases: Fear
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.n5xx3OYkbs8uaCav
-tags:
-- Item
----
-
 # Fear
 
 **Fear**

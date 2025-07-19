@@ -1,12 +1,3 @@
----
-title: Siberys Dragonshard
-icon: ':luggage:'
-aliases: Siberys Dragonshard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ftTD7jKlLjKWdDbx
-tags:
-- Item
----
-
 # Siberys Dragonshard
 
 **Siberys Dragonshard**

@@ -1,12 +1,3 @@
----
-title: Pipe of Smoke Monsters
-icon: ':luggage:'
-aliases: Pipe of Smoke Monsters
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YkUmUGoykyjgv6NW
-tags:
-- Item
----
-
 # Pipe of Smoke Monsters
 
 **Pipe of Smoke Monsters**

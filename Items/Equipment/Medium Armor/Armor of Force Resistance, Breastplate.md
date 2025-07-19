@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cmjB1SGxaHuD3W2G
-tags:
-- Item
----
-
 # Armor of Force Resistance, Breastplate
 
 **Armor of Force Resistance, Breastplate**

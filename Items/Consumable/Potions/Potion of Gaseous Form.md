@@ -1,12 +1,3 @@
----
-title: Potion of Gaseous Form
-icon: ':luggage:'
-aliases: Potion of Gaseous Form
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7czrFt3F0QY1YVRH
-tags:
-- Item
----
-
 # Potion of Gaseous Form
 
 **Potion of Gaseous Form**

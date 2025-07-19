@@ -1,12 +1,3 @@
----
-title: Totem
-icon: ':luggage:'
-aliases: Totem
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xeknb4Gc9jUli6Cp
-tags:
-- Item
----
-
 # Totem
 
 **Totem**

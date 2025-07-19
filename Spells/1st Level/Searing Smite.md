@@ -1,12 +1,3 @@
----
-title: Searing Smite
-icon: ':luggage:'
-aliases: Searing Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UrU3POQnS3lq5Jgk
-tags:
-- Item
----
-
 # Searing Smite
 
 **Searing Smite**

@@ -1,12 +1,3 @@
----
-title: Potion of Watchful Rest
-icon: ':luggage:'
-aliases: Potion of Watchful Rest
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2pBIvIRJGWC8kjzr
-tags:
-- Item
----
-
 # Potion of Watchful Rest
 
 **Potion of Watchful Rest**

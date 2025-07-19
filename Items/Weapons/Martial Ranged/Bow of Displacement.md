@@ -1,12 +1,3 @@
----
-title: Bow of Displacement
-icon: ':luggage:'
-aliases: Bow of Displacement
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RRjWHIANwFWwjGc0
-tags:
-- Item
----
-
 # Bow of Displacement
 
 **Bow of Displacement**

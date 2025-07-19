@@ -1,12 +1,3 @@
----
-title: Manual of Quickness of Action
-icon: ':luggage:'
-aliases: Manual of Quickness of Action
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vnGybWqs1SzHEBiW
-tags:
-- Item
----
-
 # Manual of Quickness of Action
 
 **Manual of Quickness of Action**

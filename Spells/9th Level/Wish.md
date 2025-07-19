@@ -1,12 +1,3 @@
----
-title: Wish
-icon: ':luggage:'
-aliases: Wish
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ryDAaMbV2ZYUKiEF
-tags:
-- Item
----
-
 # Wish
 
 **Wish**

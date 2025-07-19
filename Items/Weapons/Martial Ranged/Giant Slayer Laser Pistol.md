@@ -1,12 +1,3 @@
----
-title: Giant Slayer Laser Pistol
-icon: ':luggage:'
-aliases: Giant Slayer Laser Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.apUo4co1nv8J4jOP
-tags:
-- Item
----
-
 # Giant Slayer Laser Pistol
 
 **Giant Slayer Laser Pistol**

@@ -1,12 +1,3 @@
----
-title: Mariner's Leather
-icon: ':luggage:'
-aliases: Mariner's Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oqwBVwXDuAXtSyFI
-tags:
-- Item
----
-
 # Mariner's Leather
 
 **Mariner's Leather**

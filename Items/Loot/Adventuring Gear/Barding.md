@@ -1,12 +1,3 @@
----
-title: Barding
-icon: ':luggage:'
-aliases: Barding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YRmNFzbUZtQEHptg
-tags:
-- Item
----
-
 # Barding
 
 **Barding**

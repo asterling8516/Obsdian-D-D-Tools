@@ -1,12 +1,3 @@
----
-title: Eye agate
-icon: ':luggage:'
-aliases: Eye agate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uL7TIoelnFeZ5mzC
-tags:
-- Item
----
-
 # Eye agate
 
 **Eye agate**

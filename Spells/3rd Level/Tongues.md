@@ -1,12 +1,3 @@
----
-title: Tongues
-icon: ':luggage:'
-aliases: Tongues
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.4ZpCas2AmEvPvfML
-tags:
-- Item
----
-
 # Tongues
 
 **Tongues**

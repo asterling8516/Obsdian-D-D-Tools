@@ -1,12 +1,3 @@
----
-title: Wyrmskull Throne
-icon: ':luggage:'
-aliases: Wyrmskull Throne
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yU2IBFhJ2SUEnt9v
-tags:
-- Item
----
-
 # Wyrmskull Throne
 
 **Wyrmskull Throne**

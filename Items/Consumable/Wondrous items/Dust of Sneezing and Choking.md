@@ -1,12 +1,3 @@
----
-title: Dust of Sneezing and Choking
-icon: ':luggage:'
-aliases: Dust of Sneezing and Choking
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NuX3XzBP0AjA7fLD
-tags:
-- Item
----
-
 # Dust of Sneezing and Choking
 
 **Dust of Sneezing and Choking**

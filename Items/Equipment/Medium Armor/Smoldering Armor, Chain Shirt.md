@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Chain Shirt
-icon: ':luggage:'
-aliases: Smoldering Armor, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZqYJDP0Bb6Hwj0bP
-tags:
-- Item
----
-
 # Smoldering Armor, Chain Shirt
 
 **Smoldering Armor, Chain Shirt**

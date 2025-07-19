@@ -1,12 +1,3 @@
----
-title: Mariner's Splint
-icon: ':luggage:'
-aliases: Mariner's Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AMRZ7Ka7ZvbWuHJ2
-tags:
-- Item
----
-
 # Mariner's Splint
 
 **Mariner's Splint**

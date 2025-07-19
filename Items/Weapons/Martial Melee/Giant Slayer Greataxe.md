@@ -1,12 +1,3 @@
----
-title: Giant Slayer Greataxe
-icon: ':luggage:'
-aliases: Giant Slayer Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lISMyf8LAO5xpmsE
-tags:
-- Item
----
-
 # Giant Slayer Greataxe
 
 **Giant Slayer Greataxe**

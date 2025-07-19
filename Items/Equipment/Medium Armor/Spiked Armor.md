@@ -1,12 +1,3 @@
----
-title: Spiked Armor
-icon: ':luggage:'
-aliases: Spiked Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yMmzq3SL47FshbS4
-tags:
-- Item
----
-
 # Spiked Armor
 
 **Spiked Armor**

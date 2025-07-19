@@ -1,12 +1,3 @@
----
-title: Flaming Sphere
-icon: ':luggage:'
-aliases: Flaming Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.snz743LIeJgZHAgG
-tags:
-- Item
----
-
 # Flaming Sphere
 
 **Flaming Sphere**

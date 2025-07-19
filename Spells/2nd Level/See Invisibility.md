@@ -1,12 +1,3 @@
----
-title: See Invisibility
-icon: ':luggage:'
-aliases: See Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.9fRNK9a7idmggKhC
-tags:
-- Item
----
-
 # See Invisibility
 
 **See Invisibility**

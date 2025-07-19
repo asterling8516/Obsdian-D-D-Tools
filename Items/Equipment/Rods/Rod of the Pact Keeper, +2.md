@@ -1,12 +1,3 @@
----
-title: Rod of the Pact Keeper, +2
-icon: ':luggage:'
-aliases: Rod of the Pact Keeper, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fSfPpBvgXy2fuufq
-tags:
-- Item
----
-
 # Rod of the Pact Keeper, +2
 
 **Rod of the Pact Keeper, +2**

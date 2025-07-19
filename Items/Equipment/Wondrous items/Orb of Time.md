@@ -1,12 +1,3 @@
----
-title: Orb of Time
-icon: ':luggage:'
-aliases: Orb of Time
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RyHRSrjB5664pz05
-tags:
-- Item
----
-
 # Orb of Time
 
 **Orb of Time**

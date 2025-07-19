@@ -1,12 +1,3 @@
----
-title: Watchful Helm
-icon: ':luggage:'
-aliases: Watchful Helm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XKtXI8reBr9aMIuj
-tags:
-- Item
----
-
 # Watchful Helm
 
 **Watchful Helm**

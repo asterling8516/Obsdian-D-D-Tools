@@ -1,12 +1,3 @@
----
-title: Censer
-icon: ':luggage:'
-aliases: Censer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AI8GM3RGM4AwkWy8
-tags:
-- Item
----
-
 # Censer
 
 **Censer**

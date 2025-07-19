@@ -1,12 +1,3 @@
----
-title: Grappling Hook
-icon: ':luggage:'
-aliases: Grappling Hook
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lkpQJf6OxvTE89n5
-tags:
-- Item
----
-
 # Grappling Hook
 
 **Grappling Hook**

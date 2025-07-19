@@ -1,12 +1,3 @@
----
-title: Tan Bag of Tricks
-icon: ':luggage:'
-aliases: Tan Bag of Tricks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hc6XhYseBkOHmycy
-tags:
-- Item
----
-
 # Tan Bag of Tricks
 
 **Tan Bag of Tricks**

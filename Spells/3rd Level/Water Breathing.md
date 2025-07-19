@@ -1,12 +1,3 @@
----
-title: Water Breathing
-icon: ':luggage:'
-aliases: Water Breathing
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Fcyu2WaupP1EsNlm
-tags:
-- Item
----
-
 # Water Breathing
 
 **Water Breathing**

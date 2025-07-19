@@ -1,12 +1,3 @@
----
-title: Blast Scepter
-icon: ':luggage:'
-aliases: Blast Scepter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S4dgfdQixTzdKPAK
-tags:
-- Item
----
-
 # Blast Scepter
 
 **Blast Scepter**

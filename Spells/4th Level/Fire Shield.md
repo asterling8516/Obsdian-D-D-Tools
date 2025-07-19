@@ -1,12 +1,3 @@
----
-title: Fire Shield
-icon: ':luggage:'
-aliases: Fire Shield
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ae3nPEbiClZ2AivF
-tags:
-- Item
----
-
 # Fire Shield
 
 **Fire Shield**

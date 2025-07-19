@@ -1,12 +1,3 @@
----
-title: Zephyr Strike
-icon: ':luggage:'
-aliases: Zephyr Strike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fySj9MGtQRygOPpt
-tags:
-- Item
----
-
 # Zephyr Strike
 
 **Zephyr Strike**

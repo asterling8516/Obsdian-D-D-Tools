@@ -1,12 +1,3 @@
----
-title: Alchemist's Firethrower
-icon: ':luggage:'
-aliases: Alchemist's Firethrower
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j9hqe0e5dL9EsC7O
-tags:
-- Item
----
-
 # Alchemist's Firethrower
 
 **Alchemist's Firethrower**

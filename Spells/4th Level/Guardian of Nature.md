@@ -1,12 +1,3 @@
----
-title: Guardian of Nature
-icon: ':luggage:'
-aliases: Guardian of Nature
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WFO9INb5vBDE97lN
-tags:
-- Item
----
-
 # Guardian of Nature
 
 **Guardian of Nature**

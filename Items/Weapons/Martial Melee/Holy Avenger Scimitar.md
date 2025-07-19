@@ -1,12 +1,3 @@
----
-title: Holy Avenger Scimitar
-icon: ':luggage:'
-aliases: Holy Avenger Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mEkkRYPQlvkwovH5
-tags:
-- Item
----
-
 # Holy Avenger Scimitar
 
 **Holy Avenger Scimitar**

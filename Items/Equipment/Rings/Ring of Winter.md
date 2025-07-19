@@ -1,12 +1,3 @@
----
-title: Ring of Winter
-icon: ':luggage:'
-aliases: Ring of Winter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZlCBiHkMNpwR9UaY
-tags:
-- Item
----
-
 # Ring of Winter
 
 **Ring of Winter**

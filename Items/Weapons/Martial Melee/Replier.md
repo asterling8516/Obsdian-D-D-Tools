@@ -1,12 +1,3 @@
----
-title: Replier
-icon: ':luggage:'
-aliases: Replier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2NhVrK01CFgpuNu4
-tags:
-- Item
----
-
 # Replier
 
 **Replier**

@@ -1,12 +1,3 @@
----
-title: Dragon Wing Shortbow
-icon: ':luggage:'
-aliases: Dragon Wing Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oeECFGnDcSf8cQbv
-tags:
-- Item
----
-
 # Dragon Wing Shortbow
 
 **Dragon Wing Shortbow**

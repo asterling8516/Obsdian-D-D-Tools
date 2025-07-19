@@ -1,12 +1,3 @@
----
-title: Peridot
-icon: ':luggage:'
-aliases: Peridot
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UpOTLe5FSKEj9HnG
-tags:
-- Item
----
-
 # Peridot
 
 **Peridot**

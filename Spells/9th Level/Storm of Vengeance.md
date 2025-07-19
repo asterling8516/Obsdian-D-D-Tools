@@ -1,12 +1,3 @@
----
-title: Storm of Vengeance
-icon: ':luggage:'
-aliases: Storm of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6ULczzL8BCsKs6Re
-tags:
-- Item
----
-
 # Storm of Vengeance
 
 **Storm of Vengeance**

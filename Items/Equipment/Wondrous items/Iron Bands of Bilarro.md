@@ -1,12 +1,3 @@
----
-title: Iron Bands of Bilarro
-icon: ':luggage:'
-aliases: Iron Bands of Bilarro
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XToYM8veI14rf0ol
-tags:
-- Item
----
-
 # Iron Bands of Bilarro
 
 **Iron Bands of Bilarro**

@@ -1,12 +1,3 @@
----
-title: Voyager Staff
-icon: ':luggage:'
-aliases: Voyager Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.M21hwIAHYRKDuZCY
-tags:
-- Item
----
-
 # Voyager Staff
 
 **Voyager Staff**

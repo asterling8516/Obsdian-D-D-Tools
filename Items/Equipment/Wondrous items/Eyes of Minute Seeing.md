@@ -1,12 +1,3 @@
----
-title: Eyes of Minute Seeing
-icon: ':luggage:'
-aliases: Eyes of Minute Seeing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nDqdaPiMaDwaf0oi
-tags:
-- Item
----
-
 # Eyes of Minute Seeing
 
 **Eyes of Minute Seeing**

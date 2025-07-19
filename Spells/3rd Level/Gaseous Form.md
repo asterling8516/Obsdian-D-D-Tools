@@ -1,12 +1,3 @@
----
-title: Gaseous Form
-icon: ':luggage:'
-aliases: Gaseous Form
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JvXtO9zjwY2vjwnS
-tags:
-- Item
----
-
 # Gaseous Form
 
 **Gaseous Form**

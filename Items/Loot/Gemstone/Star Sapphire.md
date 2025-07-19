@@ -1,12 +1,3 @@
----
-title: Star Sapphire
-icon: ':luggage:'
-aliases: Star Sapphire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WgVq23MKQXYEGlHC
-tags:
-- Item
----
-
 # Star Sapphire
 
 **Star Sapphire**

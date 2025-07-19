@@ -1,12 +1,3 @@
----
-title: Dwarven Plate
-icon: ':luggage:'
-aliases: Dwarven Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dqWFT4Yqmm43VWEu
-tags:
-- Item
----
-
 # Dwarven Plate
 
 **Dwarven Plate**

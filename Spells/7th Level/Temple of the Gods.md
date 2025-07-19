@@ -1,12 +1,3 @@
----
-title: Temple of the Gods
-icon: ':luggage:'
-aliases: Temple of the Gods
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ih0cuGn6Czh3QdF7
-tags:
-- Item
----
-
 # Temple of the Gods
 
 **Temple of the Gods**

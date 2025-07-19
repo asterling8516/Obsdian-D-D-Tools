@@ -1,12 +1,3 @@
----
-title: Defender Rapier
-icon: ':luggage:'
-aliases: Defender Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qP13p8MMvOG9OZke
-tags:
-- Item
----
-
 # Defender Rapier
 
 **Defender Rapier**

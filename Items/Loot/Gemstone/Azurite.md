@@ -1,12 +1,3 @@
----
-title: Azurite
-icon: ':luggage:'
-aliases: Azurite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uSepu3PNVE4szFoc
-tags:
-- Item
----
-
 # Azurite
 
 **Azurite**

@@ -1,12 +1,3 @@
----
-title: Whisper Jar
-icon: ':luggage:'
-aliases: Whisper Jar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E61UYIkX7khvZiSC
-tags:
-- Item
----
-
 # Whisper Jar
 
 **Whisper Jar**

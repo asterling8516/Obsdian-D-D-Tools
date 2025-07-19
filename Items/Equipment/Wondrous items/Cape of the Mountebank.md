@@ -1,12 +1,3 @@
----
-title: Cape of the Mountebank
-icon: ':luggage:'
-aliases: Cape of the Mountebank
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8QdCvKU6LDC2JINO
-tags:
-- Item
----
-
 # Cape of the Mountebank
 
 **Cape of the Mountebank**

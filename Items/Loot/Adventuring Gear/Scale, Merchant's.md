@@ -1,12 +1,3 @@
----
-title: Scale, Merchant's
-icon: ':luggage:'
-aliases: Scale, Merchant's
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8d2RIxhItrKlvFaY
-tags:
-- Item
----
-
 # Scale, Merchant's
 
 **Scale, Merchant's**

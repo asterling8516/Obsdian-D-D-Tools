@@ -1,12 +1,3 @@
----
-title: Blur
-icon: ':luggage:'
-aliases: Blur
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.VZcoD2o7hX1pzX7f
-tags:
-- Item
----
-
 # Blur
 
 **Blur**

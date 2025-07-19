@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Yrqk3eHGYeCfnLBP
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Breastplate
 
 **Armor of Radiant Resistance, Breastplate**

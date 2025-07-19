@@ -1,12 +1,3 @@
----
-title: Abacus
-icon: ':luggage:'
-aliases: Abacus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NUt1BJvvho2kOxCC
-tags:
-- Item
----
-
 # Abacus
 
 **Abacus**

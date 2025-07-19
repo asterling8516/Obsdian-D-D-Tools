@@ -1,12 +1,3 @@
----
-title: Blade of Disaster
-icon: ':luggage:'
-aliases: Blade of Disaster
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fJYuRpw3jG01qSAv
-tags:
-- Item
----
-
 # Blade of Disaster
 
 **Blade of Disaster**

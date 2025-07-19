@@ -1,12 +1,3 @@
----
-title: Hold Person
-icon: ':luggage:'
-aliases: Hold Person
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ifrlwpDoZlFJxr2A
-tags:
-- Item
----
-
 # Hold Person
 
 **Hold Person**

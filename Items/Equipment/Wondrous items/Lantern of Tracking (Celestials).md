@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Celestials)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Celestials)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cnp8w7RPyFsShtFE
-tags:
-- Item
----
-
 # Lantern of Tracking (Celestials)
 
 **Lantern of Tracking (Celestials)**

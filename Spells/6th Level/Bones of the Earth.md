@@ -1,12 +1,3 @@
----
-title: Bones of the Earth
-icon: ':luggage:'
-aliases: Bones of the Earth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.XWLNv58OiN4z9l4R
-tags:
-- Item
----
-
 # Bones of the Earth
 
 **Bones of the Earth**

@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mdMHU6wr4NNqSGrs
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Studded Leather
 
 **Armor of Thunder Resistance, Studded Leather**

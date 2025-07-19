@@ -1,12 +1,3 @@
----
-title: Hat of Disguise
-icon: ':luggage:'
-aliases: Hat of Disguise
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3kOKGwyxsxnNXDkX
-tags:
-- Item
----
-
 # Hat of Disguise
 
 **Hat of Disguise**

@@ -1,12 +1,3 @@
----
-title: Camel
-icon: ':luggage:'
-aliases: Camel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xdO5uaumlXOIEr4j
-tags:
-- Item
----
-
 # Camel
 
 **Camel**

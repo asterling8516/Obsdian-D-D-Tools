@@ -1,12 +1,3 @@
----
-title: Dagger, +2
-icon: ':luggage:'
-aliases: Dagger, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3epV1422jVJ3S50Z
-tags:
-- Item
----
-
 # Dagger, +2
 
 **Dagger, +2**

@@ -1,12 +1,3 @@
----
-title: Mabaran Ebony Focus
-icon: ':luggage:'
-aliases: Mabaran Ebony Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9wy4Fm2K5CzGGdOf
-tags:
-- Item
----
-
 # Mabaran Ebony Focus
 
 **Mabaran Ebony Focus**

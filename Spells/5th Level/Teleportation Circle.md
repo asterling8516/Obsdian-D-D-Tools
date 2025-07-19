@@ -1,12 +1,3 @@
----
-title: Teleportation Circle
-icon: ':luggage:'
-aliases: Teleportation Circle
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rjZBeR4pVb974EPP
-tags:
-- Item
----
-
 # Teleportation Circle
 
 **Teleportation Circle**

@@ -1,12 +1,3 @@
----
-title: Animal Shapes
-icon: ':luggage:'
-aliases: Animal Shapes
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6cbBe7Klt9ZYrQ2h
-tags:
-- Item
----
-
 # Animal Shapes
 
 **Animal Shapes**

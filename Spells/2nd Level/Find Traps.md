@@ -1,12 +1,3 @@
----
-title: Find Traps
-icon: ':luggage:'
-aliases: Find Traps
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fs4HyqG7jF0Xng47
-tags:
-- Item
----
-
 # Find Traps
 
 **Find Traps**

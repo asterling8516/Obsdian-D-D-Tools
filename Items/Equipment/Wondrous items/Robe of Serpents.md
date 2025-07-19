@@ -1,12 +1,3 @@
----
-title: Robe of Serpents
-icon: ':luggage:'
-aliases: Robe of Serpents
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Jc27TNbo4Q5TQkqE
-tags:
-- Item
----
-
 # Robe of Serpents
 
 **Robe of Serpents**

@@ -1,12 +1,3 @@
----
-title: Armor of Agathys
-icon: ':luggage:'
-aliases: Armor of Agathys
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.2KGtFCTCwRVSVR3z
-tags:
-- Item
----
-
 # Armor of Agathys
 
 **Armor of Agathys**

@@ -1,12 +1,3 @@
----
-title: Wand of Web
-icon: ':luggage:'
-aliases: Wand of Web
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rtFw6ev5RIx8sTCn
-tags:
-- Item
----
-
 # Wand of Web
 
 **Wand of Web**

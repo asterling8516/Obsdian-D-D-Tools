@@ -1,12 +1,3 @@
----
-title: Mariner's Padded
-icon: ':luggage:'
-aliases: Mariner's Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.L0peuznpuhj3Q7QO
-tags:
-- Item
----
-
 # Mariner's Padded
 
 **Mariner's Padded**

@@ -1,12 +1,3 @@
----
-title: Bombard
-icon: ':luggage:'
-aliases: Bombard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.c9HOGuuM6nQvT2Ox
-tags:
-- Item
----
-
 # Bombard
 
 **Bombard**

@@ -1,12 +1,3 @@
----
-title: Waythe
-icon: ':luggage:'
-aliases: Waythe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j1Fyx1ivwjb9xXJT
-tags:
-- Item
----
-
 # Waythe
 
 **Waythe**

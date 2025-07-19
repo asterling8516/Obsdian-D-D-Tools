@@ -1,12 +1,3 @@
----
-title: Vicious Maul
-icon: ':luggage:'
-aliases: Vicious Maul
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UbVdeiYKmZekHPcS
-tags:
-- Item
----
-
 # Vicious Maul
 
 **Vicious Maul**

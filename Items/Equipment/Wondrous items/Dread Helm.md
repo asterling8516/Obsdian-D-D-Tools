@@ -1,12 +1,3 @@
----
-title: Dread Helm
-icon: ':luggage:'
-aliases: Dread Helm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gimCSdtob3Fi2jtc
-tags:
-- Item
----
-
 # Dread Helm
 
 **Dread Helm**

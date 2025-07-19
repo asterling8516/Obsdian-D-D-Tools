@@ -1,12 +1,3 @@
----
-title: Shatterspike
-icon: ':luggage:'
-aliases: Shatterspike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kXb8A7haACI2TaFt
-tags:
-- Item
----
-
 # Shatterspike
 
 **Shatterspike**

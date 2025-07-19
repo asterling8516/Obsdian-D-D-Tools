@@ -1,12 +1,3 @@
----
-title: Assassin's Blood (Ingested)
-icon: ':luggage:'
-aliases: Assassin's Blood (Ingested)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.z8NzSZcsJ1hhPDi5
-tags:
-- Item
----
-
 # Assassin's Blood (Ingested)
 
 **Assassin's Blood (Ingested)**

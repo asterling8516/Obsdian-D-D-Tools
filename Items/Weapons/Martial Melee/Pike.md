@@ -1,12 +1,3 @@
----
-title: Pike
-icon: ':luggage:'
-aliases: Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OHL94VziJ8bdsdGH
-tags:
-- Item
----
-
 # Pike
 
 **Pike**

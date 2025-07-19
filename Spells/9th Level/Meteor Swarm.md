@@ -1,12 +1,3 @@
----
-title: Meteor Swarm
-icon: ':luggage:'
-aliases: Meteor Swarm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.vwrjRBp6smXbbT0a
-tags:
-- Item
----
-
 # Meteor Swarm
 
 **Meteor Swarm**

@@ -1,12 +1,3 @@
----
-title: Glaive of Warning
-icon: ':luggage:'
-aliases: Glaive of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.15G7iGKJ4WVDBx5p
-tags:
-- Item
----
-
 # Glaive of Warning
 
 **Glaive of Warning**

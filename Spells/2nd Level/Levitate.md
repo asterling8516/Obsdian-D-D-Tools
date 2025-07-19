@@ -1,12 +1,3 @@
----
-title: Levitate
-icon: ':luggage:'
-aliases: Levitate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kbpEUu8IYtnomFXA
-tags:
-- Item
----
-
 # Levitate
 
 **Levitate**

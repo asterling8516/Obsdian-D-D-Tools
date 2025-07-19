@@ -1,12 +1,3 @@
----
-title: Songhorn
-icon: ':luggage:'
-aliases: Songhorn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nCJe9YBbEWXVMH2p
-tags:
-- Item
----
-
 # Songhorn
 
 **Songhorn**

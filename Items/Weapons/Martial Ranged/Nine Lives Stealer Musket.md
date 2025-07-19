@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Musket
-icon: ':luggage:'
-aliases: Nine Lives Stealer Musket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nqcUOSKN4QMIGqQS
-tags:
-- Item
----
-
 # Nine Lives Stealer Musket
 
 **Nine Lives Stealer Musket**

@@ -1,12 +1,3 @@
----
-title: Well of Many Worlds
-icon: ':luggage:'
-aliases: Well of Many Worlds
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hYHDW1JGQ7uWmjIQ
-tags:
-- Item
----
-
 # Well of Many Worlds
 
 **Well of Many Worlds**

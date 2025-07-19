@@ -1,12 +1,3 @@
----
-title: Clothes, Traveler's
-icon: ':luggage:'
-aliases: Clothes, Traveler's
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MqkVN21a8TaTL2bW
-tags:
-- Item
----
-
 # Clothes, Traveler's
 
 **Clothes, Traveler's**

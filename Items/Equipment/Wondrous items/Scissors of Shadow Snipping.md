@@ -1,12 +1,3 @@
----
-title: Scissors of Shadow Snipping
-icon: ':luggage:'
-aliases: Scissors of Shadow Snipping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zTUHRoWYXpLFL5Jt
-tags:
-- Item
----
-
 # Scissors of Shadow Snipping
 
 **Scissors of Shadow Snipping**

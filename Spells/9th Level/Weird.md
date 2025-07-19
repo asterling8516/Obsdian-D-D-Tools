@@ -1,12 +1,3 @@
----
-title: Weird
-icon: ':luggage:'
-aliases: Weird
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CF5zQGOmAzOKZmgv
-tags:
-- Item
----
-
 # Weird
 
 **Weird**

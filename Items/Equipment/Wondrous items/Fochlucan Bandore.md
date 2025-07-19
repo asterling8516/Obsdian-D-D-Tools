@@ -1,12 +1,3 @@
----
-title: Fochlucan Bandore
-icon: ':luggage:'
-aliases: Fochlucan Bandore
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KDsk3tcMcxXUzCcS
-tags:
-- Item
----
-
 # Fochlucan Bandore
 
 **Fochlucan Bandore**

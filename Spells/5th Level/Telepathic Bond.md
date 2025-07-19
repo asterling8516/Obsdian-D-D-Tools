@@ -1,12 +1,3 @@
----
-title: Telepathic Bond
-icon: ':luggage:'
-aliases: Telepathic Bond
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.eDhVI43JKyrXBo7L
-tags:
-- Item
----
-
 # Telepathic Bond
 
 **Telepathic Bond**

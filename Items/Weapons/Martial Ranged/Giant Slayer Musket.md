@@ -1,12 +1,3 @@
----
-title: Giant Slayer Musket
-icon: ':luggage:'
-aliases: Giant Slayer Musket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.53FpkV2LMNWBcVRL
-tags:
-- Item
----
-
 # Giant Slayer Musket
 
 **Giant Slayer Musket**

@@ -1,12 +1,3 @@
----
-title: Marvelous Pigments
-icon: ':luggage:'
-aliases: Marvelous Pigments
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BM8Y3TsimGWVdqsR
-tags:
-- Item
----
-
 # Marvelous Pigments
 
 **Marvelous Pigments**

@@ -1,12 +1,3 @@
----
-title: Fireball
-icon: ':luggage:'
-aliases: Fireball
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1X63Pz8axedYJQTx
-tags:
-- Item
----
-
 # Fireball
 
 **Fireball**

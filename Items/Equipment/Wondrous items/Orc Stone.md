@@ -1,12 +1,3 @@
----
-title: Orc Stone
-icon: ':luggage:'
-aliases: Orc Stone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cNGNozG28cwJxcKt
-tags:
-- Item
----
-
 # Orc Stone
 
 **Orc Stone**

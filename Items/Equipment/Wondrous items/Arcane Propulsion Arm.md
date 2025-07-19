@@ -1,12 +1,3 @@
----
-title: Arcane Propulsion Arm
-icon: ':luggage:'
-aliases: Arcane Propulsion Arm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aCo1qxF8dGYVd8bo
-tags:
-- Item
----
-
 # Arcane Propulsion Arm
 
 **Arcane Propulsion Arm**

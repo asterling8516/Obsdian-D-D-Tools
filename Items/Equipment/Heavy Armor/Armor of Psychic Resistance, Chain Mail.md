@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PYECpZkkylSb9IKL
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Chain Mail
 
 **Armor of Psychic Resistance, Chain Mail**

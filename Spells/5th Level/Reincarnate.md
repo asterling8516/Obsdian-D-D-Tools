@@ -1,12 +1,3 @@
----
-title: Reincarnate
-icon: ':luggage:'
-aliases: Reincarnate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GnCMoFtpNdpM0kMa
-tags:
-- Item
----
-
 # Reincarnate
 
 **Reincarnate**

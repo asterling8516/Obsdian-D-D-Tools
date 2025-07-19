@@ -1,12 +1,3 @@
----
-title: Flame Tongue Glaive
-icon: ':luggage:'
-aliases: Flame Tongue Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S6vQyMZfWhJIuGog
-tags:
-- Item
----
-
 # Flame Tongue Glaive
 
 **Flame Tongue Glaive**

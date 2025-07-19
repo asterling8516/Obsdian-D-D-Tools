@@ -1,12 +1,3 @@
----
-title: Vortex Warp
-icon: ':luggage:'
-aliases: Vortex Warp
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hWEAbljU7NmgxleS
-tags:
-- Item
----
-
 # Vortex Warp
 
 **Vortex Warp**

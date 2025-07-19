@@ -1,12 +1,3 @@
----
-title: Obviator's Lenses
-icon: ':luggage:'
-aliases: Obviator's Lenses
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cJ73ohfPOQ1RqVZN
-tags:
-- Item
----
-
 # Obviator's Lenses
 
 **Obviator's Lenses**

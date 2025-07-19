@@ -1,12 +1,3 @@
----
-title: Ruinstone
-icon: ':luggage:'
-aliases: Ruinstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2u9guJ4HDqN6MpTU
-tags:
-- Item
----
-
 # Ruinstone
 
 **Ruinstone**

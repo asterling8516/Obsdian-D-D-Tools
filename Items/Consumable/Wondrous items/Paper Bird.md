@@ -1,12 +1,3 @@
----
-title: Paper Bird
-icon: ':luggage:'
-aliases: Paper Bird
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yEEHnsBWfS4SuiSP
-tags:
-- Item
----
-
 # Paper Bird
 
 **Paper Bird**

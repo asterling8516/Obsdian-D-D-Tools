@@ -1,12 +1,3 @@
----
-title: Reverse Gravity
-icon: ':luggage:'
-aliases: Reverse Gravity
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.2Pbzw2ZzfTAM0keo
-tags:
-- Item
----
-
 # Reverse Gravity
 
 **Reverse Gravity**

@@ -1,12 +1,3 @@
----
-title: Blowgun, +3
-icon: ':luggage:'
-aliases: Blowgun, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jNMjSVMrurj747eI
-tags:
-- Item
----
-
 # Blowgun, +3
 
 **Blowgun, +3**

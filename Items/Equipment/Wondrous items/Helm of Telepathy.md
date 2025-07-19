@@ -1,12 +1,3 @@
----
-title: Helm of Telepathy
-icon: ':luggage:'
-aliases: Helm of Telepathy
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JW6n2LvRWc3RkuSI
-tags:
-- Item
----
-
 # Helm of Telepathy
 
 **Helm of Telepathy**

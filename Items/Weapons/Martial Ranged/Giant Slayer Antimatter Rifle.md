@@ -1,12 +1,3 @@
----
-title: Giant Slayer Antimatter Rifle
-icon: ':luggage:'
-aliases: Giant Slayer Antimatter Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OPhfylhMzo2F9tdk
-tags:
-- Item
----
-
 # Giant Slayer Antimatter Rifle
 
 **Giant Slayer Antimatter Rifle**

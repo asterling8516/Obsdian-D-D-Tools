@@ -1,12 +1,3 @@
----
-title: Javelin of Lightning
-icon: ':luggage:'
-aliases: Javelin of Lightning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kkR3LXwTrTsGhXMY
-tags:
-- Item
----
-
 # Javelin of Lightning
 
 **Javelin of Lightning**

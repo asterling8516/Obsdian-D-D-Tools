@@ -1,12 +1,3 @@
----
-title: Feather Token (Bird)
-icon: ':luggage:'
-aliases: Feather Token (Bird)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.23MYeKcpT6TrcveZ
-tags:
-- Item
----
-
 # Feather Token (Bird)
 
 **Feather Token (Bird)**

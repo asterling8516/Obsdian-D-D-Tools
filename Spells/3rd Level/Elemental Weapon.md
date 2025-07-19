@@ -1,12 +1,3 @@
----
-title: Elemental Weapon
-icon: ':luggage:'
-aliases: Elemental Weapon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1dcq3uime5TfVd7Q
-tags:
-- Item
----
-
 # Elemental Weapon
 
 **Elemental Weapon**

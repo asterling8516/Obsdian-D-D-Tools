@@ -1,12 +1,3 @@
----
-title: Soap
-icon: ':luggage:'
-aliases: Soap
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iDcETta8vXnBCrFk
-tags:
-- Item
----
-
 # Soap
 
 **Soap**

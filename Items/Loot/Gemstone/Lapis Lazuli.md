@@ -1,12 +1,3 @@
----
-title: Lapis Lazuli
-icon: ':luggage:'
-aliases: Lapis Lazuli
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RBdRkUSQuTb7F4wS
-tags:
-- Item
----
-
 # Lapis Lazuli
 
 **Lapis Lazuli**

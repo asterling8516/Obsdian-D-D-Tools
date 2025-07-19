@@ -1,12 +1,3 @@
----
-title: Belt of Fire Giant Strength
-icon: ':luggage:'
-aliases: Belt of Fire Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OvK62PQt3bUxJ6ES
-tags:
-- Item
----
-
 # Belt of Fire Giant Strength
 
 **Belt of Fire Giant Strength**

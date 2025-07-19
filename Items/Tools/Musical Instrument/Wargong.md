@@ -1,12 +1,3 @@
----
-title: Wargong
-icon: ':luggage:'
-aliases: Wargong
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wAYEWHhepqWKBj0B
-tags:
-- Item
----
-
 # Wargong
 
 **Wargong**

@@ -1,12 +1,3 @@
----
-title: Maddening Darkness
-icon: ':luggage:'
-aliases: Maddening Darkness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.cmcIcQlMY9A4o6Bw
-tags:
-- Item
----
-
 # Maddening Darkness
 
 **Maddening Darkness**

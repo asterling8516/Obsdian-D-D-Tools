@@ -1,12 +1,3 @@
----
-title: Malice
-icon: ':luggage:'
-aliases: Malice
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KLhMb7lzN6PGrGKc
-tags:
-- Item
----
-
 # Malice
 
 **Malice**

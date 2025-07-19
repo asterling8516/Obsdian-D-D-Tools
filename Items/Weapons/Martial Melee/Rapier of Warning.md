@@ -1,12 +1,3 @@
----
-title: Rapier of Warning
-icon: ':luggage:'
-aliases: Rapier of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RTTvnJSfGLlR23v7
-tags:
-- Item
----
-
 # Rapier of Warning
 
 **Rapier of Warning**

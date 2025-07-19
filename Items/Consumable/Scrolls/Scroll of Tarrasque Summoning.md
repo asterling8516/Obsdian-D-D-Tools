@@ -1,12 +1,3 @@
----
-title: Scroll of Tarrasque Summoning
-icon: ':luggage:'
-aliases: Scroll of Tarrasque Summoning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nOjAB5Bs5jtJELcz
-tags:
-- Item
----
-
 # Scroll of Tarrasque Summoning
 
 **Scroll of Tarrasque Summoning**

@@ -1,12 +1,3 @@
----
-title: Barrier Tattoo (Uncommon)
-icon: ':luggage:'
-aliases: Barrier Tattoo (Uncommon)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3o04xjo3zYnrQaWc
-tags:
-- Item
----
-
 # Barrier Tattoo (Uncommon)
 
 **Barrier Tattoo (Uncommon)**

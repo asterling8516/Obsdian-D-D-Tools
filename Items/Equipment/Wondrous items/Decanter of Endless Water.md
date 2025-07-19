@@ -1,12 +1,3 @@
----
-title: Decanter of Endless Water
-icon: ':luggage:'
-aliases: Decanter of Endless Water
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y1HV9TZchSshjcwa
-tags:
-- Item
----
-
 # Decanter of Endless Water
 
 **Decanter of Endless Water**

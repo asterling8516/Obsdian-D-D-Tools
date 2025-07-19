@@ -1,12 +1,3 @@
----
-title: Life Transference
-icon: ':luggage:'
-aliases: Life Transference
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qxziZQZ1TPkv95gz
-tags:
-- Item
----
-
 # Life Transference
 
 **Life Transference**

@@ -1,12 +1,3 @@
----
-title: Rope of Mending
-icon: ':luggage:'
-aliases: Rope of Mending
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vZ8ghAHtqv2IKJay
-tags:
-- Item
----
-
 # Rope of Mending
 
 **Rope of Mending**

@@ -1,12 +1,3 @@
----
-title: Lamprey Ship
-icon: ':luggage:'
-aliases: Lamprey Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YZpXszUogsRsxMuV
-tags:
-- Item
----
-
 # Lamprey Ship
 
 **Lamprey Ship**

@@ -1,12 +1,3 @@
----
-title: Sled
-icon: ':luggage:'
-aliases: Sled
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i2i0ONYnXLMgIOwS
-tags:
-- Item
----
-
 # Sled
 
 **Sled**

@@ -1,12 +1,3 @@
----
-title: Arcane Hand
-icon: ':luggage:'
-aliases: Arcane Hand
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.pbIzNiX61dK9rhys
-tags:
-- Item
----
-
 # Arcane Hand
 
 **Arcane Hand**

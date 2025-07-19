@@ -1,12 +1,3 @@
----
-title: Energy Cells, +1
-icon: ':luggage:'
-aliases: Energy Cells, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xvg4n6hc1cSeOxgt
-tags:
-- Item
----
-
 # Energy Cells, +1
 
 **Energy Cells, +1**

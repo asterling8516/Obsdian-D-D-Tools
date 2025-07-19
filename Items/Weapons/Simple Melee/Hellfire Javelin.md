@@ -1,12 +1,3 @@
----
-title: Hellfire Javelin
-icon: ':luggage:'
-aliases: Hellfire Javelin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.k41nIunLUaqCtmrF
-tags:
-- Item
----
-
 # Hellfire Javelin
 
 **Hellfire Javelin**

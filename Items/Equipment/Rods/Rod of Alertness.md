@@ -1,12 +1,3 @@
----
-title: Rod of Alertness
-icon: ':luggage:'
-aliases: Rod of Alertness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.elyYWNZIctJVGrHF
-tags:
-- Item
----
-
 # Rod of Alertness
 
 **Rod of Alertness**

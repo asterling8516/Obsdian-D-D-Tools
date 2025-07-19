@@ -1,12 +1,3 @@
----
-title: Morningstar of Warning
-icon: ':luggage:'
-aliases: Morningstar of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gnYpu8tuOhAJ4BIZ
-tags:
-- Item
----
-
 # Morningstar of Warning
 
 **Morningstar of Warning**

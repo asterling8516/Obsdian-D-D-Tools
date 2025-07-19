@@ -1,12 +1,3 @@
----
-title: Chill Touch
-icon: ':luggage:'
-aliases: Chill Touch
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0xv5jr0eD2kors5F
-tags:
-- Item
----
-
 # Chill Touch
 
 **Chill Touch**

@@ -1,12 +1,3 @@
----
-title: Arcane Grimoire, +3
-icon: ':luggage:'
-aliases: Arcane Grimoire, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Fxu8zWUA5Q2Xc5i4
-tags:
-- Item
----
-
 # Arcane Grimoire, +3
 
 **Arcane Grimoire, +3**

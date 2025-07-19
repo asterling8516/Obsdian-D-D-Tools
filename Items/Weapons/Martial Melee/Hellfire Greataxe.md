@@ -1,12 +1,3 @@
----
-title: Hellfire Greataxe
-icon: ':luggage:'
-aliases: Hellfire Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1KJqhNHgaC6Q2eff
-tags:
-- Item
----
-
 # Hellfire Greataxe
 
 **Hellfire Greataxe**

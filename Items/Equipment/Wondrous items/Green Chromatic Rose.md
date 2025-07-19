@@ -1,12 +1,3 @@
----
-title: Green Chromatic Rose
-icon: ':luggage:'
-aliases: Green Chromatic Rose
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KKqht3EYOVgpYFyC
-tags:
-- Item
----
-
 # Green Chromatic Rose
 
 **Green Chromatic Rose**

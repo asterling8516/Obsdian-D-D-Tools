@@ -1,12 +1,3 @@
----
-title: Bag of Devouring
-icon: ':luggage:'
-aliases: Bag of Devouring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.foulJsWzbkRHCADq
-tags:
-- Item
----
-
 # Bag of Devouring
 
 **Bag of Devouring**

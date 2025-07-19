@@ -1,12 +1,3 @@
----
-title: Minor Illusion
-icon: ':luggage:'
-aliases: Minor Illusion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.InNXOoPcgBYsh8pb
-tags:
-- Item
----
-
 # Minor Illusion
 
 **Minor Illusion**

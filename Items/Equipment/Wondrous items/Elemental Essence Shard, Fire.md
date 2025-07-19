@@ -1,12 +1,3 @@
----
-title: Elemental Essence Shard, Fire
-icon: ':luggage:'
-aliases: Elemental Essence Shard, Fire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VC16GOyBiu1se3fg
-tags:
-- Item
----
-
 # Elemental Essence Shard, Fire
 
 **Elemental Essence Shard, Fire**

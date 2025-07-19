@@ -1,12 +1,3 @@
----
-title: Dancing Rapier
-icon: ':luggage:'
-aliases: Dancing Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CzW6zfUzMlDqcThB
-tags:
-- Item
----
-
 # Dancing Rapier
 
 **Dancing Rapier**

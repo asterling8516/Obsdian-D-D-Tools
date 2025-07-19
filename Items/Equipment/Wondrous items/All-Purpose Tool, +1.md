@@ -1,12 +1,3 @@
----
-title: All-Purpose Tool, +1
-icon: ':luggage:'
-aliases: All-Purpose Tool, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jPeWSLYnOIamkYlQ
-tags:
-- Item
----
-
 # All-Purpose Tool, +1
 
 **All-Purpose Tool, +1**

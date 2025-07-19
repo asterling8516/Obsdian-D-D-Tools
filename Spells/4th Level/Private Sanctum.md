@@ -1,12 +1,3 @@
----
-title: Private Sanctum
-icon: ':luggage:'
-aliases: Private Sanctum
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kYFRuWhBeaKG2n2z
-tags:
-- Item
----
-
 # Private Sanctum
 
 **Private Sanctum**

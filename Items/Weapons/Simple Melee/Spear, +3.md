@@ -1,12 +1,3 @@
----
-title: Spear, +3
-icon: ':luggage:'
-aliases: Spear, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z0T42sqL1Wc2LvdM
-tags:
-- Item
----
-
 # Spear, +3
 
 **Spear, +3**

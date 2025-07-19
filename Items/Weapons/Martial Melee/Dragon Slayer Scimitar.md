@@ -1,12 +1,3 @@
----
-title: Dragon Slayer Scimitar
-icon: ':luggage:'
-aliases: Dragon Slayer Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Np9BZm795rvYmQt1
-tags:
-- Item
----
-
 # Dragon Slayer Scimitar
 
 **Dragon Slayer Scimitar**

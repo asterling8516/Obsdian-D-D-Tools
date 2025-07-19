@@ -1,12 +1,3 @@
----
-title: Heward's Handy Haversack
-icon: ':luggage:'
-aliases: Heward's Handy Haversack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.paGft7SkSraVAZiL
-tags:
-- Item
----
-
 # Heward's Handy Haversack
 
 **Heward's Handy Haversack**

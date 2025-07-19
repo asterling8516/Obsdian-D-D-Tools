@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer War Pick
-icon: ':luggage:'
-aliases: Nine Lives Stealer War Pick
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JcGH3FiC4isYa86T
-tags:
-- Item
----
-
 # Nine Lives Stealer War Pick
 
 **Nine Lives Stealer War Pick**

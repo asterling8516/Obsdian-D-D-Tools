@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Breastplate
-icon: ':luggage:'
-aliases: Smoldering Armor, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DEFFHneDHHlHQA1T
-tags:
-- Item
----
-
 # Smoldering Armor, Breastplate
 
 **Smoldering Armor, Breastplate**

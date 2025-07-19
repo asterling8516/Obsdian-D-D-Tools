@@ -1,12 +1,3 @@
----
-title: Cloak of Displacement
-icon: ':luggage:'
-aliases: Cloak of Displacement
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bCE64qXnXj0tZKd8
-tags:
-- Item
----
-
 # Cloak of Displacement
 
 **Cloak of Displacement**

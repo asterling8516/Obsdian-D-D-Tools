@@ -1,12 +1,3 @@
----
-title: Immolation
-icon: ':luggage:'
-aliases: Immolation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.2CVcE4UxmeMftWrT
-tags:
-- Item
----
-
 # Immolation
 
 **Immolation**

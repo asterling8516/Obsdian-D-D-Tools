@@ -1,12 +1,3 @@
----
-title: Feather Token (Feather Fall)
-icon: ':luggage:'
-aliases: Feather Token (Feather Fall)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.evpa9uJMLKDJylgh
-tags:
-- Item
----
-
 # Feather Token (Feather Fall)
 
 **Feather Token (Feather Fall)**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Dagger
-icon: ':luggage:'
-aliases: Nine Lives Stealer Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MfNaOsdBDVtX4rzT
-tags:
-- Item
----
-
 # Nine Lives Stealer Dagger
 
 **Nine Lives Stealer Dagger**

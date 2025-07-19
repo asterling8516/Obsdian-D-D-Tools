@@ -1,12 +1,3 @@
----
-title: Whetstone
-icon: ':luggage:'
-aliases: Whetstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YdIjOvwJQEDUjQ3f
-tags:
-- Item
----
-
 # Whetstone
 
 **Whetstone**

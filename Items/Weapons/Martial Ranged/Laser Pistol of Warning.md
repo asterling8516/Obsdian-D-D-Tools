@@ -1,12 +1,3 @@
----
-title: Laser Pistol of Warning
-icon: ':luggage:'
-aliases: Laser Pistol of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Sczp7gukXAydNYKN
-tags:
-- Item
----
-
 # Laser Pistol of Warning
 
 **Laser Pistol of Warning**

@@ -1,12 +1,3 @@
----
-title: Metal Skull Armor
-icon: ':luggage:'
-aliases: Metal Skull Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.X5yXNr2A1W5oMD43
-tags:
-- Item
----
-
 # Metal Skull Armor
 
 **Metal Skull Armor**

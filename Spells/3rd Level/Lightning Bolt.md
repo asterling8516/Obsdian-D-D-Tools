@@ -1,12 +1,3 @@
----
-title: Lightning Bolt
-icon: ':luggage:'
-aliases: Lightning Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.h3xU0MyucRpzhAgB
-tags:
-- Item
----
-
 # Lightning Bolt
 
 **Lightning Bolt**

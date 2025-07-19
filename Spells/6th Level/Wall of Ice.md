@@ -1,12 +1,3 @@
----
-title: Wall of Ice
-icon: ':luggage:'
-aliases: Wall of Ice
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0hmROsH3bzlH9hoL
-tags:
-- Item
----
-
 # Wall of Ice
 
 **Wall of Ice**

@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Splint
-icon: ':luggage:'
-aliases: Smoldering Armor, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UpzRgYR8erpISFAz
-tags:
-- Item
----
-
 # Smoldering Armor, Splint
 
 **Smoldering Armor, Splint**

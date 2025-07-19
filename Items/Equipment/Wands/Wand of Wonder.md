@@ -1,12 +1,3 @@
----
-title: Wand of Wonder
-icon: ':luggage:'
-aliases: Wand of Wonder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y66hBFdJrm6BR5oX
-tags:
-- Item
----
-
 # Wand of Wonder
 
 **Wand of Wonder**

@@ -1,12 +1,3 @@
----
-title: Shadowfell Shard
-icon: ':luggage:'
-aliases: Shadowfell Shard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PcHDoVlyp9g4ew6e
-tags:
-- Item
----
-
 # Shadowfell Shard
 
 **Shadowfell Shard**

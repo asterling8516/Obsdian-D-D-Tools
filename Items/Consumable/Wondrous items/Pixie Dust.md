@@ -1,12 +1,3 @@
----
-title: Pixie Dust
-icon: ':luggage:'
-aliases: Pixie Dust
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YUQvGdiTFnfUDIJY
-tags:
-- Item
----
-
 # Pixie Dust
 
 **Pixie Dust**

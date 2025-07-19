@@ -1,12 +1,3 @@
----
-title: Rotor of Return
-icon: ':luggage:'
-aliases: Rotor of Return
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ztJBed7E8iBIlb0J
-tags:
-- Item
----
-
 # Rotor of Return
 
 **Rotor of Return**

@@ -1,12 +1,3 @@
----
-title: Finger of Death
-icon: ':luggage:'
-aliases: Finger of Death
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SJ742AJznmlT6PGN
-tags:
-- Item
----
-
 # Finger of Death
 
 **Finger of Death**

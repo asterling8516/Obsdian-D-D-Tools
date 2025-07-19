@@ -1,12 +1,3 @@
----
-title: Destructive Wave
-icon: ':luggage:'
-aliases: Destructive Wave
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KO6NOzYQPMx8BblI
-tags:
-- Item
----
-
 # Destructive Wave
 
 **Destructive Wave**

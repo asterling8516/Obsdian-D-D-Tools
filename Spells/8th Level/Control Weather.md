@@ -1,12 +1,3 @@
----
-title: Control Weather
-icon: ':luggage:'
-aliases: Control Weather
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bDErNBtuYUZOQSXQ
-tags:
-- Item
----
-
 # Control Weather
 
 **Control Weather**

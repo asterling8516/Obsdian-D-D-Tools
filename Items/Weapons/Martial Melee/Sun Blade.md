@@ -1,12 +1,3 @@
----
-title: Sun Blade
-icon: ':luggage:'
-aliases: Sun Blade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UGiQLuqrYKbRsAKf
-tags:
-- Item
----
-
 # Sun Blade
 
 **Sun Blade**

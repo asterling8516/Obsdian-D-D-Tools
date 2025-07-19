@@ -1,12 +1,3 @@
----
-title: Mace of Warning
-icon: ':luggage:'
-aliases: Mace of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tPPUPS7GgBasQjV2
-tags:
-- Item
----
-
 # Mace of Warning
 
 **Mace of Warning**

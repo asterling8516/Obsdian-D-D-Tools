@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Silver)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Silver)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ciPyrPBkMeJJlDBo
-tags:
-- Item
----
-
 # Dragon Scale Mail (Silver)
 
 **Dragon Scale Mail (Silver)**

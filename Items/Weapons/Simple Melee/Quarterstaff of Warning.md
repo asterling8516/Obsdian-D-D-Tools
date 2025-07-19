@@ -1,12 +1,3 @@
----
-title: Quarterstaff of Warning
-icon: ':luggage:'
-aliases: Quarterstaff of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ObPDGvqD3EZJVvhu
-tags:
-- Item
----
-
 # Quarterstaff of Warning
 
 **Quarterstaff of Warning**

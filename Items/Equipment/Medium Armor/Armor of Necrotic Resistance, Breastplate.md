@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YiJN8uVqYtacnJNz
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Breastplate
 
 **Armor of Necrotic Resistance, Breastplate**

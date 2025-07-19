@@ -1,12 +1,3 @@
----
-title: Dominate Beast
-icon: ':luggage:'
-aliases: Dominate Beast
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Lf41VxVwpax2z3Zd
-tags:
-- Item
----
-
 # Dominate Beast
 
 **Dominate Beast**

@@ -1,12 +1,3 @@
----
-title: Summon Fey
-icon: ':luggage:'
-aliases: Summon Fey
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.d8XhokI6vOcwypow
-tags:
-- Item
----
-
 # Summon Fey
 
 **Summon Fey**

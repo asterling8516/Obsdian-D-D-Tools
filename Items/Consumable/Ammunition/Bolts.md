@@ -1,12 +1,3 @@
----
-title: Bolts
-icon: ':luggage:'
-aliases: Bolts
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.N7NtCLKmuA2WCf7e
-tags:
-- Item
----
-
 # Bolts
 
 **Bolts**

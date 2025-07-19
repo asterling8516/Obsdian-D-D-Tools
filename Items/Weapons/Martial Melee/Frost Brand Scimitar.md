@@ -1,12 +1,3 @@
----
-title: Frost Brand Scimitar
-icon: ':luggage:'
-aliases: Frost Brand Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RCGb4KhES1iIHLNa
-tags:
-- Item
----
-
 # Frost Brand Scimitar
 
 **Frost Brand Scimitar**

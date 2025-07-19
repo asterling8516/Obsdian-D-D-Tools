@@ -1,12 +1,3 @@
----
-title: Ivana's Whisper (Inhaled)
-icon: ':luggage:'
-aliases: Ivana's Whisper (Inhaled)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0BNBX1y3L0BxIVak
-tags:
-- Item
----
-
 # Ivana's Whisper (Inhaled)
 
 **Ivana's Whisper (Inhaled)**

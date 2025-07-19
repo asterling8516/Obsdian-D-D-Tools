@@ -1,12 +1,3 @@
----
-title: Infestation
-icon: ':luggage:'
-aliases: Infestation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UOZTa57hcR4IImUY
-tags:
-- Item
----
-
 # Infestation
 
 **Infestation**

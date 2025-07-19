@@ -1,12 +1,3 @@
----
-title: Feather Token (Anchor)
-icon: ':luggage:'
-aliases: Feather Token (Anchor)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MzpTCVJMeiJyHcwJ
-tags:
-- Item
----
-
 # Feather Token (Anchor)
 
 **Feather Token (Anchor)**

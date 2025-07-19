@@ -1,12 +1,3 @@
----
-title: Lyre of Building
-icon: ':luggage:'
-aliases: Lyre of Building
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MHQtfzFZXZKJnqcy
-tags:
-- Item
----
-
 # Lyre of Building
 
 **Lyre of Building**

@@ -1,12 +1,3 @@
----
-title: Gnomengarde Grenade
-icon: ':luggage:'
-aliases: Gnomengarde Grenade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WFs1joDspMzzpZNH
-tags:
-- Item
----
-
 # Gnomengarde Grenade
 
 **Gnomengarde Grenade**

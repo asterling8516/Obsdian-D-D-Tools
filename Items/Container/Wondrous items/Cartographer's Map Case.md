@@ -1,12 +1,3 @@
----
-title: Cartographer's Map Case
-icon: ':luggage:'
-aliases: Cartographer's Map Case
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DQtLuaOy78oBIrqs
-tags:
-- Item
----
-
 # Cartographer's Map Case
 
 **Cartographer's Map Case**

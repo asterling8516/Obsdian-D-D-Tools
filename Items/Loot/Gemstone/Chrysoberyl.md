@@ -1,12 +1,3 @@
----
-title: Chrysoberyl
-icon: ':luggage:'
-aliases: Chrysoberyl
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wrakq5GtbFo3IeNF
-tags:
-- Item
----
-
 # Chrysoberyl
 
 **Chrysoberyl**

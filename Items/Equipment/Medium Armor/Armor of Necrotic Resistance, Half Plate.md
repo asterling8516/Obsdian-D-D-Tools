@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jNCso457YFeSWtd5
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Half Plate
 
 **Armor of Necrotic Resistance, Half Plate**

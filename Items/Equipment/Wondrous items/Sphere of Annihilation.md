@@ -1,12 +1,3 @@
----
-title: Sphere of Annihilation
-icon: ':luggage:'
-aliases: Sphere of Annihilation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0L5NMv85yhpgUAZ7
-tags:
-- Item
----
-
 # Sphere of Annihilation
 
 **Sphere of Annihilation**

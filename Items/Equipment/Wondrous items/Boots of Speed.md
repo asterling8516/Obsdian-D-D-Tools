@@ -1,12 +1,3 @@
----
-title: Boots of Speed
-icon: ':luggage:'
-aliases: Boots of Speed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zkhaCXPfComAcfJL
-tags:
-- Item
----
-
 # Boots of Speed
 
 **Boots of Speed**

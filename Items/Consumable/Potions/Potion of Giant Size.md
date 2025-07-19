@@ -1,12 +1,3 @@
----
-title: Potion of Giant Size
-icon: ':luggage:'
-aliases: Potion of Giant Size
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jJRRFV7wFiyPNPYr
-tags:
-- Item
----
-
 # Potion of Giant Size
 
 **Potion of Giant Size**

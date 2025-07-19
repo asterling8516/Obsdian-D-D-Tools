@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tkDkvHW1aLoJ54YG
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Studded Leather
 
 **Armor of Psychic Resistance, Studded Leather**

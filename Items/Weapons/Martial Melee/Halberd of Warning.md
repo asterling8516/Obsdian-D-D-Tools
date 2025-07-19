@@ -1,12 +1,3 @@
----
-title: Halberd of Warning
-icon: ':luggage:'
-aliases: Halberd of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IC8VijVfFx5EA9dX
-tags:
-- Item
----
-
 # Halberd of Warning
 
 **Halberd of Warning**

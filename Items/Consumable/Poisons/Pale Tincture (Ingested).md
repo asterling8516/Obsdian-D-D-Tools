@@ -1,12 +1,3 @@
----
-title: Pale Tincture (Ingested)
-icon: ':luggage:'
-aliases: Pale Tincture (Ingested)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fFEfj0r1BCVsKYjD
-tags:
-- Item
----
-
 # Pale Tincture (Ingested)
 
 **Pale Tincture (Ingested)**

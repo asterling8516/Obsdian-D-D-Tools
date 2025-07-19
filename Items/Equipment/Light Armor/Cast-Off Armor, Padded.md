@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Padded
-icon: ':luggage:'
-aliases: Cast-Off Armor, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YJdjYV94gH6k7hD3
-tags:
-- Item
----
-
 # Cast-Off Armor, Padded
 
 **Cast-Off Armor, Padded**

@@ -1,12 +1,3 @@
----
-title: Erupting Earth
-icon: ':luggage:'
-aliases: Erupting Earth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.DUDNkR1u5CqKIJAW
-tags:
-- Item
----
-
 # Erupting Earth
 
 **Erupting Earth**

@@ -1,12 +1,3 @@
----
-title: Instant Summons
-icon: ':luggage:'
-aliases: Instant Summons
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5D5h3OrPPgoWT3BU
-tags:
-- Item
----
-
 # Instant Summons
 
 **Instant Summons**

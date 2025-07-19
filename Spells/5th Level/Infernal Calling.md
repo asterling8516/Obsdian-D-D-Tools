@@ -1,12 +1,3 @@
----
-title: Infernal Calling
-icon: ':luggage:'
-aliases: Infernal Calling
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.erJn7QcaP5zynY2k
-tags:
-- Item
----
-
 # Infernal Calling
 
 **Infernal Calling**

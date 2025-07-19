@@ -1,12 +1,3 @@
----
-title: Longsword of Wounding
-icon: ':luggage:'
-aliases: Longsword of Wounding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l7zbeXgnqy1LA6mv
-tags:
-- Item
----
-
 # Longsword of Wounding
 
 **Longsword of Wounding**

@@ -1,12 +1,3 @@
----
-title: Storm Sphere
-icon: ':luggage:'
-aliases: Storm Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GQoogYW2v9P66Ina
-tags:
-- Item
----
-
 # Storm Sphere
 
 **Storm Sphere**

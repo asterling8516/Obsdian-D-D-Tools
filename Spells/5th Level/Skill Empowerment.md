@@ -1,12 +1,3 @@
----
-title: Skill Empowerment
-icon: ':luggage:'
-aliases: Skill Empowerment
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.k1Tbgd4eGvVkzrxK
-tags:
-- Item
----
-
 # Skill Empowerment
 
 **Skill Empowerment**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Pan Flute
-icon: ':luggage:'
-aliases: Living Gloves, Pan Flute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tTnX9P1kBZbotPE0
-tags:
-- Item
----
-
 # Living Gloves, Pan Flute
 
 **Living Gloves, Pan Flute**

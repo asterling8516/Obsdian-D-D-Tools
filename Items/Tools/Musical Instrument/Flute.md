@@ -1,12 +1,3 @@
----
-title: Flute
-icon: ':luggage:'
-aliases: Flute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Wdaif1jifENtDFej
-tags:
-- Item
----
-
 # Flute
 
 **Flute**

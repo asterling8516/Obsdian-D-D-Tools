@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kMxCuNJNiddc1AVB
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Chain Mail
 
 **Armor of Poison Resistance, Chain Mail**

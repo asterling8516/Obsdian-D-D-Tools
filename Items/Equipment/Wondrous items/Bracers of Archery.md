@@ -1,12 +1,3 @@
----
-title: Bracers of Archery
-icon: ':luggage:'
-aliases: Bracers of Archery
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5NjZuL7DMt3V3wRu
-tags:
-- Item
----
-
 # Bracers of Archery
 
 **Bracers of Archery**

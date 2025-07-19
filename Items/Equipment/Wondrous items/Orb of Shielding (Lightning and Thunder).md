@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Lightning and Thunder)
-icon: ':luggage:'
-aliases: Orb of Shielding (Lightning and Thunder)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.O9xmEWzKMrDKl4id
-tags:
-- Item
----
-
 # Orb of Shielding (Lightning and Thunder)
 
 **Orb of Shielding (Lightning and Thunder)**

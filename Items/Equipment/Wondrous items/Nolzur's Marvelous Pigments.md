@@ -1,12 +1,3 @@
----
-title: Nolzur's Marvelous Pigments
-icon: ':luggage:'
-aliases: Nolzur's Marvelous Pigments
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ilO6XbObol8MCIL6
-tags:
-- Item
----
-
 # Nolzur's Marvelous Pigments
 
 **Nolzur's Marvelous Pigments**

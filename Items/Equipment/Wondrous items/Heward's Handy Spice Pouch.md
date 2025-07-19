@@ -1,12 +1,3 @@
----
-title: Heward's Handy Spice Pouch
-icon: ':luggage:'
-aliases: Heward's Handy Spice Pouch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PMOEcaM2xeOu8BNv
-tags:
-- Item
----
-
 # Heward's Handy Spice Pouch
 
 **Heward's Handy Spice Pouch**

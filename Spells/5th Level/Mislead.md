@@ -1,12 +1,3 @@
----
-title: Mislead
-icon: ':luggage:'
-aliases: Mislead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ser3ZjZV6A9VwoUL
-tags:
-- Item
----
-
 # Mislead
 
 **Mislead**

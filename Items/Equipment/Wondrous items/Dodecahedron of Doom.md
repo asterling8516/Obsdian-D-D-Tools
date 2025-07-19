@@ -1,12 +1,3 @@
----
-title: Dodecahedron of Doom
-icon: ':luggage:'
-aliases: Dodecahedron of Doom
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VWxNC0EKHNeu5oUn
-tags:
-- Item
----
-
 # Dodecahedron of Doom
 
 **Dodecahedron of Doom**

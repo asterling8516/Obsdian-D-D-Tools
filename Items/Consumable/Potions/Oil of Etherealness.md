@@ -1,12 +1,3 @@
----
-title: Oil of Etherealness
-icon: ':luggage:'
-aliases: Oil of Etherealness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vCWPMtw92Ci2U9O5
-tags:
-- Item
----
-
 # Oil of Etherealness
 
 **Oil of Etherealness**

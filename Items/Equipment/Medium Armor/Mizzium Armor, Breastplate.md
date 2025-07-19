@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Breastplate
-icon: ':luggage:'
-aliases: Mizzium Armor, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EPUo2A8QBUyd0E8u
-tags:
-- Item
----
-
 # Mizzium Armor, Breastplate
 
 **Mizzium Armor, Breastplate**

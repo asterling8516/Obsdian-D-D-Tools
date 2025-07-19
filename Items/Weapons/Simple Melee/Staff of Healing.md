@@ -1,12 +1,3 @@
----
-title: Staff of Healing
-icon: ':luggage:'
-aliases: Staff of Healing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0ITygKMp6PECe4nh
-tags:
-- Item
----
-
 # Staff of Healing
 
 **Staff of Healing**

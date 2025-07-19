@@ -1,12 +1,3 @@
----
-title: Word of Recall
-icon: ':luggage:'
-aliases: Word of Recall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NFlIvCx3RoNa4aCY
-tags:
-- Item
----
-
 # Word of Recall
 
 **Word of Recall**

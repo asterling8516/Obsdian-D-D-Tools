@@ -1,12 +1,3 @@
----
-title: Dimir Guild Signet
-icon: ':luggage:'
-aliases: Dimir Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lKGU7dJbcc4ziUSx
-tags:
-- Item
----
-
 # Dimir Guild Signet
 
 **Dimir Guild Signet**

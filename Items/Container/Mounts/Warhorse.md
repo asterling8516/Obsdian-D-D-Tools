@@ -1,12 +1,3 @@
----
-title: Warhorse
-icon: ':luggage:'
-aliases: Warhorse
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FIXP0KvahQ0bsf16
-tags:
-- Item
----
-
 # Warhorse
 
 **Warhorse**

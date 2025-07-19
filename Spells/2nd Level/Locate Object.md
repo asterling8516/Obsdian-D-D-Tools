@@ -1,12 +1,3 @@
----
-title: Locate Object
-icon: ':luggage:'
-aliases: Locate Object
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.E2P4n3NADyRCSZzZ
-tags:
-- Item
----
-
 # Locate Object
 
 **Locate Object**

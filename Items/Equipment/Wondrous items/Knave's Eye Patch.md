@@ -1,12 +1,3 @@
----
-title: Knave's Eye Patch
-icon: ':luggage:'
-aliases: Knave's Eye Patch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PzIeIDpYEYDyxrx5
-tags:
-- Item
----
-
 # Knave's Eye Patch
 
 **Knave's Eye Patch**

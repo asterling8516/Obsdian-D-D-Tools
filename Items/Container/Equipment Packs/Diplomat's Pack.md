@@ -1,12 +1,3 @@
----
-title: Diplomat's Pack
-icon: ':luggage:'
-aliases: Diplomat's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.deZpab6SYAiCDVok
-tags:
-- Item
----
-
 # Diplomat's Pack
 
 **Diplomat's Pack**

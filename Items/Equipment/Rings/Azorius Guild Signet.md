@@ -1,12 +1,3 @@
----
-title: Azorius Guild Signet
-icon: ':luggage:'
-aliases: Azorius Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sC0kYydFcMdfkxiL
-tags:
-- Item
----
-
 # Azorius Guild Signet
 
 **Azorius Guild Signet**

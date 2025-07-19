@@ -1,12 +1,3 @@
----
-title: Remove Curse
-icon: ':luggage:'
-aliases: Remove Curse
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Fp3LPlGIVHoV73Bj
-tags:
-- Item
----
-
 # Remove Curse
 
 **Remove Curse**

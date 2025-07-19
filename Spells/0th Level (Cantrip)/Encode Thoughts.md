@@ -1,12 +1,3 @@
----
-title: Encode Thoughts
-icon: ':luggage:'
-aliases: Encode Thoughts
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.LnuSe2azug1MC6D0
-tags:
-- Item
----
-
 # Encode Thoughts
 
 **Encode Thoughts**

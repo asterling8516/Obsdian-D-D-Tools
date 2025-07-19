@@ -1,12 +1,3 @@
----
-title: Alarm
-icon: ':luggage:'
-aliases: Alarm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.05NdaeAjpyxSw0Nj
-tags:
-- Item
----
-
 # Alarm
 
 **Alarm**

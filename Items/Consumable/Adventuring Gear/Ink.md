@@ -1,12 +1,3 @@
----
-title: Ink
-icon: ':luggage:'
-aliases: Ink
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jaEoVvW3T85jQdv7
-tags:
-- Item
----
-
 # Ink
 
 **Ink**

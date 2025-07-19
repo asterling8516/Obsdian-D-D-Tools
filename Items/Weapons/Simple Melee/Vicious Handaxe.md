@@ -1,12 +1,3 @@
----
-title: Vicious Handaxe
-icon: ':luggage:'
-aliases: Vicious Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i4s0yry4exFAE2om
-tags:
-- Item
----
-
 # Vicious Handaxe
 
 **Vicious Handaxe**

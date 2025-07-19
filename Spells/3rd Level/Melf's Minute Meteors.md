@@ -1,12 +1,3 @@
----
-title: Melf's Minute Meteors
-icon: ':luggage:'
-aliases: Melf's Minute Meteors
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fBxDo47D9zvyX41n
-tags:
-- Item
----
-
 # Melf's Minute Meteors
 
 **Melf's Minute Meteors**

@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.G2E1IdeDotjGuP5N
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Splint
 
 **Armor of Acid Resistance, Splint**

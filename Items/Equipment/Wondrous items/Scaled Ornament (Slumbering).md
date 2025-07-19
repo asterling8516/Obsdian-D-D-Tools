@@ -1,12 +1,3 @@
----
-title: Scaled Ornament (Slumbering)
-icon: ':luggage:'
-aliases: Scaled Ornament (Slumbering)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.seYJIar8wW76DHw0
-tags:
-- Item
----
-
 # Scaled Ornament (Slumbering)
 
 **Scaled Ornament (Slumbering)**

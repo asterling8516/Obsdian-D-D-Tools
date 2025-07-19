@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pvSd9zeNU6VeppNF
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Studded Leather
 
 **Armor of Radiant Resistance, Studded Leather**

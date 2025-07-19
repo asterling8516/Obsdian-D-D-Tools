@@ -1,12 +1,3 @@
----
-title: Baba Yaga's Mortar
-icon: ':luggage:'
-aliases: Baba Yaga's Mortar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vsIVwRc5HEkDsUmg
-tags:
-- Item
----
-
 # Baba Yaga's Mortar
 
 **Baba Yaga's Mortar**

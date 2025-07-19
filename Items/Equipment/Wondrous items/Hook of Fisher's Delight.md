@@ -1,12 +1,3 @@
----
-title: Hook of Fisher's Delight
-icon: ':luggage:'
-aliases: Hook of Fisher's Delight
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GKzh6bQ5EL6NfYeK
-tags:
-- Item
----
-
 # Hook of Fisher's Delight
 
 **Hook of Fisher's Delight**

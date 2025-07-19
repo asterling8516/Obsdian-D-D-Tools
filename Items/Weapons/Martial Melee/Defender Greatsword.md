@@ -1,12 +1,3 @@
----
-title: Defender Greatsword
-icon: ':luggage:'
-aliases: Defender Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UjOddXnqUM6e8aqx
-tags:
-- Item
----
-
 # Defender Greatsword
 
 **Defender Greatsword**

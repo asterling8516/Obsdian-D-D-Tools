@@ -1,12 +1,3 @@
----
-title: Giant Slayer Mace
-icon: ':luggage:'
-aliases: Giant Slayer Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RHT4tuWV8FGkPPbu
-tags:
-- Item
----
-
 # Giant Slayer Mace
 
 **Giant Slayer Mace**

@@ -1,12 +1,3 @@
----
-title: Bead of Refreshment
-icon: ':luggage:'
-aliases: Bead of Refreshment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.G614LLPhIdAfD0FE
-tags:
-- Item
----
-
 # Bead of Refreshment
 
 **Bead of Refreshment**

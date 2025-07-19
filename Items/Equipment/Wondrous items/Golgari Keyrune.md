@@ -1,12 +1,3 @@
----
-title: Golgari Keyrune
-icon: ':luggage:'
-aliases: Golgari Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XKH09fRwUMrInc6p
-tags:
-- Item
----
-
 # Golgari Keyrune
 
 **Golgari Keyrune**

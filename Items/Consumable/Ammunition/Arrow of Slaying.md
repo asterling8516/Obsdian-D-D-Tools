@@ -1,12 +1,3 @@
----
-title: Arrow of Slaying
-icon: ':luggage:'
-aliases: Arrow of Slaying
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.efLW0B0pgLhWl0au
-tags:
-- Item
----
-
 # Arrow of Slaying
 
 **Arrow of Slaying**

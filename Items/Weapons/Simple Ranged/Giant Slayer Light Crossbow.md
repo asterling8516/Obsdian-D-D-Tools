@@ -1,12 +1,3 @@
----
-title: Giant Slayer Light Crossbow
-icon: ':luggage:'
-aliases: Giant Slayer Light Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bhEPdQceUCYAm8Eo
-tags:
-- Item
----
-
 # Giant Slayer Light Crossbow
 
 **Giant Slayer Light Crossbow**

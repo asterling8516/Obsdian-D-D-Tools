@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bnOTwRLBb6lzK3RA
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Chain Shirt
 
 **Armor of Lightning Resistance, Chain Shirt**

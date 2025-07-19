@@ -1,12 +1,3 @@
----
-title: Mastiff
-icon: ':luggage:'
-aliases: Mastiff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jP8nGKCRDgN52y5Y
-tags:
-- Item
----
-
 # Mastiff
 
 **Mastiff**

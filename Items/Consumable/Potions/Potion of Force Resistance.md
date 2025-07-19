@@ -1,12 +1,3 @@
----
-title: Potion of Force Resistance
-icon: ':luggage:'
-aliases: Potion of Force Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.upIve1Vr7quZREQQ
-tags:
-- Item
----
-
 # Potion of Force Resistance
 
 **Potion of Force Resistance**

@@ -1,12 +1,3 @@
----
-title: Otto's Irresistible Dance
-icon: ':luggage:'
-aliases: Otto's Irresistible Dance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hZLhmzFianrH3q9y
-tags:
-- Item
----
-
 # Otto's Irresistible Dance
 
 **Otto's Irresistible Dance**

@@ -1,12 +1,3 @@
----
-title: Star Ruby
-icon: ':luggage:'
-aliases: Star Ruby
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fGgkGKDH7eDgFvQ5
-tags:
-- Item
----
-
 # Star Ruby
 
 **Star Ruby**

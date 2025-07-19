@@ -1,12 +1,3 @@
----
-title: Laser Rifle of Warning
-icon: ':luggage:'
-aliases: Laser Rifle of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vc9hi6ngRtKLdKGn
-tags:
-- Item
----
-
 # Laser Rifle of Warning
 
 **Laser Rifle of Warning**

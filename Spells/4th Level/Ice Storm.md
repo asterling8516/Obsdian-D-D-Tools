@@ -1,12 +1,3 @@
----
-title: Ice Storm
-icon: ':luggage:'
-aliases: Ice Storm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.p9Cxr1NDC6NRNvPk
-tags:
-- Item
----
-
 # Ice Storm
 
 **Ice Storm**

@@ -1,12 +1,3 @@
----
-title: Potion of Climbing
-icon: ':luggage:'
-aliases: Potion of Climbing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bR3Bz0VHLObUK4xH
-tags:
-- Item
----
-
 # Potion of Climbing
 
 **Potion of Climbing**

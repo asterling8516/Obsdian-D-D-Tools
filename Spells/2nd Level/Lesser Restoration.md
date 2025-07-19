@@ -1,12 +1,3 @@
----
-title: Lesser Restoration
-icon: ':luggage:'
-aliases: Lesser Restoration
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.uFQXnNesnAb28avi
-tags:
-- Item
----
-
 # Lesser Restoration
 
 **Lesser Restoration**

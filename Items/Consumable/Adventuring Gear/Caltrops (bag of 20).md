@@ -1,12 +1,3 @@
----
-title: Caltrops (bag of 20)
-icon: ':luggage:'
-aliases: Caltrops (bag of 20)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kkpWgF0OvYY95qoA
-tags:
-- Item
----
-
 # Caltrops (bag of 20)
 
 **Caltrops (bag of 20)**

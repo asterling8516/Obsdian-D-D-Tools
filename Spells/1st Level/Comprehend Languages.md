@@ -1,12 +1,3 @@
----
-title: Comprehend Languages
-icon: ':luggage:'
-aliases: Comprehend Languages
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5QBbhUcJZWeVrBID
-tags:
-- Item
----
-
 # Comprehend Languages
 
 **Comprehend Languages**

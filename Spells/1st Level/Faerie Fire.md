@@ -1,12 +1,3 @@
----
-title: Faerie Fire
-icon: ':luggage:'
-aliases: Faerie Fire
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.oYpKXcEfogz8710k
-tags:
-- Item
----
-
 # Faerie Fire
 
 **Faerie Fire**

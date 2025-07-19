@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Scimitar
-icon: ':luggage:'
-aliases: Nine Lives Stealer Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.u7DxHo3nGbtm0pPl
-tags:
-- Item
----
-
 # Nine Lives Stealer Scimitar
 
 **Nine Lives Stealer Scimitar**

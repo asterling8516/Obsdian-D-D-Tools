@@ -1,12 +1,3 @@
----
-title: Dragonchess Set
-icon: ':luggage:'
-aliases: Dragonchess Set
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SCm7pZhewXN7Qdyi
-tags:
-- Item
----
-
 # Dragonchess Set
 
 **Dragonchess Set**

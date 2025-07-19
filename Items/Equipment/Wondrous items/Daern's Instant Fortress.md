@@ -1,12 +1,3 @@
----
-title: Daern's Instant Fortress
-icon: ':luggage:'
-aliases: Daern's Instant Fortress
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pPy4oKDOHr8aJH1B
-tags:
-- Item
----
-
 # Daern's Instant Fortress
 
 **Daern's Instant Fortress**

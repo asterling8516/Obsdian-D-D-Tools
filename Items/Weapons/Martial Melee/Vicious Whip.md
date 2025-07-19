@@ -1,12 +1,3 @@
----
-title: Vicious Whip
-icon: ':luggage:'
-aliases: Vicious Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3lt9Dzz8scEUv6oT
-tags:
-- Item
----
-
 # Vicious Whip
 
 **Vicious Whip**

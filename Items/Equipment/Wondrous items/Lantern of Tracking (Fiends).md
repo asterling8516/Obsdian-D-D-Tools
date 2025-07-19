@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Fiends)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Fiends)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Etp3cxiFAHSKAtRZ
-tags:
-- Item
----
-
 # Lantern of Tracking (Fiends)
 
 **Lantern of Tracking (Fiends)**

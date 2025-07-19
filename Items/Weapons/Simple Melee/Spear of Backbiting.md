@@ -1,12 +1,3 @@
----
-title: Spear of Backbiting
-icon: ':luggage:'
-aliases: Spear of Backbiting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uW07lETdKPWva3UQ
-tags:
-- Item
----
-
 # Spear of Backbiting
 
 **Spear of Backbiting**

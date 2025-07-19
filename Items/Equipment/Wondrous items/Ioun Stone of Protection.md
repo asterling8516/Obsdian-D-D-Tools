@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Protection
-icon: ':luggage:'
-aliases: Ioun Stone of Protection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.A6CAvZGcVMkhpPGH
-tags:
-- Item
----
-
 # Ioun Stone of Protection
 
 **Ioun Stone of Protection**

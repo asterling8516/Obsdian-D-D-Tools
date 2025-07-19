@@ -1,12 +1,3 @@
----
-title: Carnelian
-icon: ':luggage:'
-aliases: Carnelian
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ote3DlrygP5f6Awn
-tags:
-- Item
----
-
 # Carnelian
 
 **Carnelian**

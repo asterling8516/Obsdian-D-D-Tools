@@ -1,12 +1,3 @@
----
-title: Blink
-icon: ':luggage:'
-aliases: Blink
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jwEhO5mwBt47z2ZR
-tags:
-- Item
----
-
 # Blink
 
 **Blink**

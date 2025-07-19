@@ -1,12 +1,3 @@
----
-title: Thunderclap
-icon: ':luggage:'
-aliases: Thunderclap
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.cPRVrU1fmoIEbipj
-tags:
-- Item
----
-
 # Thunderclap
 
 **Thunderclap**

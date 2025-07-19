@@ -1,12 +1,3 @@
----
-title: Scimitar of Speed
-icon: ':luggage:'
-aliases: Scimitar of Speed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.a1q7TNfF7Sbmoyrw
-tags:
-- Item
----
-
 # Scimitar of Speed
 
 **Scimitar of Speed**

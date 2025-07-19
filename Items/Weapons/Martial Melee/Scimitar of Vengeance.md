@@ -1,12 +1,3 @@
----
-title: Scimitar of Vengeance
-icon: ':luggage:'
-aliases: Scimitar of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GudPNv2TV8iFryLQ
-tags:
-- Item
----
-
 # Scimitar of Vengeance
 
 **Scimitar of Vengeance**

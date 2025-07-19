@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1n2D6uBGxYGni588
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Hide
 
 **Armor of Lightning Resistance, Hide**

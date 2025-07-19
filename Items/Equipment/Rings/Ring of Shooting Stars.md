@@ -1,12 +1,3 @@
----
-title: Ring of Shooting Stars
-icon: ':luggage:'
-aliases: Ring of Shooting Stars
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0BU9vYiSa1kY74ET
-tags:
-- Item
----
-
 # Ring of Shooting Stars
 
 **Ring of Shooting Stars**

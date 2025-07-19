@@ -1,12 +1,3 @@
----
-title: Seeker Dart
-icon: ':luggage:'
-aliases: Seeker Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.k9Uw3pJ5we5Gbtsh
-tags:
-- Item
----
-
 # Seeker Dart
 
 **Seeker Dart**

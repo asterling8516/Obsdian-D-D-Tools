@@ -1,12 +1,3 @@
----
-title: Wand of Orcus
-icon: ':luggage:'
-aliases: Wand of Orcus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QsENgRISYuTgNH7j
-tags:
-- Item
----
-
 # Wand of Orcus
 
 **Wand of Orcus**

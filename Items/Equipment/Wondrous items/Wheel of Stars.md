@@ -1,12 +1,3 @@
----
-title: Wheel of Stars
-icon: ':luggage:'
-aliases: Wheel of Stars
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d9YNRXwjL7w1nn7M
-tags:
-- Item
----
-
 # Wheel of Stars
 
 **Wheel of Stars**

@@ -1,12 +1,3 @@
----
-title: Light Hammer
-icon: ':luggage:'
-aliases: Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CVpcWSk0ZpCcL5PT
-tags:
-- Item
----
-
 # Light Hammer
 
 **Light Hammer**

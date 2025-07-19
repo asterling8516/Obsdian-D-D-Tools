@@ -1,12 +1,3 @@
----
-title: Scimitar of Life Stealing
-icon: ':luggage:'
-aliases: Scimitar of Life Stealing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tpPjkIGcTKltYkPD
-tags:
-- Item
----
-
 # Scimitar of Life Stealing
 
 **Scimitar of Life Stealing**

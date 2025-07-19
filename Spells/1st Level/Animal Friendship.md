@@ -1,12 +1,3 @@
----
-title: Animal Friendship
-icon: ':luggage:'
-aliases: Animal Friendship
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.78hfXj8CXc6Q8TIy
-tags:
-- Item
----
-
 # Animal Friendship
 
 **Animal Friendship**

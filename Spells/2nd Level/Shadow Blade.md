@@ -1,12 +1,3 @@
----
-title: Shadow Blade
-icon: ':luggage:'
-aliases: Shadow Blade
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ldqZOxnEGGzzeVPg
-tags:
-- Item
----
-
 # Shadow Blade
 
 **Shadow Blade**

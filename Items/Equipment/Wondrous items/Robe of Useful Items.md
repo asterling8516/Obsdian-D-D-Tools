@@ -1,12 +1,3 @@
----
-title: Robe of Useful Items
-icon: ':luggage:'
-aliases: Robe of Useful Items
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1ukdtdYmnAMJ62Cp
-tags:
-- Item
----
-
 # Robe of Useful Items
 
 **Robe of Useful Items**

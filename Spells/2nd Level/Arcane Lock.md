@@ -1,12 +1,3 @@
----
-title: Arcane Lock
-icon: ':luggage:'
-aliases: Arcane Lock
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.d5WpfwYB2uJcVRFo
-tags:
-- Item
----
-
 # Arcane Lock
 
 **Arcane Lock**

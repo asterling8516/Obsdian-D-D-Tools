@@ -1,12 +1,3 @@
----
-title: Axe Beak
-icon: ':luggage:'
-aliases: Axe Beak
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oE1tbzqtlOnc4yE6
-tags:
-- Item
----
-
 # Axe Beak
 
 **Axe Beak**

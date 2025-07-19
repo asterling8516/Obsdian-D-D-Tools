@@ -1,12 +1,3 @@
----
-title: Talisman of the Sphere
-icon: ':luggage:'
-aliases: Talisman of the Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZVb7ijbLInyi0v1R
-tags:
-- Item
----
-
 # Talisman of the Sphere
 
 **Talisman of the Sphere**

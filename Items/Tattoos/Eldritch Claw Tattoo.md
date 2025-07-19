@@ -1,12 +1,3 @@
----
-title: Eldritch Claw Tattoo
-icon: ':luggage:'
-aliases: Eldritch Claw Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.25rYBj77GUbXE2ur
-tags:
-- Item
----
-
 # Eldritch Claw Tattoo
 
 **Eldritch Claw Tattoo**

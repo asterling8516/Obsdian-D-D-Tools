@@ -1,12 +1,3 @@
----
-title: Shield
-icon: ':luggage:'
-aliases: Shield
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3scJ0bkGSQgYrNkN
-tags:
-- Item
----
-
 # Shield
 
 **Shield**

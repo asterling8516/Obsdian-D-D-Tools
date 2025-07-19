@@ -1,12 +1,3 @@
----
-title: Earth Tremor
-icon: ':luggage:'
-aliases: Earth Tremor
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.auE8WVepbFDwzJKA
-tags:
-- Item
----
-
 # Earth Tremor
 
 **Earth Tremor**

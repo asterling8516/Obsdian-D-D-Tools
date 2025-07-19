@@ -1,12 +1,3 @@
----
-title: Arcane Eye
-icon: ':luggage:'
-aliases: Arcane Eye
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TC405d2xyIKS3Iit
-tags:
-- Item
----
-
 # Arcane Eye
 
 **Arcane Eye**

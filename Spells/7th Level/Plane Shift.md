@@ -1,12 +1,3 @@
----
-title: Plane Shift
-icon: ':luggage:'
-aliases: Plane Shift
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.mFpqkwQj9S6C3Sp6
-tags:
-- Item
----
-
 # Plane Shift
 
 **Plane Shift**

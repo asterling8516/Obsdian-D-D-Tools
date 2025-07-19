@@ -1,12 +1,3 @@
----
-title: Musket
-icon: ':luggage:'
-aliases: Musket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3z96GEKrvhPqU58s
-tags:
-- Item
----
-
 # Musket
 
 **Musket**

@@ -1,12 +1,3 @@
----
-title: Fizban's Platinum Shield
-icon: ':luggage:'
-aliases: Fizban's Platinum Shield
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qK2Lxbv6IbAMUvry
-tags:
-- Item
----
-
 # Fizban's Platinum Shield
 
 **Fizban's Platinum Shield**

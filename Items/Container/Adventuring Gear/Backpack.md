@@ -1,12 +1,3 @@
----
-title: Backpack
-icon: ':luggage:'
-aliases: Backpack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.icO4lYctwbpoPLmo
-tags:
-- Item
----
-
 # Backpack
 
 **Backpack**

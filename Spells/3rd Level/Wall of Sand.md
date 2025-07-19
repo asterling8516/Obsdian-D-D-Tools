@@ -1,12 +1,3 @@
----
-title: Wall of Sand
-icon: ':luggage:'
-aliases: Wall of Sand
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dEV1iUsQn2utTnPn
-tags:
-- Item
----
-
 # Wall of Sand
 
 **Wall of Sand**

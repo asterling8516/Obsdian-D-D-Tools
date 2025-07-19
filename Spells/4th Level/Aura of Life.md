@@ -1,12 +1,3 @@
----
-title: Aura of Life
-icon: ':luggage:'
-aliases: Aura of Life
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YUlYJZz7hOuyktO0
-tags:
-- Item
----
-
 # Aura of Life
 
 **Aura of Life**

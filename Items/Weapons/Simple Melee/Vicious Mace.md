@@ -1,12 +1,3 @@
----
-title: Vicious Mace
-icon: ':luggage:'
-aliases: Vicious Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6fc6yAHPN78XYKws
-tags:
-- Item
----
-
 # Vicious Mace
 
 **Vicious Mace**

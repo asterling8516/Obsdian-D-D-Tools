@@ -1,12 +1,3 @@
----
-title: Helm of Underwater Action
-icon: ':luggage:'
-aliases: Helm of Underwater Action
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BJu5gvBVcWxjxHvJ
-tags:
-- Item
----
-
 # Helm of Underwater Action
 
 **Helm of Underwater Action**

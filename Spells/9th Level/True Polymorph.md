@@ -1,12 +1,3 @@
----
-title: True Polymorph
-icon: ':luggage:'
-aliases: True Polymorph
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.AlT72JtM56LMD2tL
-tags:
-- Item
----
-
 # True Polymorph
 
 **True Polymorph**

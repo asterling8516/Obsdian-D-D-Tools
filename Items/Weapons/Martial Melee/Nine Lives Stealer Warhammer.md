@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Warhammer
-icon: ':luggage:'
-aliases: Nine Lives Stealer Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iyFEb4vffeSMnoz3
-tags:
-- Item
----
-
 # Nine Lives Stealer Warhammer
 
 **Nine Lives Stealer Warhammer**

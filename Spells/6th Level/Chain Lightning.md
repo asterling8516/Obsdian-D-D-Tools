@@ -1,12 +1,3 @@
----
-title: Chain Lightning
-icon: ':luggage:'
-aliases: Chain Lightning
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wLBS5hmZj6yLCYDj
-tags:
-- Item
----
-
 # Chain Lightning
 
 **Chain Lightning**

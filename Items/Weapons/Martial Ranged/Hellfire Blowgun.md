@@ -1,12 +1,3 @@
----
-title: Hellfire Blowgun
-icon: ':luggage:'
-aliases: Hellfire Blowgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tpfF2Ya9R3M9vVgf
-tags:
-- Item
----
-
 # Hellfire Blowgun
 
 **Hellfire Blowgun**

@@ -1,12 +1,3 @@
----
-title: Armblade (Morningstar)
-icon: ':luggage:'
-aliases: Armblade (Morningstar)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fDvQYw04p6JcSFK9
-tags:
-- Item
----
-
 # Armblade (Morningstar)
 
 **Armblade (Morningstar)**

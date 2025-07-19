@@ -1,12 +1,3 @@
----
-title: Enthrall
-icon: ':luggage:'
-aliases: Enthrall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6IxGswriHH75cGrs
-tags:
-- Item
----
-
 # Enthrall
 
 **Enthrall**

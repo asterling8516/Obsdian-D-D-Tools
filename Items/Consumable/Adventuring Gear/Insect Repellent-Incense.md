@@ -1,12 +1,3 @@
----
-title: Insect Repellent-Incense
-icon: ':luggage:'
-aliases: Insect Repellent-Incense
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0zYXpIEtZ6gNZd40
-tags:
-- Item
----
-
 # Insect Repellent-Incense
 
 **Insect Repellent-Incense**

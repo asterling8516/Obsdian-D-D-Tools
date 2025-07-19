@@ -1,12 +1,3 @@
----
-title: Giant Slayer Maul
-icon: ':luggage:'
-aliases: Giant Slayer Maul
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f4ZPeDEsIzzTEiyB
-tags:
-- Item
----
-
 # Giant Slayer Maul
 
 **Giant Slayer Maul**

@@ -1,12 +1,3 @@
----
-title: Azuredge
-icon: ':luggage:'
-aliases: Azuredge
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pcBX7PNKzewvjvD9
-tags:
-- Item
----
-
 # Azuredge
 
 **Azuredge**

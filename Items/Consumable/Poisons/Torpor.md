@@ -1,12 +1,3 @@
----
-title: Torpor
-icon: ':luggage:'
-aliases: Torpor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aS58wABZ8aIW0RoE
-tags:
-- Item
----
-
 # Torpor
 
 **Torpor**

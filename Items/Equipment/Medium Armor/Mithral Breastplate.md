@@ -1,12 +1,3 @@
----
-title: Mithral Breastplate
-icon: ':luggage:'
-aliases: Mithral Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1eP7TBZWOXbv60ic
-tags:
-- Item
----
-
 # Mithral Breastplate
 
 **Mithral Breastplate**

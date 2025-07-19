@@ -1,12 +1,3 @@
----
-title: Giant Insect
-icon: ':luggage:'
-aliases: Giant Insect
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qb8azPwBPD0wNWNY
-tags:
-- Item
----
-
 # Giant Insect
 
 **Giant Insect**

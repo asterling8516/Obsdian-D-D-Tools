@@ -1,12 +1,3 @@
----
-title: Cracked Driftglobe
-icon: ':luggage:'
-aliases: Cracked Driftglobe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JHgKYhkt7N9vYcMu
-tags:
-- Item
----
-
 # Cracked Driftglobe
 
 **Cracked Driftglobe**

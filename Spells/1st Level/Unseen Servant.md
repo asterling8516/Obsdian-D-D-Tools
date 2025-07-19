@@ -1,12 +1,3 @@
----
-title: Unseen Servant
-icon: ':luggage:'
-aliases: Unseen Servant
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.q5Ox5T9GGzT2Eyyj
-tags:
-- Item
----
-
 # Unseen Servant
 
 **Unseen Servant**

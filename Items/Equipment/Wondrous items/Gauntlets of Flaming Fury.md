@@ -1,12 +1,3 @@
----
-title: Gauntlets of Flaming Fury
-icon: ':luggage:'
-aliases: Gauntlets of Flaming Fury
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ly1OctkpWlLhVd8O
-tags:
-- Item
----
-
 # Gauntlets of Flaming Fury
 
 **Gauntlets of Flaming Fury**

@@ -1,12 +1,3 @@
----
-title: Potion of Healing
-icon: ':luggage:'
-aliases: Potion of Healing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IIaMhikwWgnc5B0Q
-tags:
-- Item
----
-
 # Potion of Healing
 
 **Potion of Healing**

@@ -1,12 +1,3 @@
----
-title: Crystal Greatsword
-icon: ':luggage:'
-aliases: Crystal Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pQ76iR06ZlAWyhCp
-tags:
-- Item
----
-
 # Crystal Greatsword
 
 **Crystal Greatsword**

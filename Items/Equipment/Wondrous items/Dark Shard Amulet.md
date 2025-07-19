@@ -1,12 +1,3 @@
----
-title: Dark Shard Amulet
-icon: ':luggage:'
-aliases: Dark Shard Amulet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dmDkDdOOXt7YB6Qj
-tags:
-- Item
----
-
 # Dark Shard Amulet
 
 **Dark Shard Amulet**

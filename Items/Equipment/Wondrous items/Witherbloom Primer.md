@@ -1,12 +1,3 @@
----
-title: Witherbloom Primer
-icon: ':luggage:'
-aliases: Witherbloom Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.L1f3JR0DaAujj5HV
-tags:
-- Item
----
-
 # Witherbloom Primer
 
 **Witherbloom Primer**

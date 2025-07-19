@@ -1,12 +1,3 @@
----
-title: Bracer of Flying Daggers
-icon: ':luggage:'
-aliases: Bracer of Flying Daggers
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KhymdReiRVfgGZYG
-tags:
-- Item
----
-
 # Bracer of Flying Daggers
 
 **Bracer of Flying Daggers**

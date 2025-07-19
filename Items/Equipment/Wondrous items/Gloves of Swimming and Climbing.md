@@ -1,12 +1,3 @@
----
-title: Gloves of Swimming and Climbing
-icon: ':luggage:'
-aliases: Gloves of Swimming and Climbing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KekTYiMTkPHTQUw8
-tags:
-- Item
----
-
 # Gloves of Swimming and Climbing
 
 **Gloves of Swimming and Climbing**

@@ -1,12 +1,3 @@
----
-title: Rope
-icon: ':luggage:'
-aliases: Rope
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.itSuWwda8VaQPzcK
-tags:
-- Item
----
-
 # Rope
 
 **Rope**

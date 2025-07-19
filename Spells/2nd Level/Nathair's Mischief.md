@@ -1,12 +1,3 @@
----
-title: Nathair's Mischief
-icon: ':luggage:'
-aliases: Nathair's Mischief
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TmRsA2qVJVC3mrgh
-tags:
-- Item
----
-
 # Nathair's Mischief
 
 **Nathair's Mischief**

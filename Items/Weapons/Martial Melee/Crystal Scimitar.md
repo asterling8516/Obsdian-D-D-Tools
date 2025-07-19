@@ -1,12 +1,3 @@
----
-title: Crystal Scimitar
-icon: ':luggage:'
-aliases: Crystal Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zPgv824T6Vp3X4BE
-tags:
-- Item
----
-
 # Crystal Scimitar
 
 **Crystal Scimitar**

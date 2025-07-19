@@ -1,12 +1,3 @@
----
-title: Eldritch Staff
-icon: ':luggage:'
-aliases: Eldritch Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kTBzXdDp8Yup7ghA
-tags:
-- Item
----
-
 # Eldritch Staff
 
 **Eldritch Staff**

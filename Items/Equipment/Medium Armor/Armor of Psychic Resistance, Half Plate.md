@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5HOdDw0ZbrvaOh1Z
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Half Plate
 
 **Armor of Psychic Resistance, Half Plate**

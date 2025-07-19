@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Chain Shirt
-icon: ':luggage:'
-aliases: Cast-Off Armor, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hBhrpBsrt1FYjY8n
-tags:
-- Item
----
-
 # Cast-Off Armor, Chain Shirt
 
 **Cast-Off Armor, Chain Shirt**

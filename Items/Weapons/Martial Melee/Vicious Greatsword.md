@@ -1,12 +1,3 @@
----
-title: Vicious Greatsword
-icon: ':luggage:'
-aliases: Vicious Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2X9g4kLyeh1JI8gk
-tags:
-- Item
----
-
 # Vicious Greatsword
 
 **Vicious Greatsword**

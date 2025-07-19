@@ -1,12 +1,3 @@
----
-title: Sickening Radiance
-icon: ':luggage:'
-aliases: Sickening Radiance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.iI54BuiiW3OHT4YZ
-tags:
-- Item
----
-
 # Sickening Radiance
 
 **Sickening Radiance**

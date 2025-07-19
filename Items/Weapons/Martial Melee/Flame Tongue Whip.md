@@ -1,12 +1,3 @@
----
-title: Flame Tongue Whip
-icon: ':luggage:'
-aliases: Flame Tongue Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NBn4L8xTz8XmOC7g
-tags:
-- Item
----
-
 # Flame Tongue Whip
 
 **Flame Tongue Whip**

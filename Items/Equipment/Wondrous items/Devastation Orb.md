@@ -1,12 +1,3 @@
----
-title: Devastation Orb
-icon: ':luggage:'
-aliases: Devastation Orb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KYr65PUWPh2uxcca
-tags:
-- Item
----
-
 # Devastation Orb
 
 **Devastation Orb**

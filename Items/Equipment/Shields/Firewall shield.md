@@ -1,12 +1,3 @@
----
-title: Firewall shield
-icon: ':luggage:'
-aliases: Firewall shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DWE2ORREK3Gw9Gn2
-tags:
-- Item
----
-
 # Firewall shield
 
 **Firewall shield**

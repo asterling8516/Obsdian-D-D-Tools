@@ -1,12 +1,3 @@
----
-title: Izzet Guild Signet
-icon: ':luggage:'
-aliases: Izzet Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E3z66N5oaZauuNW4
-tags:
-- Item
----
-
 # Izzet Guild Signet
 
 **Izzet Guild Signet**

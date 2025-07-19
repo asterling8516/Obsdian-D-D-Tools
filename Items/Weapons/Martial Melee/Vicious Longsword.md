@@ -1,12 +1,3 @@
----
-title: Vicious Longsword
-icon: ':luggage:'
-aliases: Vicious Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YaAWSJVf3qFbNnX2
-tags:
-- Item
----
-
 # Vicious Longsword
 
 **Vicious Longsword**

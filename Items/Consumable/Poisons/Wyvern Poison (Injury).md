@@ -1,12 +1,3 @@
----
-title: Wyvern Poison (Injury)
-icon: ':luggage:'
-aliases: Wyvern Poison (Injury)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NrkV6021R2EBLm1l
-tags:
-- Item
----
-
 # Wyvern Poison (Injury)
 
 **Wyvern Poison (Injury)**

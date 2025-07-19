@@ -1,12 +1,3 @@
----
-title: Component Pouch
-icon: ':luggage:'
-aliases: Component Pouch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JligSuUBtAtOdoLo
-tags:
-- Item
----
-
 # Component Pouch
 
 **Component Pouch**

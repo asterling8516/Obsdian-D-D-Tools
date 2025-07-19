@@ -1,12 +1,3 @@
----
-title: Toll the Dead
-icon: ':luggage:'
-aliases: Toll the Dead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YI0Zw7aOWJgBZKCe
-tags:
-- Item
----
-
 # Toll the Dead
 
 **Toll the Dead**

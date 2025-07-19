@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PaG1JDVgHNsOnASD
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Half Plate
 
 **Armor of Thunder Resistance, Half Plate**

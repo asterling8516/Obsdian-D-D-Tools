@@ -1,12 +1,3 @@
----
-title: Gentle Repose
-icon: ':luggage:'
-aliases: Gentle Repose
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wUprbvmRVqt4BUHO
-tags:
-- Item
----
-
 # Gentle Repose
 
 **Gentle Repose**

@@ -1,12 +1,3 @@
----
-title: Ring of Fire Resistance
-icon: ':luggage:'
-aliases: Ring of Fire Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wTSaBurvmpPYPovt
-tags:
-- Item
----
-
 # Ring of Fire Resistance
 
 **Ring of Fire Resistance**

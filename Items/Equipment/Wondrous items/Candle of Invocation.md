@@ -1,12 +1,3 @@
----
-title: Candle of Invocation
-icon: ':luggage:'
-aliases: Candle of Invocation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qmt9tSLN4n3j4Aq3
-tags:
-- Item
----
-
 # Candle of Invocation
 
 **Candle of Invocation**

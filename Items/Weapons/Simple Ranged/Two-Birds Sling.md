@@ -1,12 +1,3 @@
----
-title: Two-Birds Sling
-icon: ':luggage:'
-aliases: Two-Birds Sling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.A5K5bBcp4oc8mjve
-tags:
-- Item
----
-
 # Two-Birds Sling
 
 **Two-Birds Sling**

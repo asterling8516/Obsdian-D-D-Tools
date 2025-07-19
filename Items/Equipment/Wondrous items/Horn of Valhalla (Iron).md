@@ -1,12 +1,3 @@
----
-title: Horn of Valhalla (Iron)
-icon: ':luggage:'
-aliases: Horn of Valhalla (Iron)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bQoi1QkzOSywiBra
-tags:
-- Item
----
-
 # Horn of Valhalla (Iron)
 
 **Horn of Valhalla (Iron)**

@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Red)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Red)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g6CCDkXSQvDL9Lyb
-tags:
-- Item
----
-
 # Dragon Scale Mail (Red)
 
 **Dragon Scale Mail (Red)**

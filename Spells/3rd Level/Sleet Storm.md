@@ -1,12 +1,3 @@
----
-title: Sleet Storm
-icon: ':luggage:'
-aliases: Sleet Storm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.sEcG8u75m1S0uyrr
-tags:
-- Item
----
-
 # Sleet Storm
 
 **Sleet Storm**

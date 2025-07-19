@@ -1,12 +1,3 @@
----
-title: Staff of Charming
-icon: ':luggage:'
-aliases: Staff of Charming
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Jgg7DYyIR43IqROZ
-tags:
-- Item
----
-
 # Staff of Charming
 
 **Staff of Charming**

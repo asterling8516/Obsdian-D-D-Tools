@@ -1,12 +1,3 @@
----
-title: War Pick, +1
-icon: ':luggage:'
-aliases: War Pick, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pp8PGtYO8RiqTbZW
-tags:
-- Item
----
-
 # War Pick, +1
 
 **War Pick, +1**

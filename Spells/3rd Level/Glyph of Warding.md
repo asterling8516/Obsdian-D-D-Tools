@@ -1,12 +1,3 @@
----
-title: Glyph of Warding
-icon: ':luggage:'
-aliases: Glyph of Warding
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.tq2d2SrNnduou8cG
-tags:
-- Item
----
-
 # Glyph of Warding
 
 **Glyph of Warding**

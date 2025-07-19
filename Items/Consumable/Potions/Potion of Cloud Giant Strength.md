@@ -1,12 +1,3 @@
----
-title: Potion of Cloud Giant Strength
-icon: ':luggage:'
-aliases: Potion of Cloud Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.r1fBbjfBfbp9j6TV
-tags:
-- Item
----
-
 # Potion of Cloud Giant Strength
 
 **Potion of Cloud Giant Strength**

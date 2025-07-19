@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Shortbow
-icon: ':luggage:'
-aliases: Nine Lives Stealer Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OvlIiHQZVeOtquO2
-tags:
-- Item
----
-
 # Nine Lives Stealer Shortbow
 
 **Nine Lives Stealer Shortbow**

@@ -1,12 +1,3 @@
----
-title: Dragon's Blood
-icon: ':luggage:'
-aliases: Dragon's Blood
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eqDyNuTp3bpSopFG
-tags:
-- Item
----
-
 # Dragon's Blood
 
 **Dragon's Blood**

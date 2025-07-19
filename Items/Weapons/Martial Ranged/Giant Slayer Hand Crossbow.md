@@ -1,12 +1,3 @@
----
-title: Giant Slayer Hand Crossbow
-icon: ':luggage:'
-aliases: Giant Slayer Hand Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.URdAE0PoP0F1qJBt
-tags:
-- Item
----
-
 # Giant Slayer Hand Crossbow
 
 **Giant Slayer Hand Crossbow**

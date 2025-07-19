@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Ring Mail
-icon: ':luggage:'
-aliases: Smoldering Armor, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nr5pEzsetR2DohcV
-tags:
-- Item
----
-
 # Smoldering Armor, Ring Mail
 
 **Smoldering Armor, Ring Mail**

@@ -1,12 +1,3 @@
----
-title: Far Step
-icon: ':luggage:'
-aliases: Far Step
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.W3iM4ki1ngAKihWK
-tags:
-- Item
----
-
 # Far Step
 
 **Far Step**

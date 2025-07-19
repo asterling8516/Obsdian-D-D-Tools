@@ -1,12 +1,3 @@
----
-title: Divine Word
-icon: ':luggage:'
-aliases: Divine Word
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IxnIz5cxL78hwxwW
-tags:
-- Item
----
-
 # Divine Word
 
 **Divine Word**

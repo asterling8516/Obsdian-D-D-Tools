@@ -1,12 +1,3 @@
----
-title: Find the Path
-icon: ':luggage:'
-aliases: Find the Path
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bOzs5g8iJCVIt1yc
-tags:
-- Item
----
-
 # Find the Path
 
 **Find the Path**

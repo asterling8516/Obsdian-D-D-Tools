@@ -1,12 +1,3 @@
----
-title: Gunpowder, Keg
-icon: ':luggage:'
-aliases: Gunpowder, Keg
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BkxO1oLmpDaaaaPw
-tags:
-- Item
----
-
 # Gunpowder, Keg
 
 **Gunpowder, Keg**

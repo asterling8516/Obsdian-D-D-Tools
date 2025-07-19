@@ -1,12 +1,3 @@
----
-title: Stinking Cloud
-icon: ':luggage:'
-aliases: Stinking Cloud
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.DjzG9coFo1BVjbDt
-tags:
-- Item
----
-
 # Stinking Cloud
 
 **Stinking Cloud**

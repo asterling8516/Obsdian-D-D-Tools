@@ -1,12 +1,3 @@
----
-title: Tej
-icon: ':luggage:'
-aliases: Tej
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BuRiiRXzo450k1mq
-tags:
-- Item
----
-
 # Tej
 
 **Tej**

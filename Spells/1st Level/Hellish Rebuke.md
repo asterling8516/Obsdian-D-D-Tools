@@ -1,12 +1,3 @@
----
-title: Hellish Rebuke
-icon: ':luggage:'
-aliases: Hellish Rebuke
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.iklTVroTpXpkpZ6N
-tags:
-- Item
----
-
 # Hellish Rebuke
 
 **Hellish Rebuke**

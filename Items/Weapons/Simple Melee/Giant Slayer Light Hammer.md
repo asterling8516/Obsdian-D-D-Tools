@@ -1,12 +1,3 @@
----
-title: Giant Slayer Light Hammer
-icon: ':luggage:'
-aliases: Giant Slayer Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U02CtQp6mFn7p1fg
-tags:
-- Item
----
-
 # Giant Slayer Light Hammer
 
 **Giant Slayer Light Hammer**

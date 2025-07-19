@@ -1,12 +1,3 @@
----
-title: Kagonesti Forest Shroud
-icon: ':luggage:'
-aliases: Kagonesti Forest Shroud
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YoWTyCd0DbGAUMGh
-tags:
-- Item
----
-
 # Kagonesti Forest Shroud
 
 **Kagonesti Forest Shroud**

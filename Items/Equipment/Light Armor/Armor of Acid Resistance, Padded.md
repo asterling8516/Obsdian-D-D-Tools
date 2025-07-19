@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Q2XZRIm5JGW3cDjR
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Padded
 
 **Armor of Acid Resistance, Padded**

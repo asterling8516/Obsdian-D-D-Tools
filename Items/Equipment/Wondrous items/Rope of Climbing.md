@@ -1,12 +1,3 @@
----
-title: Rope of Climbing
-icon: ':luggage:'
-aliases: Rope of Climbing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.I1CWenGlGHPisYpW
-tags:
-- Item
----
-
 # Rope of Climbing
 
 **Rope of Climbing**

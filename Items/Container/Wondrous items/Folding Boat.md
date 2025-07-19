@@ -1,12 +1,3 @@
----
-title: Folding Boat
-icon: ':luggage:'
-aliases: Folding Boat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ANpRR2U7TBLp29Pr
-tags:
-- Item
----
-
 # Folding Boat
 
 **Folding Boat**

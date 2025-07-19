@@ -1,12 +1,3 @@
----
-title: Conjure Celestial
-icon: ':luggage:'
-aliases: Conjure Celestial
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.HNikokMVPliujP8W
-tags:
-- Item
----
-
 # Conjure Celestial
 
 **Conjure Celestial**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Morningstar
-icon: ':luggage:'
-aliases: Giant Slayer Morningstar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MSxHMDH0fxYgsbIf
-tags:
-- Item
----
-
 # Giant Slayer Morningstar
 
 **Giant Slayer Morningstar**

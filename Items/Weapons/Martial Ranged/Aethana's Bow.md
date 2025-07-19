@@ -1,12 +1,3 @@
----
-title: Aethana's Bow
-icon: ':luggage:'
-aliases: Aethana's Bow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jFfJtclECPBwGpeY
-tags:
-- Item
----
-
 # Aethana's Bow
 
 **Aethana's Bow**

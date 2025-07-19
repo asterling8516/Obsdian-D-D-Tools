@@ -1,12 +1,3 @@
----
-title: Pole of Angling
-icon: ':luggage:'
-aliases: Pole of Angling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vwLBXWAxGWvr9a7x
-tags:
-- Item
----
-
 # Pole of Angling
 
 **Pole of Angling**

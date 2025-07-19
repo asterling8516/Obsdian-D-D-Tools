@@ -1,12 +1,3 @@
----
-title: Pipes of the Sewers
-icon: ':luggage:'
-aliases: Pipes of the Sewers
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MEkeIB0TKG3sQCNZ
-tags:
-- Item
----
-
 # Pipes of the Sewers
 
 **Pipes of the Sewers**

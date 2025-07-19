@@ -1,12 +1,3 @@
----
-title: Maul of Warning
-icon: ':luggage:'
-aliases: Maul of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ffYcT968OuCfuT9i
-tags:
-- Item
----
-
 # Maul of Warning
 
 **Maul of Warning**

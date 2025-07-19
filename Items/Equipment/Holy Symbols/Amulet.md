@@ -1,12 +1,3 @@
----
-title: Amulet
-icon: ':luggage:'
-aliases: Amulet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4UBKYSLqAG4KCbUB
-tags:
-- Item
----
-
 # Amulet
 
 **Amulet**

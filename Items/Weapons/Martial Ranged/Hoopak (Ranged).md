@@ -1,12 +1,3 @@
----
-title: Hoopak (Ranged)
-icon: ':luggage:'
-aliases: Hoopak (Ranged)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Tz8OOo3omDF42fRi
-tags:
-- Item
----
-
 # Hoopak (Ranged)
 
 **Hoopak (Ranged)**

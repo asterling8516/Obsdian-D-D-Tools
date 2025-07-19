@@ -1,12 +1,3 @@
----
-title: Ruby of the War Mage
-icon: ':luggage:'
-aliases: Ruby of the War Mage
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XzM4tkAWuhLFtruy
-tags:
-- Item
----
-
 # Ruby of the War Mage
 
 **Ruby of the War Mage**

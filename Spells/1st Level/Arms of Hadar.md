@@ -1,12 +1,3 @@
----
-title: Arms of Hadar
-icon: ':luggage:'
-aliases: Arms of Hadar
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ow27zG0c7Lq0bIgU
-tags:
-- Item
----
-
 # Arms of Hadar
 
 **Arms of Hadar**

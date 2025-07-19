@@ -1,12 +1,3 @@
----
-title: Scather
-icon: ':luggage:'
-aliases: Scather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OVnJvwNXTUfkokO1
-tags:
-- Item
----
-
 # Scather
 
 **Scather**

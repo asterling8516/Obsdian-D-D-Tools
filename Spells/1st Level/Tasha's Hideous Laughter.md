@@ -1,12 +1,3 @@
----
-title: Tasha's Hideous Laughter
-icon: ':luggage:'
-aliases: Tasha's Hideous Laughter
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.yfuEDBwTXsn51kGV
-tags:
-- Item
----
-
 # Tasha's Hideous Laughter
 
 **Tasha's Hideous Laughter**

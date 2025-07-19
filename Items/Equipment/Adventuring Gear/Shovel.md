@@ -1,12 +1,3 @@
----
-title: Shovel
-icon: ':luggage:'
-aliases: Shovel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oSb8ZEbVxLDvsRiE
-tags:
-- Item
----
-
 # Shovel
 
 **Shovel**

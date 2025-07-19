@@ -1,12 +1,3 @@
----
-title: Trident of Boccobo
-icon: ':luggage:'
-aliases: Trident of Boccobo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.w4DWIPcsI4ebqDsi
-tags:
-- Item
----
-
 # Trident of Boccobo
 
 **Trident of Boccobo**

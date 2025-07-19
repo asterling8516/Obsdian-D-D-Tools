@@ -1,12 +1,3 @@
----
-title: Saddle of the Cavalier
-icon: ':luggage:'
-aliases: Saddle of the Cavalier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Q2sl2YeXtIm0e9zH
-tags:
-- Item
----
-
 # Saddle of the Cavalier
 
 **Saddle of the Cavalier**

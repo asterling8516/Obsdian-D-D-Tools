@@ -1,12 +1,3 @@
----
-title: Heart Of the Mother Tree
-icon: ':luggage:'
-aliases: Heart Of the Mother Tree
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KxbFj29omSjnGu9D
-tags:
-- Item
----
-
 # Heart Of the Mother Tree
 
 **Heart Of the Mother Tree**

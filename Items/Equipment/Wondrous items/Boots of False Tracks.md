@@ -1,12 +1,3 @@
----
-title: Boots of False Tracks
-icon: ':luggage:'
-aliases: Boots of False Tracks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TT30QiadKVZDBclz
-tags:
-- Item
----
-
 # Boots of False Tracks
 
 **Boots of False Tracks**

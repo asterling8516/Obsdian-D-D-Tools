@@ -1,12 +1,3 @@
----
-title: Flame Tongue Greatclub
-icon: ':luggage:'
-aliases: Flame Tongue Greatclub
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.D9x4UG1iHTd4IHK7
-tags:
-- Item
----
-
 # Flame Tongue Greatclub
 
 **Flame Tongue Greatclub**

@@ -1,12 +1,3 @@
----
-title: Prismatic Wall
-icon: ':luggage:'
-aliases: Prismatic Wall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dCswyCNDDarRyBSN
-tags:
-- Item
----
-
 # Prismatic Wall
 
 **Prismatic Wall**

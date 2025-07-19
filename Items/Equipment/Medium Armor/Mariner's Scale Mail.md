@@ -1,12 +1,3 @@
----
-title: Mariner's Scale Mail
-icon: ':luggage:'
-aliases: Mariner's Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lxtozTqYJWbowu3v
-tags:
-- Item
----
-
 # Mariner's Scale Mail
 
 **Mariner's Scale Mail**

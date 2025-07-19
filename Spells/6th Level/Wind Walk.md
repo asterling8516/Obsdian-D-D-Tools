@@ -1,12 +1,3 @@
----
-title: Wind Walk
-icon: ':luggage:'
-aliases: Wind Walk
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3EiPR8R58GxcgyuV
-tags:
-- Item
----
-
 # Wind Walk
 
 **Wind Walk**

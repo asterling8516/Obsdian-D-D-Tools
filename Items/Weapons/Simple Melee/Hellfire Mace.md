@@ -1,12 +1,3 @@
----
-title: Hellfire Mace
-icon: ':luggage:'
-aliases: Hellfire Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uU17hTEM5HGMrYf3
-tags:
-- Item
----
-
 # Hellfire Mace
 
 **Hellfire Mace**

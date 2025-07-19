@@ -1,12 +1,3 @@
----
-title: Giant Slayer Warhammer
-icon: ':luggage:'
-aliases: Giant Slayer Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BE9XNSUPKo71x0Dq
-tags:
-- Item
----
-
 # Giant Slayer Warhammer
 
 **Giant Slayer Warhammer**

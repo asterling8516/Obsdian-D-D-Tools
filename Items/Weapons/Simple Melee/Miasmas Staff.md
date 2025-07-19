@@ -1,12 +1,3 @@
----
-title: Miasmas Staff
-icon: ':luggage:'
-aliases: Miasmas Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z4ZGymHT28JVb2B4
-tags:
-- Item
----
-
 # Miasmas Staff
 
 **Miasmas Staff**

@@ -1,12 +1,3 @@
----
-title: Wand of Enemy Detection
-icon: ':luggage:'
-aliases: Wand of Enemy Detection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.utheH5qyPUrAXp3v
-tags:
-- Item
----
-
 # Wand of Enemy Detection
 
 **Wand of Enemy Detection**

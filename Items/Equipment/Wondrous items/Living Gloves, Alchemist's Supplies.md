@@ -1,12 +1,3 @@
----
-title: Living Gloves, Alchemist's Supplies
-icon: ':luggage:'
-aliases: Living Gloves, Alchemist's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NBC6z12TS6Sd9GhW
-tags:
-- Item
----
-
 # Living Gloves, Alchemist's Supplies
 
 **Living Gloves, Alchemist's Supplies**

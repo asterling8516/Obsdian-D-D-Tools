@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KYzdKNgmkOTVB8Jj
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Leather
 
 **Armor of Lightning Resistance, Leather**

@@ -1,12 +1,3 @@
----
-title: Potion of Radiant Resistance
-icon: ':luggage:'
-aliases: Potion of Radiant Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vNx2GEb32oqQO2Ty
-tags:
-- Item
----
-
 # Potion of Radiant Resistance
 
 **Potion of Radiant Resistance**

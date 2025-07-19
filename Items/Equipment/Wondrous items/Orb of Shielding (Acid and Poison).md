@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Acid and Poison)
-icon: ':luggage:'
-aliases: Orb of Shielding (Acid and Poison)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jlTSR98YTcw3toTh
-tags:
-- Item
----
-
 # Orb of Shielding (Acid and Poison)
 
 **Orb of Shielding (Acid and Poison)**

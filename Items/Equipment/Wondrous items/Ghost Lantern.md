@@ -1,12 +1,3 @@
----
-title: Ghost Lantern
-icon: ':luggage:'
-aliases: Ghost Lantern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EaE8U8nLwfS3RIhs
-tags:
-- Item
----
-
 # Ghost Lantern
 
 **Ghost Lantern**

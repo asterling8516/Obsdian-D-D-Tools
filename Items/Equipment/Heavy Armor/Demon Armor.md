@@ -1,12 +1,3 @@
----
-title: Demon Armor
-icon: ':luggage:'
-aliases: Demon Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uU8jPH7HFihgcfKC
-tags:
-- Item
----
-
 # Demon Armor
 
 **Demon Armor**

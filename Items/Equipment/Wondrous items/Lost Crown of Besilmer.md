@@ -1,12 +1,3 @@
----
-title: Lost Crown of Besilmer
-icon: ':luggage:'
-aliases: Lost Crown of Besilmer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NK7Kuz491oa4c6fQ
-tags:
-- Item
----
-
 # Lost Crown of Besilmer
 
 **Lost Crown of Besilmer**

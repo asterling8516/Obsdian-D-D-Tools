@@ -1,12 +1,3 @@
----
-title: Invisibility
-icon: ':luggage:'
-aliases: Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6tuNU5RNZKGvCjgk
-tags:
-- Item
----
-
 # Invisibility
 
 **Invisibility**

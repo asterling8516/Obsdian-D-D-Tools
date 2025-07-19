@@ -1,12 +1,3 @@
----
-title: Sardonyx
-icon: ':luggage:'
-aliases: Sardonyx
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.suHbaTvFqnY2bd3n
-tags:
-- Item
----
-
 # Sardonyx
 
 **Sardonyx**

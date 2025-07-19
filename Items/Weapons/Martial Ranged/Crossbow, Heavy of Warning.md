@@ -1,12 +1,3 @@
----
-title: Crossbow, Heavy of Warning
-icon: ':luggage:'
-aliases: Crossbow, Heavy of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fvrsO1VuLC6XGntF
-tags:
-- Item
----
-
 # Crossbow, Heavy of Warning
 
 **Crossbow, Heavy of Warning**

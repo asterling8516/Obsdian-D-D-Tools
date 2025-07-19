@@ -1,12 +1,3 @@
----
-title: Rod of Lordly Might
-icon: ':luggage:'
-aliases: Rod of Lordly Might
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DGhv6ZBq6LQ3c9MN
-tags:
-- Item
----
-
 # Rod of Lordly Might
 
 **Rod of Lordly Might**

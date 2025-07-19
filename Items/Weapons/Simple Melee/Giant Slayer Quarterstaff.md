@@ -1,12 +1,3 @@
----
-title: Giant Slayer Quarterstaff
-icon: ':luggage:'
-aliases: Giant Slayer Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kWaPgmoiRQVLSr2l
-tags:
-- Item
----
-
 # Giant Slayer Quarterstaff
 
 **Giant Slayer Quarterstaff**

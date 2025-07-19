@@ -1,12 +1,3 @@
----
-title: Silence
-icon: ':luggage:'
-aliases: Silence
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6WGgYxzc5zzOI5eX
-tags:
-- Item
----
-
 # Silence
 
 **Silence**

@@ -1,12 +1,3 @@
----
-title: Glamerweave
-icon: ':luggage:'
-aliases: Glamerweave
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CYRbmEnO4eTtsOPm
-tags:
-- Item
----
-
 # Glamerweave
 
 **Glamerweave**

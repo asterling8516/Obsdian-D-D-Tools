@@ -1,12 +1,3 @@
----
-title: Armblade (War pick)
-icon: ':luggage:'
-aliases: Armblade (War pick)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wPw0znbV7K5MPczf
-tags:
-- Item
----
-
 # Armblade (War pick)
 
 **Armblade (War pick)**

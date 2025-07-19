@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Silver Raven)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Silver Raven)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fIRHcf5wW2wgnOGI
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Silver Raven)
 
 **Figurine of Wondrous Power (Silver Raven)**

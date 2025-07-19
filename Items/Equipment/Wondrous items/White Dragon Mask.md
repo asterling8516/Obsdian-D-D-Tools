@@ -1,12 +1,3 @@
----
-title: White Dragon Mask
-icon: ':luggage:'
-aliases: White Dragon Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pwSb5kiT1JREft6K
-tags:
-- Item
----
-
 # White Dragon Mask
 
 **White Dragon Mask**

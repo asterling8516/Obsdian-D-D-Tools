@@ -1,12 +1,3 @@
----
-title: Baba Yaga's Mortar and Pestle
-icon: ':luggage:'
-aliases: Baba Yaga's Mortar and Pestle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gWF0lnMB31wK71ng
-tags:
-- Item
----
-
 # Baba Yaga's Mortar and Pestle
 
 **Baba Yaga's Mortar and Pestle**

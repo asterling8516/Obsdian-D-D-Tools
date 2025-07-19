@@ -1,12 +1,3 @@
----
-title: Scarab of Protection
-icon: ':luggage:'
-aliases: Scarab of Protection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lfMKvC7eEychf5Ar
-tags:
-- Item
----
-
 # Scarab of Protection
 
 **Scarab of Protection**

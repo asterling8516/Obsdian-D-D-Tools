@@ -1,12 +1,3 @@
----
-title: Drown
-icon: ':luggage:'
-aliases: Drown
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eydptAjDCU8HG3jb
-tags:
-- Item
----
-
 # Drown
 
 **Drown**

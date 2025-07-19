@@ -1,12 +1,3 @@
----
-title: Abi-Dalzim's Horrid Wilting
-icon: ':luggage:'
-aliases: Abi-Dalzim's Horrid Wilting
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WmLOYmskTkmbTOxu
-tags:
-- Item
----
-
 # Abi-Dalzim's Horrid Wilting
 
 **Abi-Dalzim's Horrid Wilting**

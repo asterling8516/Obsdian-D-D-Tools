@@ -1,12 +1,3 @@
----
-title: Horseshoes of Speed
-icon: ':luggage:'
-aliases: Horseshoes of Speed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LtxbTAxLjJGHhb2J
-tags:
-- Item
----
-
 # Horseshoes of Speed
 
 **Horseshoes of Speed**

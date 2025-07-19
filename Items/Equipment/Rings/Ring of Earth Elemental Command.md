@@ -1,12 +1,3 @@
----
-title: Ring of Earth Elemental Command
-icon: ':luggage:'
-aliases: Ring of Earth Elemental Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yF6ucYLm3lkRz8A1
-tags:
-- Item
----
-
 # Ring of Earth Elemental Command
 
 **Ring of Earth Elemental Command**

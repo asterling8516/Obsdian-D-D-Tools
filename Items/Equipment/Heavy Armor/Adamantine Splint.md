@@ -1,12 +1,3 @@
----
-title: Adamantine Splint
-icon: ':luggage:'
-aliases: Adamantine Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z9KrQi9ODOww7hrr
-tags:
-- Item
----
-
 # Adamantine Splint
 
 **Adamantine Splint**

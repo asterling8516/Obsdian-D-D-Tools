@@ -1,12 +1,3 @@
----
-title: Hand Drum
-icon: ':luggage:'
-aliases: Hand Drum
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WPIhemmiMCmudnwS
-tags:
-- Item
----
-
 # Hand Drum
 
 **Hand Drum**

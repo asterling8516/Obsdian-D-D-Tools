@@ -1,12 +1,3 @@
----
-title: Resilient Sphere
-icon: ':luggage:'
-aliases: Resilient Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Kg7wYJNONOZZDvxX
-tags:
-- Item
----
-
 # Resilient Sphere
 
 **Resilient Sphere**

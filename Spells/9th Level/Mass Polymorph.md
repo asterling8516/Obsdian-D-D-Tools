@@ -1,12 +1,3 @@
----
-title: Mass Polymorph
-icon: ':luggage:'
-aliases: Mass Polymorph
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.iBTbFLQBmkd8Muip
-tags:
-- Item
----
-
 # Mass Polymorph
 
 **Mass Polymorph**

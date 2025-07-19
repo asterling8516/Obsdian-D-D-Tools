@@ -1,12 +1,3 @@
----
-title: Oathbow Longbow
-icon: ':luggage:'
-aliases: Oathbow Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zRu6y9C8l4SHuFly
-tags:
-- Item
----
-
 # Oathbow Longbow
 
 **Oathbow Longbow**

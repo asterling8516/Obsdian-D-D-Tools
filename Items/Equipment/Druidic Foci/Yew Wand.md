@@ -1,12 +1,3 @@
----
-title: Yew Wand
-icon: ':luggage:'
-aliases: Yew Wand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LBeWZd8lsNvOeOpu
-tags:
-- Item
----
-
 # Yew Wand
 
 **Yew Wand**

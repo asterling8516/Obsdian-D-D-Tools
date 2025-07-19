@@ -1,12 +1,3 @@
----
-title: Wand Sheath
-icon: ':luggage:'
-aliases: Wand Sheath
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QZ1oGVyQqEAQArwa
-tags:
-- Item
----
-
 # Wand Sheath
 
 **Wand Sheath**

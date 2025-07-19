@@ -1,12 +1,3 @@
----
-title: Donkey (or Mule)
-icon: ':luggage:'
-aliases: Donkey (or Mule)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d3lTzowwMw78YWxr
-tags:
-- Item
----
-
 # Donkey (or Mule)
 
 **Donkey (or Mule)**

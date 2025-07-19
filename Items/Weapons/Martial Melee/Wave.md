@@ -1,12 +1,3 @@
----
-title: Wave
-icon: ':luggage:'
-aliases: Wave
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.07t5SCuugwmCbU3Y
-tags:
-- Item
----
-
 # Wave
 
 **Wave**

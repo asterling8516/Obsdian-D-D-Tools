@@ -1,12 +1,3 @@
----
-title: Entangled Bowstring
-icon: ':luggage:'
-aliases: Entangled Bowstring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qkmbGSTVVpvWgcC9
-tags:
-- Item
----
-
 # Entangled Bowstring
 
 **Entangled Bowstring**

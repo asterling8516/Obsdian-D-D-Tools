@@ -1,12 +1,3 @@
----
-title: Scribe's Pen
-icon: ':luggage:'
-aliases: Scribe's Pen
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qzte49B1okhnsFtL
-tags:
-- Item
----
-
 # Scribe's Pen
 
 **Scribe's Pen**

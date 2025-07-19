@@ -1,12 +1,3 @@
----
-title: Greataxe of Warning
-icon: ':luggage:'
-aliases: Greataxe of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HenEjYgAjhFQURwS
-tags:
-- Item
----
-
 # Greataxe of Warning
 
 **Greataxe of Warning**

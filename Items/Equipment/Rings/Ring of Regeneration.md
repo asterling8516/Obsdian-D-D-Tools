@@ -1,12 +1,3 @@
----
-title: Ring of Regeneration
-icon: ':luggage:'
-aliases: Ring of Regeneration
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IZtJLWJREsdhyRVx
-tags:
-- Item
----
-
 # Ring of Regeneration
 
 **Ring of Regeneration**

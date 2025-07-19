@@ -1,12 +1,3 @@
----
-title: Reliquary
-icon: ':luggage:'
-aliases: Reliquary
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.D6lVSisMeCvQNUMz
-tags:
-- Item
----
-
 # Reliquary
 
 **Reliquary**

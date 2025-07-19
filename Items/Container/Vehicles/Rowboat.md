@@ -1,12 +1,3 @@
----
-title: Rowboat
-icon: ':luggage:'
-aliases: Rowboat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AaIQ8UPIVoe2sXs0
-tags:
-- Item
----
-
 # Rowboat
 
 **Rowboat**

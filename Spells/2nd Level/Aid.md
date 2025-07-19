@@ -1,12 +1,3 @@
----
-title: Aid
-icon: ':luggage:'
-aliases: Aid
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.OfzaUbQokkngOjWm
-tags:
-- Item
----
-
 # Aid
 
 **Aid**

@@ -1,12 +1,3 @@
----
-title: Vicious Shortbow
-icon: ':luggage:'
-aliases: Vicious Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LWu7Oqqkk5o9mOn6
-tags:
-- Item
----
-
 # Vicious Shortbow
 
 **Vicious Shortbow**

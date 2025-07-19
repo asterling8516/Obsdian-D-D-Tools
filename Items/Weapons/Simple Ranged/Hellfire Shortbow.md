@@ -1,12 +1,3 @@
----
-title: Hellfire Shortbow
-icon: ':luggage:'
-aliases: Hellfire Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sJDBnpLniIIe6yQC
-tags:
-- Item
----
-
 # Hellfire Shortbow
 
 **Hellfire Shortbow**

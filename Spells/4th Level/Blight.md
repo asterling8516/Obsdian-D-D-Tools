@@ -1,12 +1,3 @@
----
-title: Blight
-icon: ':luggage:'
-aliases: Blight
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.nVKTBasJ9Qqt1VYT
-tags:
-- Item
----
-
 # Blight
 
 **Blight**

@@ -1,12 +1,3 @@
----
-title: Iron Bands of Binding
-icon: ':luggage:'
-aliases: Iron Bands of Binding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8pR3SXhaxaJYG0Pt
-tags:
-- Item
----
-
 # Iron Bands of Binding
 
 **Iron Bands of Binding**

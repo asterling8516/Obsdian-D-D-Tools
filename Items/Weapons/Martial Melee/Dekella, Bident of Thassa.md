@@ -1,12 +1,3 @@
----
-title: Dekella, Bident of Thassa
-icon: ':luggage:'
-aliases: Dekella, Bident of Thassa
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7DYEIAGRc7WCVrmd
-tags:
-- Item
----
-
 # Dekella, Bident of Thassa
 
 **Dekella, Bident of Thassa**

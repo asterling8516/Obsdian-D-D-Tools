@@ -1,12 +1,3 @@
----
-title: Potion of Growth
-icon: ':luggage:'
-aliases: Potion of Growth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.04MNP7iYVadnVK7G
-tags:
-- Item
----
-
 # Potion of Growth
 
 **Potion of Growth**

@@ -1,12 +1,3 @@
----
-title: Geas
-icon: ':luggage:'
-aliases: Geas
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.e3gsFSu9KzN5Bwgy
-tags:
-- Item
----
-
 # Geas
 
 **Geas**

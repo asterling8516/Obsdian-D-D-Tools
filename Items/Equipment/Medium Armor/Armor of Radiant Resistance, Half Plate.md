@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.999PvRyrxQbMi1vX
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Half Plate
 
 **Armor of Radiant Resistance, Half Plate**

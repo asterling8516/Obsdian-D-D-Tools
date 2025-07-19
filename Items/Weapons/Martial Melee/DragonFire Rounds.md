@@ -1,12 +1,3 @@
----
-title: DragonFire Rounds
-icon: ':luggage:'
-aliases: DragonFire Rounds
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JYFyUt5YmfAQbdxA
-tags:
-- Item
----
-
 # DragonFire Rounds
 
 **DragonFire Rounds**

@@ -1,12 +1,3 @@
----
-title: Earworm
-icon: ':luggage:'
-aliases: Earworm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y3tH6Oz9Z3SlkrVf
-tags:
-- Item
----
-
 # Earworm
 
 **Earworm**

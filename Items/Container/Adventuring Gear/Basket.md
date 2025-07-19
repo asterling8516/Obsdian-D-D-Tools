@@ -1,12 +1,3 @@
----
-title: Basket
-icon: ':luggage:'
-aliases: Basket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BxeFoq07ifItQLxA
-tags:
-- Item
----
-
 # Basket
 
 **Basket**

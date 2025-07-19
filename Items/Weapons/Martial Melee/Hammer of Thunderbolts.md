@@ -1,12 +1,3 @@
----
-title: Hammer of Thunderbolts
-icon: ':luggage:'
-aliases: Hammer of Thunderbolts
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FUQsNT4THr8hdLL4
-tags:
-- Item
----
-
 # Hammer of Thunderbolts
 
 **Hammer of Thunderbolts**

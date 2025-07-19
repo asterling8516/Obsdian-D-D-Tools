@@ -1,12 +1,3 @@
----
-title: Identify
-icon: ':luggage:'
-aliases: Identify
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.43ZJuWaXKuQk1eG1
-tags:
-- Item
----
-
 # Identify
 
 **Identify**

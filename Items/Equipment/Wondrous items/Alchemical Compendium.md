@@ -1,12 +1,3 @@
----
-title: Alchemical Compendium
-icon: ':luggage:'
-aliases: Alchemical Compendium
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6rOEx0Jx44ROf6R0
-tags:
-- Item
----
-
 # Alchemical Compendium
 
 **Alchemical Compendium**

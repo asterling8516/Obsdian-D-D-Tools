@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.beUvgmT1laGhmKW3
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Scale Mail
 
 **Armor of Necrotic Resistance, Scale Mail**

@@ -1,12 +1,3 @@
----
-title: Alchemist's Supplies
-icon: ':luggage:'
-aliases: Alchemist's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wlcK8CEFQ20KtAD0
-tags:
-- Item
----
-
 # Alchemist's Supplies
 
 **Alchemist's Supplies**

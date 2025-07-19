@@ -1,12 +1,3 @@
----
-title: Narycrash
-icon: ':luggage:'
-aliases: Narycrash
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VyWdWYzSF3sdc9Ln
-tags:
-- Item
----
-
 # Narycrash
 
 **Narycrash**

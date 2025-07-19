@@ -1,12 +1,3 @@
----
-title: Spellwrought Tattoo, Cantrip
-icon: ':luggage:'
-aliases: Spellwrought Tattoo, Cantrip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OYI1CUYoCvxX3QYG
-tags:
-- Item
----
-
 # Spellwrought Tattoo, Cantrip
 
 **Spellwrought Tattoo, Cantrip**

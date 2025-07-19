@@ -1,12 +1,3 @@
----
-title: Suggestion
-icon: ':luggage:'
-aliases: Suggestion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.25M5EvKo0Kq58buE
-tags:
-- Item
----
-
 # Suggestion
 
 **Suggestion**

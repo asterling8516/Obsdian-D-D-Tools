@@ -1,12 +1,3 @@
----
-title: +2 Ice Armor
-icon: ':luggage:'
-aliases: +2 Ice Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q4W7d72qAFCgqMM0
-tags:
-- Item
----
-
 # +2 Ice Armor
 
 **+2 Ice Armor**

@@ -1,12 +1,3 @@
----
-title: Sapphire Buckler
-icon: ':luggage:'
-aliases: Sapphire Buckler
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gYywkduPfvxiirXk
-tags:
-- Item
----
-
 # Sapphire Buckler
 
 **Sapphire Buckler**

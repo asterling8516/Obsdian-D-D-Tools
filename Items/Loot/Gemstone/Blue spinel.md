@@ -1,12 +1,3 @@
----
-title: Blue spinel
-icon: ':luggage:'
-aliases: Blue spinel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.onhxYUeWxefaGz1b
-tags:
-- Item
----
-
 # Blue spinel
 
 **Blue spinel**

@@ -1,12 +1,3 @@
----
-title: Pole of Collapsing
-icon: ':luggage:'
-aliases: Pole of Collapsing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5FxbEHcSIlt3oDh1
-tags:
-- Item
----
-
 # Pole of Collapsing
 
 **Pole of Collapsing**

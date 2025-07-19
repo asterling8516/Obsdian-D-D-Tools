@@ -1,12 +1,3 @@
----
-title: Flame Arrows
-icon: ':luggage:'
-aliases: Flame Arrows
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SA3PbFex3eJRFPID
-tags:
-- Item
----
-
 # Flame Arrows
 
 **Flame Arrows**

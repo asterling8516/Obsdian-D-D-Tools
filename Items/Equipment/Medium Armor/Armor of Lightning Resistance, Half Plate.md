@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g2HhqOtdH4O9WRiP
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Half Plate
 
 **Armor of Lightning Resistance, Half Plate**

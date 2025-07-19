@@ -1,12 +1,3 @@
----
-title: Winter's Dark Bite
-icon: ':luggage:'
-aliases: Winter's Dark Bite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cLllsgI6cFjqxP0g
-tags:
-- Item
----
-
 # Winter's Dark Bite
 
 **Winter's Dark Bite**

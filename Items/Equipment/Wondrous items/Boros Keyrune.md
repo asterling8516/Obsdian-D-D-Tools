@@ -1,12 +1,3 @@
----
-title: Boros Keyrune
-icon: ':luggage:'
-aliases: Boros Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2f1DkD3YeEXvP8TG
-tags:
-- Item
----
-
 # Boros Keyrune
 
 **Boros Keyrune**

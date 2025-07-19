@@ -1,12 +1,3 @@
----
-title: Cloudkill
-icon: ':luggage:'
-aliases: Cloudkill
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.mkx34jgo3J5pYm23
-tags:
-- Item
----
-
 # Cloudkill
 
 **Cloudkill**

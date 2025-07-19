@@ -1,12 +1,3 @@
----
-title: Block and Tackle
-icon: ':luggage:'
-aliases: Block and Tackle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q0YOqJJ3Qp3Anx4S
-tags:
-- Item
----
-
 # Block and Tackle
 
 **Block and Tackle**

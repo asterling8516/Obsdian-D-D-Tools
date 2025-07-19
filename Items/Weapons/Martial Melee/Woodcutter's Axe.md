@@ -1,12 +1,3 @@
----
-title: Woodcutter's Axe
-icon: ':luggage:'
-aliases: Woodcutter's Axe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Zv6SlzsjXLQaLmWA
-tags:
-- Item
----
-
 # Woodcutter's Axe
 
 **Woodcutter's Axe**

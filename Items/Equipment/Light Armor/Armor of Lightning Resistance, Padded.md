@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LLgM9tmZTko74O5r
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Padded
 
 **Armor of Lightning Resistance, Padded**

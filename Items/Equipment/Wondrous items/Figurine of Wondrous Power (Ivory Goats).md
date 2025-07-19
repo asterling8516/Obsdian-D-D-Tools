@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Ivory Goats)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Ivory Goats)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1udN1c7tc1rl5J9T
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Ivory Goats)
 
 **Figurine of Wondrous Power (Ivory Goats)**

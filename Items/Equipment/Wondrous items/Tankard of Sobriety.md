@@ -1,12 +1,3 @@
----
-title: Tankard of Sobriety
-icon: ':luggage:'
-aliases: Tankard of Sobriety
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3dXWqmAzIj096uTO
-tags:
-- Item
----
-
 # Tankard of Sobriety
 
 **Tankard of Sobriety**

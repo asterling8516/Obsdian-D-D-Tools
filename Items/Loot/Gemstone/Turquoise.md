@@ -1,12 +1,3 @@
----
-title: Turquoise
-icon: ':luggage:'
-aliases: Turquoise
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sjuGX1kktycIq7Kf
-tags:
-- Item
----
-
 # Turquoise
 
 **Turquoise**

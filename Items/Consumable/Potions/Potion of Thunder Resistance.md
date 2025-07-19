@@ -1,12 +1,3 @@
----
-title: Potion of Thunder Resistance
-icon: ':luggage:'
-aliases: Potion of Thunder Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TTQWlovxDPlqyf6y
-tags:
-- Item
----
-
 # Potion of Thunder Resistance
 
 **Potion of Thunder Resistance**

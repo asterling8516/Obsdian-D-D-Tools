@@ -1,12 +1,3 @@
----
-title: Giant Slayer Dart
-icon: ':luggage:'
-aliases: Giant Slayer Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LWAUdqpM0i2pl9YJ
-tags:
-- Item
----
-
 # Giant Slayer Dart
 
 **Giant Slayer Dart**

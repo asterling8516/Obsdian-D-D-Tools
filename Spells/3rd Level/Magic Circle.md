@@ -1,12 +1,3 @@
----
-title: Magic Circle
-icon: ':luggage:'
-aliases: Magic Circle
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kZXsytbzqvixzGny
-tags:
-- Item
----
-
 # Magic Circle
 
 **Magic Circle**

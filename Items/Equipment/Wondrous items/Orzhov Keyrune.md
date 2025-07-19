@@ -1,12 +1,3 @@
----
-title: Orzhov Keyrune
-icon: ':luggage:'
-aliases: Orzhov Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kAwyzoo2pUjS0sNg
-tags:
-- Item
----
-
 # Orzhov Keyrune
 
 **Orzhov Keyrune**

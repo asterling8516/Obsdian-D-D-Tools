@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Shotgun
-icon: ':luggage:'
-aliases: Nine Lives Stealer Shotgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oB8rRvvErGeBxrK7
-tags:
-- Item
----
-
 # Nine Lives Stealer Shotgun
 
 **Nine Lives Stealer Shotgun**

@@ -1,12 +1,3 @@
----
-title: Hide, +3
-icon: ':luggage:'
-aliases: Hide, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ypH2Dx6JfF2n1iZL
-tags:
-- Item
----
-
 # Hide, +3
 
 **Hide, +3**

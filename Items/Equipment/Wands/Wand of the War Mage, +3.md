@@ -1,12 +1,3 @@
----
-title: Wand of the War Mage, +3
-icon: ':luggage:'
-aliases: Wand of the War Mage, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9KDKme80pM500wTu
-tags:
-- Item
----
-
 # Wand of the War Mage, +3
 
 **Wand of the War Mage, +3**

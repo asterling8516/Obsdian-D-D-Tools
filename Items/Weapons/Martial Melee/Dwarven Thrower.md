@@ -1,12 +1,3 @@
----
-title: Dwarven Thrower
-icon: ':luggage:'
-aliases: Dwarven Thrower
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zWKYj5UoyI6hYhWi
-tags:
-- Item
----
-
 # Dwarven Thrower
 
 **Dwarven Thrower**

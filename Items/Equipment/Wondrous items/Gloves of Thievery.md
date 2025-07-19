@@ -1,12 +1,3 @@
----
-title: Gloves of Thievery
-icon: ':luggage:'
-aliases: Gloves of Thievery
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lBae52tIuBYcyYzf
-tags:
-- Item
----
-
 # Gloves of Thievery
 
 **Gloves of Thievery**

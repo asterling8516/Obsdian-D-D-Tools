@@ -1,12 +1,3 @@
----
-title: Revolver of Warning
-icon: ':luggage:'
-aliases: Revolver of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cwYHbjRMdWt5E17n
-tags:
-- Item
----
-
 # Revolver of Warning
 
 **Revolver of Warning**

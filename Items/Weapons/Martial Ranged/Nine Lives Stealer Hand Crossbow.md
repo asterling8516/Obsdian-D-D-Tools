@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Hand Crossbow
-icon: ':luggage:'
-aliases: Nine Lives Stealer Hand Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U5UlTYnXmdypFnVJ
-tags:
-- Item
----
-
 # Nine Lives Stealer Hand Crossbow
 
 **Nine Lives Stealer Hand Crossbow**

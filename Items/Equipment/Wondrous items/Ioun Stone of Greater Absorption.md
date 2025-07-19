@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Greater Absorption
-icon: ':luggage:'
-aliases: Ioun Stone of Greater Absorption
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5wAUwaj02UtyT8wa
-tags:
-- Item
----
-
 # Ioun Stone of Greater Absorption
 
 **Ioun Stone of Greater Absorption**

@@ -1,12 +1,3 @@
----
-title: Elemental Gem (Emerald)
-icon: ':luggage:'
-aliases: Elemental Gem (Emerald)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y27MxTPJpRi90yPC
-tags:
-- Item
----
-
 # Elemental Gem (Emerald)
 
 **Elemental Gem (Emerald)**

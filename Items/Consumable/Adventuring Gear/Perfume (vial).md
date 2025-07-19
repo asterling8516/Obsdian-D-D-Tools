@@ -1,12 +1,3 @@
----
-title: Perfume (vial)
-icon: ':luggage:'
-aliases: Perfume (vial)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hysRg3vVHzU9l852
-tags:
-- Item
----
-
 # Perfume (vial)
 
 **Perfume (vial)**

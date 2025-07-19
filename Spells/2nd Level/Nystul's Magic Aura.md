@@ -1,12 +1,3 @@
----
-title: Nystul's Magic Aura
-icon: ':luggage:'
-aliases: Nystul's Magic Aura
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.L6OWeljQSu9vwa72
-tags:
-- Item
----
-
 # Nystul's Magic Aura
 
 **Nystul's Magic Aura**

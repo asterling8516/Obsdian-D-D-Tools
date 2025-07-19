@@ -1,12 +1,3 @@
----
-title: Amulet of Health
-icon: ':luggage:'
-aliases: Amulet of Health
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yx2kf3y1f6c1dit8
-tags:
-- Item
----
-
 # Amulet of Health
 
 **Amulet of Health**

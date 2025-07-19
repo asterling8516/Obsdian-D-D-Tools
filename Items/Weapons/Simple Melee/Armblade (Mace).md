@@ -1,12 +1,3 @@
----
-title: Armblade (Mace)
-icon: ':luggage:'
-aliases: Armblade (Mace)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MV8DEUphuw9vrSoo
-tags:
-- Item
----
-
 # Armblade (Mace)
 
 **Armblade (Mace)**

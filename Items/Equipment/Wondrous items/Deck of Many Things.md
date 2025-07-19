@@ -1,12 +1,3 @@
----
-title: Deck of Many Things
-icon: ':luggage:'
-aliases: Deck of Many Things
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.deOTytvj9igzLO85
-tags:
-- Item
----
-
 # Deck of Many Things
 
 **Deck of Many Things**

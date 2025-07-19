@@ -1,12 +1,3 @@
----
-title: Efficient Quiver
-icon: ':luggage:'
-aliases: Efficient Quiver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UtuY6qkYNn9bob16
-tags:
-- Item
----
-
 # Efficient Quiver
 
 **Efficient Quiver**

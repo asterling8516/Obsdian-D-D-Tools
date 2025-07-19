@@ -1,12 +1,3 @@
----
-title: Alchemy Jug
-icon: ':luggage:'
-aliases: Alchemy Jug
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.049cVsNMKt0RPBnk
-tags:
-- Item
----
-
 # Alchemy Jug
 
 **Alchemy Jug**

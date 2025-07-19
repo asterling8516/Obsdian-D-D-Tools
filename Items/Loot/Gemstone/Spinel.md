@@ -1,12 +1,3 @@
----
-title: Spinel
-icon: ':luggage:'
-aliases: Spinel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.69YVFcR54vYwrIyQ
-tags:
-- Item
----
-
 # Spinel
 
 **Spinel**

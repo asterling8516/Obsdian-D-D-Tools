@@ -1,12 +1,3 @@
----
-title: Flame Tongue Maul
-icon: ':luggage:'
-aliases: Flame Tongue Maul
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rVwNJ0jGPGs1rSnD
-tags:
-- Item
----
-
 # Flame Tongue Maul
 
 **Flame Tongue Maul**

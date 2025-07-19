@@ -1,12 +1,3 @@
----
-title: Drum
-icon: ':luggage:'
-aliases: Drum
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8vSuVGdZf9p9eqrQ
-tags:
-- Item
----
-
 # Drum
 
 **Drum**

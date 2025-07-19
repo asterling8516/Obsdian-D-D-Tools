@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Splint
-icon: ':luggage:'
-aliases: Cast-Off Armor, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uQiEjrjYY1phnO2q
-tags:
-- Item
----
-
 # Cast-Off Armor, Splint
 
 **Cast-Off Armor, Splint**

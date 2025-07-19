@@ -1,12 +1,3 @@
----
-title: Band of Loyalty
-icon: ':luggage:'
-aliases: Band of Loyalty
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SrHShlPv8eeDmsUd
-tags:
-- Item
----
-
 # Band of Loyalty
 
 **Band of Loyalty**

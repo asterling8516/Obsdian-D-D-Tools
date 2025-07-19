@@ -1,12 +1,3 @@
----
-title: Burglar's Pack
-icon: ':luggage:'
-aliases: Burglar's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KrwtjPsfCBJ6YTvv
-tags:
-- Item
----
-
 # Burglar's Pack
 
 **Burglar's Pack**

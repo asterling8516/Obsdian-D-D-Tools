@@ -1,12 +1,3 @@
----
-title: Aggravated Skeletal Armor
-icon: ':luggage:'
-aliases: Aggravated Skeletal Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2b7lqmWpoF5fHwwM
-tags:
-- Item
----
-
 # Aggravated Skeletal Armor
 
 **Aggravated Skeletal Armor**

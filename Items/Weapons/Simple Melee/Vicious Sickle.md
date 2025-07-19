@@ -1,12 +1,3 @@
----
-title: Vicious Sickle
-icon: ':luggage:'
-aliases: Vicious Sickle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OXzGFwp7NdsbT8RA
-tags:
-- Item
----
-
 # Vicious Sickle
 
 **Vicious Sickle**

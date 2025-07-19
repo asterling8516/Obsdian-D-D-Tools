@@ -1,12 +1,3 @@
----
-title: Sune's Silverwood Staff
-icon: ':luggage:'
-aliases: Sune's Silverwood Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yw9fJ9sytXUxYSKz
-tags:
-- Item
----
-
 # Sune's Silverwood Staff
 
 **Sune's Silverwood Staff**

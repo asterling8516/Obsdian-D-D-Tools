@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7dl2aqT2AV8oUDtK
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Hide
 
 **Armor of Psychic Resistance, Hide**

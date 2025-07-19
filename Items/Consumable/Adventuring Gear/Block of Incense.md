@@ -1,12 +1,3 @@
----
-title: Block of Incense
-icon: ':luggage:'
-aliases: Block of Incense
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aS4Jc39YoB9psujD
-tags:
-- Item
----
-
 # Block of Incense
 
 **Block of Incense**

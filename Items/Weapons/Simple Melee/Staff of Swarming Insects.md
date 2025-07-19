@@ -1,12 +1,3 @@
----
-title: Staff of Swarming Insects
-icon: ':luggage:'
-aliases: Staff of Swarming Insects
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kuTpr8uramoGrVRR
-tags:
-- Item
----
-
 # Staff of Swarming Insects
 
 **Staff of Swarming Insects**

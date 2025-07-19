@@ -1,12 +1,3 @@
----
-title: Ring Of Life
-icon: ':luggage:'
-aliases: Ring Of Life
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OKaNFp8FtDcoxtlM
-tags:
-- Item
----
-
 # Ring Of Life
 
 **Ring Of Life**

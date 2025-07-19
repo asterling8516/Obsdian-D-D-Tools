@@ -1,12 +1,3 @@
----
-title: Burning Hands
-icon: ':luggage:'
-aliases: Burning Hands
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bMae5730pu4K1hGM
-tags:
-- Item
----
-
 # Burning Hands
 
 **Burning Hands**

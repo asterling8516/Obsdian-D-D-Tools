@@ -1,12 +1,3 @@
----
-title: Greater Invisibility
-icon: ':luggage:'
-aliases: Greater Invisibility
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.I90EGWhZDAOOvpSX
-tags:
-- Item
----
-
 # Greater Invisibility
 
 **Greater Invisibility**

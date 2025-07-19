@@ -1,12 +1,3 @@
----
-title: Piercer
-icon: ':luggage:'
-aliases: Piercer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GOFuSKOiaoNV0wDm
-tags:
-- Item
----
-
 # Piercer
 
 **Piercer**

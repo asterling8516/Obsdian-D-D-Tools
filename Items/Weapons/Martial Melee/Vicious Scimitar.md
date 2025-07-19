@@ -1,12 +1,3 @@
----
-title: Vicious Scimitar
-icon: ':luggage:'
-aliases: Vicious Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YLgYDR1x2SI9axYn
-tags:
-- Item
----
-
 # Vicious Scimitar
 
 **Vicious Scimitar**

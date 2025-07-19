@@ -1,12 +1,3 @@
----
-title: Acid (vial)
-icon: ':luggage:'
-aliases: Acid (vial)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4d1BIaOex6jrOSej
-tags:
-- Item
----
-
 # Acid (vial)
 
 **Acid (vial)**

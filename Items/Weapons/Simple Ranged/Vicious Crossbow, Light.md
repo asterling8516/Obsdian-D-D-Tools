@@ -1,12 +1,3 @@
----
-title: Vicious Crossbow, Light
-icon: ':luggage:'
-aliases: Vicious Crossbow, Light
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.22b9r1XwjsRD4tcY
-tags:
-- Item
----
-
 # Vicious Crossbow, Light
 
 **Vicious Crossbow, Light**

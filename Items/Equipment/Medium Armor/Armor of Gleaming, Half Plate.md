@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Half Plate
-icon: ':luggage:'
-aliases: Armor of Gleaming, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gfw0HIbmLYrnFVBP
-tags:
-- Item
----
-
 # Armor of Gleaming, Half Plate
 
 **Armor of Gleaming, Half Plate**

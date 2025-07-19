@@ -1,12 +1,3 @@
----
-title: Flame Tongue Lance
-icon: ':luggage:'
-aliases: Flame Tongue Lance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rNnAUVKlK8Opz14b
-tags:
-- Item
----
-
 # Flame Tongue Lance
 
 **Flame Tongue Lance**

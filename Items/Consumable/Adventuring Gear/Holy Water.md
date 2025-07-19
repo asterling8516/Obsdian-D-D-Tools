@@ -1,12 +1,3 @@
----
-title: Holy Water
-icon: ':luggage:'
-aliases: Holy Water
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wI2TX5MZLwrkOljx
-tags:
-- Item
----
-
 # Holy Water
 
 **Holy Water**

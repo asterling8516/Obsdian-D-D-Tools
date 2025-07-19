@@ -1,12 +1,3 @@
----
-title: Bucket
-icon: ':luggage:'
-aliases: Bucket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9Gv6LHGbZRwSAi69
-tags:
-- Item
----
-
 # Bucket
 
 **Bucket**

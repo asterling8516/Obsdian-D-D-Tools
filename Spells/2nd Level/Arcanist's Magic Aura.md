@@ -1,12 +1,3 @@
----
-title: Arcanist's Magic Aura
-icon: ':luggage:'
-aliases: Arcanist's Magic Aura
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.f4dKGnRFcQQQRTHO
-tags:
-- Item
----
-
 # Arcanist's Magic Aura
 
 **Arcanist's Magic Aura**

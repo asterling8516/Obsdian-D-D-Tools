@@ -1,12 +1,3 @@
----
-title: Grease
-icon: ':luggage:'
-aliases: Grease
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Dm2dhwUiV7WEezmV
-tags:
-- Item
----
-
 # Grease
 
 **Grease**

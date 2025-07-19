@@ -1,12 +1,3 @@
----
-title: Adamantine Plate
-icon: ':luggage:'
-aliases: Adamantine Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.clFBJmmzxZYvxwYr
-tags:
-- Item
----
-
 # Adamantine Plate
 
 **Adamantine Plate**

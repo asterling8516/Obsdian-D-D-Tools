@@ -1,12 +1,3 @@
----
-title: Mace of Disruption
-icon: ':luggage:'
-aliases: Mace of Disruption
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.e9dXNYruB0Xx2FAf
-tags:
-- Item
----
-
 # Mace of Disruption
 
 **Mace of Disruption**

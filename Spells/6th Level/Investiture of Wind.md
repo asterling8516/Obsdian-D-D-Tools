@@ -1,12 +1,3 @@
----
-title: Investiture of Wind
-icon: ':luggage:'
-aliases: Investiture of Wind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.511xYVxaEkxXodBA
-tags:
-- Item
----
-
 # Investiture of Wind
 
 **Investiture of Wind**

@@ -1,12 +1,3 @@
----
-title: Freedom of Movement
-icon: ':luggage:'
-aliases: Freedom of Movement
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.vb0xI5ghIBJEC1YE
-tags:
-- Item
----
-
 # Freedom of Movement
 
 **Freedom of Movement**

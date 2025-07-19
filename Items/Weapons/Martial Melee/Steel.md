@@ -1,12 +1,3 @@
----
-title: Steel
-icon: ':luggage:'
-aliases: Steel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.862mEbCbwsxVcBoR
-tags:
-- Item
----
-
 # Steel
 
 **Steel**

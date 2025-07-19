@@ -1,12 +1,3 @@
----
-title: Holy Rifle Olivia
-icon: ':luggage:'
-aliases: Holy Rifle Olivia
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FzANqXEnHy7HuVju
-tags:
-- Item
----
-
 # Holy Rifle Olivia
 
 **Holy Rifle Olivia**

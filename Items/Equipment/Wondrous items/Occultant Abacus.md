@@ -1,12 +1,3 @@
----
-title: Occultant Abacus
-icon: ':luggage:'
-aliases: Occultant Abacus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bKTMa5JG5GR5tkDC
-tags:
-- Item
----
-
 # Occultant Abacus
 
 **Occultant Abacus**

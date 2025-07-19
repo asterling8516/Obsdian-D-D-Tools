@@ -1,12 +1,3 @@
----
-title: Canaith Mandolin
-icon: ':luggage:'
-aliases: Canaith Mandolin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3Eq8I4uzwnQwZQ4T
-tags:
-- Item
----
-
 # Canaith Mandolin
 
 **Canaith Mandolin**

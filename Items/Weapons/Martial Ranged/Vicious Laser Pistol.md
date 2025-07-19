@@ -1,12 +1,3 @@
----
-title: Vicious Laser Pistol
-icon: ':luggage:'
-aliases: Vicious Laser Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OSuGpyB1DsRC4WAg
-tags:
-- Item
----
-
 # Vicious Laser Pistol
 
 **Vicious Laser Pistol**

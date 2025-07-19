@@ -1,12 +1,3 @@
----
-title: Citrine
-icon: ':luggage:'
-aliases: Citrine
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IEHlcOvPUGriW0J2
-tags:
-- Item
----
-
 # Citrine
 
 **Citrine**

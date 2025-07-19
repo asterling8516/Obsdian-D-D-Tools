@@ -1,12 +1,3 @@
----
-title: Armblade (Trident)
-icon: ':luggage:'
-aliases: Armblade (Trident)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9ix3Ol1L3HI07ka8
-tags:
-- Item
----
-
 # Armblade (Trident)
 
 **Armblade (Trident)**

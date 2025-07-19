@@ -1,12 +1,3 @@
----
-title: Feather of Diatryma Summoning
-icon: ':luggage:'
-aliases: Feather of Diatryma Summoning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.D0jxlnvvUQxdp7Cq
-tags:
-- Item
----
-
 # Feather of Diatryma Summoning
 
 **Feather of Diatryma Summoning**

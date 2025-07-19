@@ -1,12 +1,3 @@
----
-title: Acid Splash
-icon: ':luggage:'
-aliases: Acid Splash
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Qsr8yRxyLdmWIx36
-tags:
-- Item
----
-
 # Acid Splash
 
 **Acid Splash**

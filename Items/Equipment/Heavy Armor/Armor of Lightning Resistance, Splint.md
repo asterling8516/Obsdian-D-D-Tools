@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3cyALYb9lcHlve0l
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Splint
 
 **Armor of Lightning Resistance, Splint**

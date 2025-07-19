@@ -1,12 +1,3 @@
----
-title: Mithral Half Plate, +1
-icon: ':luggage:'
-aliases: Mithral Half Plate, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ztSNZVUZSN7R4hIQ
-tags:
-- Item
----
-
 # Mithral Half Plate, +1
 
 **Mithral Half Plate, +1**

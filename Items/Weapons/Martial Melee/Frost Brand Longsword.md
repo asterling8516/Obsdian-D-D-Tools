@@ -1,12 +1,3 @@
----
-title: Frost Brand Longsword
-icon: ':luggage:'
-aliases: Frost Brand Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bgBUs4QeS8VPaekc
-tags:
-- Item
----
-
 # Frost Brand Longsword
 
 **Frost Brand Longsword**

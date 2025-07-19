@@ -1,12 +1,3 @@
----
-title: Piton
-icon: ':luggage:'
-aliases: Piton
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MjlfwVlhKVV29KF3
-tags:
-- Item
----
-
 # Piton
 
 **Piton**

@@ -1,12 +1,3 @@
----
-title: Orzhov Guild Signet
-icon: ':luggage:'
-aliases: Orzhov Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RtBxZSDHPn4W9awT
-tags:
-- Item
----
-
 # Orzhov Guild Signet
 
 **Orzhov Guild Signet**

@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EWPQAbezWx0M0to1
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Padded
 
 **Armor of Psychic Resistance, Padded**

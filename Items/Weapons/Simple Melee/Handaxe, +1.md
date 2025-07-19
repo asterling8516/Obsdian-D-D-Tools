@@ -1,12 +1,3 @@
----
-title: Handaxe, +1
-icon: ':luggage:'
-aliases: Handaxe, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.K6KIUgrect6Rxl4I
-tags:
-- Item
----
-
 # Handaxe, +1
 
 **Handaxe, +1**

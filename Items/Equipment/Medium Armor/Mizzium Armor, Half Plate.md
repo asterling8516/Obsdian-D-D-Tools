@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Half Plate
-icon: ':luggage:'
-aliases: Mizzium Armor, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sG7IxsQacy0fMm1b
-tags:
-- Item
----
-
 # Mizzium Armor, Half Plate
 
 **Mizzium Armor, Half Plate**

@@ -1,12 +1,3 @@
----
-title: Animal Messenger
-icon: ':luggage:'
-aliases: Animal Messenger
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xLxJaE5lVGCP3jpK
-tags:
-- Item
----
-
 # Animal Messenger
 
 **Animal Messenger**

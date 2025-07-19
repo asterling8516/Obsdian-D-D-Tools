@@ -1,12 +1,3 @@
----
-title: Animate Objects
-icon: ':luggage:'
-aliases: Animate Objects
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NNrRQMSkzkUqlNMp
-tags:
-- Item
----
-
 # Animate Objects
 
 **Animate Objects**

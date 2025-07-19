@@ -1,12 +1,3 @@
----
-title: Dragonlance (Pike)
-icon: ':luggage:'
-aliases: Dragonlance (Pike)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f2RDOlp02RSwbSa3
-tags:
-- Item
----
-
 # Dragonlance (Pike)
 
 **Dragonlance (Pike)**

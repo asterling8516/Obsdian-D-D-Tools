@@ -1,12 +1,3 @@
----
-title: Staff of the Magi
-icon: ':luggage:'
-aliases: Staff of the Magi
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QLAJ3WFMnycFKcI4
-tags:
-- Item
----
-
 # Staff of the Magi
 
 **Staff of the Magi**

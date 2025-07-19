@@ -1,12 +1,3 @@
----
-title: Robe of the Archmagi
-icon: ':luggage:'
-aliases: Robe of the Archmagi
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BGAVDP7dLqc0YcOT
-tags:
-- Item
----
-
 # Robe of the Archmagi
 
 **Robe of the Archmagi**

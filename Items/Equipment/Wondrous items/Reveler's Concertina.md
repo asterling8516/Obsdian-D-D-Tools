@@ -1,12 +1,3 @@
----
-title: Reveler's Concertina
-icon: ':luggage:'
-aliases: Reveler's Concertina
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ly87qqaxMAuhBRSE
-tags:
-- Item
----
-
 # Reveler's Concertina
 
 **Reveler's Concertina**

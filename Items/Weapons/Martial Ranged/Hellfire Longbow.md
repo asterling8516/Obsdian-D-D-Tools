@@ -1,12 +1,3 @@
----
-title: Hellfire Longbow
-icon: ':luggage:'
-aliases: Hellfire Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DeQlPVpowmlGGem0
-tags:
-- Item
----
-
 # Hellfire Longbow
 
 **Hellfire Longbow**

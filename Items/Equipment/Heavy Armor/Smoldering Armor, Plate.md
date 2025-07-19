@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Plate
-icon: ':luggage:'
-aliases: Smoldering Armor, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2rr4WMUs3PKZR5jM
-tags:
-- Item
----
-
 # Smoldering Armor, Plate
 
 **Smoldering Armor, Plate**

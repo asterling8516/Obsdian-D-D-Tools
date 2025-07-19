@@ -1,12 +1,3 @@
----
-title: Dragon Vessel (Stirring)
-icon: ':luggage:'
-aliases: Dragon Vessel (Stirring)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sbTPkQX4eblkNCBK
-tags:
-- Item
----
-
 # Dragon Vessel (Stirring)
 
 **Dragon Vessel (Stirring)**

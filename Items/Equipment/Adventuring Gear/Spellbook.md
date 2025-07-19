@@ -1,12 +1,3 @@
----
-title: Spellbook
-icon: ':luggage:'
-aliases: Spellbook
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.174g22e6Th293nGv
-tags:
-- Item
----
-
 # Spellbook
 
 **Spellbook**

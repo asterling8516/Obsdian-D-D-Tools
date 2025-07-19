@@ -1,12 +1,3 @@
----
-title: Wand of Scowls
-icon: ':luggage:'
-aliases: Wand of Scowls
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CI64JNy6DCloAWGt
-tags:
-- Item
----
-
 # Wand of Scowls
 
 **Wand of Scowls**

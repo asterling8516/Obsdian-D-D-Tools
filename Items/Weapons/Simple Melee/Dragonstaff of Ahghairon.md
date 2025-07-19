@@ -1,12 +1,3 @@
----
-title: Dragonstaff of Ahghairon
-icon: ':luggage:'
-aliases: Dragonstaff of Ahghairon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cQoujGyAGvedOpf3
-tags:
-- Item
----
-
 # Dragonstaff of Ahghairon
 
 **Dragonstaff of Ahghairon**

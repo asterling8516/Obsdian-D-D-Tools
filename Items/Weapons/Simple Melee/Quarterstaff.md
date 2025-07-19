@@ -1,12 +1,3 @@
----
-title: Quarterstaff
-icon: ':luggage:'
-aliases: Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZKy3pDiGzVP05mCL
-tags:
-- Item
----
-
 # Quarterstaff
 
 **Quarterstaff**

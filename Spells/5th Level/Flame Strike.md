@@ -1,12 +1,3 @@
----
-title: Flame Strike
-icon: ':luggage:'
-aliases: Flame Strike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.x2orIuBTzhlRyafb
-tags:
-- Item
----
-
 # Flame Strike
 
 **Flame Strike**

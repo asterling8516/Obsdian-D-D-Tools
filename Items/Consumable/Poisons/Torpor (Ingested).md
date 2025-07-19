@@ -1,12 +1,3 @@
----
-title: Torpor (Ingested)
-icon: ':luggage:'
-aliases: Torpor (Ingested)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ewPKNXt1MjwYtDHe
-tags:
-- Item
----
-
 # Torpor (Ingested)
 
 **Torpor (Ingested)**

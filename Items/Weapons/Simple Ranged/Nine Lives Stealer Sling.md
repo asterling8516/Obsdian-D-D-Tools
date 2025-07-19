@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Sling
-icon: ':luggage:'
-aliases: Nine Lives Stealer Sling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ViolzbraE2RZZmm8
-tags:
-- Item
----
-
 # Nine Lives Stealer Sling
 
 **Nine Lives Stealer Sling**

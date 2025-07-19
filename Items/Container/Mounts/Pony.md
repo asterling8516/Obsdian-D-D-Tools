@@ -1,12 +1,3 @@
----
-title: Pony
-icon: ':luggage:'
-aliases: Pony
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WX6AbHMdoYBV1yD6
-tags:
-- Item
----
-
 # Pony
 
 **Pony**

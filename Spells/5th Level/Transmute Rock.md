@@ -1,12 +1,3 @@
----
-title: Transmute Rock
-icon: ':luggage:'
-aliases: Transmute Rock
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KLOySgvaSm7zFUjX
-tags:
-- Item
----
-
 # Transmute Rock
 
 **Transmute Rock**

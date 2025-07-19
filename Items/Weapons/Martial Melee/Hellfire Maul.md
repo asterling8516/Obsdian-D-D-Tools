@@ -1,12 +1,3 @@
----
-title: Hellfire Maul
-icon: ':luggage:'
-aliases: Hellfire Maul
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PZiMp9VPOcOM893x
-tags:
-- Item
----
-
 # Hellfire Maul
 
 **Hellfire Maul**

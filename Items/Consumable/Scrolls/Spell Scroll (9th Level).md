@@ -1,12 +1,3 @@
----
-title: Spell Scroll (9th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (9th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IGSsBobdSnpF7lbX
-tags:
-- Item
----
-
 # Spell Scroll (9th Level)
 
 **Spell Scroll (9th Level)**

@@ -1,12 +1,3 @@
----
-title: Gruul Keyrune
-icon: ':luggage:'
-aliases: Gruul Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ngtlFNMkiEEcvcuL
-tags:
-- Item
----
-
 # Gruul Keyrune
 
 **Gruul Keyrune**

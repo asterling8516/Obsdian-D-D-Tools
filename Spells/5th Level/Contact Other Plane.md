@@ -1,12 +1,3 @@
----
-title: Contact Other Plane
-icon: ':luggage:'
-aliases: Contact Other Plane
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.zRspgqHxdC2YUNxc
-tags:
-- Item
----
-
 # Contact Other Plane
 
 **Contact Other Plane**

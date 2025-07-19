@@ -1,12 +1,3 @@
----
-title: Chain Mail, +2
-icon: ':luggage:'
-aliases: Chain Mail, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rhJqciRe6eafzRLa
-tags:
-- Item
----
-
 # Chain Mail, +2
 
 **Chain Mail, +2**

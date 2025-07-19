@@ -1,12 +1,3 @@
----
-title: Create Undead
-icon: ':luggage:'
-aliases: Create Undead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.XAI9Qlv4t7vOQJMS
-tags:
-- Item
----
-
 # Create Undead
 
 **Create Undead**

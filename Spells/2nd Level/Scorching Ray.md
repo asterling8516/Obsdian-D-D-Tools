@@ -1,12 +1,3 @@
----
-title: Scorching Ray
-icon: ':luggage:'
-aliases: Scorching Ray
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.i9jTTIFOq7D4D5Aa
-tags:
-- Item
----
-
 # Scorching Ray
 
 **Scorching Ray**

@@ -1,12 +1,3 @@
----
-title: Rope, Silk (50 feet)
-icon: ':luggage:'
-aliases: Rope, Silk (50 feet)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lNJaixoxMYkT8TI7
-tags:
-- Item
----
-
 # Rope, Silk (50 feet)
 
 **Rope, Silk (50 feet)**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Pike
-icon: ':luggage:'
-aliases: Giant Slayer Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aAwe8iPTFhjiXHOW
-tags:
-- Item
----
-
 # Giant Slayer Pike
 
 **Giant Slayer Pike**

@@ -1,12 +1,3 @@
----
-title: Adamantine Breastplate
-icon: ':luggage:'
-aliases: Adamantine Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OcqlRPVLxKgK9x0k
-tags:
-- Item
----
-
 # Adamantine Breastplate
 
 **Adamantine Breastplate**

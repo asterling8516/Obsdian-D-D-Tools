@@ -1,12 +1,3 @@
----
-title: Lesser Hammock of Worlds
-icon: ':luggage:'
-aliases: Lesser Hammock of Worlds
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UkzQ7GECqOeupg5m
-tags:
-- Item
----
-
 # Lesser Hammock of Worlds
 
 **Lesser Hammock of Worlds**

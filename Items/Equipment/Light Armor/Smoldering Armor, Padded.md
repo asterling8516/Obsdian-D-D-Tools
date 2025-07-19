@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Padded
-icon: ':luggage:'
-aliases: Smoldering Armor, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9pvpjMfQaFjsk4qx
-tags:
-- Item
----
-
 # Smoldering Armor, Padded
 
 **Smoldering Armor, Padded**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Cartographer's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Cartographer's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ecrl7WVc62EmTPKh
-tags:
-- Item
----
-
 # Living Gloves, Cartographer's Tools
 
 **Living Gloves, Cartographer's Tools**

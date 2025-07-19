@@ -1,12 +1,3 @@
----
-title: Moon-Touched Sword, Greatsword
-icon: ':luggage:'
-aliases: Moon-Touched Sword, Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.67bDOBdqRC2wSrj3
-tags:
-- Item
----
-
 # Moon-Touched Sword, Greatsword
 
 **Moon-Touched Sword, Greatsword**

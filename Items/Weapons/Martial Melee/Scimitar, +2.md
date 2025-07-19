@@ -1,12 +1,3 @@
----
-title: Scimitar, +2
-icon: ':luggage:'
-aliases: Scimitar, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bIZWUyidmvzCefk2
-tags:
-- Item
----
-
 # Scimitar, +2
 
 **Scimitar, +2**

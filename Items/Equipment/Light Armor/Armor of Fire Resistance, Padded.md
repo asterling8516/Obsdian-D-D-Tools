@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ubilCHCyvAsSdVii
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Padded
 
 **Armor of Fire Resistance, Padded**

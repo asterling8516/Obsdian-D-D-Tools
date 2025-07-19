@@ -1,12 +1,3 @@
----
-title: Mind Blank
-icon: ':luggage:'
-aliases: Mind Blank
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.P4U5l9BaoM00sJM3
-tags:
-- Item
----
-
 # Mind Blank
 
 **Mind Blank**

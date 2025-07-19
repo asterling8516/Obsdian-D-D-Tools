@@ -1,12 +1,3 @@
----
-title: Potion of Mind Control (Humanoid)
-icon: ':luggage:'
-aliases: Potion of Mind Control (Humanoid)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xsqvWaY3zegOsoYG
-tags:
-- Item
----
-
 # Potion of Mind Control (Humanoid)
 
 **Potion of Mind Control (Humanoid)**

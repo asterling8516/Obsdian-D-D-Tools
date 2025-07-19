@@ -1,12 +1,3 @@
----
-title: Soul Master
-icon: ':luggage:'
-aliases: Soul Master
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wbUrl7kRXg6EZIIa
-tags:
-- Item
----
-
 # Soul Master
 
 **Soul Master**

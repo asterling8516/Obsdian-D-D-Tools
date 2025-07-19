@@ -1,12 +1,3 @@
----
-title: Talisman of Pure Good
-icon: ':luggage:'
-aliases: Talisman of Pure Good
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6bymw0DZJSDssSY1
-tags:
-- Item
----
-
 # Talisman of Pure Good
 
 **Talisman of Pure Good**

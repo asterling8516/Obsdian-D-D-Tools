@@ -1,12 +1,3 @@
----
-title: Mass Heal
-icon: ':luggage:'
-aliases: Mass Heal
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.e21DBWbUY9sP3Tfx
-tags:
-- Item
----
-
 # Mass Heal
 
 **Mass Heal**

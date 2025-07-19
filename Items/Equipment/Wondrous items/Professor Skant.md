@@ -1,12 +1,3 @@
----
-title: Professor Skant
-icon: ':luggage:'
-aliases: Professor Skant
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TlrTDWvPyJKxhRe7
-tags:
-- Item
----
-
 # Professor Skant
 
 **Professor Skant**

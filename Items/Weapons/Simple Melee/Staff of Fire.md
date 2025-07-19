@@ -1,12 +1,3 @@
----
-title: Staff of Fire
-icon: ':luggage:'
-aliases: Staff of Fire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.99eyfLkI8sh0OgZV
-tags:
-- Item
----
-
 # Staff of Fire
 
 **Staff of Fire**

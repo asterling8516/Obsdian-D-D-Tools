@@ -1,12 +1,3 @@
----
-title: Mordenkainen's Magnificent Mansion
-icon: ':luggage:'
-aliases: Mordenkainen's Magnificent Mansion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kjpNA8XXGwSvA9eb
-tags:
-- Item
----
-
 # Mordenkainen's Magnificent Mansion
 
 **Mordenkainen's Magnificent Mansion**

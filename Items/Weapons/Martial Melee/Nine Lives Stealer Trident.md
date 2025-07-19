@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Trident
-icon: ':luggage:'
-aliases: Nine Lives Stealer Trident
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l2aVjnBbW7o2GwbT
-tags:
-- Item
----
-
 # Nine Lives Stealer Trident
 
 **Nine Lives Stealer Trident**

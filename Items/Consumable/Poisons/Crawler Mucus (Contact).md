@@ -1,12 +1,3 @@
----
-title: Crawler Mucus (Contact)
-icon: ':luggage:'
-aliases: Crawler Mucus (Contact)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qI4cm17MxhzEpFNq
-tags:
-- Item
----
-
 # Crawler Mucus (Contact)
 
 **Crawler Mucus (Contact)**

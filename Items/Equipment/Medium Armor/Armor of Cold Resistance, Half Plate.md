@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SX4ITODNLWtju5Xp
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Half Plate
 
 **Armor of Cold Resistance, Half Plate**

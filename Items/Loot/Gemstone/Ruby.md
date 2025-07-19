@@ -1,12 +1,3 @@
----
-title: Ruby
-icon: ':luggage:'
-aliases: Ruby
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0vMcuROLulIgkxMe
-tags:
-- Item
----
-
 # Ruby
 
 **Ruby**

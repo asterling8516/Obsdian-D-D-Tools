@@ -1,12 +1,3 @@
----
-title: Scroll of the Comet
-icon: ':luggage:'
-aliases: Scroll of the Comet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4autPwt32OHLkNAE
-tags:
-- Item
----
-
 # Scroll of the Comet
 
 **Scroll of the Comet**

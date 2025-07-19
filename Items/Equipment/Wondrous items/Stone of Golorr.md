@@ -1,12 +1,3 @@
----
-title: Stone of Golorr
-icon: ':luggage:'
-aliases: Stone of Golorr
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E9hwQ2owveKfEQG0
-tags:
-- Item
----
-
 # Stone of Golorr
 
 **Stone of Golorr**

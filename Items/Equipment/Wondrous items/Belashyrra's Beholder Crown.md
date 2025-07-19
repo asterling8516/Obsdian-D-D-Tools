@@ -1,12 +1,3 @@
----
-title: Belashyrra's Beholder Crown
-icon: ':luggage:'
-aliases: Belashyrra's Beholder Crown
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fGnOzL4iuyS4LwGf
-tags:
-- Item
----
-
 # Belashyrra's Beholder Crown
 
 **Belashyrra's Beholder Crown**

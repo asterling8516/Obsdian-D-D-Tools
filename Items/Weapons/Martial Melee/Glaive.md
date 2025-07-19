@@ -1,12 +1,3 @@
----
-title: Glaive
-icon: ':luggage:'
-aliases: Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qN2uQNpZ4RJRrECT
-tags:
-- Item
----
-
 # Glaive
 
 **Glaive**

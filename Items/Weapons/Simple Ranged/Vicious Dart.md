@@ -1,12 +1,3 @@
----
-title: Vicious Dart
-icon: ':luggage:'
-aliases: Vicious Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zbdLlh1zCCMwNqyt
-tags:
-- Item
----
-
 # Vicious Dart
 
 **Vicious Dart**

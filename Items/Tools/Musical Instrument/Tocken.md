@@ -1,12 +1,3 @@
----
-title: Tocken
-icon: ':luggage:'
-aliases: Tocken
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fLZNkVb0D0Qiho1N
-tags:
-- Item
----
-
 # Tocken
 
 **Tocken**

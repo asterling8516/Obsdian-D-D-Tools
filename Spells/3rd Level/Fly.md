@@ -1,12 +1,3 @@
----
-title: Fly
-icon: ':luggage:'
-aliases: Fly
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.M7gIcZnsDkPbqHqS
-tags:
-- Item
----
-
 # Fly
 
 **Fly**

@@ -1,12 +1,3 @@
----
-title: Shadowfell Brand Tattoo
-icon: ':luggage:'
-aliases: Shadowfell Brand Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.08EneQc951UeTV5D
-tags:
-- Item
----
-
 # Shadowfell Brand Tattoo
 
 **Shadowfell Brand Tattoo**

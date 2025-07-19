@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Fortitude
-icon: ':luggage:'
-aliases: Ioun Stone of Fortitude
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m55Ahys1QTGeALEs
-tags:
-- Item
----
-
 # Ioun Stone of Fortitude
 
 **Ioun Stone of Fortitude**

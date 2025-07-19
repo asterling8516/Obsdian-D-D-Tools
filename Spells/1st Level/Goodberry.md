@@ -1,12 +1,3 @@
----
-title: Goodberry
-icon: ':luggage:'
-aliases: Goodberry
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6dPP6aVdC9ePxgne
-tags:
-- Item
----
-
 # Goodberry
 
 **Goodberry**

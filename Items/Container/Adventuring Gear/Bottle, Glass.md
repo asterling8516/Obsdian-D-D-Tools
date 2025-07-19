@@ -1,12 +1,3 @@
----
-title: Bottle, Glass
-icon: ':luggage:'
-aliases: Bottle, Glass
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.W46tfbmdsPOC27KK
-tags:
-- Item
----
-
 # Bottle, Glass
 
 **Bottle, Glass**

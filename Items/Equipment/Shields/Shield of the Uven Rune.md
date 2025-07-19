@@ -1,12 +1,3 @@
----
-title: Shield of the Uven Rune
-icon: ':luggage:'
-aliases: Shield of the Uven Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XCNWmKCx165xgUEW
-tags:
-- Item
----
-
 # Shield of the Uven Rune
 
 **Shield of the Uven Rune**

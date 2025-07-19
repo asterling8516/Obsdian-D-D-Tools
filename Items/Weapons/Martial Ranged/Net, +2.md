@@ -1,12 +1,3 @@
----
-title: Net, +2
-icon: ':luggage:'
-aliases: Net, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zIDuYiH4yGSIXnGc
-tags:
-- Item
----
-
 # Net, +2
 
 **Net, +2**

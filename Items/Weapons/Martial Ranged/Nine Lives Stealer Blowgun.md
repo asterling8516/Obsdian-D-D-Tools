@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Blowgun
-icon: ':luggage:'
-aliases: Nine Lives Stealer Blowgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.A7cHQhdItvVFRxzn
-tags:
-- Item
----
-
 # Nine Lives Stealer Blowgun
 
 **Nine Lives Stealer Blowgun**

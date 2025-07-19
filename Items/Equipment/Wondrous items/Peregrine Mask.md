@@ -1,12 +1,3 @@
----
-title: Peregrine Mask
-icon: ':luggage:'
-aliases: Peregrine Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sDunaL4W2DDQYEmZ
-tags:
-- Item
----
-
 # Peregrine Mask
 
 **Peregrine Mask**

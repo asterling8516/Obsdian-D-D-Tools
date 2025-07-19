@@ -1,12 +1,3 @@
----
-title: Ring of Animal Influence
-icon: ':luggage:'
-aliases: Ring of Animal Influence
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TOQZERGNNEqoiv9G
-tags:
-- Item
----
-
 # Ring of Animal Influence
 
 **Ring of Animal Influence**

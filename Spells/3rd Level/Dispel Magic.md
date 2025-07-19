@@ -1,12 +1,3 @@
----
-title: Dispel Magic
-icon: ':luggage:'
-aliases: Dispel Magic
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.lhBSXT3dUDVdA338
-tags:
-- Item
----
-
 # Dispel Magic
 
 **Dispel Magic**

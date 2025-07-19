@@ -1,12 +1,3 @@
----
-title: Black Opal
-icon: ':luggage:'
-aliases: Black Opal
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bac8kSgWQRqGGlGr
-tags:
-- Item
----
-
 # Black Opal
 
 **Black Opal**

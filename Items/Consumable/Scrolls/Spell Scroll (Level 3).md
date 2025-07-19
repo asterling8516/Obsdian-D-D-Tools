@@ -1,12 +1,3 @@
----
-title: Spell Scroll (Level 3)
-icon: ':luggage:'
-aliases: Spell Scroll (Level 3)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Pacx9oc13CGQBfLZ
-tags:
-- Item
----
-
 # Spell Scroll (Level 3)
 
 **Spell Scroll (Level 3)**

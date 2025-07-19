@@ -1,12 +1,3 @@
----
-title: Mage Hand
-icon: ':luggage:'
-aliases: Mage Hand
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3MPziJuUsT1PMAYM
-tags:
-- Item
----
-
 # Mage Hand
 
 **Mage Hand**

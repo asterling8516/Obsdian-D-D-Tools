@@ -1,12 +1,3 @@
----
-title: Pan Flute
-icon: ':luggage:'
-aliases: Pan Flute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YFitomzLwWTwTrLH
-tags:
-- Item
----
-
 # Pan Flute
 
 **Pan Flute**

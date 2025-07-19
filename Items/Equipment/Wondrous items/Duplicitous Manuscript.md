@@ -1,12 +1,3 @@
----
-title: Duplicitous Manuscript
-icon: ':luggage:'
-aliases: Duplicitous Manuscript
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MF5cTdLw989bWmOR
-tags:
-- Item
----
-
 # Duplicitous Manuscript
 
 **Duplicitous Manuscript**

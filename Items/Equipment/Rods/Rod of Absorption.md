@@ -1,12 +1,3 @@
----
-title: Rod of Absorption
-icon: ':luggage:'
-aliases: Rod of Absorption
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mcA1Abt8MgAC1ETm
-tags:
-- Item
----
-
 # Rod of Absorption
 
 **Rod of Absorption**

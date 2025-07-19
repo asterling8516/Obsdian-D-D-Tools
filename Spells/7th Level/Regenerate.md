@@ -1,12 +1,3 @@
----
-title: Regenerate
-icon: ':luggage:'
-aliases: Regenerate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UVsVfAuRiQYf0Loq
-tags:
-- Item
----
-
 # Regenerate
 
 **Regenerate**

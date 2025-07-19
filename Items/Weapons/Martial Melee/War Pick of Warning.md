@@ -1,12 +1,3 @@
----
-title: War Pick of Warning
-icon: ':luggage:'
-aliases: War Pick of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.u2g0UvsqAwqph2bi
-tags:
-- Item
----
-
 # War Pick of Warning
 
 **War Pick of Warning**

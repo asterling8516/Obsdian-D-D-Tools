@@ -1,12 +1,3 @@
----
-title: Black Dragon Mask
-icon: ':luggage:'
-aliases: Black Dragon Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MuV2PS3iKRravohZ
-tags:
-- Item
----
-
 # Black Dragon Mask
 
 **Black Dragon Mask**

@@ -1,12 +1,3 @@
----
-title: Elemental Essence Shard, Air
-icon: ':luggage:'
-aliases: Elemental Essence Shard, Air
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hdlHlPi9Wr8QbVxI
-tags:
-- Item
----
-
 # Elemental Essence Shard, Air
 
 **Elemental Essence Shard, Air**

@@ -1,12 +1,3 @@
----
-title: Shatter
-icon: ':luggage:'
-aliases: Shatter
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TYtV4CmLNsxExKEI
-tags:
-- Item
----
-
 # Shatter
 
 **Shatter**

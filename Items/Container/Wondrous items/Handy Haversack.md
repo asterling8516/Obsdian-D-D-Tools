@@ -1,12 +1,3 @@
----
-title: Handy Haversack
-icon: ':luggage:'
-aliases: Handy Haversack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Dnw1tiwHobHM7fpG
-tags:
-- Item
----
-
 # Handy Haversack
 
 **Handy Haversack**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Horn
-icon: ':luggage:'
-aliases: Living Gloves, Horn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b2HJQ1HzCv9EpoWm
-tags:
-- Item
----
-
 # Living Gloves, Horn
 
 **Living Gloves, Horn**

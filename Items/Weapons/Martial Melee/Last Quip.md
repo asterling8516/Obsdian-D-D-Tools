@@ -1,12 +1,3 @@
----
-title: Last Quip
-icon: ':luggage:'
-aliases: Last Quip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fgHGKwtcXuKPSw5B
-tags:
-- Item
----
-
 # Last Quip
 
 **Last Quip**

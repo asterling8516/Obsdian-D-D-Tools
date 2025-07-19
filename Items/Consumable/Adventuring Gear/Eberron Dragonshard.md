@@ -1,12 +1,3 @@
----
-title: Eberron Dragonshard
-icon: ':luggage:'
-aliases: Eberron Dragonshard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ii2sJXZzXIFT8IBW
-tags:
-- Item
----
-
 # Eberron Dragonshard
 
 **Eberron Dragonshard**

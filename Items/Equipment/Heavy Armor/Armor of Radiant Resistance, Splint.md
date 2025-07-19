@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qmCF0Lk0ti4HT2ZR
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Splint
 
 **Armor of Radiant Resistance, Splint**

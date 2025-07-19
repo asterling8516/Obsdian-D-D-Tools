@@ -1,12 +1,3 @@
----
-title: Berserker Battleaxe
-icon: ':luggage:'
-aliases: Berserker Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aunbozxHcfxqbsKH
-tags:
-- Item
----
-
 # Berserker Battleaxe
 
 **Berserker Battleaxe**

@@ -1,12 +1,3 @@
----
-title: Summon Celestial
-icon: ':luggage:'
-aliases: Summon Celestial
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6H4JZi0YXB33Dp3F
-tags:
-- Item
----
-
 # Summon Celestial
 
 **Summon Celestial**

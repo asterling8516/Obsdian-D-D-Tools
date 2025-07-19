@@ -1,12 +1,3 @@
----
-title: Pressure Capsule
-icon: ':luggage:'
-aliases: Pressure Capsule
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tkAJZegO0RA1Tpcx
-tags:
-- Item
----
-
 # Pressure Capsule
 
 **Pressure Capsule**

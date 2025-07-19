@@ -1,12 +1,3 @@
----
-title: Root Of The Mother Tree
-icon: ':luggage:'
-aliases: Root Of The Mother Tree
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.H1fkJ7MczQ9n1A0d
-tags:
-- Item
----
-
 # Root Of The Mother Tree
 
 **Root Of The Mother Tree**

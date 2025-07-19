@@ -1,12 +1,3 @@
----
-title: Fire Storm
-icon: ':luggage:'
-aliases: Fire Storm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0FJX62nLxnvaAlfa
-tags:
-- Item
----
-
 # Fire Storm
 
 **Fire Storm**

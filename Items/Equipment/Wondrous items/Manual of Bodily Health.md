@@ -1,12 +1,3 @@
----
-title: Manual of Bodily Health
-icon: ':luggage:'
-aliases: Manual of Bodily Health
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zVUD95mjQmy9Spbf
-tags:
-- Item
----
-
 # Manual of Bodily Health
 
 **Manual of Bodily Health**

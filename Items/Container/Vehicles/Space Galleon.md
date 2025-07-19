@@ -1,12 +1,3 @@
----
-title: Space Galleon
-icon: ':luggage:'
-aliases: Space Galleon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BtvGSkchtFJQh0ox
-tags:
-- Item
----
-
 # Space Galleon
 
 **Space Galleon**

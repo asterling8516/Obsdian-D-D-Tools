@@ -1,12 +1,3 @@
----
-title: Hellfire Antimatter Rifle
-icon: ':luggage:'
-aliases: Hellfire Antimatter Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lgUWnBVAbBGtdqxb
-tags:
-- Item
----
-
 # Hellfire Antimatter Rifle
 
 **Hellfire Antimatter Rifle**

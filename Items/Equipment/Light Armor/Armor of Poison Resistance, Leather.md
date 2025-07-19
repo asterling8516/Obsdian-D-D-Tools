@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qHBTFoskjrvuJcc9
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Leather
 
 **Armor of Poison Resistance, Leather**

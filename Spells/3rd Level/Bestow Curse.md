@@ -1,12 +1,3 @@
----
-title: Bestow Curse
-icon: ':luggage:'
-aliases: Bestow Curse
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gRRZPCdRphyenLbc
-tags:
-- Item
----
-
 # Bestow Curse
 
 **Bestow Curse**

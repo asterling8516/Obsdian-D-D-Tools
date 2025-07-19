@@ -1,12 +1,3 @@
----
-title: Wasp Ship
-icon: ':luggage:'
-aliases: Wasp Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vDZnh6IW9OzARdVR
-tags:
-- Item
----
-
 # Wasp Ship
 
 **Wasp Ship**

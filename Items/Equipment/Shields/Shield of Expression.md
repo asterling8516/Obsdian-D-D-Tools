@@ -1,12 +1,3 @@
----
-title: Shield of Expression
-icon: ':luggage:'
-aliases: Shield of Expression
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nZJ2onevxkYKwxYW
-tags:
-- Item
----
-
 # Shield of Expression
 
 **Shield of Expression**

@@ -1,12 +1,3 @@
----
-title: Scrying
-icon: ':luggage:'
-aliases: Scrying
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gdxFFVB4dv99LFAh
-tags:
-- Item
----
-
 # Scrying
 
 **Scrying**

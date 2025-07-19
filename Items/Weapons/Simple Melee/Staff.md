@@ -1,12 +1,3 @@
----
-title: Staff
-icon: ':luggage:'
-aliases: Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QVkIZqmGbHL8dglX
-tags:
-- Item
----
-
 # Staff
 
 **Staff**

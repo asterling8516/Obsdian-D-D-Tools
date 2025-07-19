@@ -1,12 +1,3 @@
----
-title: Khyber Dragonshard
-icon: ':luggage:'
-aliases: Khyber Dragonshard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.phRmMlJgPulbH9RW
-tags:
-- Item
----
-
 # Khyber Dragonshard
 
 **Khyber Dragonshard**

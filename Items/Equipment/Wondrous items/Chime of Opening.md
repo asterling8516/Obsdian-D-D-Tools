@@ -1,12 +1,3 @@
----
-title: Chime of Opening
-icon: ':luggage:'
-aliases: Chime of Opening
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.M6gZgHaZujO2hiJc
-tags:
-- Item
----
-
 # Chime of Opening
 
 **Chime of Opening**

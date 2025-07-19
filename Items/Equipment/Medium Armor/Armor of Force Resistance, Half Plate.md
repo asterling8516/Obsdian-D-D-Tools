@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vI8GLngOpgDKQPY8
-tags:
-- Item
----
-
 # Armor of Force Resistance, Half Plate
 
 **Armor of Force Resistance, Half Plate**

@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Ring Mail
-icon: ':luggage:'
-aliases: Cast-Off Armor, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ve7ZABCbEOrwYWi0
-tags:
-- Item
----
-
 # Cast-Off Armor, Ring Mail
 
 **Cast-Off Armor, Ring Mail**

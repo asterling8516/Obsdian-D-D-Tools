@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Ring Mail
-icon: ':luggage:'
-aliases: Mizzium Armor, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5XjS75njQP1BSycs
-tags:
-- Item
----
-
 # Mizzium Armor, Ring Mail
 
 **Mizzium Armor, Ring Mail**

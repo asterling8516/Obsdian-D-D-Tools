@@ -1,12 +1,3 @@
----
-title: Spell Gem (Star Ruby)
-icon: ':luggage:'
-aliases: Spell Gem (Star Ruby)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.a3PK07FebYGSFuGi
-tags:
-- Item
----
-
 # Spell Gem (Star Ruby)
 
 **Spell Gem (Star Ruby)**

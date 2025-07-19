@@ -1,12 +1,3 @@
----
-title: Rings of Shared Suffering
-icon: ':luggage:'
-aliases: Rings of Shared Suffering
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GyYmycuUgV6s2tg6
-tags:
-- Item
----
-
 # Rings of Shared Suffering
 
 **Rings of Shared Suffering**

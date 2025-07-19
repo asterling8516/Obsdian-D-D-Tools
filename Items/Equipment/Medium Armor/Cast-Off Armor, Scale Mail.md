@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Scale Mail
-icon: ':luggage:'
-aliases: Cast-Off Armor, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WUQpKiixTOPiK4FO
-tags:
-- Item
----
-
 # Cast-Off Armor, Scale Mail
 
 **Cast-Off Armor, Scale Mail**

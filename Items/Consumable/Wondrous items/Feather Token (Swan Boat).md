@@ -1,12 +1,3 @@
----
-title: Feather Token (Swan Boat)
-icon: ':luggage:'
-aliases: Feather Token (Swan Boat)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3XyHjCMILp1a1jtw
-tags:
-- Item
----
-
 # Feather Token (Swan Boat)
 
 **Feather Token (Swan Boat)**

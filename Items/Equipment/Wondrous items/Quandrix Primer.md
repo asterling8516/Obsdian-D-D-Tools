@@ -1,12 +1,3 @@
----
-title: Quandrix Primer
-icon: ':luggage:'
-aliases: Quandrix Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lveFlp9YYyZt2YmG
-tags:
-- Item
----
-
 # Quandrix Primer
 
 **Quandrix Primer**

@@ -1,12 +1,3 @@
----
-title: Nature's Mantle
-icon: ':luggage:'
-aliases: Nature's Mantle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nsZl0MUC0DPnxCkK
-tags:
-- Item
----
-
 # Nature's Mantle
 
 **Nature's Mantle**

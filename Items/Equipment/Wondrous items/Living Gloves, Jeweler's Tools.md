@@ -1,12 +1,3 @@
----
-title: Living Gloves, Jeweler's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Jeweler's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uvwpq4XmLIMsgsS4
-tags:
-- Item
----
-
 # Living Gloves, Jeweler's Tools
 
 **Living Gloves, Jeweler's Tools**

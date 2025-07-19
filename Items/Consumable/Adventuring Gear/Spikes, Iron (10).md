@@ -1,12 +1,3 @@
----
-title: Spikes, Iron (10)
-icon: ':luggage:'
-aliases: Spikes, Iron (10)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TqDTry7fqvGsdhWS
-tags:
-- Item
----
-
 # Spikes, Iron (10)
 
 **Spikes, Iron (10)**

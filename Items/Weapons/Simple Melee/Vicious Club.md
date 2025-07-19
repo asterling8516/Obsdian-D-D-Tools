@@ -1,12 +1,3 @@
----
-title: Vicious Club
-icon: ':luggage:'
-aliases: Vicious Club
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.f69a9mti4m54ZttW
-tags:
-- Item
----
-
 # Vicious Club
 
 **Vicious Club**

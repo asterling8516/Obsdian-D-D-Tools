@@ -1,12 +1,3 @@
----
-title: Demonomicon of Iggwilv
-icon: ':luggage:'
-aliases: Demonomicon of Iggwilv
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ORmckzV7feCmEAzW
-tags:
-- Item
----
-
 # Demonomicon of Iggwilv
 
 **Demonomicon of Iggwilv**

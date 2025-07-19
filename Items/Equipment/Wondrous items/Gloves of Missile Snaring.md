@@ -1,12 +1,3 @@
----
-title: Gloves of Missile Snaring
-icon: ':luggage:'
-aliases: Gloves of Missile Snaring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DZFEvxZxNuECO5S0
-tags:
-- Item
----
-
 # Gloves of Missile Snaring
 
 **Gloves of Missile Snaring**

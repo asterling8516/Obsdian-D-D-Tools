@@ -1,12 +1,3 @@
----
-title: Rod of the Vonindod
-icon: ':luggage:'
-aliases: Rod of the Vonindod
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wSbjvjv28j5w6Yg9
-tags:
-- Item
----
-
 # Rod of the Vonindod
 
 **Rod of the Vonindod**

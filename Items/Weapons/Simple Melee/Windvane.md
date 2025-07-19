@@ -1,12 +1,3 @@
----
-title: Windvane
-icon: ':luggage:'
-aliases: Windvane
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GJSNv9UDxWNDKleh
-tags:
-- Item
----
-
 # Windvane
 
 **Windvane**

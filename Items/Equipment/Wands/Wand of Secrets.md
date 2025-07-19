@@ -1,12 +1,3 @@
----
-title: Wand of Secrets
-icon: ':luggage:'
-aliases: Wand of Secrets
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cK2MIXdFR85FEhP5
-tags:
-- Item
----
-
 # Wand of Secrets
 
 **Wand of Secrets**

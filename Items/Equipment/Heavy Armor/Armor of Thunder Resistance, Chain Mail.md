@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fj9zhlewADjxfoLQ
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Chain Mail
 
 **Armor of Thunder Resistance, Chain Mail**

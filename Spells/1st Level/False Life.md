@@ -1,12 +1,3 @@
----
-title: False Life
-icon: ':luggage:'
-aliases: False Life
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.uzQIsQDp97nZxhJZ
-tags:
-- Item
----
-
 # False Life
 
 **False Life**

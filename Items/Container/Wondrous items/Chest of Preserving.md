@@ -1,12 +1,3 @@
----
-title: Chest of Preserving
-icon: ':luggage:'
-aliases: Chest of Preserving
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2ocgicb9QTVs23s7
-tags:
-- Item
----
-
 # Chest of Preserving
 
 **Chest of Preserving**

@@ -1,12 +1,3 @@
----
-title: Helm
-icon: ':luggage:'
-aliases: Helm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.H74euTpU6F4FuWMB
-tags:
-- Item
----
-
 # Helm
 
 **Helm**

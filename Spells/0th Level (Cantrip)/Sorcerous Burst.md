@@ -1,12 +1,3 @@
----
-title: Sorcerous Burst
-icon: ':luggage:'
-aliases: Sorcerous Burst
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0EXDoNEvLIX7dAx5
-tags:
-- Item
----
-
 # Sorcerous Burst
 
 **Sorcerous Burst**

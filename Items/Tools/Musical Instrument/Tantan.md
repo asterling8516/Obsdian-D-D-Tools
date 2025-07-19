@@ -1,12 +1,3 @@
----
-title: Tantan
-icon: ':luggage:'
-aliases: Tantan
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YpXoYTz5ijx5FLJW
-tags:
-- Item
----
-
 # Tantan
 
 **Tantan**

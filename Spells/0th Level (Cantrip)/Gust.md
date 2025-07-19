@@ -1,12 +1,3 @@
----
-title: Gust
-icon: ':luggage:'
-aliases: Gust
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.zCbLs6ddCD6gfxm8
-tags:
-- Item
----
-
 # Gust
 
 **Gust**

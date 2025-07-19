@@ -1,12 +1,3 @@
----
-title: Blod Stone
-icon: ':luggage:'
-aliases: Blod Stone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HHAWRhRF0K2KF4CH
-tags:
-- Item
----
-
 # Blod Stone
 
 **Blod Stone**

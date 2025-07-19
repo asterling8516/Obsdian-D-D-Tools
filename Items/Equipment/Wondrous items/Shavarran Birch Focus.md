@@ -1,12 +1,3 @@
----
-title: Shavarran Birch Focus
-icon: ':luggage:'
-aliases: Shavarran Birch Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hcEs7HrW8D3SfX4o
-tags:
-- Item
----
-
 # Shavarran Birch Focus
 
 **Shavarran Birch Focus**

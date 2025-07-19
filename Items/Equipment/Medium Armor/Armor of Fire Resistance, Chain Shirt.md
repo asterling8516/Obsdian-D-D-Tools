@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8RdDEIzs65PyvQhQ
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Chain Shirt
 
 **Armor of Fire Resistance, Chain Shirt**

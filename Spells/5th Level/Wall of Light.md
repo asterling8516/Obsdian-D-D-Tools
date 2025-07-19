@@ -1,12 +1,3 @@
----
-title: Wall of Light
-icon: ':luggage:'
-aliases: Wall of Light
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.nerOyhmqDBDoWePP
-tags:
-- Item
----
-
 # Wall of Light
 
 **Wall of Light**

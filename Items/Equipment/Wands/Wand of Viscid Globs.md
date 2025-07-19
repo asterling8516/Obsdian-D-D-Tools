@@ -1,12 +1,3 @@
----
-title: Wand of Viscid Globs
-icon: ':luggage:'
-aliases: Wand of Viscid Globs
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qTWTsWlwyXaQqwOY
-tags:
-- Item
----
-
 # Wand of Viscid Globs
 
 **Wand of Viscid Globs**

@@ -1,12 +1,3 @@
----
-title: Robe of Stars
-icon: ':luggage:'
-aliases: Robe of Stars
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.p0AJLvEmlfGJ15jE
-tags:
-- Item
----
-
 # Robe of Stars
 
 **Robe of Stars**

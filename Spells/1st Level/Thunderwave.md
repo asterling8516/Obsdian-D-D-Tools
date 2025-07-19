@@ -1,12 +1,3 @@
----
-title: Thunderwave
-icon: ':luggage:'
-aliases: Thunderwave
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.cA7jPD2bKGecOkIJ
-tags:
-- Item
----
-
 # Thunderwave
 
 **Thunderwave**

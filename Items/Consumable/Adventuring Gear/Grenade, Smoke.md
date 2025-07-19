@@ -1,12 +1,3 @@
----
-title: Grenade, Smoke
-icon: ':luggage:'
-aliases: Grenade, Smoke
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mrA4VbrU84El1U4M
-tags:
-- Item
----
-
 # Grenade, Smoke
 
 **Grenade, Smoke**

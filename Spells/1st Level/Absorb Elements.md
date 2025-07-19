@@ -1,12 +1,3 @@
----
-title: Absorb Elements
-icon: ':luggage:'
-aliases: Absorb Elements
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6fI0RjncbEvjKRTV
-tags:
-- Item
----
-
 # Absorb Elements
 
 **Absorb Elements**

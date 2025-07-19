@@ -1,12 +1,3 @@
----
-title: Coiling Grasp Tattoo
-icon: ':luggage:'
-aliases: Coiling Grasp Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.msZ84LELfa9LEmkS
-tags:
-- Item
----
-
 # Coiling Grasp Tattoo
 
 **Coiling Grasp Tattoo**

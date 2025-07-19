@@ -1,12 +1,3 @@
----
-title: Torch
-icon: ':luggage:'
-aliases: Torch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZcG45cGMbNdY9A4M
-tags:
-- Item
----
-
 # Torch
 
 **Torch**

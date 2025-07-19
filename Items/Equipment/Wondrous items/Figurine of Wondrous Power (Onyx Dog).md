@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Onyx Dog)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Onyx Dog)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1h2TNaPLD6qwE7ML
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Onyx Dog)
 
 **Figurine of Wondrous Power (Onyx Dog)**

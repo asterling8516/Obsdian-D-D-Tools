@@ -1,12 +1,3 @@
----
-title: Conjure Barrage
-icon: ':luggage:'
-aliases: Conjure Barrage
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TLNtB6iFeW50OsFz
-tags:
-- Item
----
-
 # Conjure Barrage
 
 **Conjure Barrage**

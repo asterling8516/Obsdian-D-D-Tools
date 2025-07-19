@@ -1,12 +1,3 @@
----
-title: Carpet of Flying (5 ft. x 7 ft.)
-icon: ':luggage:'
-aliases: Carpet of Flying (5 ft. x 7 ft.)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OwRyY8lykHKfXI1x
-tags:
-- Item
----
-
 # Carpet of Flying (5 ft. x 7 ft.)
 
 **Carpet of Flying (5 ft. x 7 ft.)**

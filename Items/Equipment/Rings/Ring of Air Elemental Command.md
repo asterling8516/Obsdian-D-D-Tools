@@ -1,12 +1,3 @@
----
-title: Ring of Air Elemental Command
-icon: ':luggage:'
-aliases: Ring of Air Elemental Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.23qDVyFjEXozkcjl
-tags:
-- Item
----
-
 # Ring of Air Elemental Command
 
 **Ring of Air Elemental Command**

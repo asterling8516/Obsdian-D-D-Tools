@@ -1,12 +1,3 @@
----
-title: Helm of the Scavenger
-icon: ':luggage:'
-aliases: Helm of the Scavenger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sK9htLZfL7i5YMJa
-tags:
-- Item
----
-
 # Helm of the Scavenger
 
 **Helm of the Scavenger**

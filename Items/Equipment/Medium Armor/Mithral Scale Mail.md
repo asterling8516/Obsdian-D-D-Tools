@@ -1,12 +1,3 @@
----
-title: Mithral Scale Mail
-icon: ':luggage:'
-aliases: Mithral Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0WPvwrQ0qUakWdkk
-tags:
-- Item
----
-
 # Mithral Scale Mail
 
 **Mithral Scale Mail**

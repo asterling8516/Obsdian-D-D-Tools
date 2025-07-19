@@ -1,12 +1,3 @@
----
-title: Divination
-icon: ':luggage:'
-aliases: Divination
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UIwquphjgQFvuItm
-tags:
-- Item
----
-
 # Divination
 
 **Divination**

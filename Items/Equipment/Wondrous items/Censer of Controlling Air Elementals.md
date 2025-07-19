@@ -1,12 +1,3 @@
----
-title: Censer of Controlling Air Elementals
-icon: ':luggage:'
-aliases: Censer of Controlling Air Elementals
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IJGf94TQzhun7jeZ
-tags:
-- Item
----
-
 # Censer of Controlling Air Elementals
 
 **Censer of Controlling Air Elementals**

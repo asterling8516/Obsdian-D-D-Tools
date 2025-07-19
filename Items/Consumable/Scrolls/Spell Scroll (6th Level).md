@@ -1,12 +1,3 @@
----
-title: Spell Scroll (6th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (6th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6EXLxGQymCzN96Ab
-tags:
-- Item
----
-
 # Spell Scroll (6th Level)
 
 **Spell Scroll (6th Level)**

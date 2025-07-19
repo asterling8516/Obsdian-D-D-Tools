@@ -1,12 +1,3 @@
----
-title: Giant Slayer Shortbow
-icon: ':luggage:'
-aliases: Giant Slayer Shortbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6UFPm2rBP2TbRZhb
-tags:
-- Item
----
-
 # Giant Slayer Shortbow
 
 **Giant Slayer Shortbow**

@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z35T4eSiUYe5K790
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Hide
 
 **Armor of Necrotic Resistance, Hide**

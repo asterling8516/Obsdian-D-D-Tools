@@ -1,12 +1,3 @@
----
-title: Heal
-icon: ':luggage:'
-aliases: Heal
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ci1SXJzvmkHPTf1H
-tags:
-- Item
----
-
 # Heal
 
 **Heal**

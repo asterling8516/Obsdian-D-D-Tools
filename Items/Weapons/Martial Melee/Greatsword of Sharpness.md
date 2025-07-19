@@ -1,12 +1,3 @@
----
-title: Greatsword of Sharpness
-icon: ':luggage:'
-aliases: Greatsword of Sharpness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TPN48BzwUx92mHhs
-tags:
-- Item
----
-
 # Greatsword of Sharpness
 
 **Greatsword of Sharpness**

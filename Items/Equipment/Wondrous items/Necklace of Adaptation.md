@@ -1,12 +1,3 @@
----
-title: Necklace of Adaptation
-icon: ':luggage:'
-aliases: Necklace of Adaptation
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Bwx0Sw8HCtVfNiJB
-tags:
-- Item
----
-
 # Necklace of Adaptation
 
 **Necklace of Adaptation**

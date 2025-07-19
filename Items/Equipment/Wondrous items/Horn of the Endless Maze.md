@@ -1,12 +1,3 @@
----
-title: Horn of the Endless Maze
-icon: ':luggage:'
-aliases: Horn of the Endless Maze
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kVAVwHmnRucwdmxS
-tags:
-- Item
----
-
 # Horn of the Endless Maze
 
 **Horn of the Endless Maze**

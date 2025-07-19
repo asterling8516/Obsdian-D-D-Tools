@@ -1,12 +1,3 @@
----
-title: Golgari Guild Signet
-icon: ':luggage:'
-aliases: Golgari Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zSth5msDvKNw2ICd
-tags:
-- Item
----
-
 # Golgari Guild Signet
 
 **Golgari Guild Signet**

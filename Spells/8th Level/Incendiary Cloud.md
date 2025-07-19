@@ -1,12 +1,3 @@
----
-title: Incendiary Cloud
-icon: ':luggage:'
-aliases: Incendiary Cloud
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KdjSbQ12DB9N9QRV
-tags:
-- Item
----
-
 # Incendiary Cloud
 
 **Incendiary Cloud**

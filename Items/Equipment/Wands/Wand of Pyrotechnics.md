@@ -1,12 +1,3 @@
----
-title: Wand of Pyrotechnics
-icon: ':luggage:'
-aliases: Wand of Pyrotechnics
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ibRbZ3xYDP4Y3cyL
-tags:
-- Item
----
-
 # Wand of Pyrotechnics
 
 **Wand of Pyrotechnics**

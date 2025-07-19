@@ -1,12 +1,3 @@
----
-title: Wand of Lightning Bolts
-icon: ':luggage:'
-aliases: Wand of Lightning Bolts
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jT5Jk9BPoez9cxrh
-tags:
-- Item
----
-
 # Wand of Lightning Bolts
 
 **Wand of Lightning Bolts**

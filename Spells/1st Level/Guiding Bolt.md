@@ -1,12 +1,3 @@
----
-title: Guiding Bolt
-icon: ':luggage:'
-aliases: Guiding Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Nkmq3NMs1bRdOPty
-tags:
-- Item
----
-
 # Guiding Bolt
 
 **Guiding Bolt**

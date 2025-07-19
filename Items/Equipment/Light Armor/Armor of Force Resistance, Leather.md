@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1YlqLGdsvj6L4Iq9
-tags:
-- Item
----
-
 # Armor of Force Resistance, Leather
 
 **Armor of Force Resistance, Leather**

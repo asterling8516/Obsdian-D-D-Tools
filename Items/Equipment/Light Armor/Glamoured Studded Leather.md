@@ -1,12 +1,3 @@
----
-title: Glamoured Studded Leather
-icon: ':luggage:'
-aliases: Glamoured Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iQT7k5ZgaWUmKbdM
-tags:
-- Item
----
-
 # Glamoured Studded Leather
 
 **Glamoured Studded Leather**

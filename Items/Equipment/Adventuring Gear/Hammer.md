@@ -1,12 +1,3 @@
----
-title: Hammer
-icon: ':luggage:'
-aliases: Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wctNhRMIdIrf4ZZP
-tags:
-- Item
----
-
 # Hammer
 
 **Hammer**

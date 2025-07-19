@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Spiked Armor
-icon: ':luggage:'
-aliases: Cast-Off Armor, Spiked Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SvgxleZ5rWrvklU2
-tags:
-- Item
----
-
 # Cast-Off Armor, Spiked Armor
 
 **Cast-Off Armor, Spiked Armor**

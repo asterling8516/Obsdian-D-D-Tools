@@ -1,12 +1,3 @@
----
-title: Leather
-icon: ':luggage:'
-aliases: Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FrN1d8vzEfWqmRkL
-tags:
-- Item
----
-
 # Leather
 
 **Leather**

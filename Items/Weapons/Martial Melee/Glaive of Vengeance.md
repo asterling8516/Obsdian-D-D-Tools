@@ -1,12 +1,3 @@
----
-title: Glaive of Vengeance
-icon: ':luggage:'
-aliases: Glaive of Vengeance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.C24E1O99AKyupbfe
-tags:
-- Item
----
-
 # Glaive of Vengeance
 
 **Glaive of Vengeance**

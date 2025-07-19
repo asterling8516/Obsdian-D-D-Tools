@@ -1,12 +1,3 @@
----
-title: Bookmark
-icon: ':luggage:'
-aliases: Bookmark
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6uKQQdJlD4MRyjzy
-tags:
-- Item
----
-
 # Bookmark
 
 **Bookmark**

@@ -1,12 +1,3 @@
----
-title: Orb
-icon: ':luggage:'
-aliases: Orb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VzSQx7yQOat4uKIY
-tags:
-- Item
----
-
 # Orb
 
 **Orb**

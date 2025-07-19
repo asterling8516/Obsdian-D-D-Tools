@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Half Plate
-icon: ':luggage:'
-aliases: Cast-Off Armor, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dG84HaeOtVQ94zFf
-tags:
-- Item
----
-
 # Cast-Off Armor, Half Plate
 
 **Cast-Off Armor, Half Plate**

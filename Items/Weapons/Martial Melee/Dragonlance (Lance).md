@@ -1,12 +1,3 @@
----
-title: Dragonlance (Lance)
-icon: ':luggage:'
-aliases: Dragonlance (Lance)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ul73kD9Uvj7ubqZJ
-tags:
-- Item
----
-
 # Dragonlance (Lance)
 
 **Dragonlance (Lance)**

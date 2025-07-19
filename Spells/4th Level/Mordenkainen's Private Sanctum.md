@@ -1,12 +1,3 @@
----
-title: Mordenkainen's Private Sanctum
-icon: ':luggage:'
-aliases: Mordenkainen's Private Sanctum
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QnN3G4ewJMcLWkoI
-tags:
-- Item
----
-
 # Mordenkainen's Private Sanctum
 
 **Mordenkainen's Private Sanctum**

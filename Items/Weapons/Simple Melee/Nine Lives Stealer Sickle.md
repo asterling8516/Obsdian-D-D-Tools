@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Sickle
-icon: ':luggage:'
-aliases: Nine Lives Stealer Sickle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wrGGsxk2AZ031xxl
-tags:
-- Item
----
-
 # Nine Lives Stealer Sickle
 
 **Nine Lives Stealer Sickle**

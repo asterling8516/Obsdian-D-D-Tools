@@ -1,12 +1,3 @@
----
-title: Heart Weaver's Primer
-icon: ':luggage:'
-aliases: Heart Weaver's Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cpyIERnNEOZD8KcG
-tags:
-- Item
----
-
 # Heart Weaver's Primer
 
 **Heart Weaver's Primer**

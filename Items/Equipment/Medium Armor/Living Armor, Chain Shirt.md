@@ -1,12 +1,3 @@
----
-title: Living Armor, Chain Shirt
-icon: ':luggage:'
-aliases: Living Armor, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uU6CTIIWQJL1vcny
-tags:
-- Item
----
-
 # Living Armor, Chain Shirt
 
 **Living Armor, Chain Shirt**

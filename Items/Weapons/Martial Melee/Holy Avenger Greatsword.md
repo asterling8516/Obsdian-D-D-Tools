@@ -1,12 +1,3 @@
----
-title: Holy Avenger Greatsword
-icon: ':luggage:'
-aliases: Holy Avenger Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SIceAcMfBuY66Uz3
-tags:
-- Item
----
-
 # Holy Avenger Greatsword
 
 **Holy Avenger Greatsword**

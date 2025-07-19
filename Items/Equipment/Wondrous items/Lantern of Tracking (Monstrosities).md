@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Monstrosities)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Monstrosities)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ABT6X9OqVWZQlcIL
-tags:
-- Item
----
-
 # Lantern of Tracking (Monstrosities)
 
 **Lantern of Tracking (Monstrosities)**

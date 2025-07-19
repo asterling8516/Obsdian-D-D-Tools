@@ -1,12 +1,3 @@
----
-title: Irian Rosewood Focus
-icon: ':luggage:'
-aliases: Irian Rosewood Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ta4heFEYR9384CiT
-tags:
-- Item
----
-
 # Irian Rosewood Focus
 
 **Irian Rosewood Focus**

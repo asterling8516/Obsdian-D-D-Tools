@@ -1,12 +1,3 @@
----
-title: Dragon's Wrath Weapon (Wakened)
-icon: ':luggage:'
-aliases: Dragon's Wrath Weapon (Wakened)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qdPm5EfaTEa5VTuA
-tags:
-- Item
----
-
 # Dragon's Wrath Weapon (Wakened)
 
 **Dragon's Wrath Weapon (Wakened)**

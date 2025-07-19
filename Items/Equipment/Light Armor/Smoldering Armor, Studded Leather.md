@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Studded Leather
-icon: ':luggage:'
-aliases: Smoldering Armor, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sd0Hfj1zzSUnOfoe
-tags:
-- Item
----
-
 # Smoldering Armor, Studded Leather
 
 **Smoldering Armor, Studded Leather**

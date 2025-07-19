@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Reserve
-icon: ':luggage:'
-aliases: Ioun Stone of Reserve
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LuKn4f5wz4MY0MLN
-tags:
-- Item
----
-
 # Ioun Stone of Reserve
 
 **Ioun Stone of Reserve**

@@ -1,12 +1,3 @@
----
-title: Case, Crossbow Bolt
-icon: ':luggage:'
-aliases: Case, Crossbow Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sdlnF4MA8fUNlomy
-tags:
-- Item
----
-
 # Case, Crossbow Bolt
 
 **Case, Crossbow Bolt**

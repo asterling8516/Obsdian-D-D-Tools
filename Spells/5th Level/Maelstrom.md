@@ -1,12 +1,3 @@
----
-title: Maelstrom
-icon: ':luggage:'
-aliases: Maelstrom
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.9MPhiVcz60y6mUuC
-tags:
-- Item
----
-
 # Maelstrom
 
 **Maelstrom**

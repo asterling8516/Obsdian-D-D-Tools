@@ -1,12 +1,3 @@
----
-title: Raise Dead
-icon: ':luggage:'
-aliases: Raise Dead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.H1B3v8cb81HNBrij
-tags:
-- Item
----
-
 # Raise Dead
 
 **Raise Dead**

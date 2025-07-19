@@ -1,12 +1,3 @@
----
-title: Wither and Bloom
-icon: ':luggage:'
-aliases: Wither and Bloom
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.84oaDkuQUXeHyZ1e
-tags:
-- Item
----
-
 # Wither and Bloom
 
 **Wither and Bloom**

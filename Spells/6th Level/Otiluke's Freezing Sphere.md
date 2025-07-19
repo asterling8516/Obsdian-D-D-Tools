@@ -1,12 +1,3 @@
----
-title: Otiluke's Freezing Sphere
-icon: ':luggage:'
-aliases: Otiluke's Freezing Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QJR7h60mmUEOAc6S
-tags:
-- Item
----
-
 # Otiluke's Freezing Sphere
 
 **Otiluke's Freezing Sphere**

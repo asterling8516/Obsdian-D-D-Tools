@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VYud4sNbQa9UC6ww
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Scale Mail
 
 **Armor of Cold Resistance, Scale Mail**

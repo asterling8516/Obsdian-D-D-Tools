@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Whip)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Whip)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZpA7dhaTQ8bueeNN
-tags:
-- Item
----
-
 # Quaal's Feather Token (Whip)
 
 **Quaal's Feather Token (Whip)**

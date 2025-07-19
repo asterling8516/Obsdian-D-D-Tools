@@ -1,12 +1,3 @@
----
-title: Forcecage
-icon: ':luggage:'
-aliases: Forcecage
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gmIa3DV18JHJVFHT
-tags:
-- Item
----
-
 # Forcecage
 
 **Forcecage**

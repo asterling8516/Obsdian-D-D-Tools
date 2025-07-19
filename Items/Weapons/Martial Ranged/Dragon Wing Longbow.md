@@ -1,12 +1,3 @@
----
-title: Dragon Wing Longbow
-icon: ':luggage:'
-aliases: Dragon Wing Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VTDdnSSlYscdg38h
-tags:
-- Item
----
-
 # Dragon Wing Longbow
 
 **Dragon Wing Longbow**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Revolver
-icon: ':luggage:'
-aliases: Nine Lives Stealer Revolver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SycJ7wuqjhp438uc
-tags:
-- Item
----
-
 # Nine Lives Stealer Revolver
 
 **Nine Lives Stealer Revolver**

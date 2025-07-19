@@ -1,12 +1,3 @@
----
-title: Mask of the Dragon Queen
-icon: ':luggage:'
-aliases: Mask of the Dragon Queen
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2rLrYW6UTnHUIauR
-tags:
-- Item
----
-
 # Mask of the Dragon Queen
 
 **Mask of the Dragon Queen**

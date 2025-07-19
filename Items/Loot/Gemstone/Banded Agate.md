@@ -1,12 +1,3 @@
----
-title: Banded Agate
-icon: ':luggage:'
-aliases: Banded Agate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7U7r3DAFFYW5x1wN
-tags:
-- Item
----
-
 # Banded Agate
 
 **Banded Agate**

@@ -1,12 +1,3 @@
----
-title: Snicker-Snack
-icon: ':luggage:'
-aliases: Snicker-Snack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Eh7QdyUuOgpPOZ8M
-tags:
-- Item
----
-
 # Snicker-Snack
 
 **Snicker-Snack**

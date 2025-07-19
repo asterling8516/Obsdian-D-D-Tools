@@ -1,12 +1,3 @@
----
-title: Flask or Tankard
-icon: ':luggage:'
-aliases: Flask or Tankard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ETb6qIwpcEAdDihs
-tags:
-- Item
----
-
 # Flask or Tankard
 
 **Flask or Tankard**

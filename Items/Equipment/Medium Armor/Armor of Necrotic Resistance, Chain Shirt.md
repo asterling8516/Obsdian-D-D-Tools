@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9dGo6t04kgH9dDvh
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Chain Shirt
 
 **Armor of Necrotic Resistance, Chain Shirt**

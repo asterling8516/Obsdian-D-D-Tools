@@ -1,12 +1,3 @@
----
-title: Enervation
-icon: ':luggage:'
-aliases: Enervation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.PSUOrIvfHVRBFKU8
-tags:
-- Item
----
-
 # Enervation
 
 **Enervation**

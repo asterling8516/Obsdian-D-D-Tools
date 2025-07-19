@@ -1,12 +1,3 @@
----
-title: Conjure Woodland Beings
-icon: ':luggage:'
-aliases: Conjure Woodland Beings
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CRDLmMknfH8hA9fm
-tags:
-- Item
----
-
 # Conjure Woodland Beings
 
 **Conjure Woodland Beings**

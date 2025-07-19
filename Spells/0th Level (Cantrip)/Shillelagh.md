@@ -1,12 +1,3 @@
----
-title: Shillelagh
-icon: ':luggage:'
-aliases: Shillelagh
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.p1Xgb6VskLjjwUqZ
-tags:
-- Item
----
-
 # Shillelagh
 
 **Shillelagh**

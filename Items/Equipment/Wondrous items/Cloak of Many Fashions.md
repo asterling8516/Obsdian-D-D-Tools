@@ -1,12 +1,3 @@
----
-title: Cloak of Many Fashions
-icon: ':luggage:'
-aliases: Cloak of Many Fashions
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wPZIuBf1iRdguHJs
-tags:
-- Item
----
-
 # Cloak of Many Fashions
 
 **Cloak of Many Fashions**

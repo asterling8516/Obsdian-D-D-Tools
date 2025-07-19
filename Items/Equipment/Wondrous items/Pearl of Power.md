@@ -1,12 +1,3 @@
----
-title: Pearl of Power
-icon: ':luggage:'
-aliases: Pearl of Power
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.elbYBwdoXEMvCcjD
-tags:
-- Item
----
-
 # Pearl of Power
 
 **Pearl of Power**

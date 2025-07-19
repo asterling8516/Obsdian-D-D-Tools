@@ -1,12 +1,3 @@
----
-title: Shawm
-icon: ':luggage:'
-aliases: Shawm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0GrhEWuwcTvIPPwq
-tags:
-- Item
----
-
 # Shawm
 
 **Shawm**

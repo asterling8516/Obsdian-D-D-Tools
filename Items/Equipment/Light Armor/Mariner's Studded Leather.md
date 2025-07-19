@@ -1,12 +1,3 @@
----
-title: Mariner's Studded Leather
-icon: ':luggage:'
-aliases: Mariner's Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OkpvbbWEho8uqFkr
-tags:
-- Item
----
-
 # Mariner's Studded Leather
 
 **Mariner's Studded Leather**

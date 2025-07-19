@@ -1,12 +1,3 @@
----
-title: Vicious War Pick
-icon: ':luggage:'
-aliases: Vicious War Pick
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.onR6A4HGy3HIpT8P
-tags:
-- Item
----
-
 # Vicious War Pick
 
 **Vicious War Pick**

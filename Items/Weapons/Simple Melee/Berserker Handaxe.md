@@ -1,12 +1,3 @@
----
-title: Berserker Handaxe
-icon: ':luggage:'
-aliases: Berserker Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ptclqgRYg7jS7mDi
-tags:
-- Item
----
-
 # Berserker Handaxe
 
 **Berserker Handaxe**

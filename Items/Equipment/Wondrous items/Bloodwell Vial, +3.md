@@ -1,12 +1,3 @@
----
-title: Bloodwell Vial, +3
-icon: ':luggage:'
-aliases: Bloodwell Vial, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KoLWwgpXmZvCieGn
-tags:
-- Item
----
-
 # Bloodwell Vial, +3
 
 **Bloodwell Vial, +3**

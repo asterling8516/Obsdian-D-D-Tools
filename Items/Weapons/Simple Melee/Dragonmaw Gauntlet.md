@@ -1,12 +1,3 @@
----
-title: Dragonmaw Gauntlet
-icon: ':luggage:'
-aliases: Dragonmaw Gauntlet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eB3mYnQHeueoA8kw
-tags:
-- Item
----
-
 # Dragonmaw Gauntlet
 
 **Dragonmaw Gauntlet**

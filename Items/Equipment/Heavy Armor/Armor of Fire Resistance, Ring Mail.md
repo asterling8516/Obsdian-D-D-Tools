@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hnMXeOERGUzfSq7j
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Ring Mail
 
 **Armor of Fire Resistance, Ring Mail**

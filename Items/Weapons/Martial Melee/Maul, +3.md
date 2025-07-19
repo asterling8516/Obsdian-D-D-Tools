@@ -1,12 +1,3 @@
----
-title: Maul, +3
-icon: ':luggage:'
-aliases: Maul, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.judYysxzeUrB6Ouk
-tags:
-- Item
----
-
 # Maul, +3
 
 **Maul, +3**

@@ -1,12 +1,3 @@
----
-title: Pole (10-foot)
-icon: ':luggage:'
-aliases: Pole (10-foot)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AHblJPdUQDQRCIfm
-tags:
-- Item
----
-
 # Pole (10-foot)
 
 **Pole (10-foot)**

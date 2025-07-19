@@ -1,12 +1,3 @@
----
-title: Passwall
-icon: ':luggage:'
-aliases: Passwall
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ydxWfhz8jHtwaLlu
-tags:
-- Item
----
-
 # Passwall
 
 **Passwall**

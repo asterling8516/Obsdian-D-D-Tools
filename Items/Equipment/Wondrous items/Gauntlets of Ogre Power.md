@@ -1,12 +1,3 @@
----
-title: Gauntlets of Ogre Power
-icon: ':luggage:'
-aliases: Gauntlets of Ogre Power
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.J5f15611x4x2WpaF
-tags:
-- Item
----
-
 # Gauntlets of Ogre Power
 
 **Gauntlets of Ogre Power**

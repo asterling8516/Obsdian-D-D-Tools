@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Aberrations)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Aberrations)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Aw0Pg3CGoQiEPn2U
-tags:
-- Item
----
-
 # Lantern of Tracking (Aberrations)
 
 **Lantern of Tracking (Aberrations)**

@@ -1,12 +1,3 @@
----
-title: Death Ward
-icon: ':luggage:'
-aliases: Death Ward
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gpma8PsHVWcERsaG
-tags:
-- Item
----
-
 # Death Ward
 
 **Death Ward**

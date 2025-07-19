@@ -1,12 +1,3 @@
----
-title: Bag of Beans
-icon: ':luggage:'
-aliases: Bag of Beans
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OCcSkJIY346UybzF
-tags:
-- Item
----
-
 # Bag of Beans
 
 **Bag of Beans**

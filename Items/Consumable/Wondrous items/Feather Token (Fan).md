@@ -1,12 +1,3 @@
----
-title: Feather Token (Fan)
-icon: ':luggage:'
-aliases: Feather Token (Fan)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oqiBaC4rsBm0h7WH
-tags:
-- Item
----
-
 # Feather Token (Fan)
 
 **Feather Token (Fan)**

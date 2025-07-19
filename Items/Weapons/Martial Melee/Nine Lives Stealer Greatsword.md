@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Greatsword
-icon: ':luggage:'
-aliases: Nine Lives Stealer Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.R89YHS9ojmEuXNsX
-tags:
-- Item
----
-
 # Nine Lives Stealer Greatsword
 
 **Nine Lives Stealer Greatsword**

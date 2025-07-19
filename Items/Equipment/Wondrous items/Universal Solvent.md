@@ -1,12 +1,3 @@
----
-title: Universal Solvent
-icon: ':luggage:'
-aliases: Universal Solvent
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qo3gi8jpZqDngXu6
-tags:
-- Item
----
-
 # Universal Solvent
 
 **Universal Solvent**

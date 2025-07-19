@@ -1,12 +1,3 @@
----
-title: Guardian of Faith
-icon: ':luggage:'
-aliases: Guardian of Faith
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.itPROaRJzql1nyAj
-tags:
-- Item
----
-
 # Guardian of Faith
 
 **Guardian of Faith**

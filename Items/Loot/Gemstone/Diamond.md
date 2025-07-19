@@ -1,12 +1,3 @@
----
-title: Diamond
-icon: ':luggage:'
-aliases: Diamond
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aodWzBfF2nQO24pC
-tags:
-- Item
----
-
 # Diamond
 
 **Diamond**

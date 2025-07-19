@@ -1,12 +1,3 @@
----
-title: Evard's Black Tentacles
-icon: ':luggage:'
-aliases: Evard's Black Tentacles
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ns1tEZmScl5ksLdE
-tags:
-- Item
----
-
 # Evard's Black Tentacles
 
 **Evard's Black Tentacles**

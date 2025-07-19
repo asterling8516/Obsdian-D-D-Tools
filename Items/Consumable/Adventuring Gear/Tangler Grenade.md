@@ -1,12 +1,3 @@
----
-title: Tangler Grenade
-icon: ':luggage:'
-aliases: Tangler Grenade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IwGCywBrbdOFFJEz
-tags:
-- Item
----
-
 # Tangler Grenade
 
 **Tangler Grenade**

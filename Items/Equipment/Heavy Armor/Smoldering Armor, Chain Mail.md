@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Chain Mail
-icon: ':luggage:'
-aliases: Smoldering Armor, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SfLsGfdLtmIvkkg3
-tags:
-- Item
----
-
 # Smoldering Armor, Chain Mail
 
 **Smoldering Armor, Chain Mail**

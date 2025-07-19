@@ -1,12 +1,3 @@
----
-title: Ring of Three Wishes
-icon: ':luggage:'
-aliases: Ring of Three Wishes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.r6iv41qsWyIZbpRX
-tags:
-- Item
----
-
 # Ring of Three Wishes
 
 **Ring of Three Wishes**

@@ -1,12 +1,3 @@
----
-title: Antilife Shell
-icon: ':luggage:'
-aliases: Antilife Shell
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.tve1eU0leJUzzohf
-tags:
-- Item
----
-
 # Antilife Shell
 
 **Antilife Shell**

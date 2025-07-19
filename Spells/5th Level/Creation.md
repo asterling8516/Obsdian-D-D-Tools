@@ -1,12 +1,3 @@
----
-title: Creation
-icon: ':luggage:'
-aliases: Creation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xBWtGOExZ6Og8XTK
-tags:
-- Item
----
-
 # Creation
 
 **Creation**

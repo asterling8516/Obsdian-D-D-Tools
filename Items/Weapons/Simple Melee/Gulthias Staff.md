@@ -1,12 +1,3 @@
----
-title: Gulthias Staff
-icon: ':luggage:'
-aliases: Gulthias Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wQ0wte0VXzYNcepU
-tags:
-- Item
----
-
 # Gulthias Staff
 
 **Gulthias Staff**

@@ -1,12 +1,3 @@
----
-title: Quartz
-icon: ':luggage:'
-aliases: Quartz
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fivHCpcfq6eYmcw4
-tags:
-- Item
----
-
 # Quartz
 
 **Quartz**

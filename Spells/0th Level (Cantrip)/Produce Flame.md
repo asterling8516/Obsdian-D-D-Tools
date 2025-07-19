@@ -1,12 +1,3 @@
----
-title: Produce Flame
-icon: ':luggage:'
-aliases: Produce Flame
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.A94DE8umWDVuc17b
-tags:
-- Item
----
-
 # Produce Flame
 
 **Produce Flame**

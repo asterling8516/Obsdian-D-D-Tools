@@ -1,12 +1,3 @@
----
-title: Pipe of Remembrance
-icon: ':luggage:'
-aliases: Pipe of Remembrance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QeEgbiFHARcOVxLY
-tags:
-- Item
----
-
 # Pipe of Remembrance
 
 **Pipe of Remembrance**

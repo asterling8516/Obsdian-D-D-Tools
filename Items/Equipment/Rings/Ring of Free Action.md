@@ -1,12 +1,3 @@
----
-title: Ring of Free Action
-icon: ':luggage:'
-aliases: Ring of Free Action
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KtmbcOEbEtKqgjpk
-tags:
-- Item
----
-
 # Ring of Free Action
 
 **Ring of Free Action**

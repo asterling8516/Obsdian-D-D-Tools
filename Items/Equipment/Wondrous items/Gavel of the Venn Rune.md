@@ -1,12 +1,3 @@
----
-title: Gavel of the Venn Rune
-icon: ':luggage:'
-aliases: Gavel of the Venn Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NmNCtDbzlwp2qCjk
-tags:
-- Item
----
-
 # Gavel of the Venn Rune
 
 **Gavel of the Venn Rune**

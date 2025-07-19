@@ -1,12 +1,3 @@
----
-title: Staff of Power
-icon: ':luggage:'
-aliases: Staff of Power
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jl2fYbHMPlL87IJS
-tags:
-- Item
----
-
 # Staff of Power
 
 **Staff of Power**

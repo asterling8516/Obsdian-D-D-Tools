@@ -1,12 +1,3 @@
----
-title: Spell Gem (Jade)
-icon: ':luggage:'
-aliases: Spell Gem (Jade)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Sa7tuPJvlAgGnkld
-tags:
-- Item
----
-
 # Spell Gem (Jade)
 
 **Spell Gem (Jade)**

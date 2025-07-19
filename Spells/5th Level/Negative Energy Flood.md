@@ -1,12 +1,3 @@
----
-title: Negative Energy Flood
-icon: ':luggage:'
-aliases: Negative Energy Flood
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qXHqAEZPE3n3Yakd
-tags:
-- Item
----
-
 # Negative Energy Flood
 
 **Negative Energy Flood**

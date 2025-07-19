@@ -1,12 +1,3 @@
----
-title: Wand of Winter
-icon: ':luggage:'
-aliases: Wand of Winter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sTRuO88iz0bQ5Ev4
-tags:
-- Item
----
-
 # Wand of Winter
 
 **Wand of Winter**

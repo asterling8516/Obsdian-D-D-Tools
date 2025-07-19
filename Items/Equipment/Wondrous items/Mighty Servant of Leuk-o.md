@@ -1,12 +1,3 @@
----
-title: Mighty Servant of Leuk-o
-icon: ':luggage:'
-aliases: Mighty Servant of Leuk-o
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3whSFKERsdHkT4DK
-tags:
-- Item
----
-
 # Mighty Servant of Leuk-o
 
 **Mighty Servant of Leuk-o**

@@ -1,12 +1,3 @@
----
-title: Apparatus of Kwalish
-icon: ':luggage:'
-aliases: Apparatus of Kwalish
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sFY3zAEnCoMALdXF
-tags:
-- Item
----
-
 # Apparatus of Kwalish
 
 **Apparatus of Kwalish**

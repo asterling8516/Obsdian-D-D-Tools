@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GbpCxECUVul91yYW
-tags:
-- Item
----
-
 # Armor of Force Resistance, Chain Mail
 
 **Armor of Force Resistance, Chain Mail**

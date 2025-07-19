@@ -1,12 +1,3 @@
----
-title: Summon Dragon
-icon: ':luggage:'
-aliases: Summon Dragon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.r3BcSnnOSFqzmrF1
-tags:
-- Item
----
-
 # Summon Dragon
 
 **Summon Dragon**

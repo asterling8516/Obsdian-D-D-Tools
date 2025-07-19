@@ -1,12 +1,3 @@
----
-title: Dancing Shortsword
-icon: ':luggage:'
-aliases: Dancing Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5iJqfvAksEel2682
-tags:
-- Item
----
-
 # Dancing Shortsword
 
 **Dancing Shortsword**

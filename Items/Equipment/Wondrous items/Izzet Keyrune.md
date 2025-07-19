@@ -1,12 +1,3 @@
----
-title: Izzet Keyrune
-icon: ':luggage:'
-aliases: Izzet Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VI2VFUeJzQCVhME1
-tags:
-- Item
----
-
 # Izzet Keyrune
 
 **Izzet Keyrune**

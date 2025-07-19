@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Sustenance
-icon: ':luggage:'
-aliases: Ioun Stone of Sustenance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.07ZkiAo0DI0mM8e1
-tags:
-- Item
----
-
 # Ioun Stone of Sustenance
 
 **Ioun Stone of Sustenance**

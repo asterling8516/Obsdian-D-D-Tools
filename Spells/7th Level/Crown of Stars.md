@@ -1,12 +1,3 @@
----
-title: Crown of Stars
-icon: ':luggage:'
-aliases: Crown of Stars
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.HwWU76vDmS2d2146
-tags:
-- Item
----
-
 # Crown of Stars
 
 **Crown of Stars**

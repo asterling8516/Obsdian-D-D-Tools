@@ -1,12 +1,3 @@
----
-title: Nepenthe
-icon: ':luggage:'
-aliases: Nepenthe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uyfemJkGANWRJlAX
-tags:
-- Item
----
-
 # Nepenthe
 
 **Nepenthe**

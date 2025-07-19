@@ -1,12 +1,3 @@
----
-title: Potion of Psychic Resistance
-icon: ':luggage:'
-aliases: Potion of Psychic Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IeA7B1XoPqAnZjxq
-tags:
-- Item
----
-
 # Potion of Psychic Resistance
 
 **Potion of Psychic Resistance**

@@ -1,12 +1,3 @@
----
-title: Slippers of Spider Climbing
-icon: ':luggage:'
-aliases: Slippers of Spider Climbing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zX8PIL67WYRKM4RB
-tags:
-- Item
----
-
 # Slippers of Spider Climbing
 
 **Slippers of Spider Climbing**

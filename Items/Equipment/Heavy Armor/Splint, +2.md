@@ -1,12 +1,3 @@
----
-title: Splint, +2
-icon: ':luggage:'
-aliases: Splint, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NoDFTH8DpeDjr3tc
-tags:
-- Item
----
-
 # Splint, +2
 
 **Splint, +2**

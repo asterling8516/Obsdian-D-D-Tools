@@ -1,12 +1,3 @@
----
-title: Steel Wind Strike
-icon: ':luggage:'
-aliases: Steel Wind Strike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1UzRP7xmYnn2ICtA
-tags:
-- Item
----
-
 # Steel Wind Strike
 
 **Steel Wind Strike**

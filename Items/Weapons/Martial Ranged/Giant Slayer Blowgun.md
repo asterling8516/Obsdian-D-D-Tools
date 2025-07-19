@@ -1,12 +1,3 @@
----
-title: Giant Slayer Blowgun
-icon: ':luggage:'
-aliases: Giant Slayer Blowgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.n6edvbqzDjFgIZih
-tags:
-- Item
----
-
 # Giant Slayer Blowgun
 
 **Giant Slayer Blowgun**

@@ -1,12 +1,3 @@
----
-title: Driftglobe
-icon: ':luggage:'
-aliases: Driftglobe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ujK9pqaRSqUMW6rs
-tags:
-- Item
----
-
 # Driftglobe
 
 **Driftglobe**

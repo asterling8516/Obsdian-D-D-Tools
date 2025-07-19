@@ -1,12 +1,3 @@
----
-title: Sending
-icon: ':luggage:'
-aliases: Sending
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ACWhNFyzeTdwrxbt
-tags:
-- Item
----
-
 # Sending
 
 **Sending**

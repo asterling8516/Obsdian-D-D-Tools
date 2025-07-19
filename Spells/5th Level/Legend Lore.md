@@ -1,12 +1,3 @@
----
-title: Legend Lore
-icon: ':luggage:'
-aliases: Legend Lore
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.uq0kUybvXmByfvXC
-tags:
-- Item
----
-
 # Legend Lore
 
 **Legend Lore**

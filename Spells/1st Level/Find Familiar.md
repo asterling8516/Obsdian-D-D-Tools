@@ -1,12 +1,3 @@
----
-title: Find Familiar
-icon: ':luggage:'
-aliases: Find Familiar
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.0ZdJESW41jJFs9oF
-tags:
-- Item
----
-
 # Find Familiar
 
 **Find Familiar**

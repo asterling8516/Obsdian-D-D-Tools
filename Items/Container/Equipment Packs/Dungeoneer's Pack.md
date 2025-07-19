@@ -1,12 +1,3 @@
----
-title: Dungeoneer's Pack
-icon: ':luggage:'
-aliases: Dungeoneer's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ym5e1zD7v0dvOyYp
-tags:
-- Item
----
-
 # Dungeoneer's Pack
 
 **Dungeoneer's Pack**

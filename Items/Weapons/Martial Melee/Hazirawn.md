@@ -1,12 +1,3 @@
----
-title: Hazirawn
-icon: ':luggage:'
-aliases: Hazirawn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pgz9W7OtKd1fGC9C
-tags:
-- Item
----
-
 # Hazirawn
 
 **Hazirawn**

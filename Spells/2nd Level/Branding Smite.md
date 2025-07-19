@@ -1,12 +1,3 @@
----
-title: Branding Smite
-icon: ':luggage:'
-aliases: Branding Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rFUQWyDfc66pEBBD
-tags:
-- Item
----
-
 # Branding Smite
 
 **Branding Smite**

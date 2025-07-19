@@ -1,12 +1,3 @@
----
-title: Leomund's Tiny Hut
-icon: ':luggage:'
-aliases: Leomund's Tiny Hut
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.7r1D2pTyMfmWLYI3
-tags:
-- Item
----
-
 # Leomund's Tiny Hut
 
 **Leomund's Tiny Hut**

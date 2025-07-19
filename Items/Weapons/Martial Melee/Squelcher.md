@@ -1,12 +1,3 @@
----
-title: Squelcher
-icon: ':luggage:'
-aliases: Squelcher
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8wh9vp04gmcvbmxo
-tags:
-- Item
----
-
 # Squelcher
 
 **Squelcher**

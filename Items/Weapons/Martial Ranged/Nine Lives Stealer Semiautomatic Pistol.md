@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Semiautomatic Pistol
-icon: ':luggage:'
-aliases: Nine Lives Stealer Semiautomatic Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OK90FcL3S3xBAchG
-tags:
-- Item
----
-
 # Nine Lives Stealer Semiautomatic Pistol
 
 **Nine Lives Stealer Semiautomatic Pistol**

@@ -1,12 +1,3 @@
----
-title: Crystal Longsword
-icon: ':luggage:'
-aliases: Crystal Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jMPyjqS1CcgAJA3A
-tags:
-- Item
----
-
 # Crystal Longsword
 
 **Crystal Longsword**

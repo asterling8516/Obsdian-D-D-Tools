@@ -1,12 +1,3 @@
----
-title: Double-Bladed Scimitar
-icon: ':luggage:'
-aliases: Double-Bladed Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uhHaO3zoDqlp7XWV
-tags:
-- Item
----
-
 # Double-Bladed Scimitar
 
 **Double-Bladed Scimitar**

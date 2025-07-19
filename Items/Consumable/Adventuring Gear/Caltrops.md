@@ -1,12 +1,3 @@
----
-title: Caltrops
-icon: ':luggage:'
-aliases: Caltrops
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bmZpOuIt1RNpK3wK
-tags:
-- Item
----
-
 # Caltrops
 
 **Caltrops**

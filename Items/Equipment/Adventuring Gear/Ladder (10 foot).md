@@ -1,12 +1,3 @@
----
-title: Ladder (10 foot)
-icon: ':luggage:'
-aliases: Ladder (10 foot)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b1IwDLQEcTxKZAi6
-tags:
-- Item
----
-
 # Ladder (10 foot)
 
 **Ladder (10 foot)**

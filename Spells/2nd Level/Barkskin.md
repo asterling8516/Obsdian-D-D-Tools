@@ -1,12 +1,3 @@
----
-title: Barkskin
-icon: ':luggage:'
-aliases: Barkskin
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.3fuXlEYDlPE3Fafx
-tags:
-- Item
----
-
 # Barkskin
 
 **Barkskin**

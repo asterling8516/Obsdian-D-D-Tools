@@ -1,12 +1,3 @@
----
-title: Leira's Greataxe
-icon: ':luggage:'
-aliases: Leira's Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ruaYO4fqqRRa7EYN
-tags:
-- Item
----
-
 # Leira's Greataxe
 
 **Leira's Greataxe**

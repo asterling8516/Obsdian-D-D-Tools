@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BRzXyhJcC5E3JMZo
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Scale Mail
 
 **Armor of Radiant Resistance, Scale Mail**

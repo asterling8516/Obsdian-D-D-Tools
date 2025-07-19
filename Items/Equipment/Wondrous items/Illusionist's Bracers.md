@@ -1,12 +1,3 @@
----
-title: Illusionist's Bracers
-icon: ':luggage:'
-aliases: Illusionist's Bracers
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CrjTC1yNgD20Ddcy
-tags:
-- Item
----
-
 # Illusionist's Bracers
 
 **Illusionist's Bracers**

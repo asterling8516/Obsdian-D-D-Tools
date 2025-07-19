@@ -1,12 +1,3 @@
----
-title: Revolver, +1
-icon: ':luggage:'
-aliases: Revolver, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.t5UB4vZnsa1S792n
-tags:
-- Item
----
-
 # Revolver, +1
 
 **Revolver, +1**

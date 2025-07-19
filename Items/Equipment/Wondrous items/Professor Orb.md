@@ -1,12 +1,3 @@
----
-title: Professor Orb
-icon: ':luggage:'
-aliases: Professor Orb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.16Ak38jOGQ83ZDHD
-tags:
-- Item
----
-
 # Professor Orb
 
 **Professor Orb**

@@ -1,12 +1,3 @@
----
-title: Moon-Touched, Rapier
-icon: ':luggage:'
-aliases: Moon-Touched, Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5AdRKBUoZDRHgolm
-tags:
-- Item
----
-
 # Moon-Touched, Rapier
 
 **Moon-Touched, Rapier**

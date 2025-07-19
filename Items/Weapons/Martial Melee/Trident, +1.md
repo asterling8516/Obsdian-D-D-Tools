@@ -1,12 +1,3 @@
----
-title: Trident, +1
-icon: ':luggage:'
-aliases: Trident, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZSSP7qk7Y9a0PRqw
-tags:
-- Item
----
-
 # Trident, +1
 
 **Trident, +1**

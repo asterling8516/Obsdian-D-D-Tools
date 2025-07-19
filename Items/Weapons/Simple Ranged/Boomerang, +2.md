@@ -1,12 +1,3 @@
----
-title: Boomerang, +2
-icon: ':luggage:'
-aliases: Boomerang, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7vXbSlfmPsSv5s5I
-tags:
-- Item
----
-
 # Boomerang, +2
 
 **Boomerang, +2**

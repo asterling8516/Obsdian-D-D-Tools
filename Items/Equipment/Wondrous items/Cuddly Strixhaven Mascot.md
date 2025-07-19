@@ -1,12 +1,3 @@
----
-title: Cuddly Strixhaven Mascot
-icon: ':luggage:'
-aliases: Cuddly Strixhaven Mascot
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ltsmpDTj6t0XBWON
-tags:
-- Item
----
-
 # Cuddly Strixhaven Mascot
 
 **Cuddly Strixhaven Mascot**

@@ -1,12 +1,3 @@
----
-title: Rope of Entanglement
-icon: ':luggage:'
-aliases: Rope of Entanglement
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8Ug4YGeR1CX84hTI
-tags:
-- Item
----
-
 # Rope of Entanglement
 
 **Rope of Entanglement**

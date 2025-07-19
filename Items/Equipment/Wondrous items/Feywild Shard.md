@@ -1,12 +1,3 @@
----
-title: Feywild Shard
-icon: ':luggage:'
-aliases: Feywild Shard
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Seu6rNRHinCn5mL0
-tags:
-- Item
----
-
 # Feywild Shard
 
 **Feywild Shard**

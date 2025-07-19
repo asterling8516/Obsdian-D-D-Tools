@@ -1,12 +1,3 @@
----
-title: Magic Weapon
-icon: ':luggage:'
-aliases: Magic Weapon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gsPWYhvlhYuLVuER
-tags:
-- Item
----
-
 # Magic Weapon
 
 **Magic Weapon**

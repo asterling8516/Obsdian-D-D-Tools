@@ -1,12 +1,3 @@
----
-title: Charm Person
-icon: ':luggage:'
-aliases: Charm Person
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.cs91lCvsNZRKqhKT
-tags:
-- Item
----
-
 # Charm Person
 
 **Charm Person**

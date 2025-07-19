@@ -1,12 +1,3 @@
----
-title: Ephixis, Bow of Nylea
-icon: ':luggage:'
-aliases: Ephixis, Bow of Nylea
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U2B2DWZB0ig13TLw
-tags:
-- Item
----
-
 # Ephixis, Bow of Nylea
 
 **Ephixis, Bow of Nylea**

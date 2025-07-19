@@ -1,12 +1,3 @@
----
-title: Portable Hole
-icon: ':luggage:'
-aliases: Portable Hole
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XCFB5CcmPqi8et2u
-tags:
-- Item
----
-
 # Portable Hole
 
 **Portable Hole**

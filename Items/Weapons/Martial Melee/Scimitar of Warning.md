@@ -1,12 +1,3 @@
----
-title: Scimitar of Warning
-icon: ':luggage:'
-aliases: Scimitar of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XzZtPnqt2mKnTtfV
-tags:
-- Item
----
-
 # Scimitar of Warning
 
 **Scimitar of Warning**

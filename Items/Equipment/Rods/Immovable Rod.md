@@ -1,12 +1,3 @@
----
-title: Immovable Rod
-icon: ':luggage:'
-aliases: Immovable Rod
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2Q9P6GpSkbkZJnP4
-tags:
-- Item
----
-
 # Immovable Rod
 
 **Immovable Rod**

@@ -1,12 +1,3 @@
----
-title: Hellfire Light Hammer
-icon: ':luggage:'
-aliases: Hellfire Light Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oVjttDN1hciPRrBm
-tags:
-- Item
----
-
 # Hellfire Light Hammer
 
 **Hellfire Light Hammer**

@@ -1,12 +1,3 @@
----
-title: Flame Tongue Longsword
-icon: ':luggage:'
-aliases: Flame Tongue Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7ShKEaT1R7ZShVQE
-tags:
-- Item
----
-
 # Flame Tongue Longsword
 
 **Flame Tongue Longsword**

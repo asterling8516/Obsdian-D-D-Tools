@@ -1,12 +1,3 @@
----
-title: Dragon's Bite
-icon: ':luggage:'
-aliases: Dragon's Bite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ry4DSKQtwn7TQWO6
-tags:
-- Item
----
-
 # Dragon's Bite
 
 **Dragon's Bite**

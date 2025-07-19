@@ -1,12 +1,3 @@
----
-title: Efreeti Bottle
-icon: ':luggage:'
-aliases: Efreeti Bottle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xItRtEJB9P4VnjmO
-tags:
-- Item
----
-
 # Efreeti Bottle
 
 **Efreeti Bottle**

@@ -1,12 +1,3 @@
----
-title: Tent, Two-Person
-icon: ':luggage:'
-aliases: Tent, Two-Person
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hyQe61dvBwHxxmfN
-tags:
-- Item
----
-
 # Tent, Two-Person
 
 **Tent, Two-Person**

@@ -1,12 +1,3 @@
----
-title: Astromancy Archive
-icon: ':luggage:'
-aliases: Astromancy Archive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XeeGBTRD6Zlb8bPo
-tags:
-- Item
----
-
 # Astromancy Archive
 
 **Astromancy Archive**

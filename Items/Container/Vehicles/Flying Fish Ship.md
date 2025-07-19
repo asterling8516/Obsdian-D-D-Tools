@@ -1,12 +1,3 @@
----
-title: Flying Fish Ship
-icon: ':luggage:'
-aliases: Flying Fish Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jxOu8WAfH0lvQV7S
-tags:
-- Item
----
-
 # Flying Fish Ship
 
 **Flying Fish Ship**

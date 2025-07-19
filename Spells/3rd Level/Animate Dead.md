@@ -1,12 +1,3 @@
----
-title: Animate Dead
-icon: ':luggage:'
-aliases: Animate Dead
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wsqP6IvsCpdz2PYt
-tags:
-- Item
----
-
 # Animate Dead
 
 **Animate Dead**

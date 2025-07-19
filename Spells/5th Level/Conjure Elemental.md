@@ -1,12 +1,3 @@
----
-title: Conjure Elemental
-icon: ':luggage:'
-aliases: Conjure Elemental
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.g6R4iR0uGs138Cla
-tags:
-- Item
----
-
 # Conjure Elemental
 
 **Conjure Elemental**

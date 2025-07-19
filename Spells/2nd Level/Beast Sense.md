@@ -1,12 +1,3 @@
----
-title: Beast Sense
-icon: ':luggage:'
-aliases: Beast Sense
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.riPT44WWgd0S4hWu
-tags:
-- Item
----
-
 # Beast Sense
 
 **Beast Sense**

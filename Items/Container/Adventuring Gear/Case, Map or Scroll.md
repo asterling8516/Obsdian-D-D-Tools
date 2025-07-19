@@ -1,12 +1,3 @@
----
-title: Case, Map or Scroll
-icon: ':luggage:'
-aliases: Case, Map or Scroll
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hXOJAK6o6LNNymEM
-tags:
-- Item
----
-
 # Case, Map or Scroll
 
 **Case, Map or Scroll**

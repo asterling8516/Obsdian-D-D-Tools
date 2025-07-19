@@ -1,12 +1,3 @@
----
-title: Risian Pine Focus
-icon: ':luggage:'
-aliases: Risian Pine Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qsowiNfvux5y84iW
-tags:
-- Item
----
-
 # Risian Pine Focus
 
 **Risian Pine Focus**

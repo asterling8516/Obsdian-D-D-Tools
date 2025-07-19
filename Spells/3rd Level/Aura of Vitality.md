@@ -1,12 +1,3 @@
----
-title: Aura of Vitality
-icon: ':luggage:'
-aliases: Aura of Vitality
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hoDCtnXoTTKXdi0x
-tags:
-- Item
----
-
 # Aura of Vitality
 
 **Aura of Vitality**

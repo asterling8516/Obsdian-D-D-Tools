@@ -1,12 +1,3 @@
----
-title: Vicious Glaive
-icon: ':luggage:'
-aliases: Vicious Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s9WZdHbg0bFZvval
-tags:
-- Item
----
-
 # Vicious Glaive
 
 **Vicious Glaive**

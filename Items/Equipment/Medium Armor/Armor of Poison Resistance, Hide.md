@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PDh8M0xIF6ZDL4Jp
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Hide
 
 **Armor of Poison Resistance, Hide**

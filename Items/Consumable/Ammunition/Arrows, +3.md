@@ -1,12 +1,3 @@
----
-title: Arrows, +3
-icon: ':luggage:'
-aliases: Arrows, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9loGJISODvcM0p4z
-tags:
-- Item
----
-
 # Arrows, +3
 
 **Arrows, +3**

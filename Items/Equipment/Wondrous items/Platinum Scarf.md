@@ -1,12 +1,3 @@
----
-title: Platinum Scarf
-icon: ':luggage:'
-aliases: Platinum Scarf
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0xWkkMYk9EsLs4AN
-tags:
-- Item
----
-
 # Platinum Scarf
 
 **Platinum Scarf**

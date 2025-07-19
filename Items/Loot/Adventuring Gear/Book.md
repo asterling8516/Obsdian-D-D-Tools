@@ -1,12 +1,3 @@
----
-title: Book
-icon: ':luggage:'
-aliases: Book
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PpddfuwYj1gT9OWm
-tags:
-- Item
----
-
 # Book
 
 **Book**

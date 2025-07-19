@@ -1,12 +1,3 @@
----
-title: Summon Draconic Spirit
-icon: ':luggage:'
-aliases: Summon Draconic Spirit
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Kt4HSd0EMgRoR4Y5
-tags:
-- Item
----
-
 # Summon Draconic Spirit
 
 **Summon Draconic Spirit**

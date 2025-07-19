@@ -1,12 +1,3 @@
----
-title: Elven Chain Shirt
-icon: ':luggage:'
-aliases: Elven Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kf7W8UogWGMGgj1H
-tags:
-- Item
----
-
 # Elven Chain Shirt
 
 **Elven Chain Shirt**

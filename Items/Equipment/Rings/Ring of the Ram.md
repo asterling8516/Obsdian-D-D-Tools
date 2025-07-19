@@ -1,12 +1,3 @@
----
-title: Ring of the Ram
-icon: ':luggage:'
-aliases: Ring of the Ram
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.USzquazojM8VrrWM
-tags:
-- Item
----
-
 # Ring of the Ram
 
 **Ring of the Ram**

@@ -1,12 +1,3 @@
----
-title: Iron Flask
-icon: ':luggage:'
-aliases: Iron Flask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S02pFDfO6nCnI33B
-tags:
-- Item
----
-
 # Iron Flask
 
 **Iron Flask**

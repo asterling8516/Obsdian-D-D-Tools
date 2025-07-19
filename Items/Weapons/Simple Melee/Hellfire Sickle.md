@@ -1,12 +1,3 @@
----
-title: Hellfire Sickle
-icon: ':luggage:'
-aliases: Hellfire Sickle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UaRPKl7CPj2WTfXM
-tags:
-- Item
----
-
 # Hellfire Sickle
 
 **Hellfire Sickle**

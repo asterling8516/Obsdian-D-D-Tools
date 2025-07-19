@@ -1,12 +1,3 @@
----
-title: Cloak of Elvenkind
-icon: ':luggage:'
-aliases: Cloak of Elvenkind
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sZU0VFea6WO34uNS
-tags:
-- Item
----
-
 # Cloak of Elvenkind
 
 **Cloak of Elvenkind**

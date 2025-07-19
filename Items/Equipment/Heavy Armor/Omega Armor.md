@@ -1,12 +1,3 @@
----
-title: Omega Armor
-icon: ':luggage:'
-aliases: Omega Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S4J4ym7M93OLCqvA
-tags:
-- Item
----
-
 # Omega Armor
 
 **Omega Armor**

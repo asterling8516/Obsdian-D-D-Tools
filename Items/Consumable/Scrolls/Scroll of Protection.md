@@ -1,12 +1,3 @@
----
-title: Scroll of Protection
-icon: ':luggage:'
-aliases: Scroll of Protection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kw1WLIFAtbeaGYzb
-tags:
-- Item
----
-
 # Scroll of Protection
 
 **Scroll of Protection**

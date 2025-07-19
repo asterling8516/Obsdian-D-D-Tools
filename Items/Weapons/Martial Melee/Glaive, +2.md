@@ -1,12 +1,3 @@
----
-title: Glaive, +2
-icon: ':luggage:'
-aliases: Glaive, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3EYhasdW8e7xqRhZ
-tags:
-- Item
----
-
 # Glaive, +2
 
 **Glaive, +2**

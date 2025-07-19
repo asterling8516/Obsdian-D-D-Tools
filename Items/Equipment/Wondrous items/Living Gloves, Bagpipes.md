@@ -1,12 +1,3 @@
----
-title: Living Gloves, Bagpipes
-icon: ':luggage:'
-aliases: Living Gloves, Bagpipes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VhywKTwBwgp7L3Y0
-tags:
-- Item
----
-
 # Living Gloves, Bagpipes
 
 **Living Gloves, Bagpipes**

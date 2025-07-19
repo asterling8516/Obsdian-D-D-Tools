@@ -1,12 +1,3 @@
----
-title: Club, +1
-icon: ':luggage:'
-aliases: Club, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uGBhN5KKgKPsy13N
-tags:
-- Item
----
-
 # Club, +1
 
 **Club, +1**

@@ -1,12 +1,3 @@
----
-title: Armblade (Battleaxe)
-icon: ':luggage:'
-aliases: Armblade (Battleaxe)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BVz0BvSuVs96tDpH
-tags:
-- Item
----
-
 # Armblade (Battleaxe)
 
 **Armblade (Battleaxe)**

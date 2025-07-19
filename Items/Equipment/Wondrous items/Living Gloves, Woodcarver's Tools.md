@@ -1,12 +1,3 @@
----
-title: Living Gloves, Woodcarver's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Woodcarver's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PMuYIUbrjhCQX2w2
-tags:
-- Item
----
-
 # Living Gloves, Woodcarver's Tools
 
 **Living Gloves, Woodcarver's Tools**

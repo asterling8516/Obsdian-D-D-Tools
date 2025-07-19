@@ -1,12 +1,3 @@
----
-title: Ray of Frost
-icon: ':luggage:'
-aliases: Ray of Frost
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.f7cdl1ptfYguotfr
-tags:
-- Item
----
-
 # Ray of Frost
 
 **Ray of Frost**

@@ -1,12 +1,3 @@
----
-title: Befuddlement
-icon: ':luggage:'
-aliases: Befuddlement
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ar6A9yHYLhYKeGg4
-tags:
-- Item
----
-
 # Befuddlement
 
 **Befuddlement**

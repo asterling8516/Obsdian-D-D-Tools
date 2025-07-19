@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3DoVy2ujuXOFaNmc
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Scale Mail
 
 **Armor of Thunder Resistance, Scale Mail**

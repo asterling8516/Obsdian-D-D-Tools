@@ -1,12 +1,3 @@
----
-title: Spike Growth
-icon: ':luggage:'
-aliases: Spike Growth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.K8lHyFzm88UTui5V
-tags:
-- Item
----
-
 # Spike Growth
 
 **Spike Growth**

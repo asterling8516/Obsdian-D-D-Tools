@@ -1,12 +1,3 @@
----
-title: Opal of the Ild Rune
-icon: ':luggage:'
-aliases: Opal of the Ild Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VmHgBgETFsY4VDWZ
-tags:
-- Item
----
-
 # Opal of the Ild Rune
 
 **Opal of the Ild Rune**

@@ -1,12 +1,3 @@
----
-title: Potion of Poison
-icon: ':luggage:'
-aliases: Potion of Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oT1z0vb9h2DpIrWO
-tags:
-- Item
----
-
 # Potion of Poison
 
 **Potion of Poison**

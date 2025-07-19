@@ -1,12 +1,3 @@
----
-title: Robe of Eyes
-icon: ':luggage:'
-aliases: Robe of Eyes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uPBNZu0AtP6B852y
-tags:
-- Item
----
-
 # Robe of Eyes
 
 **Robe of Eyes**

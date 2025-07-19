@@ -1,12 +1,3 @@
----
-title: Luck Blade Rapier
-icon: ':luggage:'
-aliases: Luck Blade Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gJQmXwK1LCrMM8Zc
-tags:
-- Item
----
-
 # Luck Blade Rapier
 
 **Luck Blade Rapier**

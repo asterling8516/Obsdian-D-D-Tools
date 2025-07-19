@@ -1,12 +1,3 @@
----
-title: Dice
-icon: ':luggage:'
-aliases: Dice
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UD34yDxsi39mLMcd
-tags:
-- Item
----
-
 # Dice
 
 **Dice**

@@ -1,12 +1,3 @@
----
-title: Scimitar of Sharpness
-icon: ':luggage:'
-aliases: Scimitar of Sharpness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AYTHG6j51ho5PUPF
-tags:
-- Item
----
-
 # Scimitar of Sharpness
 
 **Scimitar of Sharpness**

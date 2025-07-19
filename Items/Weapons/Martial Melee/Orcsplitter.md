@@ -1,12 +1,3 @@
----
-title: Orcsplitter
-icon: ':luggage:'
-aliases: Orcsplitter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.K4H2LKq4akt2rPse
-tags:
-- Item
----
-
 # Orcsplitter
 
 **Orcsplitter**

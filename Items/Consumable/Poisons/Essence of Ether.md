@@ -1,12 +1,3 @@
----
-title: Essence of Ether
-icon: ':luggage:'
-aliases: Essence of Ether
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5SwnGjV1KiK80WUb
-tags:
-- Item
----
-
 # Essence of Ether
 
 **Essence of Ether**

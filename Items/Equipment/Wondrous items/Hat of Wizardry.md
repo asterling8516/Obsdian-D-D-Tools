@@ -1,12 +1,3 @@
----
-title: Hat of Wizardry
-icon: ':luggage:'
-aliases: Hat of Wizardry
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.laxlNaVXwFg0JOuj
-tags:
-- Item
----
-
 # Hat of Wizardry
 
 **Hat of Wizardry**

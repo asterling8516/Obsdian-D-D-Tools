@@ -1,12 +1,3 @@
----
-title: Black Chromatic Rose
-icon: ':luggage:'
-aliases: Black Chromatic Rose
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.r9M6akF9AL7fgHVt
-tags:
-- Item
----
-
 # Black Chromatic Rose
 
 **Black Chromatic Rose**

@@ -1,12 +1,3 @@
----
-title: Starry Wisp
-icon: ':luggage:'
-aliases: Starry Wisp
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.u0BmXqsYzARhpo4J
-tags:
-- Item
----
-
 # Starry Wisp
 
 **Starry Wisp**

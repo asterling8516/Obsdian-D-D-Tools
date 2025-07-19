@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Awareness
-icon: ':luggage:'
-aliases: Ioun Stone of Awareness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dSaellIpCVHfR7EJ
-tags:
-- Item
----
-
 # Ioun Stone of Awareness
 
 **Ioun Stone of Awareness**

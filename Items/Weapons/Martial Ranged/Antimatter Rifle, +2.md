@@ -1,12 +1,3 @@
----
-title: Antimatter Rifle, +2
-icon: ':luggage:'
-aliases: Antimatter Rifle, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7Xk6kp1NUF1vo9rm
-tags:
-- Item
----
-
 # Antimatter Rifle, +2
 
 **Antimatter Rifle, +2**

@@ -1,12 +1,3 @@
----
-title: Robe of Summer
-icon: ':luggage:'
-aliases: Robe of Summer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3OnCNFnvPLnEQ3E6
-tags:
-- Item
----
-
 # Robe of Summer
 
 **Robe of Summer**

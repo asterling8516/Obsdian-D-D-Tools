@@ -1,12 +1,3 @@
----
-title: Navigation Orb
-icon: ':luggage:'
-aliases: Navigation Orb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ma6yRhp7mAlaYrmz
-tags:
-- Item
----
-
 # Navigation Orb
 
 **Navigation Orb**

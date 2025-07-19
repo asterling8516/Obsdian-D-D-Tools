@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xMviZey2EZQHcOlW
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Breastplate
 
 **Armor of Poison Resistance, Breastplate**

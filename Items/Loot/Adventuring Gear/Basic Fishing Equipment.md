@@ -1,12 +1,3 @@
----
-title: Basic Fishing Equipment
-icon: ':luggage:'
-aliases: Basic Fishing Equipment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ofO9Rg2gxuuZdFVO
-tags:
-- Item
----
-
 # Basic Fishing Equipment
 
 **Basic Fishing Equipment**

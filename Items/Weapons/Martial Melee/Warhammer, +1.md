@@ -1,12 +1,3 @@
----
-title: Warhammer, +1
-icon: ':luggage:'
-aliases: Warhammer, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MzGiT5osKmGtgX5C
-tags:
-- Item
----
-
 # Warhammer, +1
 
 **Warhammer, +1**

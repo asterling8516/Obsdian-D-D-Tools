@@ -1,12 +1,3 @@
----
-title: Holy Weapon
-icon: ':luggage:'
-aliases: Holy Weapon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.7pnROBIdzbMN3Ryy
-tags:
-- Item
----
-
 # Holy Weapon
 
 **Holy Weapon**

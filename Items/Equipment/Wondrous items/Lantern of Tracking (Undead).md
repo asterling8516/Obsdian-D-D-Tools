@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Undead)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Undead)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OIfbQjeNN6SE8FRH
-tags:
-- Item
----
-
 # Lantern of Tracking (Undead)
 
 **Lantern of Tracking (Undead)**

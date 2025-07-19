@@ -1,12 +1,3 @@
----
-title: Blowgun
-icon: ':luggage:'
-aliases: Blowgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.59oRT4O3xRwdvXON
-tags:
-- Item
----
-
 # Blowgun
 
 **Blowgun**

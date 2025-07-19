@@ -1,12 +1,3 @@
----
-title: Cursed Luckstone
-icon: ':luggage:'
-aliases: Cursed Luckstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0WlrUgy0bmN2Iz66
-tags:
-- Item
----
-
 # Cursed Luckstone
 
 **Cursed Luckstone**

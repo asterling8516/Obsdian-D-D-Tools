@@ -1,12 +1,3 @@
----
-title: Druidcraft
-icon: ':luggage:'
-aliases: Druidcraft
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xY7qJVEERRNzY3Ob
-tags:
-- Item
----
-
 # Druidcraft
 
 **Druidcraft**

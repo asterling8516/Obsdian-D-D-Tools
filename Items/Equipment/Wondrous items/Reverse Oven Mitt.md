@@ -1,12 +1,3 @@
----
-title: Reverse Oven Mitt
-icon: ':luggage:'
-aliases: Reverse Oven Mitt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nz92mZ7pxoJzQqVY
-tags:
-- Item
----
-
 # Reverse Oven Mitt
 
 **Reverse Oven Mitt**

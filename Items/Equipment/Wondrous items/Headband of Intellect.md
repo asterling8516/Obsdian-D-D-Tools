@@ -1,12 +1,3 @@
----
-title: Headband of Intellect
-icon: ':luggage:'
-aliases: Headband of Intellect
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qt9DheH1PmAjCur7
-tags:
-- Item
----
-
 # Headband of Intellect
 
 **Headband of Intellect**

@@ -1,12 +1,3 @@
----
-title: Boots of Elvenkind
-icon: ':luggage:'
-aliases: Boots of Elvenkind
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FBQK3jswCnRQ4PVP
-tags:
-- Item
----
-
 # Boots of Elvenkind
 
 **Boots of Elvenkind**

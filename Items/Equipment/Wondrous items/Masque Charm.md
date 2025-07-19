@@ -1,12 +1,3 @@
----
-title: Masque Charm
-icon: ':luggage:'
-aliases: Masque Charm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4RMeMG064RxaJ76c
-tags:
-- Item
----
-
 # Masque Charm
 
 **Masque Charm**

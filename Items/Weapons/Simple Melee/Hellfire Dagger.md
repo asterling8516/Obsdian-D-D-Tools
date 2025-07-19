@@ -1,12 +1,3 @@
----
-title: Hellfire Dagger
-icon: ':luggage:'
-aliases: Hellfire Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QIuSK2bNjy6be7ZJ
-tags:
-- Item
----
-
 # Hellfire Dagger
 
 **Hellfire Dagger**

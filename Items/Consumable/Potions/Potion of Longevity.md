@@ -1,12 +1,3 @@
----
-title: Potion of Longevity
-icon: ':luggage:'
-aliases: Potion of Longevity
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xNKV2Hvqx9ZuxQeK
-tags:
-- Item
----
-
 # Potion of Longevity
 
 **Potion of Longevity**

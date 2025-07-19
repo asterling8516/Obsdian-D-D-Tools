@@ -1,12 +1,3 @@
----
-title: Ring of Necrotic Resistance
-icon: ':luggage:'
-aliases: Ring of Necrotic Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WJNgS3UhY2pzqdKc
-tags:
-- Item
----
-
 # Ring of Necrotic Resistance
 
 **Ring of Necrotic Resistance**

@@ -1,12 +1,3 @@
----
-title: Rations
-icon: ':luggage:'
-aliases: Rations
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ng3MkWKyu8hheGUW
-tags:
-- Item
----
-
 # Rations
 
 **Rations**

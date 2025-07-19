@@ -1,12 +1,3 @@
----
-title: Modify Memory
-icon: ':luggage:'
-aliases: Modify Memory
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Bw6kBJ4GbFJmg7zV
-tags:
-- Item
----
-
 # Modify Memory
 
 **Modify Memory**

@@ -1,12 +1,3 @@
----
-title: Telepathy
-icon: ':luggage:'
-aliases: Telepathy
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.sopyWy6vAPmXyrIN
-tags:
-- Item
----
-
 # Telepathy
 
 **Telepathy**

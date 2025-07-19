@@ -1,12 +1,3 @@
----
-title: Brazier of Commanding Fire Elementals
-icon: ':luggage:'
-aliases: Brazier of Commanding Fire Elementals
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7Dk3mjukTBZMDDwC
-tags:
-- Item
----
-
 # Brazier of Commanding Fire Elementals
 
 **Brazier of Commanding Fire Elementals**

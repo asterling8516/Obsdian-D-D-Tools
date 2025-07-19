@@ -1,12 +1,3 @@
----
-title: Cauldron of Plenty
-icon: ':luggage:'
-aliases: Cauldron of Plenty
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CGadt26Gt4nV00EY
-tags:
-- Item
----
-
 # Cauldron of Plenty
 
 **Cauldron of Plenty**

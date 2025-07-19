@@ -1,12 +1,3 @@
----
-title: Holy Symbol of Ravenkind
-icon: ':luggage:'
-aliases: Holy Symbol of Ravenkind
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pQHZP7TyU3pmtD2D
-tags:
-- Item
----
-
 # Holy Symbol of Ravenkind
 
 **Holy Symbol of Ravenkind**

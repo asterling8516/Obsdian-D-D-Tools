@@ -1,12 +1,3 @@
----
-title: Eagle Whistle
-icon: ':luggage:'
-aliases: Eagle Whistle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6DZoTeZXZrcTrItJ
-tags:
-- Item
----
-
 # Eagle Whistle
 
 **Eagle Whistle**

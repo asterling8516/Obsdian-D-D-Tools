@@ -1,12 +1,3 @@
----
-title: Bow Of The Depths
-icon: ':luggage:'
-aliases: Bow Of The Depths
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FWPzho6sDPoRtUxH
-tags:
-- Item
----
-
 # Bow Of The Depths
 
 **Bow Of The Depths**

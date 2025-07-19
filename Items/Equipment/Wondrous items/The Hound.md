@@ -1,12 +1,3 @@
----
-title: The Hound
-icon: ':luggage:'
-aliases: The Hound
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kd3MlvJsCq82LgYs
-tags:
-- Item
----
-
 # The Hound
 
 **The Hound**

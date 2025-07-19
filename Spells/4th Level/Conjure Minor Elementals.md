@@ -1,12 +1,3 @@
----
-title: Conjure Minor Elementals
-icon: ':luggage:'
-aliases: Conjure Minor Elementals
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.zy4zusXZ0PUr3WVq
-tags:
-- Item
----
-
 # Conjure Minor Elementals
 
 **Conjure Minor Elementals**

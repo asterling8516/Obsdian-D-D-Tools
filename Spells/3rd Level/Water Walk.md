@@ -1,12 +1,3 @@
----
-title: Water Walk
-icon: ':luggage:'
-aliases: Water Walk
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.MGpFVuLbApvOPAwq
-tags:
-- Item
----
-
 # Water Walk
 
 **Water Walk**

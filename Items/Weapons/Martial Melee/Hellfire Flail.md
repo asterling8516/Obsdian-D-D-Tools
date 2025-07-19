@@ -1,12 +1,3 @@
----
-title: Hellfire Flail
-icon: ':luggage:'
-aliases: Hellfire Flail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3x9a9P0zj9xiqUrp
-tags:
-- Item
----
-
 # Hellfire Flail
 
 **Hellfire Flail**

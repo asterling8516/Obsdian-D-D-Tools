@@ -1,12 +1,3 @@
----
-title: Transport via Plants
-icon: ':luggage:'
-aliases: Transport via Plants
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1kcNZCm4XeUT8PeH
-tags:
-- Item
----
-
 # Transport via Plants
 
 **Transport via Plants**

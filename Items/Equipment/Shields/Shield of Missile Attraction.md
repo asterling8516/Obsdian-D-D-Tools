@@ -1,12 +1,3 @@
----
-title: Shield of Missile Attraction
-icon: ':luggage:'
-aliases: Shield of Missile Attraction
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GWX4ccvheHTNgDR9
-tags:
-- Item
----
-
 # Shield of Missile Attraction
 
 **Shield of Missile Attraction**

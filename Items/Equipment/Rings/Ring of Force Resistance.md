@@ -1,12 +1,3 @@
----
-title: Ring of Force Resistance
-icon: ':luggage:'
-aliases: Ring of Force Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2lJMDrHiaJrqFjW0
-tags:
-- Item
----
-
 # Ring of Force Resistance
 
 **Ring of Force Resistance**

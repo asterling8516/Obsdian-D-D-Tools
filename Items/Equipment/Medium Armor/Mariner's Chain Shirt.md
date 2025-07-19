@@ -1,12 +1,3 @@
----
-title: Mariner's Chain Shirt
-icon: ':luggage:'
-aliases: Mariner's Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LvhTshammwN8TKoH
-tags:
-- Item
----
-
 # Mariner's Chain Shirt
 
 **Mariner's Chain Shirt**

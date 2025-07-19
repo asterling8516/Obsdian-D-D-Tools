@@ -1,12 +1,3 @@
----
-title: Kythrian Manchineel Focus
-icon: ':luggage:'
-aliases: Kythrian Manchineel Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.978i0yww4EHo2YyV
-tags:
-- Item
----
-
 # Kythrian Manchineel Focus
 
 **Kythrian Manchineel Focus**

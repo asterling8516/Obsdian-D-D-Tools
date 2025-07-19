@@ -1,12 +1,3 @@
----
-title: Burnt Othur Fumes (Inhaled)
-icon: ':luggage:'
-aliases: Burnt Othur Fumes (Inhaled)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OoFCku6MK5gQp1pl
-tags:
-- Item
----
-
 # Burnt Othur Fumes (Inhaled)
 
 **Burnt Othur Fumes (Inhaled)**

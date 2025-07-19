@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Club
-icon: ':luggage:'
-aliases: Nine Lives Stealer Club
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6sUJMc7g0FV00cwM
-tags:
-- Item
----
-
 # Nine Lives Stealer Club
 
 **Nine Lives Stealer Club**

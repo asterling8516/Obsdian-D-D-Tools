@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Chain Shirt
-icon: ':luggage:'
-aliases: Mizzium Armor, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.so6BmkbyUkywkW8B
-tags:
-- Item
----
-
 # Mizzium Armor, Chain Shirt
 
 **Mizzium Armor, Chain Shirt**

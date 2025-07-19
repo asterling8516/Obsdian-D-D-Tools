@@ -1,12 +1,3 @@
----
-title: Giant Slayer Scimitar
-icon: ':luggage:'
-aliases: Giant Slayer Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.e4OpV0VwLjRwpo0N
-tags:
-- Item
----
-
 # Giant Slayer Scimitar
 
 **Giant Slayer Scimitar**

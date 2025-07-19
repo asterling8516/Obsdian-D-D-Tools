@@ -1,12 +1,3 @@
----
-title: Battleaxe, +3
-icon: ':luggage:'
-aliases: Battleaxe, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xA8cGEcm5Qc0yi4O
-tags:
-- Item
----
-
 # Battleaxe, +3
 
 **Battleaxe, +3**

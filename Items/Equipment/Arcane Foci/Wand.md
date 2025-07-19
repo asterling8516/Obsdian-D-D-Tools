@@ -1,12 +1,3 @@
----
-title: Wand
-icon: ':luggage:'
-aliases: Wand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zBLr4a4reoUJZ7O5
-tags:
-- Item
----
-
 # Wand
 
 **Wand**

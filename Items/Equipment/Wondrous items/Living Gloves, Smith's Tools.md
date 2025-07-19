@@ -1,12 +1,3 @@
----
-title: Living Gloves, Smith's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Smith's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5Kf8h7WYweiblqfI
-tags:
-- Item
----
-
 # Living Gloves, Smith's Tools
 
 **Living Gloves, Smith's Tools**

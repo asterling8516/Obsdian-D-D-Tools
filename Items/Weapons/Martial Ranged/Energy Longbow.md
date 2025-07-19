@@ -1,12 +1,3 @@
----
-title: Energy Longbow
-icon: ':luggage:'
-aliases: Energy Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eb3GuamwnTbiXHsl
-tags:
-- Item
----
-
 # Energy Longbow
 
 **Energy Longbow**

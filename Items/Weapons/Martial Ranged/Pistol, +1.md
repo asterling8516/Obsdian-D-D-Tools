@@ -1,12 +1,3 @@
----
-title: Pistol, +1
-icon: ':luggage:'
-aliases: Pistol, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EyjSQsXnuKFFOsp3
-tags:
-- Item
----
-
 # Pistol, +1
 
 **Pistol, +1**

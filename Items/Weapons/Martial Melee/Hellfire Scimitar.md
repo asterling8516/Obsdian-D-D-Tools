@@ -1,12 +1,3 @@
----
-title: Hellfire Scimitar
-icon: ':luggage:'
-aliases: Hellfire Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZJGznDhFWeIzUIXq
-tags:
-- Item
----
-
 # Hellfire Scimitar
 
 **Hellfire Scimitar**

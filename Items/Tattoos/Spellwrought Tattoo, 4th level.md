@@ -1,12 +1,3 @@
----
-title: Spellwrought Tattoo, 4th level
-icon: ':luggage:'
-aliases: Spellwrought Tattoo, 4th level
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E9rv73co3nkk1r2R
-tags:
-- Item
----
-
 # Spellwrought Tattoo, 4th level
 
 **Spellwrought Tattoo, 4th level**

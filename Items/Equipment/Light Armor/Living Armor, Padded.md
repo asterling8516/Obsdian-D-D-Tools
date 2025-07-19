@@ -1,12 +1,3 @@
----
-title: Living Armor, Padded
-icon: ':luggage:'
-aliases: Living Armor, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9kGfRuD7KrwyiSZe
-tags:
-- Item
----
-
 # Living Armor, Padded
 
 **Living Armor, Padded**

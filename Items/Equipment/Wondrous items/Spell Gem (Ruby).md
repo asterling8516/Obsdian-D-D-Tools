@@ -1,12 +1,3 @@
----
-title: Spell Gem (Ruby)
-icon: ':luggage:'
-aliases: Spell Gem (Ruby)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jL2HzmtMduiNPQwh
-tags:
-- Item
----
-
 # Spell Gem (Ruby)
 
 **Spell Gem (Ruby)**

@@ -1,12 +1,3 @@
----
-title: Herbalism Kit
-icon: ':luggage:'
-aliases: Herbalism Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Y60VNrLv7n2ZzrrT
-tags:
-- Item
----
-
 # Herbalism Kit
 
 **Herbalism Kit**

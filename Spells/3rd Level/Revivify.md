@@ -1,12 +1,3 @@
----
-title: Revivify
-icon: ':luggage:'
-aliases: Revivify
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WnoJ5dspqPxlosP6
-tags:
-- Item
----
-
 # Revivify
 
 **Revivify**

@@ -1,12 +1,3 @@
----
-title: Elixir of Health
-icon: ':luggage:'
-aliases: Elixir of Health
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZsOcQKktVXhn3Ftp
-tags:
-- Item
----
-
 # Elixir of Health
 
 **Elixir of Health**

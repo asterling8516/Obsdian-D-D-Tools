@@ -1,12 +1,3 @@
----
-title: Tablet of Reawakening
-icon: ':luggage:'
-aliases: Tablet of Reawakening
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YsmUDOIPLkUe4tg8
-tags:
-- Item
----
-
 # Tablet of Reawakening
 
 **Tablet of Reawakening**

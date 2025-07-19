@@ -1,12 +1,3 @@
----
-title: Hematite
-icon: ':luggage:'
-aliases: Hematite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0UExgJVOKYvYWVue
-tags:
-- Item
----
-
 # Hematite
 
 **Hematite**

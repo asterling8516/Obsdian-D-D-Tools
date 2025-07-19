@@ -1,12 +1,3 @@
----
-title: Horn of Beckoning Death
-icon: ':luggage:'
-aliases: Horn of Beckoning Death
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VuuXV1KuXoe2VoMP
-tags:
-- Item
----
-
 # Horn of Beckoning Death
 
 **Horn of Beckoning Death**

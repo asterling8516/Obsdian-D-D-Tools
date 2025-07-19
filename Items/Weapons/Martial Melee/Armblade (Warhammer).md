@@ -1,12 +1,3 @@
----
-title: Armblade (Warhammer)
-icon: ':luggage:'
-aliases: Armblade (Warhammer)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uRx2RGemVhFeTl4H
-tags:
-- Item
----
-
 # Armblade (Warhammer)
 
 **Armblade (Warhammer)**

@@ -1,12 +1,3 @@
----
-title: Weird Tank
-icon: ':luggage:'
-aliases: Weird Tank
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LYfX0bCitlcx8qSN
-tags:
-- Item
----
-
 # Weird Tank
 
 **Weird Tank**

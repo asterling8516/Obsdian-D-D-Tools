@@ -1,12 +1,3 @@
----
-title: Ring of Feather Falling
-icon: ':luggage:'
-aliases: Ring of Feather Falling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Xy610C1wsMBsnQqt
-tags:
-- Item
----
-
 # Ring of Feather Falling
 
 **Ring of Feather Falling**

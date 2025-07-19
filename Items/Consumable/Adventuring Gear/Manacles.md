@@ -1,12 +1,3 @@
----
-title: Manacles
-icon: ':luggage:'
-aliases: Manacles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CmnTgKoUNH3qDuy4
-tags:
-- Item
----
-
 # Manacles
 
 **Manacles**

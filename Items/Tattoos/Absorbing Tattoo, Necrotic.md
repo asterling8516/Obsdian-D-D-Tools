@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Necrotic
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Necrotic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EihcV57wqW62KX8k
-tags:
-- Item
----
-
 # Absorbing Tattoo, Necrotic
 
 **Absorbing Tattoo, Necrotic**

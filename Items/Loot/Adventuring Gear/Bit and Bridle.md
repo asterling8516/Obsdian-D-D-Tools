@@ -1,12 +1,3 @@
----
-title: Bit and Bridle
-icon: ':luggage:'
-aliases: Bit and Bridle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MIHr6SJQkRnYwDvB
-tags:
-- Item
----
-
 # Bit and Bridle
 
 **Bit and Bridle**

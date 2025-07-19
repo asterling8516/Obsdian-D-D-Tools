@@ -1,12 +1,3 @@
----
-title: Thorn Whip
-icon: ':luggage:'
-aliases: Thorn Whip
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ZHR5aAHkPRTB1bZv
-tags:
-- Item
----
-
 # Thorn Whip
 
 **Thorn Whip**

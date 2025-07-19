@@ -1,12 +1,3 @@
----
-title: Bobbing Lily Pad
-icon: ':luggage:'
-aliases: Bobbing Lily Pad
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Io6088xAaFLfXTu6
-tags:
-- Item
----
-
 # Bobbing Lily Pad
 
 **Bobbing Lily Pad**

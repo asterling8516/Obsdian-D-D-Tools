@@ -1,12 +1,3 @@
----
-title: Flame Tongue Rapier
-icon: ':luggage:'
-aliases: Flame Tongue Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jgM1njKwrv8DG3nX
-tags:
-- Item
----
-
 # Flame Tongue Rapier
 
 **Flame Tongue Rapier**

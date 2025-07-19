@@ -1,12 +1,3 @@
----
-title: Tome of Leadership and Influence
-icon: ':luggage:'
-aliases: Tome of Leadership and Influence
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XUowlAWKh6olUmeD
-tags:
-- Item
----
-
 # Tome of Leadership and Influence
 
 **Tome of Leadership and Influence**

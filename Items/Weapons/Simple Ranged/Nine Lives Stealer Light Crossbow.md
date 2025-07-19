@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Light Crossbow
-icon: ':luggage:'
-aliases: Nine Lives Stealer Light Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.31Q1LMpphpd6pXDD
-tags:
-- Item
----
-
 # Nine Lives Stealer Light Crossbow
 
 **Nine Lives Stealer Light Crossbow**

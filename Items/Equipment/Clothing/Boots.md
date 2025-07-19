@@ -1,12 +1,3 @@
----
-title: Boots
-icon: ':luggage:'
-aliases: Boots
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6ROX7yOR5qMX1YNi
-tags:
-- Item
----
-
 # Boots
 
 **Boots**

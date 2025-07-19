@@ -1,12 +1,3 @@
----
-title: Expeditious Retreat
-icon: ':luggage:'
-aliases: Expeditious Retreat
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KVTY1X2vzVh4YIcI
-tags:
-- Item
----
-
 # Expeditious Retreat
 
 **Expeditious Retreat**

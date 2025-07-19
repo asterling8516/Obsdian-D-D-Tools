@@ -1,12 +1,3 @@
----
-title: Jug or Pitcher
-icon: ':luggage:'
-aliases: Jug or Pitcher
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vymPFKACb3X8Tegg
-tags:
-- Item
----
-
 # Jug or Pitcher
 
 **Jug or Pitcher**

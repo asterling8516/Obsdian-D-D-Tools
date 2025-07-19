@@ -1,12 +1,3 @@
----
-title: Uncommon Glamerweave
-icon: ':luggage:'
-aliases: Uncommon Glamerweave
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tpcpKOHD5bPM4gY5
-tags:
-- Item
----
-
 # Uncommon Glamerweave
 
 **Uncommon Glamerweave**

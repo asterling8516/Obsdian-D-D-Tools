@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Swan Boat)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Swan Boat)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m3apY8hjqnpLkJ11
-tags:
-- Item
----
-
 # Quaal's Feather Token (Swan Boat)
 
 **Quaal's Feather Token (Swan Boat)**

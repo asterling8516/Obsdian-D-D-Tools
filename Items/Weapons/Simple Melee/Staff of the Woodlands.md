@@ -1,12 +1,3 @@
----
-title: Staff of the Woodlands
-icon: ':luggage:'
-aliases: Staff of the Woodlands
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jukpq9Geb4ausdNk
-tags:
-- Item
----
-
 # Staff of the Woodlands
 
 **Staff of the Woodlands**

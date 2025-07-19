@@ -1,12 +1,3 @@
----
-title: Tinker's Tools
-icon: ':luggage:'
-aliases: Tinker's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tLdg6rGr0UxFSJgQ
-tags:
-- Item
----
-
 # Tinker's Tools
 
 **Tinker's Tools**

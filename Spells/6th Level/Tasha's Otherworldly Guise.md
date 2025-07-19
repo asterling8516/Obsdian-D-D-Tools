@@ -1,12 +1,3 @@
----
-title: Tasha's Otherworldly Guise
-icon: ':luggage:'
-aliases: Tasha's Otherworldly Guise
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wqTJLE69HIHCO795
-tags:
-- Item
----
-
 # Tasha's Otherworldly Guise
 
 **Tasha's Otherworldly Guise**

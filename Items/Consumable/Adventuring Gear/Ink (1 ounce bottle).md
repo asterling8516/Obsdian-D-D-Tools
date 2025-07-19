@@ -1,12 +1,3 @@
----
-title: Ink (1 ounce bottle)
-icon: ':luggage:'
-aliases: Ink (1 ounce bottle)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l8jJxbRM4MYw9KEU
-tags:
-- Item
----
-
 # Ink (1 ounce bottle)
 
 **Ink (1 ounce bottle)**

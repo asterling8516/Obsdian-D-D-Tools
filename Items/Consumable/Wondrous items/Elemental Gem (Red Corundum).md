@@ -1,12 +1,3 @@
----
-title: Elemental Gem (Red Corundum)
-icon: ':luggage:'
-aliases: Elemental Gem (Red Corundum)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JavE61jLzLaTYfud
-tags:
-- Item
----
-
 # Elemental Gem (Red Corundum)
 
 **Elemental Gem (Red Corundum)**

@@ -1,12 +1,3 @@
----
-title: Clairvoyance
-icon: ':luggage:'
-aliases: Clairvoyance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rN0swAgjz4UVkjQk
-tags:
-- Item
----
-
 # Clairvoyance
 
 **Clairvoyance**

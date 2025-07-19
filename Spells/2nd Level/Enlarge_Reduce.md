@@ -1,12 +1,3 @@
----
-title: Enlarge/Reduce
-icon: ':luggage:'
-aliases: Enlarge/Reduce
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dSxTpqJ4ruqOq7I8
-tags:
-- Item
----
-
 # Enlarge/Reduce
 
 **Enlarge/Reduce**

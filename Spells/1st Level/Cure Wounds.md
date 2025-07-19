@@ -1,12 +1,3 @@
----
-title: Cure Wounds
-icon: ':luggage:'
-aliases: Cure Wounds
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.BCEgHUCKRmF5Tkgp
-tags:
-- Item
----
-
 # Cure Wounds
 
 **Cure Wounds**

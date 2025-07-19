@@ -1,12 +1,3 @@
----
-title: Hammerhead Ship
-icon: ':luggage:'
-aliases: Hammerhead Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.msq7e7H4ViY20z7B
-tags:
-- Item
----
-
 # Hammerhead Ship
 
 **Hammerhead Ship**

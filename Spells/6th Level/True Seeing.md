@@ -1,12 +1,3 @@
----
-title: True Seeing
-icon: ':luggage:'
-aliases: True Seeing
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.7ALHSHBN0rXHjfd5
-tags:
-- Item
----
-
 # True Seeing
 
 **True Seeing**

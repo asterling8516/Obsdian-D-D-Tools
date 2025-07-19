@@ -1,12 +1,3 @@
----
-title: Cordon of Arrows
-icon: ':luggage:'
-aliases: Cordon of Arrows
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.zcSU2t6ohWsLym6o
-tags:
-- Item
----
-
 # Cordon of Arrows
 
 **Cordon of Arrows**

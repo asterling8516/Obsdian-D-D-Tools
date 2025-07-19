@@ -1,12 +1,3 @@
----
-title: Crossbow, Light of Warning
-icon: ':luggage:'
-aliases: Crossbow, Light of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DRIBF4bxvLgQdLSH
-tags:
-- Item
----
-
 # Crossbow, Light of Warning
 
 **Crossbow, Light of Warning**

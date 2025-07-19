@@ -1,12 +1,3 @@
----
-title: Druid Grove
-icon: ':luggage:'
-aliases: Druid Grove
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qUAgQOyliVk1WoVO
-tags:
-- Item
----
-
 # Druid Grove
 
 **Druid Grove**

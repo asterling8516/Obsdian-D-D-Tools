@@ -1,12 +1,3 @@
----
-title: Major Image
-icon: ':luggage:'
-aliases: Major Image
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QecS7SV9dN7M37G4
-tags:
-- Item
----
-
 # Major Image
 
 **Major Image**

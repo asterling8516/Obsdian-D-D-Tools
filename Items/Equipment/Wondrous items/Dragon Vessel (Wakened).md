@@ -1,12 +1,3 @@
----
-title: Dragon Vessel (Wakened)
-icon: ':luggage:'
-aliases: Dragon Vessel (Wakened)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EQUQWvkvDkXdUGc3
-tags:
-- Item
----
-
 # Dragon Vessel (Wakened)
 
 **Dragon Vessel (Wakened)**

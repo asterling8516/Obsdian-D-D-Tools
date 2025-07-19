@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Yn8gmiZgiLZGLx3W
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Ring Mail
 
 **Armor of Acid Resistance, Ring Mail**

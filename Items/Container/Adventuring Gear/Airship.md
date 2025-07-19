@@ -1,12 +1,3 @@
----
-title: Airship
-icon: ':luggage:'
-aliases: Airship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8rGoRdrRL7AqadH3
-tags:
-- Item
----
-
 # Airship
 
 **Airship**

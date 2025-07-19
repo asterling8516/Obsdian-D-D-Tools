@@ -1,12 +1,3 @@
----
-title: Answerer
-icon: ':luggage:'
-aliases: Answerer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tdSMVOb9SNCl7J5U
-tags:
-- Item
----
-
 # Answerer
 
 **Answerer**

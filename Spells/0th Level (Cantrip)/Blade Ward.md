@@ -1,12 +1,3 @@
----
-title: Blade Ward
-icon: ':luggage:'
-aliases: Blade Ward
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.tO47hcvUJL9KsbZ5
-tags:
-- Item
----
-
 # Blade Ward
 
 **Blade Ward**

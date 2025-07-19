@@ -1,12 +1,3 @@
----
-title: Longbow
-icon: ':luggage:'
-aliases: Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FaZgBoVgzRIab2Ym
-tags:
-- Item
----
-
 # Longbow
 
 **Longbow**

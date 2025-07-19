@@ -1,12 +1,3 @@
----
-title: Shining Smite
-icon: ':luggage:'
-aliases: Shining Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xMtk1QY5rXdugunE
-tags:
-- Item
----
-
 # Shining Smite
 
 **Shining Smite**

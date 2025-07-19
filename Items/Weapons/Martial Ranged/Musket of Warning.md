@@ -1,12 +1,3 @@
----
-title: Musket of Warning
-icon: ':luggage:'
-aliases: Musket of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eX6QO8sLlwEMzWZo
-tags:
-- Item
----
-
 # Musket of Warning
 
 **Musket of Warning**

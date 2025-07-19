@@ -1,12 +1,3 @@
----
-title: Halberd, +1
-icon: ':luggage:'
-aliases: Halberd, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AAT7H93BrmeI2rcH
-tags:
-- Item
----
-
 # Halberd, +1
 
 **Halberd, +1**

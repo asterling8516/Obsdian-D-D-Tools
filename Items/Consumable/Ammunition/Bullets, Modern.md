@@ -1,12 +1,3 @@
----
-title: Bullets, Modern
-icon: ':luggage:'
-aliases: Bullets, Modern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.elWk9GRlGPlDQH6f
-tags:
-- Item
----
-
 # Bullets, Modern
 
 **Bullets, Modern**

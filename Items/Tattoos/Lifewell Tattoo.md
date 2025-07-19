@@ -1,12 +1,3 @@
----
-title: Lifewell Tattoo
-icon: ':luggage:'
-aliases: Lifewell Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.H5B6LaWN1w52evy9
-tags:
-- Item
----
-
 # Lifewell Tattoo
 
 **Lifewell Tattoo**

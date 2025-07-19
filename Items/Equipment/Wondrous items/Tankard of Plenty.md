@@ -1,12 +1,3 @@
----
-title: Tankard of Plenty
-icon: ':luggage:'
-aliases: Tankard of Plenty
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.L7mTkTnEJCPYiRRI
-tags:
-- Item
----
-
 # Tankard of Plenty
 
 **Tankard of Plenty**

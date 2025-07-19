@@ -1,12 +1,3 @@
----
-title: Dyrrn's Tentacle Whip
-icon: ':luggage:'
-aliases: Dyrrn's Tentacle Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YOgIoInHqEnHtGOc
-tags:
-- Item
----
-
 # Dyrrn's Tentacle Whip
 
 **Dyrrn's Tentacle Whip**

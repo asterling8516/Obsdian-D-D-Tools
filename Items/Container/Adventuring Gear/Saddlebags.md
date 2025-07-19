@@ -1,12 +1,3 @@
----
-title: Saddlebags
-icon: ':luggage:'
-aliases: Saddlebags
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NBdwx38bjaQMvVoK
-tags:
-- Item
----
-
 # Saddlebags
 
 **Saddlebags**

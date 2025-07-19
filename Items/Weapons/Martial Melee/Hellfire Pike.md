@@ -1,12 +1,3 @@
----
-title: Hellfire Pike
-icon: ':luggage:'
-aliases: Hellfire Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AQqLsXVwSW1FqthW
-tags:
-- Item
----
-
 # Hellfire Pike
 
 **Hellfire Pike**

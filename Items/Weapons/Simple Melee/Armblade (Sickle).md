@@ -1,12 +1,3 @@
----
-title: Armblade (Sickle)
-icon: ':luggage:'
-aliases: Armblade (Sickle)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KnwCZ9uUp0ffqFD8
-tags:
-- Item
----
-
 # Armblade (Sickle)
 
 **Armblade (Sickle)**

@@ -1,12 +1,3 @@
----
-title: Sling Bullets of Althemone
-icon: ':luggage:'
-aliases: Sling Bullets of Althemone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5ZL9L5yrNhUDK9hS
-tags:
-- Item
----
-
 # Sling Bullets of Althemone
 
 **Sling Bullets of Althemone**

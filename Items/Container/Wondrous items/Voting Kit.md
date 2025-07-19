@@ -1,12 +1,3 @@
----
-title: Voting Kit
-icon: ':luggage:'
-aliases: Voting Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mwzHXcRtSAkIzqiL
-tags:
-- Item
----
-
 # Voting Kit
 
 **Voting Kit**

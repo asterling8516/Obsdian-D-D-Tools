@@ -1,12 +1,3 @@
----
-title: Elder Cartographer's Glossography
-icon: ':luggage:'
-aliases: Elder Cartographer's Glossography
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UHVskPtUp4K5FPO5
-tags:
-- Item
----
-
 # Elder Cartographer's Glossography
 
 **Elder Cartographer's Glossography**

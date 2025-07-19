@@ -1,12 +1,3 @@
----
-title: Magic Missile
-icon: ':luggage:'
-aliases: Magic Missile
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ElisVC3ckwtq8qeU
-tags:
-- Item
----
-
 # Magic Missile
 
 **Magic Missile**

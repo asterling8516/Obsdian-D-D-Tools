@@ -1,12 +1,3 @@
----
-title: Cause Fear
-icon: ':luggage:'
-aliases: Cause Fear
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.pn9oamNjJ4ZkANwk
-tags:
-- Item
----
-
 # Cause Fear
 
 **Cause Fear**

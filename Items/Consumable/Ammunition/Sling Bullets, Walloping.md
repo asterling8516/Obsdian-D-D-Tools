@@ -1,12 +1,3 @@
----
-title: Sling Bullets, Walloping
-icon: ':luggage:'
-aliases: Sling Bullets, Walloping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.X9D3XJLjD2ROKWAm
-tags:
-- Item
----
-
 # Sling Bullets, Walloping
 
 **Sling Bullets, Walloping**

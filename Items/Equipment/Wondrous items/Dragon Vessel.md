@@ -1,12 +1,3 @@
----
-title: Dragon Vessel
-icon: ':luggage:'
-aliases: Dragon Vessel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JvGBpv45SrHw0HgB
-tags:
-- Item
----
-
 # Dragon Vessel
 
 **Dragon Vessel**

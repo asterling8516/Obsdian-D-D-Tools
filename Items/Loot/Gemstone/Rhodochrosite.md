@@ -1,12 +1,3 @@
----
-title: Rhodochrosite
-icon: ':luggage:'
-aliases: Rhodochrosite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vh04SISmdOBFx0m3
-tags:
-- Item
----
-
 # Rhodochrosite
 
 **Rhodochrosite**

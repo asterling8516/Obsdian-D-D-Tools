@@ -1,12 +1,3 @@
----
-title: Giant Slayer Pistol
-icon: ':luggage:'
-aliases: Giant Slayer Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zXo2MVhtkNtFGhi8
-tags:
-- Item
----
-
 # Giant Slayer Pistol
 
 **Giant Slayer Pistol**

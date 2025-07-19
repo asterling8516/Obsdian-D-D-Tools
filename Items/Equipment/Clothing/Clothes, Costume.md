@@ -1,12 +1,3 @@
----
-title: Clothes, Costume
-icon: ':luggage:'
-aliases: Clothes, Costume
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Je7THnow7ItIe4DD
-tags:
-- Item
----
-
 # Clothes, Costume
 
 **Clothes, Costume**

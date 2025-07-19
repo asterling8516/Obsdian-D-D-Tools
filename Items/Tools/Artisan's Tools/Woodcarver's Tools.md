@@ -1,12 +1,3 @@
----
-title: Woodcarver's Tools
-icon: ':luggage:'
-aliases: Woodcarver's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mZSSe6cels8paSpa
-tags:
-- Item
----
-
 # Woodcarver's Tools
 
 **Woodcarver's Tools**

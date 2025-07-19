@@ -1,12 +1,3 @@
----
-title: Staff of Birdcalls
-icon: ':luggage:'
-aliases: Staff of Birdcalls
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.R13QAklERYZneAxI
-tags:
-- Item
----
-
 # Staff of Birdcalls
 
 **Staff of Birdcalls**

@@ -1,12 +1,3 @@
----
-title: Red Dragon Mask
-icon: ':luggage:'
-aliases: Red Dragon Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vt3BCCtf8freRWhE
-tags:
-- Item
----
-
 # Red Dragon Mask
 
 **Red Dragon Mask**

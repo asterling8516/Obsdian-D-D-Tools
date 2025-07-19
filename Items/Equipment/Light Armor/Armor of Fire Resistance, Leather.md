@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Leather
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.P1ahI6ka1sYUA5Sh
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Leather
 
 **Armor of Fire Resistance, Leather**

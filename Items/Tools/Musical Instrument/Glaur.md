@@ -1,12 +1,3 @@
----
-title: Glaur
-icon: ':luggage:'
-aliases: Glaur
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bxQS8s6wpGRHuaJp
-tags:
-- Item
----
-
 # Glaur
 
 **Glaur**

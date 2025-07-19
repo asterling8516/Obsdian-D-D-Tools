@@ -1,12 +1,3 @@
----
-title: Create or Destroy Water
-icon: ':luggage:'
-aliases: Create or Destroy Water
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NNDa3vBNjjtAi3GP
-tags:
-- Item
----
-
 # Create or Destroy Water
 
 **Create or Destroy Water**

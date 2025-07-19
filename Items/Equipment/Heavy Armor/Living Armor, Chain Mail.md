@@ -1,12 +1,3 @@
----
-title: Living Armor, Chain Mail
-icon: ':luggage:'
-aliases: Living Armor, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tbkzVxXzwwxpLDFz
-tags:
-- Item
----
-
 # Living Armor, Chain Mail
 
 **Living Armor, Chain Mail**

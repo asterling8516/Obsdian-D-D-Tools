@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fmsCm7GHiQOtVKKH
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Splint
 
 **Armor of Poison Resistance, Splint**

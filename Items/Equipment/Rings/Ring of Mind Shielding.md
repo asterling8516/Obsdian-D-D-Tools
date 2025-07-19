@@ -1,12 +1,3 @@
----
-title: Ring of Mind Shielding
-icon: ':luggage:'
-aliases: Ring of Mind Shielding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.huBnkSea3OXVyByB
-tags:
-- Item
----
-
 # Ring of Mind Shielding
 
 **Ring of Mind Shielding**

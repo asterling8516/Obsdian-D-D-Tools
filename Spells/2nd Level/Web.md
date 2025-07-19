@@ -1,12 +1,3 @@
----
-title: Web
-icon: ':luggage:'
-aliases: Web
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.DJ4giW1BgAiBo2Tq
-tags:
-- Item
----
-
 # Web
 
 **Web**

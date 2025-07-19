@@ -1,12 +1,3 @@
----
-title: Primordial Ward
-icon: ':luggage:'
-aliases: Primordial Ward
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.PeKCu0763xvFxeIm
-tags:
-- Item
----
-
 # Primordial Ward
 
 **Primordial Ward**

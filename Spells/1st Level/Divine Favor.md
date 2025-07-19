@@ -1,12 +1,3 @@
----
-title: Divine Favor
-icon: ':luggage:'
-aliases: Divine Favor
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.06f049n8m80lwESU
-tags:
-- Item
----
-
 # Divine Favor
 
 **Divine Favor**

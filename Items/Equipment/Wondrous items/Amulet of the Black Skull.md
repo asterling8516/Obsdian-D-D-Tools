@@ -1,12 +1,3 @@
----
-title: Amulet of the Black Skull
-icon: ':luggage:'
-aliases: Amulet of the Black Skull
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1WeZzWKulZDUPaSd
-tags:
-- Item
----
-
 # Amulet of the Black Skull
 
 **Amulet of the Black Skull**

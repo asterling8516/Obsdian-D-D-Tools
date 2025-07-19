@@ -1,12 +1,3 @@
----
-title: Fane-Eater
-icon: ':luggage:'
-aliases: Fane-Eater
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bwR8RlHHUtg03tX9
-tags:
-- Item
----
-
 # Fane-Eater
 
 **Fane-Eater**

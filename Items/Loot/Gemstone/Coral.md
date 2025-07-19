@@ -1,12 +1,3 @@
----
-title: Coral
-icon: ':luggage:'
-aliases: Coral
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qoyoP1kUVdQoPy2C
-tags:
-- Item
----
-
 # Coral
 
 **Coral**

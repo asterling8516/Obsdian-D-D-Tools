@@ -1,12 +1,3 @@
----
-title: Locate Creature
-icon: ':luggage:'
-aliases: Locate Creature
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.t103lMiSjRY0JDtt
-tags:
-- Item
----
-
 # Locate Creature
 
 **Locate Creature**

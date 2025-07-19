@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Leadership
-icon: ':luggage:'
-aliases: Ioun Stone of Leadership
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.33VbjGOznEfVjraZ
-tags:
-- Item
----
-
 # Ioun Stone of Leadership
 
 **Ioun Stone of Leadership**

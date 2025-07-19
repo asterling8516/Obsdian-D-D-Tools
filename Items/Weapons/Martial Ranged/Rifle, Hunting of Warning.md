@@ -1,12 +1,3 @@
----
-title: Rifle, Hunting of Warning
-icon: ':luggage:'
-aliases: Rifle, Hunting of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DL94xTTZ63IaW5oV
-tags:
-- Item
----
-
 # Rifle, Hunting of Warning
 
 **Rifle, Hunting of Warning**

@@ -1,12 +1,3 @@
----
-title: Dragon's Breath
-icon: ':luggage:'
-aliases: Dragon's Breath
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jlpMxmJ5vGYaJKH1
-tags:
-- Item
----
-
 # Dragon's Breath
 
 **Dragon's Breath**

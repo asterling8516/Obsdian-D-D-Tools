@@ -1,12 +1,3 @@
----
-title: Manual of Clay Golems
-icon: ':luggage:'
-aliases: Manual of Clay Golems
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yYa4othDcp3P0JTl
-tags:
-- Item
----
-
 # Manual of Clay Golems
 
 **Manual of Clay Golems**

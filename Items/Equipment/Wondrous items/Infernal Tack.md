@@ -1,12 +1,3 @@
----
-title: Infernal Tack
-icon: ':luggage:'
-aliases: Infernal Tack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Fxwu9ow8CVj5Vh0d
-tags:
-- Item
----
-
 # Infernal Tack
 
 **Infernal Tack**

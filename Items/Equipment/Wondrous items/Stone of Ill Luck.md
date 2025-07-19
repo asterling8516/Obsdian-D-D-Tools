@@ -1,12 +1,3 @@
----
-title: Stone of Ill Luck
-icon: ':luggage:'
-aliases: Stone of Ill Luck
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vjb38Ao4ykqtM4H2
-tags:
-- Item
----
-
 # Stone of Ill Luck
 
 **Stone of Ill Luck**

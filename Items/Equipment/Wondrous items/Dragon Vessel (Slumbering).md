@@ -1,12 +1,3 @@
----
-title: Dragon Vessel (Slumbering)
-icon: ':luggage:'
-aliases: Dragon Vessel (Slumbering)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ChHks5NLwXtNKOsw
-tags:
-- Item
----
-
 # Dragon Vessel (Slumbering)
 
 **Dragon Vessel (Slumbering)**

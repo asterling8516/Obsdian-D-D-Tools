@@ -1,12 +1,3 @@
----
-title: Conjure Fey
-icon: ':luggage:'
-aliases: Conjure Fey
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.UFNjkrzgmbtMGnKA
-tags:
-- Item
----
-
 # Conjure Fey
 
 **Conjure Fey**

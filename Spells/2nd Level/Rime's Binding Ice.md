@@ -1,12 +1,3 @@
----
-title: Rime's Binding Ice
-icon: ':luggage:'
-aliases: Rime's Binding Ice
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YXTsrBIELcbtHHwK
-tags:
-- Item
----
-
 # Rime's Binding Ice
 
 **Rime's Binding Ice**

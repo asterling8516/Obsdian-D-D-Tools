@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Psychic
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Psychic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OOgaCFNFAMHzwIbA
-tags:
-- Item
----
-
 # Absorbing Tattoo, Psychic
 
 **Absorbing Tattoo, Psychic**

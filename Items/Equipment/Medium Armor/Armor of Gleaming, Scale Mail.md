@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Gleaming, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rLBICUTLvLvbvuaH
-tags:
-- Item
----
-
 # Armor of Gleaming, Scale Mail
 
 **Armor of Gleaming, Scale Mail**

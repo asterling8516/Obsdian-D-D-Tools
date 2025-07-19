@@ -1,12 +1,3 @@
----
-title: Rapier of Wounding
-icon: ':luggage:'
-aliases: Rapier of Wounding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rhPTcMjfRLKPtwyr
-tags:
-- Item
----
-
 # Rapier of Wounding
 
 **Rapier of Wounding**

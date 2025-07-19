@@ -1,12 +1,3 @@
----
-title: Onyx
-icon: ':luggage:'
-aliases: Onyx
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ebEzz5GjhxMJBkSU
-tags:
-- Item
----
-
 # Onyx
 
 **Onyx**

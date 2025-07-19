@@ -1,12 +1,3 @@
----
-title: Antimagic Field
-icon: ':luggage:'
-aliases: Antimagic Field
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YIwDgV9hOMINuwCf
-tags:
-- Item
----
-
 # Antimagic Field
 
 **Antimagic Field**

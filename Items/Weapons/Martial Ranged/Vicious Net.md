@@ -1,12 +1,3 @@
----
-title: Vicious Net
-icon: ':luggage:'
-aliases: Vicious Net
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yklKYJeZbTmJdLH3
-tags:
-- Item
----
-
 # Vicious Net
 
 **Vicious Net**

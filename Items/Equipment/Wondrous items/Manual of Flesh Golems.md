@@ -1,12 +1,3 @@
----
-title: Manual of Flesh Golems
-icon: ':luggage:'
-aliases: Manual of Flesh Golems
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8nNgulC8NBfNJFsN
-tags:
-- Item
----
-
 # Manual of Flesh Golems
 
 **Manual of Flesh Golems**

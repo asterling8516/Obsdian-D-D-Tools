@@ -1,12 +1,3 @@
----
-title: Spider Climb
-icon: ':luggage:'
-aliases: Spider Climb
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.s0SIxu95QlrmhZGB
-tags:
-- Item
----
-
 # Spider Climb
 
 **Spider Climb**

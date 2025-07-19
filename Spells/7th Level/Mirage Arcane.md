@@ -1,12 +1,3 @@
----
-title: Mirage Arcane
-icon: ':luggage:'
-aliases: Mirage Arcane
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dosY6gdsmbCb30p5
-tags:
-- Item
----
-
 # Mirage Arcane
 
 **Mirage Arcane**

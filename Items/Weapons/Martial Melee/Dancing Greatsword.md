@@ -1,12 +1,3 @@
----
-title: Dancing Greatsword
-icon: ':luggage:'
-aliases: Dancing Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KquJuvfFbx64VkfC
-tags:
-- Item
----
-
 # Dancing Greatsword
 
 **Dancing Greatsword**

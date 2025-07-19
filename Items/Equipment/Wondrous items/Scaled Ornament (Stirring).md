@@ -1,12 +1,3 @@
----
-title: Scaled Ornament (Stirring)
-icon: ':luggage:'
-aliases: Scaled Ornament (Stirring)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.q18MHzCriOCOgOhl
-tags:
-- Item
----
-
 # Scaled Ornament (Stirring)
 
 **Scaled Ornament (Stirring)**

@@ -1,12 +1,3 @@
----
-title: Potion of Mind Control (Monster)
-icon: ':luggage:'
-aliases: Potion of Mind Control (Monster)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pi5BEyer22T1ikEh
-tags:
-- Item
----
-
 # Potion of Mind Control (Monster)
 
 **Potion of Mind Control (Monster)**

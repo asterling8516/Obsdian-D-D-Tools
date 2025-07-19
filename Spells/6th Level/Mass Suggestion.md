@@ -1,12 +1,3 @@
----
-title: Mass Suggestion
-icon: ':luggage:'
-aliases: Mass Suggestion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.PeFG2TxUzhJxfqrL
-tags:
-- Item
----
-
 # Mass Suggestion
 
 **Mass Suggestion**

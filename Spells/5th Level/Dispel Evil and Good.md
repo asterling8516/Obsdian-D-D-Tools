@@ -1,12 +1,3 @@
----
-title: Dispel Evil and Good
-icon: ':luggage:'
-aliases: Dispel Evil and Good
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rc4383wuq1KCtxVp
-tags:
-- Item
----
-
 # Dispel Evil and Good
 
 **Dispel Evil and Good**

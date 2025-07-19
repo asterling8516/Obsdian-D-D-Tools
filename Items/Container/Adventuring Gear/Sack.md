@@ -1,12 +1,3 @@
----
-title: Sack
-icon: ':luggage:'
-aliases: Sack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OA8OcWaWWHnUM8Ps
-tags:
-- Item
----
-
 # Sack
 
 **Sack**

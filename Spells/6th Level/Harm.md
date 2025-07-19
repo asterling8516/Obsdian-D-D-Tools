@@ -1,12 +1,3 @@
----
-title: Harm
-icon: ':luggage:'
-aliases: Harm
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dOYCvI5xuvRbiss5
-tags:
-- Item
----
-
 # Harm
 
 **Harm**

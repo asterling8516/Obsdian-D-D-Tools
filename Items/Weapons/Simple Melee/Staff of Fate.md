@@ -1,12 +1,3 @@
----
-title: Staff of Fate
-icon: ':luggage:'
-aliases: Staff of Fate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E75pbefV8CdUINMm
-tags:
-- Item
----
-
 # Staff of Fate
 
 **Staff of Fate**

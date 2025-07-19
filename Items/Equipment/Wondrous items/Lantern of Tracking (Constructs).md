@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Constructs)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Constructs)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.blrw1UG7XKu6rPoQ
-tags:
-- Item
----
-
 # Lantern of Tracking (Constructs)
 
 **Lantern of Tracking (Constructs)**

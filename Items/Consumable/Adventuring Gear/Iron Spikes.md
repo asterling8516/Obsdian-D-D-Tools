@@ -1,12 +1,3 @@
----
-title: Iron Spikes
-icon: ':luggage:'
-aliases: Iron Spikes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oqtz0Vy2Hczzj4GU
-tags:
-- Item
----
-
 # Iron Spikes
 
 **Iron Spikes**

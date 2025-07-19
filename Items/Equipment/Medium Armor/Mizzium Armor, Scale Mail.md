@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Scale Mail
-icon: ':luggage:'
-aliases: Mizzium Armor, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VYBXcGeG9tB6Bipc
-tags:
-- Item
----
-
 # Mizzium Armor, Scale Mail
 
 **Mizzium Armor, Scale Mail**

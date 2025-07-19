@@ -1,12 +1,3 @@
----
-title: Imprisonment
-icon: ':luggage:'
-aliases: Imprisonment
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.aUUBjOfexRvJNOR7
-tags:
-- Item
----
-
 # Imprisonment
 
 **Imprisonment**

@@ -1,12 +1,3 @@
----
-title: Calm Emotions
-icon: ':luggage:'
-aliases: Calm Emotions
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.F3jDwkeNCsinawxt
-tags:
-- Item
----
-
 # Calm Emotions
 
 **Calm Emotions**

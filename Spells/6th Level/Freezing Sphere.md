@@ -1,12 +1,3 @@
----
-title: Freezing Sphere
-icon: ':luggage:'
-aliases: Freezing Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.nvxRlBZFWGkgO8eH
-tags:
-- Item
----
-
 # Freezing Sphere
 
 **Freezing Sphere**

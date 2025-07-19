@@ -1,12 +1,3 @@
----
-title: Pyrotechnics
-icon: ':luggage:'
-aliases: Pyrotechnics
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5xllzgmtsxlSHAp5
-tags:
-- Item
----
-
 # Pyrotechnics
 
 **Pyrotechnics**

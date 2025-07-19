@@ -1,12 +1,3 @@
----
-title: Elemental Gem (Blue Sapphire)
-icon: ':luggage:'
-aliases: Elemental Gem (Blue Sapphire)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OyTEcb1VD5EuwnyA
-tags:
-- Item
----
-
 # Elemental Gem (Blue Sapphire)
 
 **Elemental Gem (Blue Sapphire)**

@@ -1,12 +1,3 @@
----
-title: Shard of the Ise Rune
-icon: ':luggage:'
-aliases: Shard of the Ise Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U5PHcLkllkN8HhGd
-tags:
-- Item
----
-
 # Shard of the Ise Rune
 
 **Shard of the Ise Rune**

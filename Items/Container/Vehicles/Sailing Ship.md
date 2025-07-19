@@ -1,12 +1,3 @@
----
-title: Sailing Ship
-icon: ':luggage:'
-aliases: Sailing Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OIl0Za2LqWdS7xLk
-tags:
-- Item
----
-
 # Sailing Ship
 
 **Sailing Ship**

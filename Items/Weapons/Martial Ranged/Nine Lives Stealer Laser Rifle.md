@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Laser Rifle
-icon: ':luggage:'
-aliases: Nine Lives Stealer Laser Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wV74PneUXpPZx6il
-tags:
-- Item
----
-
 # Nine Lives Stealer Laser Rifle
 
 **Nine Lives Stealer Laser Rifle**

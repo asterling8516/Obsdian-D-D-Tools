@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Breastplate
-icon: ':luggage:'
-aliases: Armor of Gleaming, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.griK5tHMvNRyrESq
-tags:
-- Item
----
-
 # Armor of Gleaming, Breastplate
 
 **Armor of Gleaming, Breastplate**

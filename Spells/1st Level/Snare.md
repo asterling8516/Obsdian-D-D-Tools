@@ -1,12 +1,3 @@
----
-title: Snare
-icon: ':luggage:'
-aliases: Snare
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.P2yl27fryQKmJoih
-tags:
-- Item
----
-
 # Snare
 
 **Snare**

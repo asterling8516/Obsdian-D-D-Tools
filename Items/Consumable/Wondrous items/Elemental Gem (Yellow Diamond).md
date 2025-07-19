@@ -1,12 +1,3 @@
----
-title: Elemental Gem (Yellow Diamond)
-icon: ':luggage:'
-aliases: Elemental Gem (Yellow Diamond)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nIrv7dECSGmMCIFr
-tags:
-- Item
----
-
 # Elemental Gem (Yellow Diamond)
 
 **Elemental Gem (Yellow Diamond)**

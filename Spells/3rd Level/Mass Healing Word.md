@@ -1,12 +1,3 @@
----
-title: Mass Healing Word
-icon: ':luggage:'
-aliases: Mass Healing Word
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.u51vNz0tkswcvXRM
-tags:
-- Item
----
-
 # Mass Healing Word
 
 **Mass Healing Word**

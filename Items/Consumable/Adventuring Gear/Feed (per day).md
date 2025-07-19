@@ -1,12 +1,3 @@
----
-title: Feed (per day)
-icon: ':luggage:'
-aliases: Feed (per day)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.V8y85UyHGimeWxb4
-tags:
-- Item
----
-
 # Feed (per day)
 
 **Feed (per day)**

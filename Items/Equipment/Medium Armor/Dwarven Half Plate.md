@@ -1,12 +1,3 @@
----
-title: Dwarven Half Plate
-icon: ':luggage:'
-aliases: Dwarven Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.38fgwOfI7KLjIM7h
-tags:
-- Item
----
-
 # Dwarven Half Plate
 
 **Dwarven Half Plate**

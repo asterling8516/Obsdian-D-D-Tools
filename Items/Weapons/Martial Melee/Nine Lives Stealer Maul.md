@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Maul
-icon: ':luggage:'
-aliases: Nine Lives Stealer Maul
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uJAo6QGsT9PGtffi
-tags:
-- Item
----
-
 # Nine Lives Stealer Maul
 
 **Nine Lives Stealer Maul**

@@ -1,12 +1,3 @@
----
-title: Jasper
-icon: ':luggage:'
-aliases: Jasper
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NZUTjgiP4NiY4h0S
-tags:
-- Item
----
-
 # Jasper
 
 **Jasper**

@@ -1,12 +1,3 @@
----
-title: Eyebite
-icon: ':luggage:'
-aliases: Eyebite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QuhY1vafLcQgmBvo
-tags:
-- Item
----
-
 # Eyebite
 
 **Eyebite**

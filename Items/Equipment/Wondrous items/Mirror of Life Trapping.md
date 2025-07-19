@@ -1,12 +1,3 @@
----
-title: Mirror of Life Trapping
-icon: ':luggage:'
-aliases: Mirror of Life Trapping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kpxIsBPQ3dl3zvgN
-tags:
-- Item
----
-
 # Mirror of Life Trapping
 
 **Mirror of Life Trapping**

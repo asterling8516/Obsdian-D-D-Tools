@@ -1,12 +1,3 @@
----
-title: Arrow-Catching Shield
-icon: ':luggage:'
-aliases: Arrow-Catching Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IByb7AlxXWgq9UnW
-tags:
-- Item
----
-
 # Arrow-Catching Shield
 
 **Arrow-Catching Shield**

@@ -1,12 +1,3 @@
----
-title: Tome of Understanding
-icon: ':luggage:'
-aliases: Tome of Understanding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NPvDOPRMcUsX4cwl
-tags:
-- Item
----
-
 # Tome of Understanding
 
 **Tome of Understanding**

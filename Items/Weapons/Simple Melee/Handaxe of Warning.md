@@ -1,12 +1,3 @@
----
-title: Handaxe of Warning
-icon: ':luggage:'
-aliases: Handaxe of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Re7jXZ7KfzZysLS1
-tags:
-- Item
----
-
 # Handaxe of Warning
 
 **Handaxe of Warning**

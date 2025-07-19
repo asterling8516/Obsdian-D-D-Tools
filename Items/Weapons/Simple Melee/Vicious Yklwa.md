@@ -1,12 +1,3 @@
----
-title: Vicious Yklwa
-icon: ':luggage:'
-aliases: Vicious Yklwa
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qf6tcC8HO08reBz7
-tags:
-- Item
----
-
 # Vicious Yklwa
 
 **Vicious Yklwa**

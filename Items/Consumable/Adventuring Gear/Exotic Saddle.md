@@ -1,12 +1,3 @@
----
-title: Exotic Saddle
-icon: ':luggage:'
-aliases: Exotic Saddle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cIaAqMElcnYlvHJS
-tags:
-- Item
----
-
 # Exotic Saddle
 
 **Exotic Saddle**

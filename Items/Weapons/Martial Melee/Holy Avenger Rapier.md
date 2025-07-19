@@ -1,12 +1,3 @@
----
-title: Holy Avenger Rapier
-icon: ':luggage:'
-aliases: Holy Avenger Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lubfAIyq4n90mJAP
-tags:
-- Item
----
-
 # Holy Avenger Rapier
 
 **Holy Avenger Rapier**

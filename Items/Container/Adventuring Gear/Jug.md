@@ -1,12 +1,3 @@
----
-title: Jug
-icon: ':luggage:'
-aliases: Jug
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zLdhaVkEXvb8Sqhu
-tags:
-- Item
----
-
 # Jug
 
 **Jug**

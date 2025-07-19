@@ -1,12 +1,3 @@
----
-title: Navigator's Tools
-icon: ':luggage:'
-aliases: Navigator's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cOmeMYb8wbEWx0eO
-tags:
-- Item
----
-
 # Navigator's Tools
 
 **Navigator's Tools**

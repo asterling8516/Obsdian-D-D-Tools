@@ -1,12 +1,3 @@
----
-title: Potion of Healing (Supreme)
-icon: ':luggage:'
-aliases: Potion of Healing (Supreme)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nbNVFYrEvIuJRb9Q
-tags:
-- Item
----
-
 # Potion of Healing (Supreme)
 
 **Potion of Healing (Supreme)**

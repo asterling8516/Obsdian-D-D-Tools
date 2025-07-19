@@ -1,12 +1,3 @@
----
-title: Hellfire Musket
-icon: ':luggage:'
-aliases: Hellfire Musket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wsJETcPYwR4lOqxI
-tags:
-- Item
----
-
 # Hellfire Musket
 
 **Hellfire Musket**

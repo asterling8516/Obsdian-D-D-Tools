@@ -1,12 +1,3 @@
----
-title: Energy Cell
-icon: ':luggage:'
-aliases: Energy Cell
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uS5nYIslCGs7ZuEJ
-tags:
-- Item
----
-
 # Energy Cell
 
 **Energy Cell**

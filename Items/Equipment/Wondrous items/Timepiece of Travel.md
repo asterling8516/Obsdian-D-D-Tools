@@ -1,12 +1,3 @@
----
-title: Timepiece of Travel
-icon: ':luggage:'
-aliases: Timepiece of Travel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mE1h0c4iv8KB59Yu
-tags:
-- Item
----
-
 # Timepiece of Travel
 
 **Timepiece of Travel**

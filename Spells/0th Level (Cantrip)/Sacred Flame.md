@@ -1,12 +1,3 @@
----
-title: Sacred Flame
-icon: ':luggage:'
-aliases: Sacred Flame
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.1r15wJJ7vkPfMVSS
-tags:
-- Item
----
-
 # Sacred Flame
 
 **Sacred Flame**

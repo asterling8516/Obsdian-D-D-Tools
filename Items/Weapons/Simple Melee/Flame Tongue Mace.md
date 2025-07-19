@@ -1,12 +1,3 @@
----
-title: Flame Tongue Mace
-icon: ':luggage:'
-aliases: Flame Tongue Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.V8NdTMul08W8CRog
-tags:
-- Item
----
-
 # Flame Tongue Mace
 
 **Flame Tongue Mace**

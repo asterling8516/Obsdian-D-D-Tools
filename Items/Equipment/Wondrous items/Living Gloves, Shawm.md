@@ -1,12 +1,3 @@
----
-title: Living Gloves, Shawm
-icon: ':luggage:'
-aliases: Living Gloves, Shawm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dQVGsXNHDhPoRPFz
-tags:
-- Item
----
-
 # Living Gloves, Shawm
 
 **Living Gloves, Shawm**

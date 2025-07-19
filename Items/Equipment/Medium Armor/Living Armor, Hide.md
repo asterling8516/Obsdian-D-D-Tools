@@ -1,12 +1,3 @@
----
-title: Living Armor, Hide
-icon: ':luggage:'
-aliases: Living Armor, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.G5pW0Rn2VK6epk1j
-tags:
-- Item
----
-
 # Living Armor, Hide
 
 **Living Armor, Hide**

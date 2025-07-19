@@ -1,12 +1,3 @@
----
-title: Detect Evil and Good
-icon: ':luggage:'
-aliases: Detect Evil and Good
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CVLaTtYpmz5WDTm0
-tags:
-- Item
----
-
 # Detect Evil and Good
 
 **Detect Evil and Good**

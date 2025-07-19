@@ -1,12 +1,3 @@
----
-title: Hither-Thither Staff
-icon: ':luggage:'
-aliases: Hither-Thither Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qbC89hmpY5bEvrTO
-tags:
-- Item
----
-
 # Hither-Thither Staff
 
 **Hither-Thither Staff**

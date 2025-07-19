@@ -1,12 +1,3 @@
----
-title: Frost Fingers
-icon: ':luggage:'
-aliases: Frost Fingers
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.aTYi1AucX1yuqKP1
-tags:
-- Item
----
-
 # Frost Fingers
 
 **Frost Fingers**

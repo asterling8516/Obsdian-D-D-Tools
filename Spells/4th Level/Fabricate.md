@@ -1,12 +1,3 @@
----
-title: Fabricate
-icon: ':luggage:'
-aliases: Fabricate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.aKJxGIhxZnOnFPi7
-tags:
-- Item
----
-
 # Fabricate
 
 **Fabricate**

@@ -1,12 +1,3 @@
----
-title: Kyrzin's Ooze
-icon: ':luggage:'
-aliases: Kyrzin's Ooze
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JjwCgzjuNeK87YYI
-tags:
-- Item
----
-
 # Kyrzin's Ooze
 
 **Kyrzin's Ooze**

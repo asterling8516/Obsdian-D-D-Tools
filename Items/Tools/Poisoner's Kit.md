@@ -1,12 +1,3 @@
----
-title: Poisoner's Kit
-icon: ':luggage:'
-aliases: Poisoner's Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.44y8EHUuT20YP0mI
-tags:
-- Item
----
-
 # Poisoner's Kit
 
 **Poisoner's Kit**

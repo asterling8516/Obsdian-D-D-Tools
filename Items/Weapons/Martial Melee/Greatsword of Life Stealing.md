@@ -1,12 +1,3 @@
----
-title: Greatsword of Life Stealing
-icon: ':luggage:'
-aliases: Greatsword of Life Stealing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.C4mBxNZcYKBvXMfC
-tags:
-- Item
----
-
 # Greatsword of Life Stealing
 
 **Greatsword of Life Stealing**

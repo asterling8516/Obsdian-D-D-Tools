@@ -1,12 +1,3 @@
----
-title: Ventilating Lungs
-icon: ':luggage:'
-aliases: Ventilating Lungs
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.byBYzEv7QhHiLMnI
-tags:
-- Item
----
-
 # Ventilating Lungs
 
 **Ventilating Lungs**

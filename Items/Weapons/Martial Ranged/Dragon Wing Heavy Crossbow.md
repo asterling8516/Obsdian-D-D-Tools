@@ -1,12 +1,3 @@
----
-title: Dragon Wing Heavy Crossbow
-icon: ':luggage:'
-aliases: Dragon Wing Heavy Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5ue24NvyCLblYvtY
-tags:
-- Item
----
-
 # Dragon Wing Heavy Crossbow
 
 **Dragon Wing Heavy Crossbow**

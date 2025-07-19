@@ -1,12 +1,3 @@
----
-title: Crossbow, Hand
-icon: ':luggage:'
-aliases: Crossbow, Hand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JCC15adX3Q1Iu1NS
-tags:
-- Item
----
-
 # Crossbow, Hand
 
 **Crossbow, Hand**

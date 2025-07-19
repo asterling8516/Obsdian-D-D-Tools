@@ -1,12 +1,3 @@
----
-title: Holy Aura
-icon: ':luggage:'
-aliases: Holy Aura
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Qo5VwlqnKZICYRzF
-tags:
-- Item
----
-
 # Holy Aura
 
 **Holy Aura**

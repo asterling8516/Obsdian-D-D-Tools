@@ -1,12 +1,3 @@
----
-title: Simic Guild Signet
-icon: ':luggage:'
-aliases: Simic Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uMzLB6gJ8juOgirK
-tags:
-- Item
----
-
 # Simic Guild Signet
 
 **Simic Guild Signet**

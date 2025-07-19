@@ -1,12 +1,3 @@
----
-title: Vicious Musket
-icon: ':luggage:'
-aliases: Vicious Musket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KdELxp1uY7jrly1B
-tags:
-- Item
----
-
 # Vicious Musket
 
 **Vicious Musket**

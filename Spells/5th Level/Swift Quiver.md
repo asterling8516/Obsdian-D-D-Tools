@@ -1,12 +1,3 @@
----
-title: Swift Quiver
-icon: ':luggage:'
-aliases: Swift Quiver
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.YWJGerIIq3JuCpTE
-tags:
-- Item
----
-
 # Swift Quiver
 
 **Swift Quiver**

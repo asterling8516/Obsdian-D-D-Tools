@@ -1,12 +1,3 @@
----
-title: Primal Savagery
-icon: ':luggage:'
-aliases: Primal Savagery
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GrR0T0MGQ6pK8jWR
-tags:
-- Item
----
-
 # Primal Savagery
 
 **Primal Savagery**

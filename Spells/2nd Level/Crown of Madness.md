@@ -1,12 +1,3 @@
----
-title: Crown of Madness
-icon: ':luggage:'
-aliases: Crown of Madness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wh9UbAU22baAYJU1
-tags:
-- Item
----
-
 # Crown of Madness
 
 **Crown of Madness**

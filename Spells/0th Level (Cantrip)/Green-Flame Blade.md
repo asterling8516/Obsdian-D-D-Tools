@@ -1,12 +1,3 @@
----
-title: Green-Flame Blade
-icon: ':luggage:'
-aliases: Green-Flame Blade
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.q6dA9MMj36KCgSwT
-tags:
-- Item
----
-
 # Green-Flame Blade
 
 **Green-Flame Blade**

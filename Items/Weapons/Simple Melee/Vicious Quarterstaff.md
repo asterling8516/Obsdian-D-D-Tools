@@ -1,12 +1,3 @@
----
-title: Vicious Quarterstaff
-icon: ':luggage:'
-aliases: Vicious Quarterstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cPyyeAMhleIOW1AY
-tags:
-- Item
----
-
 # Vicious Quarterstaff
 
 **Vicious Quarterstaff**

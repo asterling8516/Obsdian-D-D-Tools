@@ -1,12 +1,3 @@
----
-title: Iggwilv's Cauldron (Gold)
-icon: ':luggage:'
-aliases: Iggwilv's Cauldron (Gold)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gu9UxyyQOn1gBeuu
-tags:
-- Item
----
-
 # Iggwilv's Cauldron (Gold)
 
 **Iggwilv's Cauldron (Gold)**

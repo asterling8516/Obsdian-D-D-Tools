@@ -1,12 +1,3 @@
----
-title: Bigby's Hand
-icon: ':luggage:'
-aliases: Bigby's Hand
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.7AJFwGeov51ljwZd
-tags:
-- Item
----
-
 # Bigby's Hand
 
 **Bigby's Hand**

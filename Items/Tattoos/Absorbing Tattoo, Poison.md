@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Poison
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yqMN1xKOLHqTwyk7
-tags:
-- Item
----
-
 # Absorbing Tattoo, Poison
 
 **Absorbing Tattoo, Poison**

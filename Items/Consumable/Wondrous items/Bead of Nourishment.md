@@ -1,12 +1,3 @@
----
-title: Bead of Nourishment
-icon: ':luggage:'
-aliases: Bead of Nourishment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xKfvGOW9gdLmeUHX
-tags:
-- Item
----
-
 # Bead of Nourishment
 
 **Bead of Nourishment**

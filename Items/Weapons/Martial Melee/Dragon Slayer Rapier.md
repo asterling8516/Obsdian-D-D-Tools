@@ -1,12 +1,3 @@
----
-title: Dragon Slayer Rapier
-icon: ':luggage:'
-aliases: Dragon Slayer Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7ZKvgLCPfkz4ZwqX
-tags:
-- Item
----
-
 # Dragon Slayer Rapier
 
 **Dragon Slayer Rapier**

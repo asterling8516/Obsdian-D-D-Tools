@@ -1,12 +1,3 @@
----
-title: Gate
-icon: ':luggage:'
-aliases: Gate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.OxBQxVMMC9OzLHCv
-tags:
-- Item
----
-
 # Gate
 
 **Gate**

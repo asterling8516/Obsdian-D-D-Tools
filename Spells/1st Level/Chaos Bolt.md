@@ -1,12 +1,3 @@
----
-title: Chaos Bolt
-icon: ':luggage:'
-aliases: Chaos Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kglyBGRUEuAmFHYq
-tags:
-- Item
----
-
 # Chaos Bolt
 
 **Chaos Bolt**

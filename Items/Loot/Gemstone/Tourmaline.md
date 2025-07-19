@@ -1,12 +1,3 @@
----
-title: Tourmaline
-icon: ':luggage:'
-aliases: Tourmaline
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qlF3NfaK8ahyOv3D
-tags:
-- Item
----
-
 # Tourmaline
 
 **Tourmaline**

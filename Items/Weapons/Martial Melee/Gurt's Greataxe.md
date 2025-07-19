@@ -1,12 +1,3 @@
----
-title: Gurt's Greataxe
-icon: ':luggage:'
-aliases: Gurt's Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iXCZ3WQrtYEV3U7C
-tags:
-- Item
----
-
 # Gurt's Greataxe
 
 **Gurt's Greataxe**

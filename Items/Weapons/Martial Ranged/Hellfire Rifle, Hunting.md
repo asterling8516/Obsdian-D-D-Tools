@@ -1,12 +1,3 @@
----
-title: Hellfire Rifle, Hunting
-icon: ':luggage:'
-aliases: Hellfire Rifle, Hunting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CSO8t6JMLTp7BXzL
-tags:
-- Item
----
-
 # Hellfire Rifle, Hunting
 
 **Hellfire Rifle, Hunting**

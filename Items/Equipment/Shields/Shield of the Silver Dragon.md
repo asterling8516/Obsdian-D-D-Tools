@@ -1,12 +1,3 @@
----
-title: Shield of the Silver Dragon
-icon: ':luggage:'
-aliases: Shield of the Silver Dragon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FYrr6Ph0ht1ePOZq
-tags:
-- Item
----
-
 # Shield of the Silver Dragon
 
 **Shield of the Silver Dragon**

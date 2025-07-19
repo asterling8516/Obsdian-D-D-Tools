@@ -1,12 +1,3 @@
----
-title: Crystalline Chronicle
-icon: ':luggage:'
-aliases: Crystalline Chronicle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.phVvW8IUXN6kzeL8
-tags:
-- Item
----
-
 # Crystalline Chronicle
 
 **Crystalline Chronicle**

@@ -1,12 +1,3 @@
----
-title: Clothes of Mending
-icon: ':luggage:'
-aliases: Clothes of Mending
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d7tHoMoP1rbpdzMs
-tags:
-- Item
----
-
 # Clothes of Mending
 
 **Clothes of Mending**

@@ -1,12 +1,3 @@
----
-title: Net of Warning
-icon: ':luggage:'
-aliases: Net of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qaZzkJzqjkEi897t
-tags:
-- Item
----
-
 # Net of Warning
 
 **Net of Warning**

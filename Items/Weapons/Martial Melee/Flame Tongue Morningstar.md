@@ -1,12 +1,3 @@
----
-title: Flame Tongue Morningstar
-icon: ':luggage:'
-aliases: Flame Tongue Morningstar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hnLXJVUQyrnDYQib
-tags:
-- Item
----
-
 # Flame Tongue Morningstar
 
 **Flame Tongue Morningstar**

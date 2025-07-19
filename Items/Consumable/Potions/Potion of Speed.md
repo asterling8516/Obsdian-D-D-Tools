@@ -1,12 +1,3 @@
----
-title: Potion of Speed
-icon: ':luggage:'
-aliases: Potion of Speed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.33kbCpzoxRViahHx
-tags:
-- Item
----
-
 # Potion of Speed
 
 **Potion of Speed**

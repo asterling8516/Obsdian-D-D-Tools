@@ -1,12 +1,3 @@
----
-title: Create Homunculus
-icon: ':luggage:'
-aliases: Create Homunculus
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Oq6FTDVO9MsyOFn9
-tags:
-- Item
----
-
 # Create Homunculus
 
 **Create Homunculus**

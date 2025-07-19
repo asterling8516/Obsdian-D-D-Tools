@@ -1,12 +1,3 @@
----
-title: Flame Tongue Halberd
-icon: ':luggage:'
-aliases: Flame Tongue Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Us2dOj4TxuuOj6us
-tags:
-- Item
----
-
 # Flame Tongue Halberd
 
 **Flame Tongue Halberd**

@@ -1,12 +1,3 @@
----
-title: Vicious Morningstar
-icon: ':luggage:'
-aliases: Vicious Morningstar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.51vl9DZX6Z0gyZcg
-tags:
-- Item
----
-
 # Vicious Morningstar
 
 **Vicious Morningstar**

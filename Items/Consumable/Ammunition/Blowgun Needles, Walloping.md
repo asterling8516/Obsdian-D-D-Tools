@@ -1,12 +1,3 @@
----
-title: Blowgun Needles, Walloping
-icon: ':luggage:'
-aliases: Blowgun Needles, Walloping
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wErQGRhmzkbvgvEd
-tags:
-- Item
----
-
 # Blowgun Needles, Walloping
 
 **Blowgun Needles, Walloping**

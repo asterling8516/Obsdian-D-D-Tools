@@ -1,12 +1,3 @@
----
-title: Dream of the Blue Veil
-icon: ':luggage:'
-aliases: Dream of the Blue Veil
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ys7qC6Luq34WYt4I
-tags:
-- Item
----
-
 # Dream of the Blue Veil
 
 **Dream of the Blue Veil**

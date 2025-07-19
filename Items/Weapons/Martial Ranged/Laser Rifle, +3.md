@@ -1,12 +1,3 @@
----
-title: Laser Rifle, +3
-icon: ':luggage:'
-aliases: Laser Rifle, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zNSrWwUZh8zEirqx
-tags:
-- Item
----
-
 # Laser Rifle, +3
 
 **Laser Rifle, +3**

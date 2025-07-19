@@ -1,12 +1,3 @@
----
-title: Giant Slayer Revolver
-icon: ':luggage:'
-aliases: Giant Slayer Revolver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.v9vfx5pFqc1pjTev
-tags:
-- Item
----
-
 # Giant Slayer Revolver
 
 **Giant Slayer Revolver**

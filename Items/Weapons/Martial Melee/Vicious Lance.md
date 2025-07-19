@@ -1,12 +1,3 @@
----
-title: Vicious Lance
-icon: ':luggage:'
-aliases: Vicious Lance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fiAmvF85ZZ9crcB1
-tags:
-- Item
----
-
 # Vicious Lance
 
 **Vicious Lance**

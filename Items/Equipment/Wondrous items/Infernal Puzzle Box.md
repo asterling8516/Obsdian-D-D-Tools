@@ -1,12 +1,3 @@
----
-title: Infernal Puzzle Box
-icon: ':luggage:'
-aliases: Infernal Puzzle Box
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WbrO7Z8mdPwttz0p
-tags:
-- Item
----
-
 # Infernal Puzzle Box
 
 **Infernal Puzzle Box**

@@ -1,12 +1,3 @@
----
-title: Blood Fury Tattoo
-icon: ':luggage:'
-aliases: Blood Fury Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U6nDxPx4ws0aNN1v
-tags:
-- Item
----
-
 # Blood Fury Tattoo
 
 **Blood Fury Tattoo**

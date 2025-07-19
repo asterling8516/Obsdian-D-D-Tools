@@ -1,12 +1,3 @@
----
-title: Needles
-icon: ':luggage:'
-aliases: Needles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LrVhYTuqhRHkkISz
-tags:
-- Item
----
-
 # Needles
 
 **Needles**

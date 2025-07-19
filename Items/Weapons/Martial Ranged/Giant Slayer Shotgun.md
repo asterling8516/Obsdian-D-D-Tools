@@ -1,12 +1,3 @@
----
-title: Giant Slayer Shotgun
-icon: ':luggage:'
-aliases: Giant Slayer Shotgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.efpUincWImCYjqpg
-tags:
-- Item
----
-
 # Giant Slayer Shotgun
 
 **Giant Slayer Shotgun**

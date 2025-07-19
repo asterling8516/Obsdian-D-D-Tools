@@ -1,12 +1,3 @@
----
-title: Stone of Controlling Earth Elementals
-icon: ':luggage:'
-aliases: Stone of Controlling Earth Elementals
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5zcPpDq6XfL9LQdR
-tags:
-- Item
----
-
 # Stone of Controlling Earth Elementals
 
 **Stone of Controlling Earth Elementals**

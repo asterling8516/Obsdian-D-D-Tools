@@ -1,12 +1,3 @@
----
-title: Frost Brand Greatsword
-icon: ':luggage:'
-aliases: Frost Brand Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RgIHpUc2kApUIW8b
-tags:
-- Item
----
-
 # Frost Brand Greatsword
 
 **Frost Brand Greatsword**

@@ -1,12 +1,3 @@
----
-title: Oil
-icon: ':luggage:'
-aliases: Oil
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wwoi3HQP7O7sRNyV
-tags:
-- Item
----
-
 # Oil
 
 **Oil**

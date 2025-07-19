@@ -1,12 +1,3 @@
----
-title: Sword of the Paruns
-icon: ':luggage:'
-aliases: Sword of the Paruns
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Fo1RENIBGv7eNdfx
-tags:
-- Item
----
-
 # Sword of the Paruns
 
 **Sword of the Paruns**

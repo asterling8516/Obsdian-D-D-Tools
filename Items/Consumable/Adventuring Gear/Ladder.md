@@ -1,12 +1,3 @@
----
-title: Ladder
-icon: ':luggage:'
-aliases: Ladder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ls61yIx486Le7CAL
-tags:
-- Item
----
-
 # Ladder
 
 **Ladder**

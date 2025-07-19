@@ -1,12 +1,3 @@
----
-title: Living Gloves, Lute
-icon: ':luggage:'
-aliases: Living Gloves, Lute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uYDZIf6wTI8IZNXp
-tags:
-- Item
----
-
 # Living Gloves, Lute
 
 **Living Gloves, Lute**

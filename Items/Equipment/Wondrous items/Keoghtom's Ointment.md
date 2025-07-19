@@ -1,12 +1,3 @@
----
-title: Keoghtom's Ointment
-icon: ':luggage:'
-aliases: Keoghtom's Ointment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cOSZKb3LxmS3ixkv
-tags:
-- Item
----
-
 # Keoghtom's Ointment
 
 **Keoghtom's Ointment**

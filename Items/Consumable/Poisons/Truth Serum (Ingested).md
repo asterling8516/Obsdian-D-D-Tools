@@ -1,12 +1,3 @@
----
-title: Truth Serum (Ingested)
-icon: ':luggage:'
-aliases: Truth Serum (Ingested)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SJRxZf716jFr3r0q
-tags:
-- Item
----
-
 # Truth Serum (Ingested)
 
 **Truth Serum (Ingested)**

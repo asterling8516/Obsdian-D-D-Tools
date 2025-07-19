@@ -1,12 +1,3 @@
----
-title: The Devoted Maiden
-icon: ':luggage:'
-aliases: The Devoted Maiden
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jkdfCAGI4vnRPSjd
-tags:
-- Item
----
-
 # The Devoted Maiden
 
 **The Devoted Maiden**

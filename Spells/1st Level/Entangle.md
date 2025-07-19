@@ -1,12 +1,3 @@
----
-title: Entangle
-icon: ':luggage:'
-aliases: Entangle
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ofA9ajPhS6J3taYU
-tags:
-- Item
----
-
 # Entangle
 
 **Entangle**

@@ -1,12 +1,3 @@
----
-title: Dawnbringer
-icon: ':luggage:'
-aliases: Dawnbringer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DmH9NNLRtJ95Sff0
-tags:
-- Item
----
-
 # Dawnbringer
 
 **Dawnbringer**

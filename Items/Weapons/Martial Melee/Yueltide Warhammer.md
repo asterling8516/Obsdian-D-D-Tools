@@ -1,12 +1,3 @@
----
-title: Yueltide Warhammer
-icon: ':luggage:'
-aliases: Yueltide Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Pbw5C7cade27bU4I
-tags:
-- Item
----
-
 # Yueltide Warhammer
 
 **Yueltide Warhammer**

@@ -1,12 +1,3 @@
----
-title: Moon-Touched Sword, Scimitar
-icon: ':luggage:'
-aliases: Moon-Touched Sword, Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kvlsFRRPLpvx7m84
-tags:
-- Item
----
-
 # Moon-Touched Sword, Scimitar
 
 **Moon-Touched Sword, Scimitar**

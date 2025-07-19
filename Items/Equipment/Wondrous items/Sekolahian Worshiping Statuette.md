@@ -1,12 +1,3 @@
----
-title: Sekolahian Worshiping Statuette
-icon: ':luggage:'
-aliases: Sekolahian Worshiping Statuette
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.o7W71P13LdugpuFE
-tags:
-- Item
----
-
 # Sekolahian Worshiping Statuette
 
 **Sekolahian Worshiping Statuette**

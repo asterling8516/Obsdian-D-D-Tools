@@ -1,12 +1,3 @@
----
-title: Feeblemind
-icon: ':luggage:'
-aliases: Feeblemind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.liK2dCg5PKV8nmhR
-tags:
-- Item
----
-
 # Feeblemind
 
 **Feeblemind**

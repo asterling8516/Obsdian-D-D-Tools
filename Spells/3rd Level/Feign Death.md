@@ -1,12 +1,3 @@
----
-title: Feign Death
-icon: ':luggage:'
-aliases: Feign Death
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GaOwjZyACnm03wA7
-tags:
-- Item
----
-
 # Feign Death
 
 **Feign Death**

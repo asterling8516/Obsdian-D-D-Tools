@@ -1,12 +1,3 @@
----
-title: Efreeti Chain
-icon: ':luggage:'
-aliases: Efreeti Chain
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rlv6lUdxc0EfbYRE
-tags:
-- Item
----
-
 # Efreeti Chain
 
 **Efreeti Chain**

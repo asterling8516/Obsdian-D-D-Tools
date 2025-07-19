@@ -1,12 +1,3 @@
----
-title: Rod of Resurrection
-icon: ':luggage:'
-aliases: Rod of Resurrection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oxQhlPwaqOVvIGIs
-tags:
-- Item
----
-
 # Rod of Resurrection
 
 **Rod of Resurrection**

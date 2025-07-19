@@ -1,12 +1,3 @@
----
-title: Armblade (Whip)
-icon: ':luggage:'
-aliases: Armblade (Whip)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PuhNkEThwS5Fcfjd
-tags:
-- Item
----
-
 # Armblade (Whip)
 
 **Armblade (Whip)**

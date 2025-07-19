@@ -1,12 +1,3 @@
----
-title: Pike of Warning
-icon: ':luggage:'
-aliases: Pike of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xIMx7Wk4q7LOPLAW
-tags:
-- Item
----
-
 # Pike of Warning
 
 **Pike of Warning**

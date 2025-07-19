@@ -1,12 +1,3 @@
----
-title: Giant Slayer Longbow
-icon: ':luggage:'
-aliases: Giant Slayer Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qkBA1qyR6yYwKYbP
-tags:
-- Item
----
-
 # Giant Slayer Longbow
 
 **Giant Slayer Longbow**

@@ -1,12 +1,3 @@
----
-title: Shotgun, +1
-icon: ':luggage:'
-aliases: Shotgun, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BGZ5M2CM9hlsVo46
-tags:
-- Item
----
-
 # Shotgun, +1
 
 **Shotgun, +1**

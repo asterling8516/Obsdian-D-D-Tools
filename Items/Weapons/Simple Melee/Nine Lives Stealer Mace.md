@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Mace
-icon: ':luggage:'
-aliases: Nine Lives Stealer Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Jhd1wldHJTyy1jdq
-tags:
-- Item
----
-
 # Nine Lives Stealer Mace
 
 **Nine Lives Stealer Mace**

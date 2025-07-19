@@ -1,12 +1,3 @@
----
-title: Hellfire Shortsword
-icon: ':luggage:'
-aliases: Hellfire Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aBmscKt6l5lLUzwY
-tags:
-- Item
----
-
 # Hellfire Shortsword
 
 **Hellfire Shortsword**

@@ -1,12 +1,3 @@
----
-title: Simic Keyrune
-icon: ':luggage:'
-aliases: Simic Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ibIXWEhBJh9TFZWe
-tags:
-- Item
----
-
 # Simic Keyrune
 
 **Simic Keyrune**

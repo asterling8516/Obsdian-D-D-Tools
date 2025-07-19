@@ -1,12 +1,3 @@
----
-title: Dynamite (Stick)
-icon: ':luggage:'
-aliases: Dynamite (Stick)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3roFCbjXnc9nRx8g
-tags:
-- Item
----
-
 # Dynamite (Stick)
 
 **Dynamite (Stick)**

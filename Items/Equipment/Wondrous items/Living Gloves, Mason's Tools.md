@@ -1,12 +1,3 @@
----
-title: Living Gloves, Mason's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Mason's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ncVhbegcI7hGAOgW
-tags:
-- Item
----
-
 # Living Gloves, Mason's Tools
 
 **Living Gloves, Mason's Tools**

@@ -1,12 +1,3 @@
----
-title: Thunder Step
-icon: ':luggage:'
-aliases: Thunder Step
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IBcGEtcJKiHctSpB
-tags:
-- Item
----
-
 # Thunder Step
 
 **Thunder Step**

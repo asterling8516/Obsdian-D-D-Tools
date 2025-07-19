@@ -1,12 +1,3 @@
----
-title: Magnifying Glass
-icon: ':luggage:'
-aliases: Magnifying Glass
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LxLMjsyXMqTBu6Ys
-tags:
-- Item
----
-
 # Magnifying Glass
 
 **Magnifying Glass**

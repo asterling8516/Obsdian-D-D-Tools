@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VkpqMpFhQver6vne
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Chain Shirt
 
 **Armor of Acid Resistance, Chain Shirt**

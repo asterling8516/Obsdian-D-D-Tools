@@ -1,12 +1,3 @@
----
-title: Motivational Speech
-icon: ':luggage:'
-aliases: Motivational Speech
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Xvn6gxda99wpoEFm
-tags:
-- Item
----
-
 # Motivational Speech
 
 **Motivational Speech**

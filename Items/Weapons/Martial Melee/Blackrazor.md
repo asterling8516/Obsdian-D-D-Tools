@@ -1,12 +1,3 @@
----
-title: Blackrazor
-icon: ':luggage:'
-aliases: Blackrazor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7X2nxROtnlAMytyJ
-tags:
-- Item
----
-
 # Blackrazor
 
 **Blackrazor**

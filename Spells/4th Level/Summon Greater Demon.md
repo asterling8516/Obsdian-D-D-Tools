@@ -1,12 +1,3 @@
----
-title: Summon Greater Demon
-icon: ':luggage:'
-aliases: Summon Greater Demon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.2BByPiwNDBm10DC6
-tags:
-- Item
----
-
 # Summon Greater Demon
 
 **Summon Greater Demon**

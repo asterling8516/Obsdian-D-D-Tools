@@ -1,12 +1,3 @@
----
-title: Dagger of Blindsight
-icon: ':luggage:'
-aliases: Dagger of Blindsight
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2CtuiOsQZsHFfyqs
-tags:
-- Item
----
-
 # Dagger of Blindsight
 
 **Dagger of Blindsight**

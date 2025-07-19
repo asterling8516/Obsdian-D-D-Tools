@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Morningstar
-icon: ':luggage:'
-aliases: Nine Lives Stealer Morningstar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iU00Ak9lkjWOgWpG
-tags:
-- Item
----
-
 # Nine Lives Stealer Morningstar
 
 **Nine Lives Stealer Morningstar**

@@ -1,12 +1,3 @@
----
-title: Khrusor, Spear of Heliod
-icon: ':luggage:'
-aliases: Khrusor, Spear of Heliod
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vgF92vcCqj09J2pG
-tags:
-- Item
----
-
 # Khrusor, Spear of Heliod
 
 **Khrusor, Spear of Heliod**

@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Lightning
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Lightning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wQF1mhxcjk1cVuQj
-tags:
-- Item
----
-
 # Absorbing Tattoo, Lightning
 
 **Absorbing Tattoo, Lightning**

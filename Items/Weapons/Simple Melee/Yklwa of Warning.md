@@ -1,12 +1,3 @@
----
-title: Yklwa of Warning
-icon: ':luggage:'
-aliases: Yklwa of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lPWVC2O6xbVf0GpM
-tags:
-- Item
----
-
 # Yklwa of Warning
 
 **Yklwa of Warning**

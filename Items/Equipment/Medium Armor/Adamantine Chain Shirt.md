@@ -1,12 +1,3 @@
----
-title: Adamantine Chain Shirt
-icon: ':luggage:'
-aliases: Adamantine Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KpcUvIZ2s4Htuch3
-tags:
-- Item
----
-
 # Adamantine Chain Shirt
 
 **Adamantine Chain Shirt**

@@ -1,12 +1,3 @@
----
-title: Rod of Rulership
-icon: ':luggage:'
-aliases: Rod of Rulership
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oV06X20IXPJ2xiUM
-tags:
-- Item
----
-
 # Rod of Rulership
 
 **Rod of Rulership**

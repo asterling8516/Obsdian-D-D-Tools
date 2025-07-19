@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Handaxe
-icon: ':luggage:'
-aliases: Nine Lives Stealer Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mVxZM6ZtO2fttIh8
-tags:
-- Item
----
-
 # Nine Lives Stealer Handaxe
 
 **Nine Lives Stealer Handaxe**

@@ -1,12 +1,3 @@
----
-title: Enemies Abound
-icon: ':luggage:'
-aliases: Enemies Abound
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ZgJldtpYEJ1XSCa6
-tags:
-- Item
----
-
 # Enemies Abound
 
 **Enemies Abound**

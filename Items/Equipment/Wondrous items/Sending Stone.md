@@ -1,12 +1,3 @@
----
-title: Sending Stone
-icon: ':luggage:'
-aliases: Sending Stone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lKmLXrR4KExfv0kd
-tags:
-- Item
----
-
 # Sending Stone
 
 **Sending Stone**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Flail
-icon: ':luggage:'
-aliases: Nine Lives Stealer Flail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XWh4RCf5OkhgQyvK
-tags:
-- Item
----
-
 # Nine Lives Stealer Flail
 
 **Nine Lives Stealer Flail**

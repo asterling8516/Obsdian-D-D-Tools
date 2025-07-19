@@ -1,12 +1,3 @@
----
-title: Sealing Wax
-icon: ':luggage:'
-aliases: Sealing Wax
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5Er7b98VQg37reFA
-tags:
-- Item
----
-
 # Sealing Wax
 
 **Sealing Wax**

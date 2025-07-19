@@ -1,12 +1,3 @@
----
-title: Vicious Laser Rifle
-icon: ':luggage:'
-aliases: Vicious Laser Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NuPDdA2YeHS4qIDN
-tags:
-- Item
----
-
 # Vicious Laser Rifle
 
 **Vicious Laser Rifle**

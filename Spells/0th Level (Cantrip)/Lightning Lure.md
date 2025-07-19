@@ -1,12 +1,3 @@
----
-title: Lightning Lure
-icon: ':luggage:'
-aliases: Lightning Lure
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.fYPKIIRg29Xzfr7N
-tags:
-- Item
----
-
 # Lightning Lure
 
 **Lightning Lure**

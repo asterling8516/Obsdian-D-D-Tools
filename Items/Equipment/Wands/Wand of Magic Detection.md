@@ -1,12 +1,3 @@
----
-title: Wand of Magic Detection
-icon: ':luggage:'
-aliases: Wand of Magic Detection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pmvjlxPDRRjbzJPd
-tags:
-- Item
----
-
 # Wand of Magic Detection
 
 **Wand of Magic Detection**

@@ -1,12 +1,3 @@
----
-title: Whip, +1
-icon: ':luggage:'
-aliases: Whip, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RVJFFKsPA8NOP4SY
-tags:
-- Item
----
-
 # Whip, +1
 
 **Whip, +1**

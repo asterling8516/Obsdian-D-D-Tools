@@ -1,12 +1,3 @@
----
-title: Bomb
-icon: ':luggage:'
-aliases: Bomb
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QT8AgWnNyWFZ0cW3
-tags:
-- Item
----
-
 # Bomb
 
 **Bomb**

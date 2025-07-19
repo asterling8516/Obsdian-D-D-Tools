@@ -1,12 +1,3 @@
----
-title: Niko's Mace
-icon: ':luggage:'
-aliases: Niko's Mace
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.86EMTPMcsDUmKwOC
-tags:
-- Item
----
-
 # Niko's Mace
 
 **Niko's Mace**

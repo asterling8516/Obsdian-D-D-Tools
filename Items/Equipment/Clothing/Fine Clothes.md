@@ -1,12 +1,3 @@
----
-title: Fine Clothes
-icon: ':luggage:'
-aliases: Fine Clothes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GBYFQaaN6XmW9FfP
-tags:
-- Item
----
-
 # Fine Clothes
 
 **Fine Clothes**

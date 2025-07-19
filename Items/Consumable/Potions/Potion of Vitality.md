@@ -1,12 +1,3 @@
----
-title: Potion of Vitality
-icon: ':luggage:'
-aliases: Potion of Vitality
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i8JvPjMVJnZw3xzn
-tags:
-- Item
----
-
 # Potion of Vitality
 
 **Potion of Vitality**

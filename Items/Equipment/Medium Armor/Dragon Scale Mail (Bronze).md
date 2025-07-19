@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Bronze)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Bronze)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QmkrHV2U19Eqo60S
-tags:
-- Item
----
-
 # Dragon Scale Mail (Bronze)
 
 **Dragon Scale Mail (Bronze)**

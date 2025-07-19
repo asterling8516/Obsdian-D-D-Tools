@@ -1,12 +1,3 @@
----
-title: Scholar's Pack
-icon: ':luggage:'
-aliases: Scholar's Pack
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NqPbTul4tMANNqac
-tags:
-- Item
----
-
 # Scholar's Pack
 
 **Scholar's Pack**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Longbow
-icon: ':luggage:'
-aliases: Nine Lives Stealer Longbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aFxUXBQKvQujDddF
-tags:
-- Item
----
-
 # Nine Lives Stealer Longbow
 
 **Nine Lives Stealer Longbow**

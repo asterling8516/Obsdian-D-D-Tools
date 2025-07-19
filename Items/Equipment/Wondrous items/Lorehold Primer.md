@@ -1,12 +1,3 @@
----
-title: Lorehold Primer
-icon: ':luggage:'
-aliases: Lorehold Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Vfkkd10wtS2UyVSi
-tags:
-- Item
----
-
 # Lorehold Primer
 
 **Lorehold Primer**

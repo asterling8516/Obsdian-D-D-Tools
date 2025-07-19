@@ -1,12 +1,3 @@
----
-title: Grasping Vine
-icon: ':luggage:'
-aliases: Grasping Vine
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ZB9bMOUKNBaxvYJk
-tags:
-- Item
----
-
 # Grasping Vine
 
 **Grasping Vine**

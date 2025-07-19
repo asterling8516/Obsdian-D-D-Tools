@@ -1,12 +1,3 @@
----
-title: White Ghost Orchid Seed
-icon: ':luggage:'
-aliases: White Ghost Orchid Seed
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pUQ1vmfcX0sVvXgf
-tags:
-- Item
----
-
 # White Ghost Orchid Seed
 
 **White Ghost Orchid Seed**

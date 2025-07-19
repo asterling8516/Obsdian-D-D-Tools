@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Hide
-icon: ':luggage:'
-aliases: Cast-Off Armor, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nD9atZbhaRHDlytl
-tags:
-- Item
----
-
 # Cast-Off Armor, Hide
 
 **Cast-Off Armor, Hide**

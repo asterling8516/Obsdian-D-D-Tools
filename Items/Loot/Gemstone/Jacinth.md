@@ -1,12 +1,3 @@
----
-title: Jacinth
-icon: ':luggage:'
-aliases: Jacinth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XF2PRlBIwA2x9Vqo
-tags:
-- Item
----
-
 # Jacinth
 
 **Jacinth**

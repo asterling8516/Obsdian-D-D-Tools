@@ -1,12 +1,3 @@
----
-title: Holy Avenger Longsword
-icon: ':luggage:'
-aliases: Holy Avenger Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YA1Tymwepc3ZhQV0
-tags:
-- Item
----
-
 # Holy Avenger Longsword
 
 **Holy Avenger Longsword**

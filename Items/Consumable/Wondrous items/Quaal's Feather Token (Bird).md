@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Bird)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Bird)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eXKDRROkX7qL8c4t
-tags:
-- Item
----
-
 # Quaal's Feather Token (Bird)
 
 **Quaal's Feather Token (Bird)**

@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Absorption
-icon: ':luggage:'
-aliases: Ioun Stone of Absorption
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mofojpQzDLGzibE5
-tags:
-- Item
----
-
 # Ioun Stone of Absorption
 
 **Ioun Stone of Absorption**

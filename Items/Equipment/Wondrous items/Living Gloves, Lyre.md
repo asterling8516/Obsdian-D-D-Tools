@@ -1,12 +1,3 @@
----
-title: Living Gloves, Lyre
-icon: ':luggage:'
-aliases: Living Gloves, Lyre
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gqz2gG1O5NbzKmQ4
-tags:
-- Item
----
-
 # Living Gloves, Lyre
 
 **Living Gloves, Lyre**

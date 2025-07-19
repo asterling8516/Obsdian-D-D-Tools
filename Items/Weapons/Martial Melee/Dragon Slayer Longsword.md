@@ -1,12 +1,3 @@
----
-title: Dragon Slayer Longsword
-icon: ':luggage:'
-aliases: Dragon Slayer Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.B9fq7b6xmphea9jp
-tags:
-- Item
----
-
 # Dragon Slayer Longsword
 
 **Dragon Slayer Longsword**

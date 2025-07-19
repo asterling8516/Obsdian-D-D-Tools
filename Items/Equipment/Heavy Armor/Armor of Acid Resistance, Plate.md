@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Lklq00NOyetA6PBt
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Plate
 
 **Armor of Acid Resistance, Plate**

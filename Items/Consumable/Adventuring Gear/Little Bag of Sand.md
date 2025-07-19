@@ -1,12 +1,3 @@
----
-title: Little Bag of Sand
-icon: ':luggage:'
-aliases: Little Bag of Sand
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ja6aUOQ3dhQPyknJ
-tags:
-- Item
----
-
 # Little Bag of Sand
 
 **Little Bag of Sand**

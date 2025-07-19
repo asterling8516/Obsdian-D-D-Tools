@@ -1,12 +1,3 @@
----
-title: Pole
-icon: ':luggage:'
-aliases: Pole
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wEfnrc1SL6fHOqz3
-tags:
-- Item
----
-
 # Pole
 
 **Pole**

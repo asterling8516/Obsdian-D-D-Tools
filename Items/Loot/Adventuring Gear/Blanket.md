@@ -1,12 +1,3 @@
----
-title: Blanket
-icon: ':luggage:'
-aliases: Blanket
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LbXme6NgJPHLlfEB
-tags:
-- Item
----
-
 # Blanket
 
 **Blanket**

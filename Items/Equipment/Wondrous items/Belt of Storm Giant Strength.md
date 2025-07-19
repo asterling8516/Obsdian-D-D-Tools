@@ -1,12 +1,3 @@
----
-title: Belt of Storm Giant Strength
-icon: ':luggage:'
-aliases: Belt of Storm Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZYwWYY3Q2dq7TEKV
-tags:
-- Item
----
-
 # Belt of Storm Giant Strength
 
 **Belt of Storm Giant Strength**

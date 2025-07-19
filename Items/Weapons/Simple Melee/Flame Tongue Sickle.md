@@ -1,12 +1,3 @@
----
-title: Flame Tongue Sickle
-icon: ':luggage:'
-aliases: Flame Tongue Sickle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TKcQuQqTcUutBU1G
-tags:
-- Item
----
-
 # Flame Tongue Sickle
 
 **Flame Tongue Sickle**

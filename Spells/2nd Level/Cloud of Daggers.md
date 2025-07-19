@@ -1,12 +1,3 @@
----
-title: Cloud of Daggers
-icon: ':luggage:'
-aliases: Cloud of Daggers
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.mKtYwUSMkss1RjUC
-tags:
-- Item
----
-
 # Cloud of Daggers
 
 **Cloud of Daggers**

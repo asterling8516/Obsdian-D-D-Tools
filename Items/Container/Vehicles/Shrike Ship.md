@@ -1,12 +1,3 @@
----
-title: Shrike Ship
-icon: ':luggage:'
-aliases: Shrike Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yKTQmc8uc7Ekx6gN
-tags:
-- Item
----
-
 # Shrike Ship
 
 **Shrike Ship**

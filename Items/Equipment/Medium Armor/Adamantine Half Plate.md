@@ -1,12 +1,3 @@
----
-title: Adamantine Half Plate
-icon: ':luggage:'
-aliases: Adamantine Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.96zoKxYoJThPJMFB
-tags:
-- Item
----
-
 # Adamantine Half Plate
 
 **Adamantine Half Plate**

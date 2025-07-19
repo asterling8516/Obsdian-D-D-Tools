@@ -1,12 +1,3 @@
----
-title: Vicious Pike
-icon: ':luggage:'
-aliases: Vicious Pike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LMdr39YMlO9QJsV2
-tags:
-- Item
----
-
 # Vicious Pike
 
 **Vicious Pike**

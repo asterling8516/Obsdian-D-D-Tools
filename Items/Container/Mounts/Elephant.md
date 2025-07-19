@@ -1,12 +1,3 @@
----
-title: Elephant
-icon: ':luggage:'
-aliases: Elephant
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AFmmq7rhxHfMoQow
-tags:
-- Item
----
-
 # Elephant
 
 **Elephant**

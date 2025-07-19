@@ -1,12 +1,3 @@
----
-title: Berserker Greataxe
-icon: ':luggage:'
-aliases: Berserker Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5qasrdcV6Hwoo4Go
-tags:
-- Item
----
-
 # Berserker Greataxe
 
 **Berserker Greataxe**

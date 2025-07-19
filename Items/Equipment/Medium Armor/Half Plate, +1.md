@@ -1,12 +1,3 @@
----
-title: Half Plate, +1
-icon: ':luggage:'
-aliases: Half Plate, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QnPmeTxjsfRM1LsP
-tags:
-- Item
----
-
 # Half Plate, +1
 
 **Half Plate, +1**

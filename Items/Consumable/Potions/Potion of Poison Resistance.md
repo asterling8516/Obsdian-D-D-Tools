@@ -1,12 +1,3 @@
----
-title: Potion of Poison Resistance
-icon: ':luggage:'
-aliases: Potion of Poison Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Adjp1sHqVwOeDCa8
-tags:
-- Item
----
-
 # Potion of Poison Resistance
 
 **Potion of Poison Resistance**

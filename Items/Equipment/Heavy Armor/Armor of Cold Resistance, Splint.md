@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6YPMrRJn417NBDax
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Splint
 
 **Armor of Cold Resistance, Splint**

@@ -1,12 +1,3 @@
----
-title: Hand of Vecna
-icon: ':luggage:'
-aliases: Hand of Vecna
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0Phx9vtmtw48nrTc
-tags:
-- Item
----
-
 # Hand of Vecna
 
 **Hand of Vecna**

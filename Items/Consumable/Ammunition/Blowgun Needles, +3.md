@@ -1,12 +1,3 @@
----
-title: Blowgun Needles, +3
-icon: ':luggage:'
-aliases: Blowgun Needles, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LIL7M2jw0Uq5Pa8I
-tags:
-- Item
----
-
 # Blowgun Needles, +3
 
 **Blowgun Needles, +3**

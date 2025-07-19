@@ -1,12 +1,3 @@
----
-title: Wand of Fear
-icon: ':luggage:'
-aliases: Wand of Fear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EzGU3TDVKcMvMnsl
-tags:
-- Item
----
-
 # Wand of Fear
 
 **Wand of Fear**

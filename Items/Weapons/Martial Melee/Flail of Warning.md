@@ -1,12 +1,3 @@
----
-title: Flail of Warning
-icon: ':luggage:'
-aliases: Flail of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lXawy0NhUKJnBdXB
-tags:
-- Item
----
-
 # Flail of Warning
 
 **Flail of Warning**

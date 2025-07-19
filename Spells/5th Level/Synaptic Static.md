@@ -1,12 +1,3 @@
----
-title: Synaptic Static
-icon: ':luggage:'
-aliases: Synaptic Static
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Df6h5e6H52I7ASB0
-tags:
-- Item
----
-
 # Synaptic Static
 
 **Synaptic Static**

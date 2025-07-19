@@ -1,12 +1,3 @@
----
-title: Saddle, Military
-icon: ':luggage:'
-aliases: Saddle, Military
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.I8UAsZYTW1wE5y2w
-tags:
-- Item
----
-
 # Saddle, Military
 
 **Saddle, Military**

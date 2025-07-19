@@ -1,12 +1,3 @@
----
-title: Forgery Kit
-icon: ':luggage:'
-aliases: Forgery Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.snVGDj6QBdUsWljq
-tags:
-- Item
----
-
 # Forgery Kit
 
 **Forgery Kit**

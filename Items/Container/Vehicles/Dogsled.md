@@ -1,12 +1,3 @@
----
-title: Dogsled
-icon: ':luggage:'
-aliases: Dogsled
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.a06MfZoaXuUMVgIq
-tags:
-- Item
----
-
 # Dogsled
 
 **Dogsled**

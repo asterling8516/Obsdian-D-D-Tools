@@ -1,12 +1,3 @@
----
-title: Banishment
-icon: ':luggage:'
-aliases: Banishment
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.00R8ZKhFWTqniIf3
-tags:
-- Item
----
-
 # Banishment
 
 **Banishment**

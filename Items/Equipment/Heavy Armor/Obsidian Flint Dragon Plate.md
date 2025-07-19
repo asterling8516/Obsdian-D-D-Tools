@@ -1,12 +1,3 @@
----
-title: Obsidian Flint Dragon Plate
-icon: ':luggage:'
-aliases: Obsidian Flint Dragon Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.M5Gt30Ypc1NtPTMj
-tags:
-- Item
----
-
 # Obsidian Flint Dragon Plate
 
 **Obsidian Flint Dragon Plate**

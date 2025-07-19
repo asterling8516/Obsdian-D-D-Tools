@@ -1,12 +1,3 @@
----
-title: Crusader's Shortsword
-icon: ':luggage:'
-aliases: Crusader's Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qeNQJZol7DP9Wn3k
-tags:
-- Item
----
-
 # Crusader's Shortsword
 
 **Crusader's Shortsword**

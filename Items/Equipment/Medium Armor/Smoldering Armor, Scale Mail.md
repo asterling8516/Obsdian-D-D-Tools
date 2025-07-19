@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Scale Mail
-icon: ':luggage:'
-aliases: Smoldering Armor, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wSZqQi45rZ7fpttD
-tags:
-- Item
----
-
 # Smoldering Armor, Scale Mail
 
 **Smoldering Armor, Scale Mail**

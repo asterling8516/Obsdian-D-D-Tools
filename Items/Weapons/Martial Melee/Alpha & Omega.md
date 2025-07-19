@@ -1,12 +1,3 @@
----
-title: Alpha & Omega
-icon: ':luggage:'
-aliases: Alpha & Omega
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MuMLkZZHmAnQPQJb
-tags:
-- Item
----
-
 # Alpha & Omega
 
 **Alpha & Omega**

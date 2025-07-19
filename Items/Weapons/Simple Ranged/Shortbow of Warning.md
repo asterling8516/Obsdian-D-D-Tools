@@ -1,12 +1,3 @@
----
-title: Shortbow of Warning
-icon: ':luggage:'
-aliases: Shortbow of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CtjjPibIdfiWL9Jm
-tags:
-- Item
----
-
 # Shortbow of Warning
 
 **Shortbow of Warning**

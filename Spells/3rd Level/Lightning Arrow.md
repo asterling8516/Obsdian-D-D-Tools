@@ -1,12 +1,3 @@
----
-title: Lightning Arrow
-icon: ':luggage:'
-aliases: Lightning Arrow
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.KiYCkdM8xmXN4Z95
-tags:
-- Item
----
-
 # Lightning Arrow
 
 **Lightning Arrow**

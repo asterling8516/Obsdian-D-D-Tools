@@ -1,12 +1,3 @@
----
-title: Studded Leather, +1
-icon: ':luggage:'
-aliases: Studded Leather, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DwxkJZ9JifLvzIGV
-tags:
-- Item
----
-
 # Studded Leather, +1
 
 **Studded Leather, +1**

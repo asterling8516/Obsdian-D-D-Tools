@@ -1,12 +1,3 @@
----
-title: Rifle, Hunting, +1
-icon: ':luggage:'
-aliases: Rifle, Hunting, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aNY6iqTlX2F20CNh
-tags:
-- Item
----
-
 # Rifle, Hunting, +1
 
 **Rifle, Hunting, +1**

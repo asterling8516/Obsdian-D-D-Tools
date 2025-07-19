@@ -1,12 +1,3 @@
----
-title: Living Gloves, Flute
-icon: ':luggage:'
-aliases: Living Gloves, Flute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RNEK3tWW50IC7PY4
-tags:
-- Item
----
-
 # Living Gloves, Flute
 
 **Living Gloves, Flute**

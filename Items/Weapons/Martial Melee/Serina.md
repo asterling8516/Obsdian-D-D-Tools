@@ -1,12 +1,3 @@
----
-title: Serina
-icon: ':luggage:'
-aliases: Serina
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rTrMFHLi1eFWOEB1
-tags:
-- Item
----
-
 # Serina
 
 **Serina**

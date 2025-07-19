@@ -1,12 +1,3 @@
----
-title: Acid
-icon: ':luggage:'
-aliases: Acid
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SPlikAn6uDYeJtgy
-tags:
-- Item
----
-
 # Acid
 
 **Acid**

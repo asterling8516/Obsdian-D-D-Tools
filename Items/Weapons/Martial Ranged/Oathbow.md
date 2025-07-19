@@ -1,12 +1,3 @@
----
-title: Oathbow
-icon: ':luggage:'
-aliases: Oathbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lgpFWDwqbRpBHDjC
-tags:
-- Item
----
-
 # Oathbow
 
 **Oathbow**

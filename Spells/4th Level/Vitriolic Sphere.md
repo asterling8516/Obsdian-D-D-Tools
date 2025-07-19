@@ -1,12 +1,3 @@
----
-title: Vitriolic Sphere
-icon: ':luggage:'
-aliases: Vitriolic Sphere
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6Qk5VuEmVf4MCVJu
-tags:
-- Item
----
-
 # Vitriolic Sphere
 
 **Vitriolic Sphere**

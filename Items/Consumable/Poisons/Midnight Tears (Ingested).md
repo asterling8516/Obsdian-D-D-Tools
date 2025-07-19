@@ -1,12 +1,3 @@
----
-title: Midnight Tears (Ingested)
-icon: ':luggage:'
-aliases: Midnight Tears (Ingested)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dOUdt4EWJ8HCyk5E
-tags:
-- Item
----
-
 # Midnight Tears (Ingested)
 
 **Midnight Tears (Ingested)**

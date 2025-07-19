@@ -1,12 +1,3 @@
----
-title: Cloak of Arachnida
-icon: ':luggage:'
-aliases: Cloak of Arachnida
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JF6QWwka9KOZ662I
-tags:
-- Item
----
-
 # Cloak of Arachnida
 
 **Cloak of Arachnida**

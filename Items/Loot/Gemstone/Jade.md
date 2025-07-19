@@ -1,12 +1,3 @@
----
-title: Jade
-icon: ':luggage:'
-aliases: Jade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.52xgelOQZcaZG53L
-tags:
-- Item
----
-
 # Jade
 
 **Jade**

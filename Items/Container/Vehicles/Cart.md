@@ -1,12 +1,3 @@
----
-title: Cart
-icon: ':luggage:'
-aliases: Cart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eQ9bAqcuCgMNwHbH
-tags:
-- Item
----
-
 # Cart
 
 **Cart**

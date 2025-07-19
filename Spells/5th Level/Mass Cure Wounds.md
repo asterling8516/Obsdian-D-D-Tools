@@ -1,12 +1,3 @@
----
-title: Mass Cure Wounds
-icon: ':luggage:'
-aliases: Mass Cure Wounds
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.hQfngLVSFMhxU2Gs
-tags:
-- Item
----
-
 # Mass Cure Wounds
 
 **Mass Cure Wounds**

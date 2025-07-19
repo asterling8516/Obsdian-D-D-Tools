@@ -1,12 +1,3 @@
----
-title: Skywrite
-icon: ':luggage:'
-aliases: Skywrite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wKIzq4SNV8O0AVDK
-tags:
-- Item
----
-
 # Skywrite
 
 **Skywrite**

@@ -1,12 +1,3 @@
----
-title: Rope of Tricks
-icon: ':luggage:'
-aliases: Rope of Tricks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E6GoL6tByna52uqb
-tags:
-- Item
----
-
 # Rope of Tricks
 
 **Rope of Tricks**

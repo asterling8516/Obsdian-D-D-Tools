@@ -1,12 +1,3 @@
----
-title: Illusory Dragon
-icon: ':luggage:'
-aliases: Illusory Dragon
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qFkL9LLaO6vIbYhq
-tags:
-- Item
----
-
 # Illusory Dragon
 
 **Illusory Dragon**

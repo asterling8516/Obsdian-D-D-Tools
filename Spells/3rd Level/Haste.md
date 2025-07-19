@@ -1,12 +1,3 @@
----
-title: Haste
-icon: ':luggage:'
-aliases: Haste
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CEDcHrVDabYESQTW
-tags:
-- Item
----
-
 # Haste
 
 **Haste**

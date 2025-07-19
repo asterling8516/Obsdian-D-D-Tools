@@ -1,12 +1,3 @@
----
-title: Doss Lute
-icon: ':luggage:'
-aliases: Doss Lute
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CKJJTKcck1urGKgk
-tags:
-- Item
----
-
 # Doss Lute
 
 **Doss Lute**

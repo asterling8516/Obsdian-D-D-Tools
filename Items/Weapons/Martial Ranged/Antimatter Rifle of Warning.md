@@ -1,12 +1,3 @@
----
-title: Antimatter Rifle of Warning
-icon: ':luggage:'
-aliases: Antimatter Rifle of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RYguuaySNOleTrQL
-tags:
-- Item
----
-
 # Antimatter Rifle of Warning
 
 **Antimatter Rifle of Warning**

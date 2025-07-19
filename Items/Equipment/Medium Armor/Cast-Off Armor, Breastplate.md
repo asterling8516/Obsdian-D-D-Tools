@@ -1,12 +1,3 @@
----
-title: Cast-Off Armor, Breastplate
-icon: ':luggage:'
-aliases: Cast-Off Armor, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6j5TeFHCGDYItNOy
-tags:
-- Item
----
-
 # Cast-Off Armor, Breastplate
 
 **Cast-Off Armor, Breastplate**

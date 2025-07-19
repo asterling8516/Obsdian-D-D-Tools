@@ -1,12 +1,3 @@
----
-title: Booming Blade
-icon: ':luggage:'
-aliases: Booming Blade
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qg5hk9Bgags1z38Q
-tags:
-- Item
----
-
 # Booming Blade
 
 **Booming Blade**

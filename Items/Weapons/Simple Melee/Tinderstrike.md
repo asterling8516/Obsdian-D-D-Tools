@@ -1,12 +1,3 @@
----
-title: Tinderstrike
-icon: ':luggage:'
-aliases: Tinderstrike
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dWVkkZjO9ZMNdDOy
-tags:
-- Item
----
-
 # Tinderstrike
 
 **Tinderstrike**

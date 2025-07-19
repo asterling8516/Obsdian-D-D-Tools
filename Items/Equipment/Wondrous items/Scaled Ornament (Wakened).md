@@ -1,12 +1,3 @@
----
-title: Scaled Ornament (Wakened)
-icon: ':luggage:'
-aliases: Scaled Ornament (Wakened)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dy7jwLQeX5PfPy5k
-tags:
-- Item
----
-
 # Scaled Ornament (Wakened)
 
 **Scaled Ornament (Wakened)**

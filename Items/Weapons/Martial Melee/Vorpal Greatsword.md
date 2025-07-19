@@ -1,12 +1,3 @@
----
-title: Vorpal Greatsword
-icon: ':luggage:'
-aliases: Vorpal Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3EsJfSjPwPLznFli
-tags:
-- Item
----
-
 # Vorpal Greatsword
 
 **Vorpal Greatsword**

@@ -1,12 +1,3 @@
----
-title: Ring of Spell Storing
-icon: ':luggage:'
-aliases: Ring of Spell Storing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YePSdSLRwVnydFOl
-tags:
-- Item
----
-
 # Ring of Spell Storing
 
 **Ring of Spell Storing**

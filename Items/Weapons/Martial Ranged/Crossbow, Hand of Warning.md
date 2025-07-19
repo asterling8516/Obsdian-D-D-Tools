@@ -1,12 +1,3 @@
----
-title: Crossbow, Hand of Warning
-icon: ':luggage:'
-aliases: Crossbow, Hand of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.QNh6ktfVTgYK6Acf
-tags:
-- Item
----
-
 # Crossbow, Hand of Warning
 
 **Crossbow, Hand of Warning**

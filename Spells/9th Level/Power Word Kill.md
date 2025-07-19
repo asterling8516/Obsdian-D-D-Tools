@@ -1,12 +1,3 @@
----
-title: Power Word Kill
-icon: ':luggage:'
-aliases: Power Word Kill
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.d9IJMALXFxIe1uK1
-tags:
-- Item
----
-
 # Power Word Kill
 
 **Power Word Kill**

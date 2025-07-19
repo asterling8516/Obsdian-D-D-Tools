@@ -1,12 +1,3 @@
----
-title: Air Bubble
-icon: ':luggage:'
-aliases: Air Bubble
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Sh7GjZv7XNnMnUcu
-tags:
-- Item
----
-
 # Air Bubble
 
 **Air Bubble**

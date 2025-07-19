@@ -1,12 +1,3 @@
----
-title: Sickle of Warning
-icon: ':luggage:'
-aliases: Sickle of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qIkPLvxnKQq7TkVr
-tags:
-- Item
----
-
 # Sickle of Warning
 
 **Sickle of Warning**

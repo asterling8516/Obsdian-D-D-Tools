@@ -1,12 +1,3 @@
----
-title: Club of Warning
-icon: ':luggage:'
-aliases: Club of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1O36vttiTaVL6kAF
-tags:
-- Item
----
-
 # Club of Warning
 
 **Club of Warning**

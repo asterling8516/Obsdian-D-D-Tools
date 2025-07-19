@@ -1,12 +1,3 @@
----
-title: Potion of Mind Reading
-icon: ':luggage:'
-aliases: Potion of Mind Reading
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wRAm7c27xQaZTPTn
-tags:
-- Item
----
-
 # Potion of Mind Reading
 
 **Potion of Mind Reading**

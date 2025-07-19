@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Gleaming, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i0j8qL70sM0wJ0ZZ
-tags:
-- Item
----
-
 # Armor of Gleaming, Ring Mail
 
 **Armor of Gleaming, Ring Mail**

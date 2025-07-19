@@ -1,12 +1,3 @@
----
-title: Magnificent Mansion
-icon: ':luggage:'
-aliases: Magnificent Mansion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.AcxSL7nKbKTaCEHQ
-tags:
-- Item
----
-
 # Magnificent Mansion
 
 **Magnificent Mansion**

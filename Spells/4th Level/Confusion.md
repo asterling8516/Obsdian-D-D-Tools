@@ -1,12 +1,3 @@
----
-title: Confusion
-icon: ':luggage:'
-aliases: Confusion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.IMHkcHljbzBJIc7Z
-tags:
-- Item
----
-
 # Confusion
 
 **Confusion**

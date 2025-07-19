@@ -1,12 +1,3 @@
----
-title: Longstrider
-icon: ':luggage:'
-aliases: Longstrider
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.sPhOWduPIPbIgSRW
-tags:
-- Item
----
-
 # Longstrider
 
 **Longstrider**

@@ -1,12 +1,3 @@
----
-title: Wings of Flying
-icon: ':luggage:'
-aliases: Wings of Flying
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4wQLhIt41cygILKA
-tags:
-- Item
----
-
 # Wings of Flying
 
 **Wings of Flying**

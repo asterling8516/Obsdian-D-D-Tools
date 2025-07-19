@@ -1,12 +1,3 @@
----
-title: Sword Burst
-icon: ':luggage:'
-aliases: Sword Burst
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.P21XnBvSr48TilJf
-tags:
-- Item
----
-
 # Sword Burst
 
 **Sword Burst**

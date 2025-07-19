@@ -1,12 +1,3 @@
----
-title: Smoldering Armor, Half Plate
-icon: ':luggage:'
-aliases: Smoldering Armor, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SHF57dGAp1XYnjXC
-tags:
-- Item
----
-
 # Smoldering Armor, Half Plate
 
 **Smoldering Armor, Half Plate**

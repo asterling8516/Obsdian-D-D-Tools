@@ -1,12 +1,3 @@
----
-title: Summon Shadowspawn
-icon: ':luggage:'
-aliases: Summon Shadowspawn
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.XzWjIhcGXLM86CjK
-tags:
-- Item
----
-
 # Summon Shadowspawn
 
 **Summon Shadowspawn**

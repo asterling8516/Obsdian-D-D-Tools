@@ -1,12 +1,3 @@
----
-title: Sequester
-icon: ':luggage:'
-aliases: Sequester
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ixb7jx5O0g70t4f1
-tags:
-- Item
----
-
 # Sequester
 
 **Sequester**

@@ -1,12 +1,3 @@
----
-title: Potion of Frost Giant Strength
-icon: ':luggage:'
-aliases: Potion of Frost Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.815hJL4hUIZ2hxEX
-tags:
-- Item
----
-
 # Potion of Frost Giant Strength
 
 **Potion of Frost Giant Strength**

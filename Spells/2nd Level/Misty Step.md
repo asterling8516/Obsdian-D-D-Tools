@@ -1,12 +1,3 @@
----
-title: Misty Step
-icon: ':luggage:'
-aliases: Misty Step
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.G3iHMxRlDunNlTs0
-tags:
-- Item
----
-
 # Misty Step
 
 **Misty Step**

@@ -1,12 +1,3 @@
----
-title: Mastix, Whip of Erebos
-icon: ':luggage:'
-aliases: Mastix, Whip of Erebos
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HlQuWB69XT0A5k2e
-tags:
-- Item
----
-
 # Mastix, Whip of Erebos
 
 **Mastix, Whip of Erebos**

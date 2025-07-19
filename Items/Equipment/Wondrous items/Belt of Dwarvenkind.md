@@ -1,12 +1,3 @@
----
-title: Belt of Dwarvenkind
-icon: ':luggage:'
-aliases: Belt of Dwarvenkind
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ijuX4tTUelaKKcXz
-tags:
-- Item
----
-
 # Belt of Dwarvenkind
 
 **Belt of Dwarvenkind**

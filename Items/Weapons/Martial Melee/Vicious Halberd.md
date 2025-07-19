@@ -1,12 +1,3 @@
----
-title: Vicious Halberd
-icon: ':luggage:'
-aliases: Vicious Halberd
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MOYddtZuwCbo49Xi
-tags:
-- Item
----
-
 # Vicious Halberd
 
 **Vicious Halberd**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer War Pick
-icon: ':luggage:'
-aliases: Giant Slayer War Pick
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4SAinSdnhD9f3CSN
-tags:
-- Item
----
-
 # Giant Slayer War Pick
 
 **Giant Slayer War Pick**

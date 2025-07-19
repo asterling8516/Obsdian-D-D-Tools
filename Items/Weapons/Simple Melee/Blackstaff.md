@@ -1,12 +1,3 @@
----
-title: Blackstaff
-icon: ':luggage:'
-aliases: Blackstaff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eYSE7qOAlszkwwoo
-tags:
-- Item
----
-
 # Blackstaff
 
 **Blackstaff**

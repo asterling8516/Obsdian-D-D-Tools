@@ -1,12 +1,3 @@
----
-title: Firearm Bullets
-icon: ':luggage:'
-aliases: Firearm Bullets
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.brteCgFzJYXbJPfH
-tags:
-- Item
----
-
 # Firearm Bullets
 
 **Firearm Bullets**

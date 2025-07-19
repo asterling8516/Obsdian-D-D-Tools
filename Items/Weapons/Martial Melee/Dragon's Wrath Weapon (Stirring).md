@@ -1,12 +1,3 @@
----
-title: Dragon's Wrath Weapon (Stirring)
-icon: ':luggage:'
-aliases: Dragon's Wrath Weapon (Stirring)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WCP8I66KgufyQ0it
-tags:
-- Item
----
-
 # Dragon's Wrath Weapon (Stirring)
 
 **Dragon's Wrath Weapon (Stirring)**

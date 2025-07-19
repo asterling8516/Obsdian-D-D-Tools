@@ -1,12 +1,3 @@
----
-title: Javelin of Warning
-icon: ':luggage:'
-aliases: Javelin of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HNQJnMDsrwFxiKYo
-tags:
-- Item
----
-
 # Javelin of Warning
 
 **Javelin of Warning**

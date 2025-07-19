@@ -1,12 +1,3 @@
----
-title: Investiture of Flame
-icon: ':luggage:'
-aliases: Investiture of Flame
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GvPL7GURYH6h5Wdd
-tags:
-- Item
----
-
 # Investiture of Flame
 
 **Investiture of Flame**

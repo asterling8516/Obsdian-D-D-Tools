@@ -1,12 +1,3 @@
----
-title: Frostbite
-icon: ':luggage:'
-aliases: Frostbite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WU4coivoFDt7NgJ6
-tags:
-- Item
----
-
 # Frostbite
 
 **Frostbite**

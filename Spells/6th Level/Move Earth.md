@@ -1,12 +1,3 @@
----
-title: Move Earth
-icon: ':luggage:'
-aliases: Move Earth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Fk3YbV2qyTnJ527m
-tags:
-- Item
----
-
 # Move Earth
 
 **Move Earth**

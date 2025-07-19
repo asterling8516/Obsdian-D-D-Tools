@@ -1,12 +1,3 @@
----
-title: Ring of Water Walking
-icon: ':luggage:'
-aliases: Ring of Water Walking
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qi2tR6pUZ0hfRMbK
-tags:
-- Item
----
-
 # Ring of Water Walking
 
 **Ring of Water Walking**

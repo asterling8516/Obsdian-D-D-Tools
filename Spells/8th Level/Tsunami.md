@@ -1,12 +1,3 @@
----
-title: Tsunami
-icon: ':luggage:'
-aliases: Tsunami
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.be8C6Ezzqo6gFgjZ
-tags:
-- Item
----
-
 # Tsunami
 
 **Tsunami**

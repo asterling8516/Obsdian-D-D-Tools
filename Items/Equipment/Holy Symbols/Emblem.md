@@ -1,12 +1,3 @@
----
-title: Emblem
-icon: ':luggage:'
-aliases: Emblem
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pAhkTXCprPrFnQom
-tags:
-- Item
----
-
 # Emblem
 
 **Emblem**

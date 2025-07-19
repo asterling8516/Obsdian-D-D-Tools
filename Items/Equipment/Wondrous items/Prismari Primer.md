@@ -1,12 +1,3 @@
----
-title: Prismari Primer
-icon: ':luggage:'
-aliases: Prismari Primer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1NSZkpmpDlYm6NeW
-tags:
-- Item
----
-
 # Prismari Primer
 
 **Prismari Primer**

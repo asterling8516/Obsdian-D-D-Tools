@@ -1,12 +1,3 @@
----
-title: Slow
-icon: ':luggage:'
-aliases: Slow
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.tSxjsJKmqzO0nxCJ
-tags:
-- Item
----
-
 # Slow
 
 **Slow**

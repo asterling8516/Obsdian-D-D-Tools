@@ -1,12 +1,3 @@
----
-title: Living Gloves, Brewer's Supplies
-icon: ':luggage:'
-aliases: Living Gloves, Brewer's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3Tme0XwSOQbnYHip
-tags:
-- Item
----
-
 # Living Gloves, Brewer's Supplies
 
 **Living Gloves, Brewer's Supplies**

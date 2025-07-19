@@ -1,12 +1,3 @@
----
-title: Sword of Answering
-icon: ':luggage:'
-aliases: Sword of Answering
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.M8XhYokQ4OVpgNXS
-tags:
-- Item
----
-
 # Sword of Answering
 
 **Sword of Answering**

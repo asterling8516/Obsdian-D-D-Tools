@@ -1,12 +1,3 @@
----
-title: Mirror, Steel
-icon: ':luggage:'
-aliases: Mirror, Steel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Bxi4wbZzsMycQfp3
-tags:
-- Item
----
-
 # Mirror, Steel
 
 **Mirror, Steel**

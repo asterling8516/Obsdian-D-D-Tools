@@ -1,12 +1,3 @@
----
-title: Vicious Trident
-icon: ':luggage:'
-aliases: Vicious Trident
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rIEF9zTHBWQ4xsey
-tags:
-- Item
----
-
 # Vicious Trident
 
 **Vicious Trident**

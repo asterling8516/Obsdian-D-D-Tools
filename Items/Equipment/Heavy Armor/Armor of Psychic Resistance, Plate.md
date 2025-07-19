@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.981mjaKiS3HjldVf
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Plate
 
 **Armor of Psychic Resistance, Plate**

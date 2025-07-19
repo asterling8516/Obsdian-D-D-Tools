@@ -1,12 +1,3 @@
----
-title: Ensnaring Strike
-icon: ':luggage:'
-aliases: Ensnaring Strike
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5SKVTDImRNusl9gr
-tags:
-- Item
----
-
 # Ensnaring Strike
 
 **Ensnaring Strike**

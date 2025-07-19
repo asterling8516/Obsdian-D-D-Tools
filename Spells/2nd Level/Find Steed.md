@@ -1,12 +1,3 @@
----
-title: Find Steed
-icon: ':luggage:'
-aliases: Find Steed
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.AmlW6YWgNp1BZ8T1
-tags:
-- Item
----
-
 # Find Steed
 
 **Find Steed**

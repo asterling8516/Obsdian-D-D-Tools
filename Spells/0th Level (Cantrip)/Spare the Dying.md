@@ -1,12 +1,3 @@
----
-title: Spare the Dying
-icon: ':luggage:'
-aliases: Spare the Dying
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.HHotMJvHYslpZ9kf
-tags:
-- Item
----
-
 # Spare the Dying
 
 **Spare the Dying**

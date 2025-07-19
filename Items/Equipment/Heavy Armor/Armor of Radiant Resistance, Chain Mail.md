@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nh1JEPwhiw7F5DzA
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Chain Mail
 
 **Armor of Radiant Resistance, Chain Mail**

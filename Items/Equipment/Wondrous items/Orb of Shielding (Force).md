@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Force)
-icon: ':luggage:'
-aliases: Orb of Shielding (Force)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qrYYp3rBkyH9vMk9
-tags:
-- Item
----
-
 # Orb of Shielding (Force)
 
 **Orb of Shielding (Force)**

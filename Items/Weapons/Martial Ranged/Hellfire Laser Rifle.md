@@ -1,12 +1,3 @@
----
-title: Hellfire Laser Rifle
-icon: ':luggage:'
-aliases: Hellfire Laser Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vwxHOrPEVjUGAqjX
-tags:
-- Item
----
-
 # Hellfire Laser Rifle
 
 **Hellfire Laser Rifle**

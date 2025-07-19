@@ -1,12 +1,3 @@
----
-title: Purify Food and Drink
-icon: ':luggage:'
-aliases: Purify Food and Drink
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.lFq4T9nvuGGoVmuN
-tags:
-- Item
----
-
 # Purify Food and Drink
 
 **Purify Food and Drink**

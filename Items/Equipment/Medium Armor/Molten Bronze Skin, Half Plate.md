@@ -1,12 +1,3 @@
----
-title: Molten Bronze Skin, Half Plate
-icon: ':luggage:'
-aliases: Molten Bronze Skin, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5pQxD62ysuFoPz7B
-tags:
-- Item
----
-
 # Molten Bronze Skin, Half Plate
 
 **Molten Bronze Skin, Half Plate**

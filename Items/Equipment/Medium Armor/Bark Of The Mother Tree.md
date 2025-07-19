@@ -1,12 +1,3 @@
----
-title: Bark Of The Mother Tree
-icon: ':luggage:'
-aliases: Bark Of The Mother Tree
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JtrwpEmGEbDEsDHB
-tags:
-- Item
----
-
 # Bark Of The Mother Tree
 
 **Bark Of The Mother Tree**

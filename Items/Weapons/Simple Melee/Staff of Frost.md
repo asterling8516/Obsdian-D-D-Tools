@@ -1,12 +1,3 @@
----
-title: Staff of Frost
-icon: ':luggage:'
-aliases: Staff of Frost
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9x4ycSR7hKwpYd2O
-tags:
-- Item
----
-
 # Staff of Frost
 
 **Staff of Frost**

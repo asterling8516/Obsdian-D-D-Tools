@@ -1,12 +1,3 @@
----
-title: Pot, Iron
-icon: ':luggage:'
-aliases: Pot, Iron
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rHy4kiKx5wkLuz8I
-tags:
-- Item
----
-
 # Pot, Iron
 
 **Pot, Iron**

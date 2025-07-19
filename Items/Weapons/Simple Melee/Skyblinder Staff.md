@@ -1,12 +1,3 @@
----
-title: Skyblinder Staff
-icon: ':luggage:'
-aliases: Skyblinder Staff
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.47yH9gfhXIzBEEUM
-tags:
-- Item
----
-
 # Skyblinder Staff
 
 **Skyblinder Staff**

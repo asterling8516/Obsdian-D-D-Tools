@@ -1,12 +1,3 @@
----
-title: Vial
-icon: ':luggage:'
-aliases: Vial
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fX9ehInYH9vEOAFp
-tags:
-- Item
----
-
 # Vial
 
 **Vial**

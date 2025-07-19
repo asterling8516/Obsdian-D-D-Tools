@@ -1,12 +1,3 @@
----
-title: Spell Scroll (8th Level)
-icon: ':luggage:'
-aliases: Spell Scroll (8th Level)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.e3KjgAsONgqZZeJE
-tags:
-- Item
----
-
 # Spell Scroll (8th Level)
 
 **Spell Scroll (8th Level)**

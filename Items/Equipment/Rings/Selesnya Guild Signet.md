@@ -1,12 +1,3 @@
----
-title: Selesnya Guild Signet
-icon: ':luggage:'
-aliases: Selesnya Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.I2ooBcR2itttAV8a
-tags:
-- Item
----
-
 # Selesnya Guild Signet
 
 **Selesnya Guild Signet**

@@ -1,12 +1,3 @@
----
-title: Divine Smite
-icon: ':luggage:'
-aliases: Divine Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Il1Zb9T6FDz1zDJJ
-tags:
-- Item
----
-
 # Divine Smite
 
 **Divine Smite**

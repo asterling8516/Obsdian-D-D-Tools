@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Agility
-icon: ':luggage:'
-aliases: Ioun Stone of Agility
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3Vsr5nWHZiZDRCa4
-tags:
-- Item
----
-
 # Ioun Stone of Agility
 
 **Ioun Stone of Agility**

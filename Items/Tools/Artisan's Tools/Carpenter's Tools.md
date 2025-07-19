@@ -1,12 +1,3 @@
----
-title: Carpenter's Tools
-icon: ':luggage:'
-aliases: Carpenter's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HBnalo129LDVTEZb
-tags:
-- Item
----
-
 # Carpenter's Tools
 
 **Carpenter's Tools**

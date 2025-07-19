@@ -1,12 +1,3 @@
----
-title: Star Rose Quartz
-icon: ':luggage:'
-aliases: Star Rose Quartz
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9lxSKRrzQlO8HcQ0
-tags:
-- Item
----
-
 # Star Rose Quartz
 
 **Star Rose Quartz**

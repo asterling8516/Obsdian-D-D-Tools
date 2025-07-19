@@ -1,12 +1,3 @@
----
-title: Prismatic Spray
-icon: ':luggage:'
-aliases: Prismatic Spray
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.G1AgXyoP5jdc8zQk
-tags:
-- Item
----
-
 # Prismatic Spray
 
 **Prismatic Spray**

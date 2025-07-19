@@ -1,12 +1,3 @@
----
-title: Eyes of Charming
-icon: ':luggage:'
-aliases: Eyes of Charming
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xsty8epCXrDijGCB
-tags:
-- Item
----
-
 # Eyes of Charming
 
 **Eyes of Charming**

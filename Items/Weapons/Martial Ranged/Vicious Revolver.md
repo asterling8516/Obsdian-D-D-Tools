@@ -1,12 +1,3 @@
----
-title: Vicious Revolver
-icon: ':luggage:'
-aliases: Vicious Revolver
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gx3JXdMEeZew936W
-tags:
-- Item
----
-
 # Vicious Revolver
 
 **Vicious Revolver**

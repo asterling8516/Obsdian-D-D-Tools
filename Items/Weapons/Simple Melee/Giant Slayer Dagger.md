@@ -1,12 +1,3 @@
----
-title: Giant Slayer Dagger
-icon: ':luggage:'
-aliases: Giant Slayer Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ADgHMBLzyvtJ2y1y
-tags:
-- Item
----
-
 # Giant Slayer Dagger
 
 **Giant Slayer Dagger**

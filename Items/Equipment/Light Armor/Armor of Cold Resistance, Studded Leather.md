@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XeNCSOhXEdaWiniV
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Studded Leather
 
 **Armor of Cold Resistance, Studded Leather**

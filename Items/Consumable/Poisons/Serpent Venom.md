@@ -1,12 +1,3 @@
----
-title: Serpent Venom
-icon: ':luggage:'
-aliases: Serpent Venom
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Q4pou5h8QQoql0ZZ
-tags:
-- Item
----
-
 # Serpent Venom
 
 **Serpent Venom**

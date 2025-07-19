@@ -1,12 +1,3 @@
----
-title: Elementalism
-icon: ':luggage:'
-aliases: Elementalism
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.t56mN6o0PN4Cy3xo
-tags:
-- Item
----
-
 # Elementalism
 
 **Elementalism**

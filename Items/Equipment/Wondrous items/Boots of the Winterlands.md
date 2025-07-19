@@ -1,12 +1,3 @@
----
-title: Boots of the Winterlands
-icon: ':luggage:'
-aliases: Boots of the Winterlands
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YaGj1rS2SaDGtHvT
-tags:
-- Item
----
-
 # Boots of the Winterlands
 
 **Boots of the Winterlands**

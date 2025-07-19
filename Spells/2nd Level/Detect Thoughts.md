@@ -1,12 +1,3 @@
----
-title: Detect Thoughts
-icon: ':luggage:'
-aliases: Detect Thoughts
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JFHwa5ilOQx51h6o
-tags:
-- Item
----
-
 # Detect Thoughts
 
 **Detect Thoughts**

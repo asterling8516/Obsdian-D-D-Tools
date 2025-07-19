@@ -1,12 +1,3 @@
----
-title: Mithral Chain Mail
-icon: ':luggage:'
-aliases: Mithral Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jUvqjHCRQZzUVK4z
-tags:
-- Item
----
-
 # Mithral Chain Mail
 
 **Mithral Chain Mail**

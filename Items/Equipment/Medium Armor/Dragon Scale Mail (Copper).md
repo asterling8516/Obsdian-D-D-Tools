@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Copper)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Copper)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mVhPs0AHNVFJZHQw
-tags:
-- Item
----
-
 # Dragon Scale Mail (Copper)
 
 **Dragon Scale Mail (Copper)**

@@ -1,12 +1,3 @@
----
-title: Gloves of Soul Catching
-icon: ':luggage:'
-aliases: Gloves of Soul Catching
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2pN1Cibh05gzGabi
-tags:
-- Item
----
-
 # Gloves of Soul Catching
 
 **Gloves of Soul Catching**

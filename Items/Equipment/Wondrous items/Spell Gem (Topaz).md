@@ -1,12 +1,3 @@
----
-title: Spell Gem (Topaz)
-icon: ':luggage:'
-aliases: Spell Gem (Topaz)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4oJKxxUBkuewMqga
-tags:
-- Item
----
-
 # Spell Gem (Topaz)
 
 **Spell Gem (Topaz)**

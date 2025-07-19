@@ -1,12 +1,3 @@
----
-title: Hourglass
-icon: ':luggage:'
-aliases: Hourglass
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0aMaem2ZHoPiaKSa
-tags:
-- Item
----
-
 # Hourglass
 
 **Hourglass**

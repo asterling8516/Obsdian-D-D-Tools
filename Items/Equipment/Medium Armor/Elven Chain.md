@@ -1,12 +1,3 @@
----
-title: Elven Chain
-icon: ':luggage:'
-aliases: Elven Chain
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ta7uCmLwvZVSTAla
-tags:
-- Item
----
-
 # Elven Chain
 
 **Elven Chain**

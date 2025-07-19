@@ -1,12 +1,3 @@
----
-title: Bless
-icon: ':luggage:'
-aliases: Bless
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GB3w3WsBlicYJp0j
-tags:
-- Item
----
-
 # Bless
 
 **Bless**

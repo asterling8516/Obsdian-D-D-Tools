@@ -1,12 +1,3 @@
----
-title: Bracers of Defense
-icon: ':luggage:'
-aliases: Bracers of Defense
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bJOs72NYIlvf38jX
-tags:
-- Item
----
-
 # Bracers of Defense
 
 **Bracers of Defense**

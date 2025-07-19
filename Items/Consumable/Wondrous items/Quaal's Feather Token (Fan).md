@@ -1,12 +1,3 @@
----
-title: Quaal's Feather Token (Fan)
-icon: ':luggage:'
-aliases: Quaal's Feather Token (Fan)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HXX7zRDXSKKmuq2Y
-tags:
-- Item
----
-
 # Quaal's Feather Token (Fan)
 
 **Quaal's Feather Token (Fan)**

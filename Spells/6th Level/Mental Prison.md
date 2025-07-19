@@ -1,12 +1,3 @@
----
-title: Mental Prison
-icon: ':luggage:'
-aliases: Mental Prison
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.lsUqtqKhB6TI6yfI
-tags:
-- Item
----
-
 # Mental Prison
 
 **Mental Prison**

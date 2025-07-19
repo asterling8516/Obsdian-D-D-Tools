@@ -1,12 +1,3 @@
----
-title: Armblade (Scimitar)
-icon: ':luggage:'
-aliases: Armblade (Scimitar)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UJoGuCM5d69fPYgP
-tags:
-- Item
----
-
 # Armblade (Scimitar)
 
 **Armblade (Scimitar)**

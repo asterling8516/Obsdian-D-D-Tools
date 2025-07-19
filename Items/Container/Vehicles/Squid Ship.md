@@ -1,12 +1,3 @@
----
-title: Squid Ship
-icon: ':luggage:'
-aliases: Squid Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y2z1qs5CDwgGgT6W
-tags:
-- Item
----
-
 # Squid Ship
 
 **Squid Ship**

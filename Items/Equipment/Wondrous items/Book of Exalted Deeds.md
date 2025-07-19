@@ -1,12 +1,3 @@
----
-title: Book of Exalted Deeds
-icon: ':luggage:'
-aliases: Book of Exalted Deeds
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.btxupECBDSSWjxgg
-tags:
-- Item
----
-
 # Book of Exalted Deeds
 
 **Book of Exalted Deeds**

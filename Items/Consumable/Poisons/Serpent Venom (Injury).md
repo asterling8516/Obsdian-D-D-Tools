@@ -1,12 +1,3 @@
----
-title: Serpent Venom (Injury)
-icon: ':luggage:'
-aliases: Serpent Venom (Injury)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PdmbPy06ku4buo11
-tags:
-- Item
----
-
 # Serpent Venom (Injury)
 
 **Serpent Venom (Injury)**

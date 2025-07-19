@@ -1,12 +1,3 @@
----
-title: Living Gloves, Dulcimer
-icon: ':luggage:'
-aliases: Living Gloves, Dulcimer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FvP29ArzVKGBR8cn
-tags:
-- Item
----
-
 # Living Gloves, Dulcimer
 
 **Living Gloves, Dulcimer**

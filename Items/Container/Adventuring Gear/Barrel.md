@@ -1,12 +1,3 @@
----
-title: Barrel
-icon: ':luggage:'
-aliases: Barrel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4bTAbpCJ9gVXFIbT
-tags:
-- Item
----
-
 # Barrel
 
 **Barrel**

@@ -1,12 +1,3 @@
----
-title: Candle
-icon: ':luggage:'
-aliases: Candle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6eeQef5HJZASa2AM
-tags:
-- Item
----
-
 # Candle
 
 **Candle**

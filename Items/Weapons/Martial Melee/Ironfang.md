@@ -1,12 +1,3 @@
----
-title: Ironfang
-icon: ':luggage:'
-aliases: Ironfang
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rNTNO1wfwEZNwfes
-tags:
-- Item
----
-
 # Ironfang
 
 **Ironfang**

@@ -1,12 +1,3 @@
----
-title: Breastplate, +2
-icon: ':luggage:'
-aliases: Breastplate, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MFrW0QoL5KAikRTk
-tags:
-- Item
----
-
 # Breastplate, +2
 
 **Breastplate, +2**

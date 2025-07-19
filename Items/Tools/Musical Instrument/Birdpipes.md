@@ -1,12 +1,3 @@
----
-title: Birdpipes
-icon: ':luggage:'
-aliases: Birdpipes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4POKqVsnA8LaxSjb
-tags:
-- Item
----
-
 # Birdpipes
 
 **Birdpipes**

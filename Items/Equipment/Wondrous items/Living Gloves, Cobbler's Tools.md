@@ -1,12 +1,3 @@
----
-title: Living Gloves, Cobbler's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Cobbler's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gak6WteLXqmveWQc
-tags:
-- Item
----
-
 # Living Gloves, Cobbler's Tools
 
 **Living Gloves, Cobbler's Tools**

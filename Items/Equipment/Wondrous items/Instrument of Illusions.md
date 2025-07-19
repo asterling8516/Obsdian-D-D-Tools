@@ -1,12 +1,3 @@
----
-title: Instrument of Illusions
-icon: ':luggage:'
-aliases: Instrument of Illusions
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j2M6rDaKfBthGCIy
-tags:
-- Item
----
-
 # Instrument of Illusions
 
 **Instrument of Illusions**

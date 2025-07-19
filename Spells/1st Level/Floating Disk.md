@@ -1,12 +1,3 @@
----
-title: Floating Disk
-icon: ':luggage:'
-aliases: Floating Disk
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.LwdkeXrctRD7L3tj
-tags:
-- Item
----
-
 # Floating Disk
 
 **Floating Disk**

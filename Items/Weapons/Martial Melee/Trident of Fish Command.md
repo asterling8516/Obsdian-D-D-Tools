@@ -1,12 +1,3 @@
----
-title: Trident of Fish Command
-icon: ':luggage:'
-aliases: Trident of Fish Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.l3Mbjb7an7JPWXMf
-tags:
-- Item
----
-
 # Trident of Fish Command
 
 **Trident of Fish Command**

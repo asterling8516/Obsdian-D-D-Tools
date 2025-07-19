@@ -1,12 +1,3 @@
----
-title: Jim's Magic Missile
-icon: ':luggage:'
-aliases: Jim's Magic Missile
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jga8dpYFO4nhCXPO
-tags:
-- Item
----
-
 # Jim's Magic Missile
 
 **Jim's Magic Missile**

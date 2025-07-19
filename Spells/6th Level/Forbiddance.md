@@ -1,12 +1,3 @@
----
-title: Forbiddance
-icon: ':luggage:'
-aliases: Forbiddance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CYweVLfshb3gDRw2
-tags:
-- Item
----
-
 # Forbiddance
 
 **Forbiddance**

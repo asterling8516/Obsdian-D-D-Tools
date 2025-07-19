@@ -1,12 +1,3 @@
----
-title: Hellfire Shotgun
-icon: ':luggage:'
-aliases: Hellfire Shotgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rea7vNtAXibQyvaM
-tags:
-- Item
----
-
 # Hellfire Shotgun
 
 **Hellfire Shotgun**

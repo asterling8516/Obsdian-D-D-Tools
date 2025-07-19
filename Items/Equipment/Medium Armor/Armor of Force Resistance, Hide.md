@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wxVdh1fwxBtWPfTJ
-tags:
-- Item
----
-
 # Armor of Force Resistance, Hide
 
 **Armor of Force Resistance, Hide**

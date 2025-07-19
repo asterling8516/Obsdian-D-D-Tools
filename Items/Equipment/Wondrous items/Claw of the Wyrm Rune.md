@@ -1,12 +1,3 @@
----
-title: Claw of the Wyrm Rune
-icon: ':luggage:'
-aliases: Claw of the Wyrm Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z6VlUm36MpWZlgZj
-tags:
-- Item
----
-
 # Claw of the Wyrm Rune
 
 **Claw of the Wyrm Rune**

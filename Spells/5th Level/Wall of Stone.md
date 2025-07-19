@@ -1,12 +1,3 @@
----
-title: Wall of Stone
-icon: ':luggage:'
-aliases: Wall of Stone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.oFd55q2sywHLllQa
-tags:
-- Item
----
-
 # Wall of Stone
 
 **Wall of Stone**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Whip
-icon: ':luggage:'
-aliases: Giant Slayer Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XKEkIj55OY0sQ7qc
-tags:
-- Item
----
-
 # Giant Slayer Whip
 
 **Giant Slayer Whip**

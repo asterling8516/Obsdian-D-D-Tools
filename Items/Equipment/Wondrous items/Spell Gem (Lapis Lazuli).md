@@ -1,12 +1,3 @@
----
-title: Spell Gem (Lapis Lazuli)
-icon: ':luggage:'
-aliases: Spell Gem (Lapis Lazuli)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OD2P7K0QsRZRmhyv
-tags:
-- Item
----
-
 # Spell Gem (Lapis Lazuli)
 
 **Spell Gem (Lapis Lazuli)**

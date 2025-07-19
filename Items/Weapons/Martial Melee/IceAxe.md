@@ -1,12 +1,3 @@
----
-title: IceAxe
-icon: ':luggage:'
-aliases: IceAxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wCq2SpvsyqWaOfNk
-tags:
-- Item
----
-
 # IceAxe
 
 **IceAxe**

@@ -1,12 +1,3 @@
----
-title: Sprig of Mistletoe
-icon: ':luggage:'
-aliases: Sprig of Mistletoe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bClGFCDQmqZcSdMc
-tags:
-- Item
----
-
 # Sprig of Mistletoe
 
 **Sprig of Mistletoe**

@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.InvD9oYazhQGpMx0
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Chain Mail
 
 **Armor of Fire Resistance, Chain Mail**

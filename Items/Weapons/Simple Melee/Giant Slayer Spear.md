@@ -1,12 +1,3 @@
----
-title: Giant Slayer Spear
-icon: ':luggage:'
-aliases: Giant Slayer Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GOXLFueW2zfbzfvM
-tags:
-- Item
----
-
 # Giant Slayer Spear
 
 **Giant Slayer Spear**

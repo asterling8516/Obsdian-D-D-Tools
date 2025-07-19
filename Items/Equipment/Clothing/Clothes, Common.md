@@ -1,12 +1,3 @@
----
-title: Clothes, Common
-icon: ':luggage:'
-aliases: Clothes, Common
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IaurtXjeZ5w9c2OA
-tags:
-- Item
----
-
 # Clothes, Common
 
 **Clothes, Common**

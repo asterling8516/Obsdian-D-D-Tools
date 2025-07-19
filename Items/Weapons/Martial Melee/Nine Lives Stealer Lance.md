@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Lance
-icon: ':luggage:'
-aliases: Nine Lives Stealer Lance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mrx4iSJw0Jz5Wicl
-tags:
-- Item
----
-
 # Nine Lives Stealer Lance
 
 **Nine Lives Stealer Lance**

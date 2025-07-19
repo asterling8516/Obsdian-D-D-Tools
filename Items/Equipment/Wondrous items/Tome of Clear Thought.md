@@ -1,12 +1,3 @@
----
-title: Tome of Clear Thought
-icon: ':luggage:'
-aliases: Tome of Clear Thought
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JsrLIJ3PKvnXjUlb
-tags:
-- Item
----
-
 # Tome of Clear Thought
 
 **Tome of Clear Thought**

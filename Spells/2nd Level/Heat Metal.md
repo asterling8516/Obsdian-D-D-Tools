@@ -1,12 +1,3 @@
----
-title: Heat Metal
-icon: ':luggage:'
-aliases: Heat Metal
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.SU0khQ1PDzhNPKas
-tags:
-- Item
----
-
 # Heat Metal
 
 **Heat Metal**

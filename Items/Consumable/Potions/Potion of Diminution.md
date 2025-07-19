@@ -1,12 +1,3 @@
----
-title: Potion of Diminution
-icon: ':luggage:'
-aliases: Potion of Diminution
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HuksQX0pkahkdMCk
-tags:
-- Item
----
-
 # Potion of Diminution
 
 **Potion of Diminution**

@@ -1,12 +1,3 @@
----
-title: Greatsword of Warning
-icon: ':luggage:'
-aliases: Greatsword of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.J1k52YgNlrmRNS27
-tags:
-- Item
----
-
 # Greatsword of Warning
 
 **Greatsword of Warning**

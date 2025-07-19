@@ -1,12 +1,3 @@
----
-title: Brewer's Supplies
-icon: ':luggage:'
-aliases: Brewer's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g04lmSCJc9racG9i
-tags:
-- Item
----
-
 # Brewer's Supplies
 
 **Brewer's Supplies**

@@ -1,12 +1,3 @@
----
-title: Telekinesis
-icon: ':luggage:'
-aliases: Telekinesis
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.XIrOFsZR0xf5ReRe
-tags:
-- Item
----
-
 # Telekinesis
 
 **Telekinesis**

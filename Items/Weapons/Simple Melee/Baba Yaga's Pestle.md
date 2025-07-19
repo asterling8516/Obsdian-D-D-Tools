@@ -1,12 +1,3 @@
----
-title: Baba Yaga's Pestle
-icon: ':luggage:'
-aliases: Baba Yaga's Pestle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vPr45Mtqk45LGlyx
-tags:
-- Item
----
-
 # Baba Yaga's Pestle
 
 **Baba Yaga's Pestle**

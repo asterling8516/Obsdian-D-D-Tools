@@ -1,12 +1,3 @@
----
-title: Hellfire Rapier
-icon: ':luggage:'
-aliases: Hellfire Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Wt1pmuEUs3zKUoMK
-tags:
-- Item
----
-
 # Hellfire Rapier
 
 **Hellfire Rapier**

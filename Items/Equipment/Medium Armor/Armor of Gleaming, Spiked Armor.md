@@ -1,12 +1,3 @@
----
-title: Armor of Gleaming, Spiked Armor
-icon: ':luggage:'
-aliases: Armor of Gleaming, Spiked Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.cc32hCKSyQAddRuZ
-tags:
-- Item
----
-
 # Armor of Gleaming, Spiked Armor
 
 **Armor of Gleaming, Spiked Armor**

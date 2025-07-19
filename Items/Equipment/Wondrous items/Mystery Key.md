@@ -1,12 +1,3 @@
----
-title: Mystery Key
-icon: ':luggage:'
-aliases: Mystery Key
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tfStLYVhaiIrXy8S
-tags:
-- Item
----
-
 # Mystery Key
 
 **Mystery Key**

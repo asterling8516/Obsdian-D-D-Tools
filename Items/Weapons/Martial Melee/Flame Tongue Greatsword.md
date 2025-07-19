@@ -1,12 +1,3 @@
----
-title: Flame Tongue Greatsword
-icon: ':luggage:'
-aliases: Flame Tongue Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.a8WiocW7t7AKtLEE
-tags:
-- Item
----
-
 # Flame Tongue Greatsword
 
 **Flame Tongue Greatsword**

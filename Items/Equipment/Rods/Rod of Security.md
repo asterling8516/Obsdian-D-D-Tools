@@ -1,12 +1,3 @@
----
-title: Rod of Security
-icon: ':luggage:'
-aliases: Rod of Security
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JNLlzLwRKskS8lnS
-tags:
-- Item
----
-
 # Rod of Security
 
 **Rod of Security**

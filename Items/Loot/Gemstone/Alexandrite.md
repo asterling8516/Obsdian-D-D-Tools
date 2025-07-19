@@ -1,12 +1,3 @@
----
-title: Alexandrite
-icon: ':luggage:'
-aliases: Alexandrite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.61i52bJe7Spw3kXY
-tags:
-- Item
----
-
 # Alexandrite
 
 **Alexandrite**

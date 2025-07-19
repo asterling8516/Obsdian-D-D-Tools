@@ -1,12 +1,3 @@
----
-title: Contagion
-icon: ':luggage:'
-aliases: Contagion
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.8izllwsrKWAxrKGC
-tags:
-- Item
----
-
 # Contagion
 
 **Contagion**

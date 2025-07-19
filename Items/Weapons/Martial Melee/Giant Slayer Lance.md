@@ -1,12 +1,3 @@
----
-title: Giant Slayer Lance
-icon: ':luggage:'
-aliases: Giant Slayer Lance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5hbf1YQz57C6F9Fi
-tags:
-- Item
----
-
 # Giant Slayer Lance
 
 **Giant Slayer Lance**

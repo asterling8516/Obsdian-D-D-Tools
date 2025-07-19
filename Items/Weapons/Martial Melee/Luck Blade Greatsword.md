@@ -1,12 +1,3 @@
----
-title: Luck Blade Greatsword
-icon: ':luggage:'
-aliases: Luck Blade Greatsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wGTYoO5NFtMencpI
-tags:
-- Item
----
-
 # Luck Blade Greatsword
 
 **Luck Blade Greatsword**

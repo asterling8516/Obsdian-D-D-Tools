@@ -1,12 +1,3 @@
----
-title: Mithral Plate
-icon: ':luggage:'
-aliases: Mithral Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3zPHpWLWlPfZijLO
-tags:
-- Item
----
-
 # Mithral Plate
 
 **Mithral Plate**

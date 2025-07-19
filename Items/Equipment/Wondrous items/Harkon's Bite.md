@@ -1,12 +1,3 @@
----
-title: Harkon's Bite
-icon: ':luggage:'
-aliases: Harkon's Bite
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bCR3utXURon5I6i8
-tags:
-- Item
----
-
 # Harkon's Bite
 
 **Harkon's Bite**

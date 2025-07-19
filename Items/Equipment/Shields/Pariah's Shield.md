@@ -1,12 +1,3 @@
----
-title: Pariah's Shield
-icon: ':luggage:'
-aliases: Pariah's Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mbxD51ud6lWUngrl
-tags:
-- Item
----
-
 # Pariah's Shield
 
 **Pariah's Shield**

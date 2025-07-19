@@ -1,12 +1,3 @@
----
-title: Contingency
-icon: ':luggage:'
-aliases: Contingency
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.7g7oSXC71e16GUWN
-tags:
-- Item
----
-
 # Contingency
 
 **Contingency**

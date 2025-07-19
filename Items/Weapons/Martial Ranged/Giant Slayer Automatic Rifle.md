@@ -1,12 +1,3 @@
----
-title: Giant Slayer Automatic Rifle
-icon: ':luggage:'
-aliases: Giant Slayer Automatic Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TK0aUid8mc3W4YdR
-tags:
-- Item
----
-
 # Giant Slayer Automatic Rifle
 
 **Giant Slayer Automatic Rifle**

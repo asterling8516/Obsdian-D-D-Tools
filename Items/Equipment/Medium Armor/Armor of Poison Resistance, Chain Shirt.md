@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gC7rgHD1QmSzHofR
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Chain Shirt
 
 **Armor of Poison Resistance, Chain Shirt**

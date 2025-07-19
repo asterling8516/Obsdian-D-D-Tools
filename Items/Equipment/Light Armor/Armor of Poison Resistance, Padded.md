@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Padded
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Padded
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5afRmOtvEesAVeT2
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Padded
 
 **Armor of Poison Resistance, Padded**

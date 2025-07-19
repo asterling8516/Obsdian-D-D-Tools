@@ -1,12 +1,3 @@
----
-title: Protection from Evil and Good
-icon: ':luggage:'
-aliases: Protection from Evil and Good
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dXZIo312Ft1Y6i60
-tags:
-- Item
----
-
 # Protection from Evil and Good
 
 **Protection from Evil and Good**

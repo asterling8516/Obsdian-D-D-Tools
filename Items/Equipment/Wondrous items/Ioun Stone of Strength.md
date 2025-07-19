@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Strength
-icon: ':luggage:'
-aliases: Ioun Stone of Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.avVDMtcZhIeZmLk5
-tags:
-- Item
----
-
 # Ioun Stone of Strength
 
 **Ioun Stone of Strength**

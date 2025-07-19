@@ -1,12 +1,3 @@
----
-title: Crusader's Mantle
-icon: ':luggage:'
-aliases: Crusader's Mantle
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.vlRrxwPTuVoWSwV9
-tags:
-- Item
----
-
 # Crusader's Mantle
 
 **Crusader's Mantle**

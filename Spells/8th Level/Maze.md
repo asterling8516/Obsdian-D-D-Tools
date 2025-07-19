@@ -1,12 +1,3 @@
----
-title: Maze
-icon: ':luggage:'
-aliases: Maze
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.5v5hxU6ijsRdAYZs
-tags:
-- Item
----
-
 # Maze
 
 **Maze**

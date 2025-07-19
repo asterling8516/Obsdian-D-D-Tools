@@ -1,12 +1,3 @@
----
-title: Wall of Thorns
-icon: ':luggage:'
-aliases: Wall of Thorns
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.MPxblpKCHFqRwSNt
-tags:
-- Item
----
-
 # Wall of Thorns
 
 **Wall of Thorns**

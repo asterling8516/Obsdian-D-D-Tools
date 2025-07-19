@@ -1,12 +1,3 @@
----
-title: Cloak of the Bat
-icon: ':luggage:'
-aliases: Cloak of the Bat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.67IGfSdtp5quoc1q
-tags:
-- Item
----
-
 # Cloak of the Bat
 
 **Cloak of the Bat**

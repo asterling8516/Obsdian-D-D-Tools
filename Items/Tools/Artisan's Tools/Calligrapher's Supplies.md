@@ -1,12 +1,3 @@
----
-title: Calligrapher's Supplies
-icon: ':luggage:'
-aliases: Calligrapher's Supplies
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6LvRSUe249dWYNBG
-tags:
-- Item
----
-
 # Calligrapher's Supplies
 
 **Calligrapher's Supplies**

@@ -1,12 +1,3 @@
----
-title: Elven Chain Mail
-icon: ':luggage:'
-aliases: Elven Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.x4IyP2mmFKzeGptu
-tags:
-- Item
----
-
 # Elven Chain Mail
 
 **Elven Chain Mail**

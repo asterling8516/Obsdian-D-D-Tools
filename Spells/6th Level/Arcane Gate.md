@@ -1,12 +1,3 @@
----
-title: Arcane Gate
-icon: ':luggage:'
-aliases: Arcane Gate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GsXjiRKTwjlI3YDa
-tags:
-- Item
----
-
 # Arcane Gate
 
 **Arcane Gate**

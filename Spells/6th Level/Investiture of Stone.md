@@ -1,12 +1,3 @@
----
-title: Investiture of Stone
-icon: ':luggage:'
-aliases: Investiture of Stone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gYLa7qlrEmtZWf3D
-tags:
-- Item
----
-
 # Investiture of Stone
 
 **Investiture of Stone**

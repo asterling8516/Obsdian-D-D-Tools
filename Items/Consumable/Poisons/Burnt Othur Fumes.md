@@ -1,12 +1,3 @@
----
-title: Burnt Othur Fumes
-icon: ':luggage:'
-aliases: Burnt Othur Fumes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AnPHXxEaxmYosm1C
-tags:
-- Item
----
-
 # Burnt Othur Fumes
 
 **Burnt Othur Fumes**

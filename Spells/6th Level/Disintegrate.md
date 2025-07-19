@@ -1,12 +1,3 @@
----
-title: Disintegrate
-icon: ':luggage:'
-aliases: Disintegrate
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Qqf6RgSc47FW5jTi
-tags:
-- Item
----
-
 # Disintegrate
 
 **Disintegrate**

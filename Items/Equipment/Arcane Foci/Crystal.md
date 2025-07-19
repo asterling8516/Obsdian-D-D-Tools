@@ -1,12 +1,3 @@
----
-title: Crystal
-icon: ':luggage:'
-aliases: Crystal
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fJCQYrpnAadrNtAK
-tags:
-- Item
----
-
 # Crystal
 
 **Crystal**

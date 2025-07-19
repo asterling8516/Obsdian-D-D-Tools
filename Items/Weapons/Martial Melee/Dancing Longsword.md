@@ -1,12 +1,3 @@
----
-title: Dancing Longsword
-icon: ':luggage:'
-aliases: Dancing Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PPKNlW9DjMjId9x9
-tags:
-- Item
----
-
 # Dancing Longsword
 
 **Dancing Longsword**

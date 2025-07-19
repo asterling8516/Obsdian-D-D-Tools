@@ -1,12 +1,3 @@
----
-title: Magic Stone
-icon: ':luggage:'
-aliases: Magic Stone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.A7V0XhCTmHRISnzJ
-tags:
-- Item
----
-
 # Magic Stone
 
 **Magic Stone**

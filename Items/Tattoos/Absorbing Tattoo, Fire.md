@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Fire
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Fire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.81EuFunR84P7niYy
-tags:
-- Item
----
-
 # Absorbing Tattoo, Fire
 
 **Absorbing Tattoo, Fire**

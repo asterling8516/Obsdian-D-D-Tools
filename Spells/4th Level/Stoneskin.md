@@ -1,12 +1,3 @@
----
-title: Stoneskin
-icon: ':luggage:'
-aliases: Stoneskin
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WQqjSNIqZPoGvTgA
-tags:
-- Item
----
-
 # Stoneskin
 
 **Stoneskin**

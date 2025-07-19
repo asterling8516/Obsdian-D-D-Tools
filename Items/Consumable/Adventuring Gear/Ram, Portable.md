@@ -1,12 +1,3 @@
----
-title: Ram, Portable
-icon: ':luggage:'
-aliases: Ram, Portable
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OQe46x6OMYO7YvYp
-tags:
-- Item
----
-
 # Ram, Portable
 
 **Ram, Portable**

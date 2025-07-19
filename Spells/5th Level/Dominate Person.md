@@ -1,12 +1,3 @@
----
-title: Dominate Person
-icon: ':luggage:'
-aliases: Dominate Person
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TtOEw5lCfiy52pFa
-tags:
-- Item
----
-
 # Dominate Person
 
 **Dominate Person**

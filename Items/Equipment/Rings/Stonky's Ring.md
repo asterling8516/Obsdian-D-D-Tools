@@ -1,12 +1,3 @@
----
-title: Stonky's Ring
-icon: ':luggage:'
-aliases: Stonky's Ring
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Xg4Gb3fo0Nknh1z4
-tags:
-- Item
----
-
 # Stonky's Ring
 
 **Stonky's Ring**

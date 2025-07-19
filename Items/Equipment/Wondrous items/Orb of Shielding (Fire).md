@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Fire)
-icon: ':luggage:'
-aliases: Orb of Shielding (Fire)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MGWheagn3oYwMZl9
-tags:
-- Item
----
-
 # Orb of Shielding (Fire)
 
 **Orb of Shielding (Fire)**

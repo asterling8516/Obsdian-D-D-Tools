@@ -1,12 +1,3 @@
----
-title: Living Armor, Plate
-icon: ':luggage:'
-aliases: Living Armor, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gRPcduqsqyLdHXV0
-tags:
-- Item
----
-
 # Living Armor, Plate
 
 **Living Armor, Plate**

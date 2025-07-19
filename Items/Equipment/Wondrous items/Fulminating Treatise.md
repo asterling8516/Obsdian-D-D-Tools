@@ -1,12 +1,3 @@
----
-title: Fulminating Treatise
-icon: ':luggage:'
-aliases: Fulminating Treatise
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oCvni9a5ghxEuRwh
-tags:
-- Item
----
-
 # Fulminating Treatise
 
 **Fulminating Treatise**

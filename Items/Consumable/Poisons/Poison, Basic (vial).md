@@ -1,12 +1,3 @@
----
-title: Poison, Basic (vial)
-icon: ':luggage:'
-aliases: Poison, Basic (vial)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9XWsaqpYpBfGGsfB
-tags:
-- Item
----
-
 # Poison, Basic (vial)
 
 **Poison, Basic (vial)**

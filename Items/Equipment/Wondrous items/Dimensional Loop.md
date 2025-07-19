@@ -1,12 +1,3 @@
----
-title: Dimensional Loop
-icon: ':luggage:'
-aliases: Dimensional Loop
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8xaGmQLieW2Cwvoe
-tags:
-- Item
----
-
 # Dimensional Loop
 
 **Dimensional Loop**

@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Automatic Rifle
-icon: ':luggage:'
-aliases: Nine Lives Stealer Automatic Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DhokUSyRPDATdLnz
-tags:
-- Item
----
-
 # Nine Lives Stealer Automatic Rifle
 
 **Nine Lives Stealer Automatic Rifle**

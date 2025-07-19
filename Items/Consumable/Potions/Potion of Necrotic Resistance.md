@@ -1,12 +1,3 @@
----
-title: Potion of Necrotic Resistance
-icon: ':luggage:'
-aliases: Potion of Necrotic Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oOkBGh9cVMaVDZCg
-tags:
-- Item
----
-
 # Potion of Necrotic Resistance
 
 **Potion of Necrotic Resistance**

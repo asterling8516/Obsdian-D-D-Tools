@@ -1,12 +1,3 @@
----
-title: Staff of the Adder
-icon: ':luggage:'
-aliases: Staff of the Adder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YHc8YvhLGJCrATOG
-tags:
-- Item
----
-
 # Staff of the Adder
 
 **Staff of the Adder**

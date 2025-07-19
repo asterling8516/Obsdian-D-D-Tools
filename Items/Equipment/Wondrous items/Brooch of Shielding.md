@@ -1,12 +1,3 @@
----
-title: Brooch of Shielding
-icon: ':luggage:'
-aliases: Brooch of Shielding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.65u29qCGZ7Nv9HwT
-tags:
-- Item
----
-
 # Brooch of Shielding
 
 **Brooch of Shielding**

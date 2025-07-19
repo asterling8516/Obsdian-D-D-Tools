@@ -1,12 +1,3 @@
----
-title: Flame Tongue Scimitar
-icon: ':luggage:'
-aliases: Flame Tongue Scimitar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.x8samzNGQHVnlGAr
-tags:
-- Item
----
-
 # Flame Tongue Scimitar
 
 **Flame Tongue Scimitar**

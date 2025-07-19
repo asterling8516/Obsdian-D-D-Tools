@@ -1,12 +1,3 @@
----
-title: Dragonhide Belt, +2
-icon: ':luggage:'
-aliases: Dragonhide Belt, +2
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DSsFDG88FOeZUW9Y
-tags:
-- Item
----
-
 # Dragonhide Belt, +2
 
 **Dragonhide Belt, +2**

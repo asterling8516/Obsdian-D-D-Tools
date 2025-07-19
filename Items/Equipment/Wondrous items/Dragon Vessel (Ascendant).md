@@ -1,12 +1,3 @@
----
-title: Dragon Vessel (Ascendant)
-icon: ':luggage:'
-aliases: Dragon Vessel (Ascendant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hiRYMeMDmzgBAjg5
-tags:
-- Item
----
-
 # Dragon Vessel (Ascendant)
 
 **Dragon Vessel (Ascendant)**

@@ -1,12 +1,3 @@
----
-title: Rary's Telepathic Bond
-icon: ':luggage:'
-aliases: Rary's Telepathic Bond
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.00o7GNrBsseiIK5J
-tags:
-- Item
----
-
 # Rary's Telepathic Bond
 
 **Rary's Telepathic Bond**

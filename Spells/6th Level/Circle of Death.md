@@ -1,12 +1,3 @@
----
-title: Circle of Death
-icon: ':luggage:'
-aliases: Circle of Death
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.W5EaawoNm0lE8SZN
-tags:
-- Item
----
-
 # Circle of Death
 
 **Circle of Death**

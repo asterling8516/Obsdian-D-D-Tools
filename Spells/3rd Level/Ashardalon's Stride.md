@@ -1,12 +1,3 @@
----
-title: Ashardalon's Stride
-icon: ':luggage:'
-aliases: Ashardalon's Stride
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Yz25Rl9bMGCx9bg1
-tags:
-- Item
----
-
 # Ashardalon's Stride
 
 **Ashardalon's Stride**

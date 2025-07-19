@@ -1,12 +1,3 @@
----
-title: Malice (Inhaled)
-icon: ':luggage:'
-aliases: Malice (Inhaled)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.S0zyx9u00dR6y1Mm
-tags:
-- Item
----
-
 # Malice (Inhaled)
 
 **Malice (Inhaled)**

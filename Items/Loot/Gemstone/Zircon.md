@@ -1,12 +1,3 @@
----
-title: Zircon
-icon: ':luggage:'
-aliases: Zircon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NVCYuLxDNgEtoiXQ
-tags:
-- Item
----
-
 # Zircon
 
 **Zircon**

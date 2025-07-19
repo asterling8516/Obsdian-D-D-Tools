@@ -1,12 +1,3 @@
----
-title: Armor of Poison Resistance, Half Plate
-icon: ':luggage:'
-aliases: Armor of Poison Resistance, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i8yKGr6e77UKSuZ9
-tags:
-- Item
----
-
 # Armor of Poison Resistance, Half Plate
 
 **Armor of Poison Resistance, Half Plate**

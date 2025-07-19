@@ -1,12 +1,3 @@
----
-title: Elemental Essence Shard, Water
-icon: ':luggage:'
-aliases: Elemental Essence Shard, Water
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Vc3gyXbHUiszjFx6
-tags:
-- Item
----
-
 # Elemental Essence Shard, Water
 
 **Elemental Essence Shard, Water**

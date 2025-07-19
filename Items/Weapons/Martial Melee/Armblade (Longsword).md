@@ -1,12 +1,3 @@
----
-title: Armblade (Longsword)
-icon: ':luggage:'
-aliases: Armblade (Longsword)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HfRV83OP6Dyn5cZM
-tags:
-- Item
----
-
 # Armblade (Longsword)
 
 **Armblade (Longsword)**

@@ -1,12 +1,3 @@
----
-title: Meld into Stone
-icon: ':luggage:'
-aliases: Meld into Stone
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.nJZRcsG9XeT1FmvW
-tags:
-- Item
----
-
 # Meld into Stone
 
 **Meld into Stone**

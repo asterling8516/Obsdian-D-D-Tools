@@ -1,12 +1,3 @@
----
-title: Adamantine Chain Mail
-icon: ':luggage:'
-aliases: Adamantine Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dZb8bGrV3ZzC7uUG
-tags:
-- Item
----
-
 # Adamantine Chain Mail
 
 **Adamantine Chain Mail**

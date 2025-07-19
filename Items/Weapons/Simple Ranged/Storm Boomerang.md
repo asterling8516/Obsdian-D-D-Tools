@@ -1,12 +1,3 @@
----
-title: Storm Boomerang
-icon: ':luggage:'
-aliases: Storm Boomerang
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Of26nTmB19bJcU9P
-tags:
-- Item
----
-
 # Storm Boomerang
 
 **Storm Boomerang**

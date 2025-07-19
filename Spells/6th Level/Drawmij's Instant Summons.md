@@ -1,12 +1,3 @@
----
-title: Drawmij's Instant Summons
-icon: ':luggage:'
-aliases: Drawmij's Instant Summons
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qrqTacO6vWHMx26E
-tags:
-- Item
----
-
 # Drawmij's Instant Summons
 
 **Drawmij's Instant Summons**

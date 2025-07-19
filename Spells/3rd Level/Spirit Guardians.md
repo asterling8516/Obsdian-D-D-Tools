@@ -1,12 +1,3 @@
----
-title: Spirit Guardians
-icon: ':luggage:'
-aliases: Spirit Guardians
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.PmMOlBuH7N7rJFmt
-tags:
-- Item
----
-
 # Spirit Guardians
 
 **Spirit Guardians**

@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y8eOGFZnSAAjp6PT
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Chain Mail
 
 **Armor of Acid Resistance, Chain Mail**

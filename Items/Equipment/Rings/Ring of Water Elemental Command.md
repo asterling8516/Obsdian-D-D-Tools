@@ -1,12 +1,3 @@
----
-title: Ring of Water Elemental Command
-icon: ':luggage:'
-aliases: Ring of Water Elemental Command
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wUNqNf27ICIYPXI9
-tags:
-- Item
----
-
 # Ring of Water Elemental Command
 
 **Ring of Water Elemental Command**

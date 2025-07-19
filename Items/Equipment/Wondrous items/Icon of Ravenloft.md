@@ -1,12 +1,3 @@
----
-title: Icon of Ravenloft
-icon: ':luggage:'
-aliases: Icon of Ravenloft
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Pxt4jOgb7iaCeM6g
-tags:
-- Item
----
-
 # Icon of Ravenloft
 
 **Icon of Ravenloft**

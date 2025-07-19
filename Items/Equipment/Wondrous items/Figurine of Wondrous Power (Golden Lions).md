@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Golden Lions)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Golden Lions)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2N8eStzaxzPE47CG
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Golden Lions)
 
 **Figurine of Wondrous Power (Golden Lions)**

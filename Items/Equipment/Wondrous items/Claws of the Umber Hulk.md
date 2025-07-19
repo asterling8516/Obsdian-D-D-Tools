@@ -1,12 +1,3 @@
----
-title: Claws of the Umber Hulk
-icon: ':luggage:'
-aliases: Claws of the Umber Hulk
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WUdacqxdjXBRXIr4
-tags:
-- Item
----
-
 # Claws of the Umber Hulk
 
 **Claws of the Umber Hulk**

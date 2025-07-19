@@ -1,12 +1,3 @@
----
-title: Armor of Radiant Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Radiant Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sZ80KbgTu5o6ax4k
-tags:
-- Item
----
-
 # Armor of Radiant Resistance, Ring Mail
 
 **Armor of Radiant Resistance, Ring Mail**

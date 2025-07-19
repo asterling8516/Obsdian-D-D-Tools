@@ -1,12 +1,3 @@
----
-title: Sword of Kas
-icon: ':luggage:'
-aliases: Sword of Kas
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SDWWN3MSaXVXbXq9
-tags:
-- Item
----
-
 # Sword of Kas
 
 **Sword of Kas**

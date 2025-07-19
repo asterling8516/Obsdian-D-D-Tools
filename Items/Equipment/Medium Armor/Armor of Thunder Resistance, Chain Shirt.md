@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.JiuXOklQuEqi8wXq
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Chain Shirt
 
 **Armor of Thunder Resistance, Chain Shirt**

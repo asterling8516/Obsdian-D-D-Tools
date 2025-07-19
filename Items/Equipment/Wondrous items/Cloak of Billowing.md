@@ -1,12 +1,3 @@
----
-title: Cloak of Billowing
-icon: ':luggage:'
-aliases: Cloak of Billowing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gRChBbf9cFN6eTvw
-tags:
-- Item
----
-
 # Cloak of Billowing
 
 **Cloak of Billowing**

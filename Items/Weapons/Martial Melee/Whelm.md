@@ -1,12 +1,3 @@
----
-title: Whelm
-icon: ':luggage:'
-aliases: Whelm
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CS16Mpxq53nQhsVY
-tags:
-- Item
----
-
 # Whelm
 
 **Whelm**

@@ -1,12 +1,3 @@
----
-title: Chain (10 feet)
-icon: ':luggage:'
-aliases: Chain (10 feet)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pnnVEcPFx0IKlV8U
-tags:
-- Item
----
-
 # Chain (10 feet)
 
 **Chain (10 feet)**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Viol
-icon: ':luggage:'
-aliases: Living Gloves, Viol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.PbVA8xWv4qDMf4KE
-tags:
-- Item
----
-
 # Living Gloves, Viol
 
 **Living Gloves, Viol**

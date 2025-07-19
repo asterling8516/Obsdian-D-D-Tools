@@ -1,12 +1,3 @@
----
-title: Moon Sickle, +1
-icon: ':luggage:'
-aliases: Moon Sickle, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kgwoazRM1P8TG8BK
-tags:
-- Item
----
-
 # Moon Sickle, +1
 
 **Moon Sickle, +1**

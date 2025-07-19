@@ -1,12 +1,3 @@
----
-title: Broom of Flying
-icon: ':luggage:'
-aliases: Broom of Flying
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oqpey9P74x7cj2aF
-tags:
-- Item
----
-
 # Broom of Flying
 
 **Broom of Flying**

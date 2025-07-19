@@ -1,12 +1,3 @@
----
-title: Hellfire Net
-icon: ':luggage:'
-aliases: Hellfire Net
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Q7yXToUOSktzwvWl
-tags:
-- Item
----
-
 # Hellfire Net
 
 **Hellfire Net**

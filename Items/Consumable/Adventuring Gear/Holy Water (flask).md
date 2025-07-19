@@ -1,12 +1,3 @@
----
-title: Holy Water (flask)
-icon: ':luggage:'
-aliases: Holy Water (flask)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9Bfq9YvDVY8bNzU7
-tags:
-- Item
----
-
 # Holy Water (flask)
 
 **Holy Water (flask)**

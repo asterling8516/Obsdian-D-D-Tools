@@ -1,12 +1,3 @@
----
-title: Mordenkainen's Sword
-icon: ':luggage:'
-aliases: Mordenkainen's Sword
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.mOpj1K95ox77vyb9
-tags:
-- Item
----
-
 # Mordenkainen's Sword
 
 **Mordenkainen's Sword**

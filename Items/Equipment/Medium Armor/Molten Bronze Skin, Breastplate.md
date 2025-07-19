@@ -1,12 +1,3 @@
----
-title: Molten Bronze Skin, Breastplate
-icon: ':luggage:'
-aliases: Molten Bronze Skin, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.24dYuFbOHMTc6QKf
-tags:
-- Item
----
-
 # Molten Bronze Skin, Breastplate
 
 **Molten Bronze Skin, Breastplate**

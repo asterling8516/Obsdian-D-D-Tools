@@ -1,12 +1,3 @@
----
-title: Armblade (Light hammer)
-icon: ':luggage:'
-aliases: Armblade (Light hammer)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.YV2EKx5vYot6ouc2
-tags:
-- Item
----
-
 # Armblade (Light hammer)
 
 **Armblade (Light hammer)**

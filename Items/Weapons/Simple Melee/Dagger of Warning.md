@@ -1,12 +1,3 @@
----
-title: Dagger of Warning
-icon: ':luggage:'
-aliases: Dagger of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6QkVwwCrNkUvu1mT
-tags:
-- Item
----
-
 # Dagger of Warning
 
 **Dagger of Warning**

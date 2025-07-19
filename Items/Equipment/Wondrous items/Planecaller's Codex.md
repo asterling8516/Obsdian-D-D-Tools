@@ -1,12 +1,3 @@
----
-title: Planecaller's Codex
-icon: ':luggage:'
-aliases: Planecaller's Codex
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.v6Ly5yaDLMY49OnG
-tags:
-- Item
----
-
 # Planecaller's Codex
 
 **Planecaller's Codex**

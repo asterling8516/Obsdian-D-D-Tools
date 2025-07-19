@@ -1,12 +1,3 @@
----
-title: Polymorph
-icon: ':luggage:'
-aliases: Polymorph
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.u1QGAm5lXTK76ZL4
-tags:
-- Item
----
-
 # Polymorph
 
 **Polymorph**

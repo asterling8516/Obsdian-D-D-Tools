@@ -1,12 +1,3 @@
----
-title: Spell Gem (Diamond)
-icon: ':luggage:'
-aliases: Spell Gem (Diamond)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hoScsiy3betYbP9Y
-tags:
-- Item
----
-
 # Spell Gem (Diamond)
 
 **Spell Gem (Diamond)**

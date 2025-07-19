@@ -1,12 +1,3 @@
----
-title: Ray of Enfeeblement
-icon: ':luggage:'
-aliases: Ray of Enfeeblement
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.VI07hdQEQYMEu6i6
-tags:
-- Item
----
-
 # Ray of Enfeeblement
 
 **Ray of Enfeeblement**

@@ -1,12 +1,3 @@
----
-title: Serpent Scale Armor
-icon: ':luggage:'
-aliases: Serpent Scale Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lpQuTbohKtaNSrve
-tags:
-- Item
----
-
 # Serpent Scale Armor
 
 **Serpent Scale Armor**

@@ -1,12 +1,3 @@
----
-title: Hoopak
-icon: ':luggage:'
-aliases: Hoopak
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.i3Oe9183mChP7nF1
-tags:
-- Item
----
-
 # Hoopak
 
 **Hoopak**

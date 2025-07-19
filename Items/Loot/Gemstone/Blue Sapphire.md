@@ -1,12 +1,3 @@
----
-title: Blue Sapphire
-icon: ':luggage:'
-aliases: Blue Sapphire
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XCyUn6mnYsgEdeFv
-tags:
-- Item
----
-
 # Blue Sapphire
 
 **Blue Sapphire**

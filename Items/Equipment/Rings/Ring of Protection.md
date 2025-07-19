@@ -1,12 +1,3 @@
----
-title: Ring of Protection
-icon: ':luggage:'
-aliases: Ring of Protection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.snHdabEQograZ6UX
-tags:
-- Item
----
-
 # Ring of Protection
 
 **Ring of Protection**

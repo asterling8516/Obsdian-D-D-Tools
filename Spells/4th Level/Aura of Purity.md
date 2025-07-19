@@ -1,12 +1,3 @@
----
-title: Aura of Purity
-icon: ':luggage:'
-aliases: Aura of Purity
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.V7za7rerEHeZQUhV
-tags:
-- Item
----
-
 # Aura of Purity
 
 **Aura of Purity**

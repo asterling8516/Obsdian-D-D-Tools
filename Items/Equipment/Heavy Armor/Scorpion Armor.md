@@ -1,12 +1,3 @@
----
-title: Scorpion Armor
-icon: ':luggage:'
-aliases: Scorpion Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MmkFw5eK30gKAFet
-tags:
-- Item
----
-
 # Scorpion Armor
 
 **Scorpion Armor**

@@ -1,12 +1,3 @@
----
-title: Animated Shield
-icon: ':luggage:'
-aliases: Animated Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZR8Etgj8e8tlaFcE
-tags:
-- Item
----
-
 # Animated Shield
 
 **Animated Shield**

@@ -1,12 +1,3 @@
----
-title: Black Crystal Tablet
-icon: ':luggage:'
-aliases: Black Crystal Tablet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yIMeXk2klLw37pj9
-tags:
-- Item
----
-
 # Black Crystal Tablet
 
 **Black Crystal Tablet**

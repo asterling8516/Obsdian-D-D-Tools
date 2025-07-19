@@ -1,12 +1,3 @@
----
-title: Bloodstone
-icon: ':luggage:'
-aliases: Bloodstone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zhIbZOChP4ez7Bj6
-tags:
-- Item
----
-
 # Bloodstone
 
 **Bloodstone**

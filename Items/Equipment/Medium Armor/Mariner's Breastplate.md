@@ -1,12 +1,3 @@
----
-title: Mariner's Breastplate
-icon: ':luggage:'
-aliases: Mariner's Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qdki6R02b33GfEsc
-tags:
-- Item
----
-
 # Mariner's Breastplate
 
 **Mariner's Breastplate**

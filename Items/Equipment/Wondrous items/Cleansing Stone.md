@@ -1,12 +1,3 @@
----
-title: Cleansing Stone
-icon: ':luggage:'
-aliases: Cleansing Stone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0ozlxqxvsXGQV7xo
-tags:
-- Item
----
-
 # Cleansing Stone
 
 **Cleansing Stone**

@@ -1,12 +1,3 @@
----
-title: Pipes of Haunting
-icon: ':luggage:'
-aliases: Pipes of Haunting
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5zZ3X2F9yf08vFmr
-tags:
-- Item
----
-
 # Pipes of Haunting
 
 **Pipes of Haunting**

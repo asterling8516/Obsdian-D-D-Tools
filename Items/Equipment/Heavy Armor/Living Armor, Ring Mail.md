@@ -1,12 +1,3 @@
----
-title: Living Armor, Ring Mail
-icon: ':luggage:'
-aliases: Living Armor, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.toonxOk69xHzexzh
-tags:
-- Item
----
-
 # Living Armor, Ring Mail
 
 **Living Armor, Ring Mail**

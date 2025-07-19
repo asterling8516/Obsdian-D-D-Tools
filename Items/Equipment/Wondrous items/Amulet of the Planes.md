@@ -1,12 +1,3 @@
----
-title: Amulet of the Planes
-icon: ':luggage:'
-aliases: Amulet of the Planes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0wFf8O7tloMno81X
-tags:
-- Item
----
-
 # Amulet of the Planes
 
 **Amulet of the Planes**

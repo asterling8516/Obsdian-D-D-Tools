@@ -1,12 +1,3 @@
----
-title: Tenser's Transformation
-icon: ':luggage:'
-aliases: Tenser's Transformation
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.9FAqolaHIvRJhqsz
-tags:
-- Item
----
-
 # Tenser's Transformation
 
 **Tenser's Transformation**

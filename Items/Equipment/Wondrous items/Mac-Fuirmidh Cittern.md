@@ -1,12 +1,3 @@
----
-title: Mac-Fuirmidh Cittern
-icon: ':luggage:'
-aliases: Mac-Fuirmidh Cittern
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.t9w8ihCudiinyuS8
-tags:
-- Item
----
-
 # Mac-Fuirmidh Cittern
 
 **Mac-Fuirmidh Cittern**

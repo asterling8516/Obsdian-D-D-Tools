@@ -1,12 +1,3 @@
----
-title: Bracelet of Rock Magic
-icon: ':luggage:'
-aliases: Bracelet of Rock Magic
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VMdZvE7E1dAx4ANF
-tags:
-- Item
----
-
 # Bracelet of Rock Magic
 
 **Bracelet of Rock Magic**

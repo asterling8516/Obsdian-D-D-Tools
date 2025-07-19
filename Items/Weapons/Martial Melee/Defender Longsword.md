@@ -1,12 +1,3 @@
----
-title: Defender Longsword
-icon: ':luggage:'
-aliases: Defender Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6gkWJJyoOSV7LKDw
-tags:
-- Item
----
-
 # Defender Longsword
 
 **Defender Longsword**

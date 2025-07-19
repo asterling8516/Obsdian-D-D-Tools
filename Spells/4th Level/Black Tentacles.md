@@ -1,12 +1,3 @@
----
-title: Black Tentacles
-icon: ':luggage:'
-aliases: Black Tentacles
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.esC9ZXPwQDKseqDg
-tags:
-- Item
----
-
 # Black Tentacles
 
 **Black Tentacles**

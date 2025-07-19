@@ -1,12 +1,3 @@
----
-title: Circle of Power
-icon: ':luggage:'
-aliases: Circle of Power
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.4CU7FObSx3zJ7nRO
-tags:
-- Item
----
-
 # Circle of Power
 
 **Circle of Power**

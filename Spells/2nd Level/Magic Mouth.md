@@ -1,12 +1,3 @@
----
-title: Magic Mouth
-icon: ':luggage:'
-aliases: Magic Mouth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.gx4tKTvV4cEUdgx0
-tags:
-- Item
----
-
 # Magic Mouth
 
 **Magic Mouth**

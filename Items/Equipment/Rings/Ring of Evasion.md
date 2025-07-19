@@ -1,12 +1,3 @@
----
-title: Ring of Evasion
-icon: ':luggage:'
-aliases: Ring of Evasion
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LHAGr4npXOAwHrOu
-tags:
-- Item
----
-
 # Ring of Evasion
 
 **Ring of Evasion**

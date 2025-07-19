@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fXal8ugFzyrQUglv
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Plate
 
 **Armor of Thunder Resistance, Plate**

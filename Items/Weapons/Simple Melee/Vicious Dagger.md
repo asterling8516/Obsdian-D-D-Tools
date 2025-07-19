@@ -1,12 +1,3 @@
----
-title: Vicious Dagger
-icon: ':luggage:'
-aliases: Vicious Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rPU7NSJPQiCnfp8d
-tags:
-- Item
----
-
 # Vicious Dagger
 
 **Vicious Dagger**

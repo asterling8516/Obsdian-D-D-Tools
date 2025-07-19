@@ -1,12 +1,3 @@
----
-title: Shocking Grasp
-icon: ':luggage:'
-aliases: Shocking Grasp
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.bRRF10UMUZtcWZg7
-tags:
-- Item
----
-
 # Shocking Grasp
 
 **Shocking Grasp**

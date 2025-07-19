@@ -1,12 +1,3 @@
----
-title: Staff of Adornment
-icon: ':luggage:'
-aliases: Staff of Adornment
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aHnXS5BGh7eCyNrM
-tags:
-- Item
----
-
 # Staff of Adornment
 
 **Staff of Adornment**

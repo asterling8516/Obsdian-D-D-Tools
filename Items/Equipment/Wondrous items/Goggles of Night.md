@@ -1,12 +1,3 @@
----
-title: Goggles of Night
-icon: ':luggage:'
-aliases: Goggles of Night
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.fgHF0JTjiuMtMVvS
-tags:
-- Item
----
-
 # Goggles of Night
 
 **Goggles of Night**

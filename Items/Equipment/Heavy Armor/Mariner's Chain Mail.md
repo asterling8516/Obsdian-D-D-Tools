@@ -1,12 +1,3 @@
----
-title: Mariner's Chain Mail
-icon: ':luggage:'
-aliases: Mariner's Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ET3pb3ZHHIBQ5hbZ
-tags:
-- Item
----
-
 # Mariner's Chain Mail
 
 **Mariner's Chain Mail**

@@ -1,12 +1,3 @@
----
-title: Far Gear
-icon: ':luggage:'
-aliases: Far Gear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.77ihiIfk67fi5Ztc
-tags:
-- Item
----
-
 # Far Gear
 
 **Far Gear**

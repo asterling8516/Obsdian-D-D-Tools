@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ngQluYiGJRicDMUy
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Scale Mail
 
 **Armor of Psychic Resistance, Scale Mail**

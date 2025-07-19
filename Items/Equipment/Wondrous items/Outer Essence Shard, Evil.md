@@ -1,12 +1,3 @@
----
-title: Outer Essence Shard, Evil
-icon: ':luggage:'
-aliases: Outer Essence Shard, Evil
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UOcrozTjELm1cLLM
-tags:
-- Item
----
-
 # Outer Essence Shard, Evil
 
 **Outer Essence Shard, Evil**

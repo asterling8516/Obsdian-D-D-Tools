@@ -1,12 +1,3 @@
----
-title: Shortsword, +1
-icon: ':luggage:'
-aliases: Shortsword, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ukdzSG6LXM9be6cV
-tags:
-- Item
----
-
 # Shortsword, +1
 
 **Shortsword, +1**

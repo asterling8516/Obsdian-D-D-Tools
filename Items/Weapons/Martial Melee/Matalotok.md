@@ -1,12 +1,3 @@
----
-title: Matalotok
-icon: ':luggage:'
-aliases: Matalotok
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.y2UPqk7BnmKVwOsH
-tags:
-- Item
----
-
 # Matalotok
 
 **Matalotok**

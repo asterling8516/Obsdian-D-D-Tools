@@ -1,12 +1,3 @@
----
-title: Gem of Seeing
-icon: ':luggage:'
-aliases: Gem of Seeing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dITO9YomCBlMrJu7
-tags:
-- Item
----
-
 # Gem of Seeing
 
 **Gem of Seeing**

@@ -1,12 +1,3 @@
----
-title: Bracers of firearms
-icon: ':luggage:'
-aliases: Bracers of firearms
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.swc79o6vwkEAzpEo
-tags:
-- Item
----
-
 # Bracers of firearms
 
 **Bracers of firearms**

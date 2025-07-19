@@ -1,12 +1,3 @@
----
-title: Korolnor Scepter
-icon: ':luggage:'
-aliases: Korolnor Scepter
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vHn8mLGQJj9qI0Sk
-tags:
-- Item
----
-
 # Korolnor Scepter
 
 **Korolnor Scepter**

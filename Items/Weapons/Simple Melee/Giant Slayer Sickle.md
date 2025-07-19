@@ -1,12 +1,3 @@
----
-title: Giant Slayer Sickle
-icon: ':luggage:'
-aliases: Giant Slayer Sickle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4ANhoi940Qz4Am0Y
-tags:
-- Item
----
-
 # Giant Slayer Sickle
 
 **Giant Slayer Sickle**

@@ -1,12 +1,3 @@
----
-title: Staff of the Python
-icon: ':luggage:'
-aliases: Staff of the Python
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nhEsUMrMgTKDGvyT
-tags:
-- Item
----
-
 # Staff of the Python
 
 **Staff of the Python**

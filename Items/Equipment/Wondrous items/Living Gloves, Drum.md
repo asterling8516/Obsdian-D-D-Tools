@@ -1,12 +1,3 @@
----
-title: Living Gloves, Drum
-icon: ':luggage:'
-aliases: Living Gloves, Drum
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.FeUA5wBmCE5daYgy
-tags:
-- Item
----
-
 # Living Gloves, Drum
 
 **Living Gloves, Drum**

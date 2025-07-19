@@ -1,12 +1,3 @@
----
-title: Giant Slayer Semiautomatic Pistol
-icon: ':luggage:'
-aliases: Giant Slayer Semiautomatic Pistol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IdvX7PRu0rTb6FJ7
-tags:
-- Item
----
-
 # Giant Slayer Semiautomatic Pistol
 
 **Giant Slayer Semiautomatic Pistol**

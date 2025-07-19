@@ -1,12 +1,3 @@
----
-title: Rod
-icon: ':luggage:'
-aliases: Rod
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.34ML8PblHqgxrSII
-tags:
-- Item
----
-
 # Rod
 
 **Rod**

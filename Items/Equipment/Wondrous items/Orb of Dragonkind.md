@@ -1,12 +1,3 @@
----
-title: Orb of Dragonkind
-icon: ':luggage:'
-aliases: Orb of Dragonkind
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.balKNupFuX1XwI7O
-tags:
-- Item
----
-
 # Orb of Dragonkind
 
 **Orb of Dragonkind**

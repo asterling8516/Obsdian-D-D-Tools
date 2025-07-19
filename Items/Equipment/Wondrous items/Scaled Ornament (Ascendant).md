@@ -1,12 +1,3 @@
----
-title: Scaled Ornament (Ascendant)
-icon: ':luggage:'
-aliases: Scaled Ornament (Ascendant)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VuwddQBTdYVxDc8d
-tags:
-- Item
----
-
 # Scaled Ornament (Ascendant)
 
 **Scaled Ornament (Ascendant)**

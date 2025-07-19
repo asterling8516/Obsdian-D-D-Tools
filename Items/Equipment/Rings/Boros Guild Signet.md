@@ -1,12 +1,3 @@
----
-title: Boros Guild Signet
-icon: ':luggage:'
-aliases: Boros Guild Signet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3YuGd3D8DBIUi32w
-tags:
-- Item
----
-
 # Boros Guild Signet
 
 **Boros Guild Signet**

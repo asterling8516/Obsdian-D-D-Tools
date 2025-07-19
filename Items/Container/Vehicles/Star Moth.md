@@ -1,12 +1,3 @@
----
-title: Star Moth
-icon: ':luggage:'
-aliases: Star Moth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1grk4ADGn03dfMOj
-tags:
-- Item
----
-
 # Star Moth
 
 **Star Moth**

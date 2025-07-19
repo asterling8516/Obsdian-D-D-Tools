@@ -1,12 +1,3 @@
----
-title: Hellfire Sling
-icon: ':luggage:'
-aliases: Hellfire Sling
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CVngTgfpzooLlTTo
-tags:
-- Item
----
-
 # Hellfire Sling
 
 **Hellfire Sling**

@@ -1,12 +1,3 @@
----
-title: Longsword of Warning
-icon: ':luggage:'
-aliases: Longsword of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NElVx75duc8akz8B
-tags:
-- Item
----
-
 # Longsword of Warning
 
 **Longsword of Warning**

@@ -1,12 +1,3 @@
----
-title: Inquisitive's Goggles
-icon: ':luggage:'
-aliases: Inquisitive's Goggles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XtiRpf3EDoWb8XNE
-tags:
-- Item
----
-
 # Inquisitive's Goggles
 
 **Inquisitive's Goggles**

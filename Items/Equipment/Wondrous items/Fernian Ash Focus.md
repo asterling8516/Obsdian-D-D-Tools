@@ -1,12 +1,3 @@
----
-title: Fernian Ash Focus
-icon: ':luggage:'
-aliases: Fernian Ash Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.owmxgMqCrwGWggEV
-tags:
-- Item
----
-
 # Fernian Ash Focus
 
 **Fernian Ash Focus**

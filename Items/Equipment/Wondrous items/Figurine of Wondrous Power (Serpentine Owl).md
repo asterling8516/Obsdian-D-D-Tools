@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Serpentine Owl)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Serpentine Owl)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lG48CI3esJqWZ0RH
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Serpentine Owl)
 
 **Figurine of Wondrous Power (Serpentine Owl)**

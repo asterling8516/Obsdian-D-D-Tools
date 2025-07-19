@@ -1,12 +1,3 @@
----
-title: Healing Word
-icon: ':luggage:'
-aliases: Healing Word
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.InNTBPrAaFtdSh1R
-tags:
-- Item
----
-
 # Healing Word
 
 **Healing Word**

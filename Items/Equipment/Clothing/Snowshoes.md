@@ -1,12 +1,3 @@
----
-title: Snowshoes
-icon: ':luggage:'
-aliases: Snowshoes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tgtycbSY2eBVze5K
-tags:
-- Item
----
-
 # Snowshoes
 
 **Snowshoes**

@@ -1,12 +1,3 @@
----
-title: Giant Slayer Trident
-icon: ':luggage:'
-aliases: Giant Slayer Trident
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.pQnoy1azSSxSmIDm
-tags:
-- Item
----
-
 # Giant Slayer Trident
 
 **Giant Slayer Trident**

@@ -1,12 +1,3 @@
----
-title: Hellfire Trident
-icon: ':luggage:'
-aliases: Hellfire Trident
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.c8ZKjAOZP0lpz0R7
-tags:
-- Item
----
-
 # Hellfire Trident
 
 **Hellfire Trident**

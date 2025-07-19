@@ -1,12 +1,3 @@
----
-title: Planar Binding
-icon: ':luggage:'
-aliases: Planar Binding
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dmPycGVfZdzbSmw0
-tags:
-- Item
----
-
 # Planar Binding
 
 **Planar Binding**

@@ -1,12 +1,3 @@
----
-title: Summon Aberration
-icon: ':luggage:'
-aliases: Summon Aberration
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.lxDhhHpq1VXcbLUS
-tags:
-- Item
----
-
 # Summon Aberration
 
 **Summon Aberration**

@@ -1,12 +1,3 @@
----
-title: Eye of Vecna
-icon: ':luggage:'
-aliases: Eye of Vecna
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.31QwknThWm9jaUad
-tags:
-- Item
----
-
 # Eye of Vecna
 
 **Eye of Vecna**

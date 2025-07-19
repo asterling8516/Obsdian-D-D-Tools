@@ -1,12 +1,3 @@
----
-title: Alchemist's Fire (flask)
-icon: ':luggage:'
-aliases: Alchemist's Fire (flask)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GDtuIYyb9qBu6VF5
-tags:
-- Item
----
-
 # Alchemist's Fire (flask)
 
 **Alchemist's Fire (flask)**

@@ -1,12 +1,3 @@
----
-title: Elemental Essence Shard, Earth
-icon: ':luggage:'
-aliases: Elemental Essence Shard, Earth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ehNIXosK9ImuajJ2
-tags:
-- Item
----
-
 # Elemental Essence Shard, Earth
 
 **Elemental Essence Shard, Earth**

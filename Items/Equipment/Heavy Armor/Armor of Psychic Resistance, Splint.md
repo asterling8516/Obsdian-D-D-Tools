@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GJ2ZodelVQ8ouP9Z
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Splint
 
 **Armor of Psychic Resistance, Splint**

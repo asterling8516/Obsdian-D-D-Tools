@@ -1,12 +1,3 @@
----
-title: Healer's Kit
-icon: ':luggage:'
-aliases: Healer's Kit
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KKuPfPKwnAGaTfnt
-tags:
-- Item
----
-
 # Healer's Kit
 
 **Healer's Kit**

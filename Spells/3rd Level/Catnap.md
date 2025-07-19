@@ -1,12 +1,3 @@
----
-title: Catnap
-icon: ':luggage:'
-aliases: Catnap
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.TMdA951M9b5rPH3b
-tags:
-- Item
----
-
 # Catnap
 
 **Catnap**

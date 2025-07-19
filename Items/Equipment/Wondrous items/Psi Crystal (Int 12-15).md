@@ -1,12 +1,3 @@
----
-title: Psi Crystal (Int 12-15)
-icon: ':luggage:'
-aliases: Psi Crystal (Int 12-15)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uzEpgs4Pl7jHDTkV
-tags:
-- Item
----
-
 # Psi Crystal (Int 12-15)
 
 **Psi Crystal (Int 12-15)**

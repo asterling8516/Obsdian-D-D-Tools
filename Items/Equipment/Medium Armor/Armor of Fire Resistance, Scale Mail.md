@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Scale Mail
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IO7cEeai7rowoD3g
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Scale Mail
 
 **Armor of Fire Resistance, Scale Mail**

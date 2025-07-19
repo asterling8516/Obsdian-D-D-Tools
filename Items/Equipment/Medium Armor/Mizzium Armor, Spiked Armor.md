@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Spiked Armor
-icon: ':luggage:'
-aliases: Mizzium Armor, Spiked Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dz5Od12lDsA1VLSS
-tags:
-- Item
----
-
 # Mizzium Armor, Spiked Armor
 
 **Mizzium Armor, Spiked Armor**

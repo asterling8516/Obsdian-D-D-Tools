@@ -1,12 +1,3 @@
----
-title: Wyvern Poison
-icon: ':luggage:'
-aliases: Wyvern Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.kpVyj3WBsl68TFYb
-tags:
-- Item
----
-
 # Wyvern Poison
 
 **Wyvern Poison**

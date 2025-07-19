@@ -1,12 +1,3 @@
----
-title: Hardened Ice Plate Armor
-icon: ':luggage:'
-aliases: Hardened Ice Plate Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.C0hA0a8fzkT12KM2
-tags:
-- Item
----
-
 # Hardened Ice Plate Armor
 
 **Hardened Ice Plate Armor**

@@ -1,12 +1,3 @@
----
-title: Hellfire Whip
-icon: ':luggage:'
-aliases: Hellfire Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2M3DWV5tj8zNIWGl
-tags:
-- Item
----
-
 # Hellfire Whip
 
 **Hellfire Whip**

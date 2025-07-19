@@ -1,12 +1,3 @@
----
-title: Potion of Storm Giant Strength
-icon: ':luggage:'
-aliases: Potion of Storm Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qyllp47ZSnDHvN8N
-tags:
-- Item
----
-
 # Potion of Storm Giant Strength
 
 **Potion of Storm Giant Strength**

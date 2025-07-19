@@ -1,12 +1,3 @@
----
-title: Giant Slayer Laser Rifle
-icon: ':luggage:'
-aliases: Giant Slayer Laser Rifle
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6XlHluZt3UUDqPDN
-tags:
-- Item
----
-
 # Giant Slayer Laser Rifle
 
 **Giant Slayer Laser Rifle**

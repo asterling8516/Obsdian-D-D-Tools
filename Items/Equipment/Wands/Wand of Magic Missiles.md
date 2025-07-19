@@ -1,12 +1,3 @@
----
-title: Wand of Magic Missiles
-icon: ':luggage:'
-aliases: Wand of Magic Missiles
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7MNWpKZogqpEV1Ft
-tags:
-- Item
----
-
 # Wand of Magic Missiles
 
 **Wand of Magic Missiles**

@@ -1,12 +1,3 @@
----
-title: Armblade (Javelin)
-icon: ':luggage:'
-aliases: Armblade (Javelin)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NiU12w6BXeQZLuKZ
-tags:
-- Item
----
-
 # Armblade (Javelin)
 
 **Armblade (Javelin)**

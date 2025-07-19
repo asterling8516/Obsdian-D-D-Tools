@@ -1,12 +1,3 @@
----
-title: Summon Beast
-icon: ':luggage:'
-aliases: Summon Beast
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JTFjhy8o9QYJVD3b
-tags:
-- Item
----
-
 # Summon Beast
 
 **Summon Beast**

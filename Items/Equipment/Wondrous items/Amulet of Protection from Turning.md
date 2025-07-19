@@ -1,12 +1,3 @@
----
-title: Amulet of Protection from Turning
-icon: ':luggage:'
-aliases: Amulet of Protection from Turning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IP6kj4FeUKeW5PlT
-tags:
-- Item
----
-
 # Amulet of Protection from Turning
 
 **Amulet of Protection from Turning**

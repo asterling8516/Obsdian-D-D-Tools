@@ -1,12 +1,3 @@
----
-title: Giant Slayer Rapier
-icon: ':luggage:'
-aliases: Giant Slayer Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dnB10LDdZoUwqNrz
-tags:
-- Item
----
-
 # Giant Slayer Rapier
 
 **Giant Slayer Rapier**

@@ -1,12 +1,3 @@
----
-title: Instrument of Scribing
-icon: ':luggage:'
-aliases: Instrument of Scribing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uEh33WXSZLy6zQJp
-tags:
-- Item
----
-
 # Instrument of Scribing
 
 **Instrument of Scribing**

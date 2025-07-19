@@ -1,12 +1,3 @@
----
-title: Jeweler's Tools
-icon: ':luggage:'
-aliases: Jeweler's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GW0mH8WCnejDyi64
-tags:
-- Item
----
-
 # Jeweler's Tools
 
 **Jeweler's Tools**

@@ -1,12 +1,3 @@
----
-title: Javelin, +3
-icon: ':luggage:'
-aliases: Javelin, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yjSGPNzD90XkP1Em
-tags:
-- Item
----
-
 # Javelin, +3
 
 **Javelin, +3**

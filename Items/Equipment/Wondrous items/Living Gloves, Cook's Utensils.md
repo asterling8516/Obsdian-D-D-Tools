@@ -1,12 +1,3 @@
----
-title: Living Gloves, Cook's Utensils
-icon: ':luggage:'
-aliases: Living Gloves, Cook's Utensils
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IsyHJQDBOoxzegTT
-tags:
-- Item
----
-
 # Living Gloves, Cook's Utensils
 
 **Living Gloves, Cook's Utensils**

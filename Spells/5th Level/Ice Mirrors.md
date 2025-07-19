@@ -1,12 +1,3 @@
----
-title: Ice Mirrors
-icon: ':luggage:'
-aliases: Ice Mirrors
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Xn6KQLGkmzjg22V1
-tags:
-- Item
----
-
 # Ice Mirrors
 
 **Ice Mirrors**

@@ -1,12 +1,3 @@
----
-title: Spies' Murmur
-icon: ':luggage:'
-aliases: Spies' Murmur
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GLhVpgXnTJvQ9Fax
-tags:
-- Item
----
-
 # Spies' Murmur
 
 **Spies' Murmur**

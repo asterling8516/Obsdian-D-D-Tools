@@ -1,12 +1,3 @@
----
-title: Protective Verses
-icon: ':luggage:'
-aliases: Protective Verses
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nes5LWGKn4Hc3eY3
-tags:
-- Item
----
-
 # Protective Verses
 
 **Protective Verses**

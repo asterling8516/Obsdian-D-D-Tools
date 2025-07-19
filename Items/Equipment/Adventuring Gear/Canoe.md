@@ -1,12 +1,3 @@
----
-title: Canoe
-icon: ':luggage:'
-aliases: Canoe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XpkthIW6K9sOk3E0
-tags:
-- Item
----
-
 # Canoe
 
 **Canoe**

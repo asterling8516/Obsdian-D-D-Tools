@@ -1,12 +1,3 @@
----
-title: Banishing Smite
-icon: ':luggage:'
-aliases: Banishing Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.EqpqrhSAGlyB9u4c
-tags:
-- Item
----
-
 # Banishing Smite
 
 **Banishing Smite**

@@ -1,12 +1,3 @@
----
-title: Potion of Hill Giant Strength
-icon: ':luggage:'
-aliases: Potion of Hill Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3MJVBUNlu33ZIemm
-tags:
-- Item
----
-
 # Potion of Hill Giant Strength
 
 **Potion of Hill Giant Strength**

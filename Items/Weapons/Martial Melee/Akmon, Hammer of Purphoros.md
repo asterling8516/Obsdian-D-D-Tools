@@ -1,12 +1,3 @@
----
-title: Akmon, Hammer of Purphoros
-icon: ':luggage:'
-aliases: Akmon, Hammer of Purphoros
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.wbgUBXxuce3k8KCi
-tags:
-- Item
----
-
 # Akmon, Hammer of Purphoros
 
 **Akmon, Hammer of Purphoros**

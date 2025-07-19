@@ -1,12 +1,3 @@
----
-title: Nether Scroll of Azumar
-icon: ':luggage:'
-aliases: Nether Scroll of Azumar
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.yghPjyY0xBHvrvPa
-tags:
-- Item
----
-
 # Nether Scroll of Azumar
 
 **Nether Scroll of Azumar**

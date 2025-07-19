@@ -1,12 +1,3 @@
----
-title: Vicious Warhammer
-icon: ':luggage:'
-aliases: Vicious Warhammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3LMjobZiQoc3at6J
-tags:
-- Item
----
-
 # Vicious Warhammer
 
 **Vicious Warhammer**

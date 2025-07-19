@@ -1,12 +1,3 @@
----
-title: Rope Trick
-icon: ':luggage:'
-aliases: Rope Trick
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.g1k9E2R2OH3KbSeN
-tags:
-- Item
----
-
 # Rope Trick
 
 **Rope Trick**

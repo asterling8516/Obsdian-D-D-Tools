@@ -1,12 +1,3 @@
----
-title: Figurine of Wondrous Power (Obsidian Steed)
-icon: ':luggage:'
-aliases: Figurine of Wondrous Power (Obsidian Steed)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WlM5qBB0u9mAtc6w
-tags:
-- Item
----
-
 # Figurine of Wondrous Power (Obsidian Steed)
 
 **Figurine of Wondrous Power (Obsidian Steed)**

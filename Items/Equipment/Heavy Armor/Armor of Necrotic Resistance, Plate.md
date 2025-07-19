@@ -1,12 +1,3 @@
----
-title: Armor of Necrotic Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Necrotic Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ExUJuZ6kxtNlMejM
-tags:
-- Item
----
-
 # Armor of Necrotic Resistance, Plate
 
 **Armor of Necrotic Resistance, Plate**

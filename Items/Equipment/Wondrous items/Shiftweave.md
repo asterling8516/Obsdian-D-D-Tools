@@ -1,12 +1,3 @@
----
-title: Shiftweave
-icon: ':luggage:'
-aliases: Shiftweave
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TEO4YvpRCoKmY788
-tags:
-- Item
----
-
 # Shiftweave
 
 **Shiftweave**

@@ -1,12 +1,3 @@
----
-title: Vicious Crossbow, Heavy
-icon: ':luggage:'
-aliases: Vicious Crossbow, Heavy
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZNPpfgps9molOthL
-tags:
-- Item
----
-
 # Vicious Crossbow, Heavy
 
 **Vicious Crossbow, Heavy**

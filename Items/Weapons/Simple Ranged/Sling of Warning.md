@@ -1,12 +1,3 @@
----
-title: Sling of Warning
-icon: ':luggage:'
-aliases: Sling of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.V7cN1bbxjymkOzx6
-tags:
-- Item
----
-
 # Sling of Warning
 
 **Sling of Warning**

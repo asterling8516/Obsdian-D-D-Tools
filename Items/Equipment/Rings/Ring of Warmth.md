@@ -1,12 +1,3 @@
----
-title: Ring of Warmth
-icon: ':luggage:'
-aliases: Ring of Warmth
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s2zvOpduKXbXFYb0
-tags:
-- Item
----
-
 # Ring of Warmth
 
 **Ring of Warmth**

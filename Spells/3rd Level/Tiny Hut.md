@@ -1,12 +1,3 @@
----
-title: Tiny Hut
-icon: ':luggage:'
-aliases: Tiny Hut
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.HNSE0AMXZp3e3jm0
-tags:
-- Item
----
-
 # Tiny Hut
 
 **Tiny Hut**

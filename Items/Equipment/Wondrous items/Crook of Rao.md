@@ -1,12 +1,3 @@
----
-title: Crook of Rao
-icon: ':luggage:'
-aliases: Crook of Rao
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KQXemhBSYq0Hcqs3
-tags:
-- Item
----
-
 # Crook of Rao
 
 **Crook of Rao**

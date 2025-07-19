@@ -1,12 +1,3 @@
----
-title: Greatclub
-icon: ':luggage:'
-aliases: Greatclub
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qM7zCKNiQTVUH1W4
-tags:
-- Item
----
-
 # Greatclub
 
 **Greatclub**

@@ -1,12 +1,3 @@
----
-title: Potion of Clairvoyance
-icon: ':luggage:'
-aliases: Potion of Clairvoyance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.xrAWfrKRBhQ5oHdJ
-tags:
-- Item
----
-
 # Potion of Clairvoyance
 
 **Potion of Clairvoyance**

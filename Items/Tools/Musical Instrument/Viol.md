@@ -1,12 +1,3 @@
----
-title: Viol
-icon: ':luggage:'
-aliases: Viol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.duOLb5kTvntF4adt
-tags:
-- Item
----
-
 # Viol
 
 **Viol**

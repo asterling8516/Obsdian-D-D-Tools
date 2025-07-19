@@ -1,12 +1,3 @@
----
-title: Mantle of Spell Resistance
-icon: ':luggage:'
-aliases: Mantle of Spell Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IBBk41Ku5XLYqZWl
-tags:
-- Item
----
-
 # Mantle of Spell Resistance
 
 **Mantle of Spell Resistance**

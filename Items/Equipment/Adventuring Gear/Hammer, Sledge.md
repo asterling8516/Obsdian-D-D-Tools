@@ -1,12 +1,3 @@
----
-title: Hammer, Sledge
-icon: ':luggage:'
-aliases: Hammer, Sledge
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OI9Ru6BarfvzntUI
-tags:
-- Item
----
-
 # Hammer, Sledge
 
 **Hammer, Sledge**

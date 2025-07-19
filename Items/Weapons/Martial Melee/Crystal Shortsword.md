@@ -1,12 +1,3 @@
----
-title: Crystal Shortsword
-icon: ':luggage:'
-aliases: Crystal Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.26X9kAJeC79S7Dnm
-tags:
-- Item
----
-
 # Crystal Shortsword
 
 **Crystal Shortsword**

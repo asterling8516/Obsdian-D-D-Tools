@@ -1,12 +1,3 @@
----
-title: Tinderbox
-icon: ':luggage:'
-aliases: Tinderbox
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XtilwF3ZJuCC9cWs
-tags:
-- Item
----
-
 # Tinderbox
 
 **Tinderbox**

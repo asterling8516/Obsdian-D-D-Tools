@@ -1,12 +1,3 @@
----
-title: Sling Bullets
-icon: ':luggage:'
-aliases: Sling Bullets
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E8nZBYJGUSts4obl
-tags:
-- Item
----
-
 # Sling Bullets
 
 **Sling Bullets**

@@ -1,12 +1,3 @@
----
-title: Lord's Ensemble
-icon: ':luggage:'
-aliases: Lord's Ensemble
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0IKN6YsrxX14eXVb
-tags:
-- Item
----
-
 # Lord's Ensemble
 
 **Lord's Ensemble**

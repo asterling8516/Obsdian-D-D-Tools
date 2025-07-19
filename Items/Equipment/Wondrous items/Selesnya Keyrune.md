@@ -1,12 +1,3 @@
----
-title: Selesnya Keyrune
-icon: ':luggage:'
-aliases: Selesnya Keyrune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XsBVLIzspaIblze1
-tags:
-- Item
----
-
 # Selesnya Keyrune
 
 **Selesnya Keyrune**

@@ -1,12 +1,3 @@
----
-title: Flame Tongue Handaxe
-icon: ':luggage:'
-aliases: Flame Tongue Handaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6XeVfcsZo0p0ElUt
-tags:
-- Item
----
-
 # Flame Tongue Handaxe
 
 **Flame Tongue Handaxe**

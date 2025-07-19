@@ -1,12 +1,3 @@
----
-title: Axe of the Dwarvish Lords
-icon: ':luggage:'
-aliases: Axe of the Dwarvish Lords
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VKHPysF5lHp83UCS
-tags:
-- Item
----
-
 # Axe of the Dwarvish Lords
 
 **Axe of the Dwarvish Lords**

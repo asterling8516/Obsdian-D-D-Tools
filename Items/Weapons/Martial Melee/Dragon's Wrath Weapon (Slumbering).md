@@ -1,12 +1,3 @@
----
-title: Dragon's Wrath Weapon (Slumbering)
-icon: ':luggage:'
-aliases: Dragon's Wrath Weapon (Slumbering)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b3Ix6T7JPucFRG09
-tags:
-- Item
----
-
 # Dragon's Wrath Weapon (Slumbering)
 
 **Dragon's Wrath Weapon (Slumbering)**

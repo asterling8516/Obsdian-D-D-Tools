@@ -1,12 +1,3 @@
----
-title: Manual of Gainful Exercise
-icon: ':luggage:'
-aliases: Manual of Gainful Exercise
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.nDsaE4d33s9S22FL
-tags:
-- Item
----
-
 # Manual of Gainful Exercise
 
 **Manual of Gainful Exercise**

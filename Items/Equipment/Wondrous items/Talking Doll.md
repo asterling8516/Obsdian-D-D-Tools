@@ -1,12 +1,3 @@
----
-title: Talking Doll
-icon: ':luggage:'
-aliases: Talking Doll
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sb1NWUeKEq9cfJuZ
-tags:
-- Item
----
-
 # Talking Doll
 
 **Talking Doll**

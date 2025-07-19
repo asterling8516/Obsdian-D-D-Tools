@@ -1,12 +1,3 @@
----
-title: Knock
-icon: ':luggage:'
-aliases: Knock
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.ayUCSXJ3fkXXFZ2M
-tags:
-- Item
----
-
 # Knock
 
 **Knock**

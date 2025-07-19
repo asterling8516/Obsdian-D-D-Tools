@@ -1,12 +1,3 @@
----
-title: Phantom Steed
-icon: ':luggage:'
-aliases: Phantom Steed
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.NFeROWVBaZVplxrI
-tags:
-- Item
----
-
 # Phantom Steed
 
 **Phantom Steed**

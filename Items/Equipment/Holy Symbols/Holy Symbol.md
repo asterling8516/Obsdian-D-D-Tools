@@ -1,12 +1,3 @@
----
-title: Holy Symbol
-icon: ':luggage:'
-aliases: Holy Symbol
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.KdqrS9GHC61MKamz
-tags:
-- Item
----
-
 # Holy Symbol
 
 **Holy Symbol**

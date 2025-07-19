@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Whip
-icon: ':luggage:'
-aliases: Nine Lives Stealer Whip
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vcYuJuQHKStKqfCV
-tags:
-- Item
----
-
 # Nine Lives Stealer Whip
 
 **Nine Lives Stealer Whip**

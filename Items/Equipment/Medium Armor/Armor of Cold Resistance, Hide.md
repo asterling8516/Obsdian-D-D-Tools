@@ -1,12 +1,3 @@
----
-title: Armor of Cold Resistance, Hide
-icon: ':luggage:'
-aliases: Armor of Cold Resistance, Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EzDkM6jM5P7kvN8y
-tags:
-- Item
----
-
 # Armor of Cold Resistance, Hide
 
 **Armor of Cold Resistance, Hide**

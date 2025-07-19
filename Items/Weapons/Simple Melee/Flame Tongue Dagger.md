@@ -1,12 +1,3 @@
----
-title: Flame Tongue Dagger
-icon: ':luggage:'
-aliases: Flame Tongue Dagger
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bBMi55ixYpP2hzmp
-tags:
-- Item
----
-
 # Flame Tongue Dagger
 
 **Flame Tongue Dagger**

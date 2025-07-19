@@ -1,12 +1,3 @@
----
-title: Lantern of Tracking (Dragons)
-icon: ':luggage:'
-aliases: Lantern of Tracking (Dragons)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LHvYR1h1f8n84tMg
-tags:
-- Item
----
-
 # Lantern of Tracking (Dragons)
 
 **Lantern of Tracking (Dragons)**

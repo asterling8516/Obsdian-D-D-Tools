@@ -1,12 +1,3 @@
----
-title: Cloak of Nightmares
-icon: ':luggage:'
-aliases: Cloak of Nightmares
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.htVmBJgCbGau4JAU
-tags:
-- Item
----
-
 # Cloak of Nightmares
 
 **Cloak of Nightmares**

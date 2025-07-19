@@ -1,12 +1,3 @@
----
-title: Hellfire Spear
-icon: ':luggage:'
-aliases: Hellfire Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.j1RM18fjHBv9EkO0
-tags:
-- Item
----
-
 # Hellfire Spear
 
 **Hellfire Spear**

@@ -1,12 +1,3 @@
----
-title: Control Flames
-icon: ':luggage:'
-aliases: Control Flames
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.274IAcyXhGNUtZRA
-tags:
-- Item
----
-
 # Control Flames
 
 **Control Flames**

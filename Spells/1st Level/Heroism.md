@@ -1,12 +1,3 @@
----
-title: Heroism
-icon: ':luggage:'
-aliases: Heroism
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.qmNgJXafADGDiuvO
-tags:
-- Item
----
-
 # Heroism
 
 **Heroism**

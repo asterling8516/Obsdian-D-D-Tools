@@ -1,12 +1,3 @@
----
-title: Candle of the Deep
-icon: ':luggage:'
-aliases: Candle of the Deep
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rEGlZWQMjw0Npo8j
-tags:
-- Item
----
-
 # Candle of the Deep
 
 **Candle of the Deep**

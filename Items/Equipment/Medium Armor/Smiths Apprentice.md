@@ -1,12 +1,3 @@
----
-title: Smiths Apprentice
-icon: ':luggage:'
-aliases: Smiths Apprentice
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hS2PQx4jJDepO2ni
-tags:
-- Item
----
-
 # Smiths Apprentice
 
 **Smiths Apprentice**

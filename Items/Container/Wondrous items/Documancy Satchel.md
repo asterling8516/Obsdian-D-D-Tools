@@ -1,12 +1,3 @@
----
-title: Documancy Satchel
-icon: ':luggage:'
-aliases: Documancy Satchel
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.iU7j42SskmczjeJi
-tags:
-- Item
----
-
 # Documancy Satchel
 
 **Documancy Satchel**

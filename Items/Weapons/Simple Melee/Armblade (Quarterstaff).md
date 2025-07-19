@@ -1,12 +1,3 @@
----
-title: Armblade (Quarterstaff)
-icon: ':luggage:'
-aliases: Armblade (Quarterstaff)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1860f85ue8KKD1pa
-tags:
-- Item
----
-
 # Armblade (Quarterstaff)
 
 **Armblade (Quarterstaff)**

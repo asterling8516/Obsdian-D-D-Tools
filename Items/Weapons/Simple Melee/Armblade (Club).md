@@ -1,12 +1,3 @@
----
-title: Armblade (Club)
-icon: ':luggage:'
-aliases: Armblade (Club)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bZb7IRwC3VizDIfo
-tags:
-- Item
----
-
 # Armblade (Club)
 
 **Armblade (Club)**

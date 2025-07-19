@@ -1,12 +1,3 @@
----
-title: Dreamlily
-icon: ':luggage:'
-aliases: Dreamlily
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lZaTz7TZMxBGjLUB
-tags:
-- Item
----
-
 # Dreamlily
 
 **Dreamlily**

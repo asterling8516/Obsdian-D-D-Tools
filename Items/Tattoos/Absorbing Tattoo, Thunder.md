@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Thunder
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Thunder
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mgtQyOeSQLSrN8xE
-tags:
-- Item
----
-
 # Absorbing Tattoo, Thunder
 
 **Absorbing Tattoo, Thunder**

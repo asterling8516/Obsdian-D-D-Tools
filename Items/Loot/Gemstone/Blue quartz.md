@@ -1,12 +1,3 @@
----
-title: Blue quartz
-icon: ':luggage:'
-aliases: Blue quartz
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m0psDsFvk8ilUhio
-tags:
-- Item
----
-
 # Blue quartz
 
 **Blue quartz**

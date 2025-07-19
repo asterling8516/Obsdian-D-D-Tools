@@ -1,12 +1,3 @@
----
-title: Cone of Cold
-icon: ':luggage:'
-aliases: Cone of Cold
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.i15mv87WAvbBx2X2
-tags:
-- Item
----
-
 # Cone of Cold
 
 **Cone of Cold**

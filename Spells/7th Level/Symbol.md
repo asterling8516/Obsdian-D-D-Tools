@@ -1,12 +1,3 @@
----
-title: Symbol
-icon: ':luggage:'
-aliases: Symbol
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.L0qBJLoMTwPhJ6D6
-tags:
-- Item
----
-
 # Symbol
 
 **Symbol**

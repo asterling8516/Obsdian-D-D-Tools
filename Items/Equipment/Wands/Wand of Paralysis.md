@@ -1,12 +1,3 @@
----
-title: Wand of Paralysis
-icon: ':luggage:'
-aliases: Wand of Paralysis
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UA04X1E0a91mS4QK
-tags:
-- Item
----
-
 # Wand of Paralysis
 
 **Wand of Paralysis**

@@ -1,12 +1,3 @@
----
-title: Bullets, Renaissance
-icon: ':luggage:'
-aliases: Bullets, Renaissance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ZL1wpvdZMMdV5vGF
-tags:
-- Item
----
-
 # Bullets, Renaissance
 
 **Bullets, Renaissance**

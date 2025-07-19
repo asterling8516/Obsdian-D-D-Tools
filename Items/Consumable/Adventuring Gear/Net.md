@@ -1,12 +1,3 @@
----
-title: Net
-icon: ':luggage:'
-aliases: Net
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UXKb2jM8OzD4Mjkh
-tags:
-- Item
----
-
 # Net
 
 **Net**

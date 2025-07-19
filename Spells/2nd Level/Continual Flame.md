@@ -1,12 +1,3 @@
----
-title: Continual Flame
-icon: ':luggage:'
-aliases: Continual Flame
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.w3DAlpwXk0x2Tufg
-tags:
-- Item
----
-
 # Continual Flame
 
 **Continual Flame**

@@ -1,12 +1,3 @@
----
-title: Dragon-Touched Focus (Slumbering)
-icon: ':luggage:'
-aliases: Dragon-Touched Focus (Slumbering)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.SPieEqb5OcRwtA76
-tags:
-- Item
----
-
 # Dragon-Touched Focus (Slumbering)
 
 **Dragon-Touched Focus (Slumbering)**

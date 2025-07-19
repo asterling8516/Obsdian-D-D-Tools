@@ -1,12 +1,3 @@
----
-title: Dominate Monster
-icon: ':luggage:'
-aliases: Dominate Monster
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jZ26KE0FPfWjZBA2
-tags:
-- Item
----
-
 # Dominate Monster
 
 **Dominate Monster**

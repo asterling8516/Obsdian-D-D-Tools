@@ -1,12 +1,3 @@
----
-title: Horn
-icon: ':luggage:'
-aliases: Horn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.T1a1wyW2Ujso2m4X
-tags:
-- Item
----
-
 # Horn
 
 **Horn**

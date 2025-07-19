@@ -1,12 +1,3 @@
----
-title: Dragon Wing Hand Crossbow
-icon: ':luggage:'
-aliases: Dragon Wing Hand Crossbow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9TJGxdZToHzgQ67z
-tags:
-- Item
----
-
 # Dragon Wing Hand Crossbow
 
 **Dragon Wing Hand Crossbow**

@@ -1,12 +1,3 @@
----
-title: Vicious Rapier, +1
-icon: ':luggage:'
-aliases: Vicious Rapier, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ym2lUrocTR1qU1gd
-tags:
-- Item
----
-
 # Vicious Rapier, +1
 
 **Vicious Rapier, +1**

@@ -1,12 +1,3 @@
----
-title: Time Stop
-icon: ':luggage:'
-aliases: Time Stop
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Roerh8CuAXD6BLyG
-tags:
-- Item
----
-
 # Time Stop
 
 **Time Stop**

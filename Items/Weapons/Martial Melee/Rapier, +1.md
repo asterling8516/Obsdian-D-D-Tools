@@ -1,12 +1,3 @@
----
-title: Rapier, +1
-icon: ':luggage:'
-aliases: Rapier, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aez3ErDveH1QgxWM
-tags:
-- Item
----
-
 # Rapier, +1
 
 **Rapier, +1**

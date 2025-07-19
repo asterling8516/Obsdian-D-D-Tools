@@ -1,12 +1,3 @@
----
-title: Crystal Ball
-icon: ':luggage:'
-aliases: Crystal Ball
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0pFmEF9XqzJBrBfp
-tags:
-- Item
----
-
 # Crystal Ball
 
 **Crystal Ball**

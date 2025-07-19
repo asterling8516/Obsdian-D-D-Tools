@@ -1,12 +1,3 @@
----
-title: Psychic Scream
-icon: ':luggage:'
-aliases: Psychic Scream
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.kdlP5b1PAJNcZ5v3
-tags:
-- Item
----
-
 # Psychic Scream
 
 **Psychic Scream**

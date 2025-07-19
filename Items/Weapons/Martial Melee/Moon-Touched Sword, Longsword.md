@@ -1,12 +1,3 @@
----
-title: Moon-Touched Sword, Longsword
-icon: ':luggage:'
-aliases: Moon-Touched Sword, Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.1l0f5kb6u4lqtgEr
-tags:
-- Item
----
-
 # Moon-Touched Sword, Longsword
 
 **Moon-Touched Sword, Longsword**

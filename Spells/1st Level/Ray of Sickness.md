@@ -1,12 +1,3 @@
----
-title: Ray of Sickness
-icon: ':luggage:'
-aliases: Ray of Sickness
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.W7hbkhEaNocZ7Hqm
-tags:
-- Item
----
-
 # Ray of Sickness
 
 **Ray of Sickness**

@@ -1,12 +1,3 @@
----
-title: Shortsword of Wounding
-icon: ':luggage:'
-aliases: Shortsword of Wounding
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lwJm2KJ8qMvZmvYh
-tags:
-- Item
----
-
 # Shortsword of Wounding
 
 **Shortsword of Wounding**

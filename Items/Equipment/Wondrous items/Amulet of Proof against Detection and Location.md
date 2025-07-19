@@ -1,12 +1,3 @@
----
-title: Amulet of Proof against Detection and Location
-icon: ':luggage:'
-aliases: Amulet of Proof against Detection and Location
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.w4iofMIoZz5N4leR
-tags:
-- Item
----
-
 # Amulet of Proof against Detection and Location
 
 **Amulet of Proof against Detection and Location**

@@ -1,12 +1,3 @@
----
-title: Dart of Warning
-icon: ':luggage:'
-aliases: Dart of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.P02Yvvu93VWMZU1a
-tags:
-- Item
----
-
 # Dart of Warning
 
 **Dart of Warning**

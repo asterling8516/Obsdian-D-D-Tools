@@ -1,12 +1,3 @@
----
-title: Mariner's Half Plate
-icon: ':luggage:'
-aliases: Mariner's Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.POkUrgP13oW32CwT
-tags:
-- Item
----
-
 # Mariner's Half Plate
 
 **Mariner's Half Plate**

@@ -1,12 +1,3 @@
----
-title: Green Dragon Mask
-icon: ':luggage:'
-aliases: Green Dragon Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LlYitWVi0pMs9agi
-tags:
-- Item
----
-
 # Green Dragon Mask
 
 **Green Dragon Mask**

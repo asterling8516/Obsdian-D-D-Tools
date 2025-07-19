@@ -1,12 +1,3 @@
----
-title: Witchlight Watch
-icon: ':luggage:'
-aliases: Witchlight Watch
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Mk2J4LrNTLEQUHMv
-tags:
-- Item
----
-
 # Witchlight Watch
 
 **Witchlight Watch**

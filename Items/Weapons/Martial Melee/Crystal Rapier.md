@@ -1,12 +1,3 @@
----
-title: Crystal Rapier
-icon: ':luggage:'
-aliases: Crystal Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7hi8B6ZsDA7R7T65
-tags:
-- Item
----
-
 # Crystal Rapier
 
 **Crystal Rapier**

@@ -1,12 +1,3 @@
----
-title: Damselfly Ship
-icon: ':luggage:'
-aliases: Damselfly Ship
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.VtwJL31Nr7jBLsQt
-tags:
-- Item
----
-
 # Damselfly Ship
 
 **Damselfly Ship**

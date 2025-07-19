@@ -1,12 +1,3 @@
----
-title: Ring of Thunder Resistance
-icon: ':luggage:'
-aliases: Ring of Thunder Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Z6Up3nIitYSGQkX5
-tags:
-- Item
----
-
 # Ring of Thunder Resistance
 
 **Ring of Thunder Resistance**

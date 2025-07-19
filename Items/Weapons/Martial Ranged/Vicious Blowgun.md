@@ -1,12 +1,3 @@
----
-title: Vicious Blowgun
-icon: ':luggage:'
-aliases: Vicious Blowgun
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8tygo30jfQKjkdd0
-tags:
-- Item
----
-
 # Vicious Blowgun
 
 **Vicious Blowgun**

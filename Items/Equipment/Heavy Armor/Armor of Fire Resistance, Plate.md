@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Plate
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Yrd1hiT9RfUt2Z8M
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Plate
 
 **Armor of Fire Resistance, Plate**

@@ -1,12 +1,3 @@
----
-title: Potion of Stone Giant Strength
-icon: ':luggage:'
-aliases: Potion of Stone Giant Strength
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Beqzw9bkO3LgrxaU
-tags:
-- Item
----
-
 # Potion of Stone Giant Strength
 
 **Potion of Stone Giant Strength**

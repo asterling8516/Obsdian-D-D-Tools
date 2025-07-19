@@ -1,12 +1,3 @@
----
-title: Horn of Valhalla (Bronze)
-icon: ':luggage:'
-aliases: Horn of Valhalla (Bronze)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.GnhklPystHk1yhgr
-tags:
-- Item
----
-
 # Horn of Valhalla (Bronze)
 
 **Horn of Valhalla (Bronze)**

@@ -1,12 +1,3 @@
----
-title: Control Water
-icon: ':luggage:'
-aliases: Control Water
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.VVjfi0SwlfhhyrBK
-tags:
-- Item
----
-
 # Control Water
 
 **Control Water**

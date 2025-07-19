@@ -1,12 +1,3 @@
----
-title: Crystal Ball of True Seeing
-icon: ':luggage:'
-aliases: Crystal Ball of True Seeing
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UkrXuspQuXIoyBdb
-tags:
-- Item
----
-
 # Crystal Ball of True Seeing
 
 **Crystal Ball of True Seeing**

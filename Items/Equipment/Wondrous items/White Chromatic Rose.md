@@ -1,12 +1,3 @@
----
-title: White Chromatic Rose
-icon: ':luggage:'
-aliases: White Chromatic Rose
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.osIJM3QUS3CEaR1D
-tags:
-- Item
----
-
 # White Chromatic Rose
 
 **White Chromatic Rose**

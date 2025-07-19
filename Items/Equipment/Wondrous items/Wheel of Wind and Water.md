@@ -1,12 +1,3 @@
----
-title: Wheel of Wind and Water
-icon: ':luggage:'
-aliases: Wheel of Wind and Water
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.s14AWmPQo5WH5Mxy
-tags:
-- Item
----
-
 # Wheel of Wind and Water
 
 **Wheel of Wind and Water**

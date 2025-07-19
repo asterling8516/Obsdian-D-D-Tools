@@ -1,12 +1,3 @@
----
-title: Flame Blade
-icon: ':luggage:'
-aliases: Flame Blade
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.xwhafkcxBuWT8woG
-tags:
-- Item
----
-
 # Flame Blade
 
 **Flame Blade**

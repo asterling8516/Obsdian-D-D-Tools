@@ -1,12 +1,3 @@
----
-title: Compelled Duel
-icon: ':luggage:'
-aliases: Compelled Duel
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.axZRstc4jxTSD0lP
-tags:
-- Item
----
-
 # Compelled Duel
 
 **Compelled Duel**

@@ -1,12 +1,3 @@
----
-title: Talarith
-icon: ':luggage:'
-aliases: Talarith
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.4Zp78DjNx3gGQZi2
-tags:
-- Item
----
-
 # Talarith
 
 **Talarith**

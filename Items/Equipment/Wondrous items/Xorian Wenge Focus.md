@@ -1,12 +1,3 @@
----
-title: Xorian Wenge Focus
-icon: ':luggage:'
-aliases: Xorian Wenge Focus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bd86HzpjrZdGpcYJ
-tags:
-- Item
----
-
 # Xorian Wenge Focus
 
 **Xorian Wenge Focus**

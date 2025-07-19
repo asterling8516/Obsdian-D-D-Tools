@@ -1,12 +1,3 @@
----
-title: Mask of the Beast
-icon: ':luggage:'
-aliases: Mask of the Beast
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.XmSN7w1OeUp0E7iA
-tags:
-- Item
----
-
 # Mask of the Beast
 
 **Mask of the Beast**

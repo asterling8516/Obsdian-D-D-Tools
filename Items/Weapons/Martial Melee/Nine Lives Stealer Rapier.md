@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Rapier
-icon: ':luggage:'
-aliases: Nine Lives Stealer Rapier
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.vsCCFHj8K7e158CW
-tags:
-- Item
----
-
 # Nine Lives Stealer Rapier
 
 **Nine Lives Stealer Rapier**

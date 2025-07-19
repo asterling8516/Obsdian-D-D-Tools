@@ -1,12 +1,3 @@
----
-title: Potion of Aqueous Form
-icon: ':luggage:'
-aliases: Potion of Aqueous Form
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.NUrhmaorLIwv0X1P
-tags:
-- Item
----
-
 # Potion of Aqueous Form
 
 **Potion of Aqueous Form**

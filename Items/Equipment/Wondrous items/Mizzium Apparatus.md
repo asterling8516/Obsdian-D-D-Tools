@@ -1,12 +1,3 @@
----
-title: Mizzium Apparatus
-icon: ':luggage:'
-aliases: Mizzium Apparatus
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2xpebS8CO42btdC1
-tags:
-- Item
----
-
 # Mizzium Apparatus
 
 **Mizzium Apparatus**

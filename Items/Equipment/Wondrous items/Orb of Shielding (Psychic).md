@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Psychic)
-icon: ':luggage:'
-aliases: Orb of Shielding (Psychic)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Clc5IGWwtomq7hBB
-tags:
-- Item
----
-
 # Orb of Shielding (Psychic)
 
 **Orb of Shielding (Psychic)**

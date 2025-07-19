@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Battleaxe
-icon: ':luggage:'
-aliases: Nine Lives Stealer Battleaxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.N1CyaBNUoWYr8LCr
-tags:
-- Item
----
-
 # Nine Lives Stealer Battleaxe
 
 **Nine Lives Stealer Battleaxe**

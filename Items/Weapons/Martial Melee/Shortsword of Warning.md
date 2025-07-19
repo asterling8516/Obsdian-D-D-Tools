@@ -1,12 +1,3 @@
----
-title: Shortsword of Warning
-icon: ':luggage:'
-aliases: Shortsword of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lBKNnQZ8P1iXXeua
-tags:
-- Item
----
-
 # Shortsword of Warning
 
 **Shortsword of Warning**

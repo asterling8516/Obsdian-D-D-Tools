@@ -1,12 +1,3 @@
----
-title: Pot of Awakening
-icon: ':luggage:'
-aliases: Pot of Awakening
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zBj9CQxDlBxJRpGW
-tags:
-- Item
----
-
 # Pot of Awakening
 
 **Pot of Awakening**

@@ -1,12 +1,3 @@
----
-title: Spirit Shroud
-icon: ':luggage:'
-aliases: Spirit Shroud
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.x47GAmJyP2wjG5tk
-tags:
-- Item
----
-
 # Spirit Shroud
 
 **Spirit Shroud**

@@ -1,12 +1,3 @@
----
-title: Potion of Comprehension
-icon: ':luggage:'
-aliases: Potion of Comprehension
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.noQ3snsRP1JJSuyH
-tags:
-- Item
----
-
 # Potion of Comprehension
 
 **Potion of Comprehension**

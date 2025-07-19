@@ -1,12 +1,3 @@
----
-title: Unbreakable Arrow
-icon: ':luggage:'
-aliases: Unbreakable Arrow
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.k7Hy3nPnzqYagW7Y
-tags:
-- Item
----
-
 # Unbreakable Arrow
 
 **Unbreakable Arrow**

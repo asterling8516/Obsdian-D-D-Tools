@@ -1,12 +1,3 @@
----
-title: Project Image
-icon: ':luggage:'
-aliases: Project Image
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Ic2w2YBUe6yIMPIw
-tags:
-- Item
----
-
 # Project Image
 
 **Project Image**

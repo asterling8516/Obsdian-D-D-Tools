@@ -1,12 +1,3 @@
----
-title: Bottle of Boundless Coffee
-icon: ':luggage:'
-aliases: Bottle of Boundless Coffee
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.5WFDpCH6jVDfyzL5
-tags:
-- Item
----
-
 # Bottle of Boundless Coffee
 
 **Bottle of Boundless Coffee**

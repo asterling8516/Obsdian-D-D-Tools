@@ -1,12 +1,3 @@
----
-title: Clothing, cold weather
-icon: ':luggage:'
-aliases: Clothing, cold weather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.m15YvtCEyn19Fpbb
-tags:
-- Item
----
-
 # Clothing, cold weather
 
 **Clothing, cold weather**

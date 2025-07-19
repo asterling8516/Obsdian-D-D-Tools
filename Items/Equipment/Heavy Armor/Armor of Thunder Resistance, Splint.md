@@ -1,12 +1,3 @@
----
-title: Armor of Thunder Resistance, Splint
-icon: ':luggage:'
-aliases: Armor of Thunder Resistance, Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.qOcMStYOHNCVO5bQ
-tags:
-- Item
----
-
 # Armor of Thunder Resistance, Splint
 
 **Armor of Thunder Resistance, Splint**

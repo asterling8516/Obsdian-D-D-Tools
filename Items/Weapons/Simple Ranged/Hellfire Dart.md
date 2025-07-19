@@ -1,12 +1,3 @@
----
-title: Hellfire Dart
-icon: ':luggage:'
-aliases: Hellfire Dart
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.CPYAiO23ATC1D3tV
-tags:
-- Item
----
-
 # Hellfire Dart
 
 **Hellfire Dart**

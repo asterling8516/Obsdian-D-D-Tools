@@ -1,12 +1,3 @@
----
-title: Adamantine Scale Mail
-icon: ':luggage:'
-aliases: Adamantine Scale Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.g2SzrDNI38euTv72
-tags:
-- Item
----
-
 # Adamantine Scale Mail
 
 **Adamantine Scale Mail**

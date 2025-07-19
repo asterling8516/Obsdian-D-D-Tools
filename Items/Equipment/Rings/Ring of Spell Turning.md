@@ -1,12 +1,3 @@
----
-title: Ring of Spell Turning
-icon: ':luggage:'
-aliases: Ring of Spell Turning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.LaFBqIxVUOUn2OZc
-tags:
-- Item
----
-
 # Ring of Spell Turning
 
 **Ring of Spell Turning**

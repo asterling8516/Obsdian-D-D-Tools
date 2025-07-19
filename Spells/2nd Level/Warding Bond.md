@@ -1,12 +1,3 @@
----
-title: Warding Bond
-icon: ':luggage:'
-aliases: Warding Bond
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JKxQ4lXSFzv4O4qJ
-tags:
-- Item
----
-
 # Warding Bond
 
 **Warding Bond**

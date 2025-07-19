@@ -1,12 +1,3 @@
----
-title: Saint Markovia's Thighbone
-icon: ':luggage:'
-aliases: Saint Markovia's Thighbone
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.R7xNZ3anQvg1ZiNA
-tags:
-- Item
----
-
 # Saint Markovia's Thighbone
 
 **Saint Markovia's Thighbone**

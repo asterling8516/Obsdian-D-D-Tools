@@ -1,12 +1,3 @@
----
-title: Ioun Stone of Mastery
-icon: ':luggage:'
-aliases: Ioun Stone of Mastery
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gkQAp0m10frcHO53
-tags:
-- Item
----
-
 # Ioun Stone of Mastery
 
 **Ioun Stone of Mastery**

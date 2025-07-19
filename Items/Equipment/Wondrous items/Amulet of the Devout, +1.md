@@ -1,12 +1,3 @@
----
-title: Amulet of the Devout, +1
-icon: ':luggage:'
-aliases: Amulet of the Devout, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.udiNy7wcl1jvSZ46
-tags:
-- Item
----
-
 # Amulet of the Devout, +1
 
 **Amulet of the Devout, +1**

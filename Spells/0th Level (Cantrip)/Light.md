@@ -1,12 +1,3 @@
----
-title: Light
-icon: ':luggage:'
-aliases: Light
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GlninGmd7ap8Pzwm
-tags:
-- Item
----
-
 # Light
 
 **Light**

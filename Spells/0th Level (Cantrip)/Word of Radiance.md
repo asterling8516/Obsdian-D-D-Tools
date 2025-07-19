@@ -1,12 +1,3 @@
----
-title: Word of Radiance
-icon: ':luggage:'
-aliases: Word of Radiance
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.h29mXqV9vR2B44Of
-tags:
-- Item
----
-
 # Word of Radiance
 
 **Word of Radiance**

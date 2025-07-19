@@ -1,12 +1,3 @@
----
-title: Agitated Armor
-icon: ':luggage:'
-aliases: Agitated Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rpm06pR4EWUnPG1k
-tags:
-- Item
----
-
 # Agitated Armor
 
 **Agitated Armor**

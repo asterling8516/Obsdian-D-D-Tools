@@ -1,12 +1,3 @@
----
-title: Pyxis of Pandemonium
-icon: ':luggage:'
-aliases: Pyxis of Pandemonium
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gg932jIUHQqyLKqJ
-tags:
-- Item
----
-
 # Pyxis of Pandemonium
 
 **Pyxis of Pandemonium**

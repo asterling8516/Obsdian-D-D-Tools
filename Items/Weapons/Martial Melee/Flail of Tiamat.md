@@ -1,12 +1,3 @@
----
-title: Flail of Tiamat
-icon: ':luggage:'
-aliases: Flail of Tiamat
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7v5ZPCymA4bTrTjP
-tags:
-- Item
----
-
 # Flail of Tiamat
 
 **Flail of Tiamat**

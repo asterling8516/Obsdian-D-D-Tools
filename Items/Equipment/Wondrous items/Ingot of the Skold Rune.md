@@ -1,12 +1,3 @@
----
-title: Ingot of the Skold Rune
-icon: ':luggage:'
-aliases: Ingot of the Skold Rune
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.7XrwwG0SM1zajnmX
-tags:
-- Item
----
-
 # Ingot of the Skold Rune
 
 **Ingot of the Skold Rune**

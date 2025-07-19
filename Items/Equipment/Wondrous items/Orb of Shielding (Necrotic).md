@@ -1,12 +1,3 @@
----
-title: Orb of Shielding (Necrotic)
-icon: ':luggage:'
-aliases: Orb of Shielding (Necrotic)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ClQulhGTb1xDLMwN
-tags:
-- Item
----
-
 # Orb of Shielding (Necrotic)
 
 **Orb of Shielding (Necrotic)**

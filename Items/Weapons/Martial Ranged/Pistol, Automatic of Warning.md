@@ -1,12 +1,3 @@
----
-title: Pistol, Automatic of Warning
-icon: ':luggage:'
-aliases: Pistol, Automatic of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.jXPJfazR8wcGO9pI
-tags:
-- Item
----
-
 # Pistol, Automatic of Warning
 
 **Pistol, Automatic of Warning**

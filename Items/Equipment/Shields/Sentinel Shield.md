@@ -1,12 +1,3 @@
----
-title: Sentinel Shield
-icon: ':luggage:'
-aliases: Sentinel Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3x0NbyzQsdvDvv1l
-tags:
-- Item
----
-
 # Sentinel Shield
 
 **Sentinel Shield**

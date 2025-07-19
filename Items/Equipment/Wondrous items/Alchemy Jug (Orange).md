@@ -1,12 +1,3 @@
----
-title: Alchemy Jug (Orange)
-icon: ':luggage:'
-aliases: Alchemy Jug (Orange)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9NwuQrQIuG4bX7kr
-tags:
-- Item
----
-
 # Alchemy Jug (Orange)
 
 **Alchemy Jug (Orange)**

@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Chain Shirt
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Chain Shirt
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.MsEwAeB675xaRs9C
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Chain Shirt
 
 **Armor of Psychic Resistance, Chain Shirt**

@@ -1,12 +1,3 @@
----
-title: Crystal Ball of Mind Reading
-icon: ':luggage:'
-aliases: Crystal Ball of Mind Reading
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.uEBy5wnxDqSlMQYE
-tags:
-- Item
----
-
 # Crystal Ball of Mind Reading
 
 **Crystal Ball of Mind Reading**

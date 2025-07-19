@@ -1,12 +1,3 @@
----
-title: Mizzium Armor, Plate
-icon: ':luggage:'
-aliases: Mizzium Armor, Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dLMk3830Yk1WT4gA
-tags:
-- Item
----
-
 # Mizzium Armor, Plate
 
 **Mizzium Armor, Plate**

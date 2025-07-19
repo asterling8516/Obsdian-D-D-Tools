@@ -1,12 +1,3 @@
----
-title: Soul Harvester
-icon: ':luggage:'
-aliases: Soul Harvester
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.X7HoVWMOBf2k2MPv
-tags:
-- Item
----
-
 # Soul Harvester
 
 **Soul Harvester**

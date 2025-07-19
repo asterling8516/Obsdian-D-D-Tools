@@ -1,12 +1,3 @@
----
-title: Armor of Acid Resistance, Studded Leather
-icon: ':luggage:'
-aliases: Armor of Acid Resistance, Studded Leather
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.HWmxrAjy50RYYTdU
-tags:
-- Item
----
-
 # Armor of Acid Resistance, Studded Leather
 
 **Armor of Acid Resistance, Studded Leather**

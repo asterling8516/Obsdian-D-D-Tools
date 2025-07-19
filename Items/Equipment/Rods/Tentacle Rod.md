@@ -1,12 +1,3 @@
----
-title: Tentacle Rod
-icon: ':luggage:'
-aliases: Tentacle Rod
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.AQAcYqnHz7nSgQ9g
-tags:
-- Item
----
-
 # Tentacle Rod
 
 **Tentacle Rod**

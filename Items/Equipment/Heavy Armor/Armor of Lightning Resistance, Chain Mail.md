@@ -1,12 +1,3 @@
----
-title: Armor of Lightning Resistance, Chain Mail
-icon: ':luggage:'
-aliases: Armor of Lightning Resistance, Chain Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Gi7ZoRg4sjXB9t7Y
-tags:
-- Item
----
-
 # Armor of Lightning Resistance, Chain Mail
 
 **Armor of Lightning Resistance, Chain Mail**

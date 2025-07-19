@@ -1,12 +1,3 @@
----
-title: Shotgun of Warning
-icon: ':luggage:'
-aliases: Shotgun of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6B9rRhbaYdxu4Pz0
-tags:
-- Item
----
-
 # Shotgun of Warning
 
 **Shotgun of Warning**

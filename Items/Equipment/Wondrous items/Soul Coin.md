@@ -1,12 +1,3 @@
----
-title: Soul Coin
-icon: ':luggage:'
-aliases: Soul Coin
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sMCQHcOMeta0efVw
-tags:
-- Item
----
-
 # Soul Coin
 
 **Soul Coin**

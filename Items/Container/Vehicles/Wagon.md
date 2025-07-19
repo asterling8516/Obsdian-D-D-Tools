@@ -1,12 +1,3 @@
----
-title: Wagon
-icon: ':luggage:'
-aliases: Wagon
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.M4F1oOZweNyTjnsO
-tags:
-- Item
----
-
 # Wagon
 
 **Wagon**

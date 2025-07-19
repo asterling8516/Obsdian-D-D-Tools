@@ -1,12 +1,3 @@
----
-title: Armor of Force Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Force Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.hx3e4GcKvEd9eHPz
-tags:
-- Item
----
-
 # Armor of Force Resistance, Ring Mail
 
 **Armor of Force Resistance, Ring Mail**

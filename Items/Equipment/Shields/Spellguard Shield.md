@@ -1,12 +1,3 @@
----
-title: Spellguard Shield
-icon: ':luggage:'
-aliases: Spellguard Shield
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aTYhkSi2E3TrVvH6
-tags:
-- Item
----
-
 # Spellguard Shield
 
 **Spellguard Shield**

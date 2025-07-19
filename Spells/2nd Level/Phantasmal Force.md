@@ -1,12 +1,3 @@
----
-title: Phantasmal Force
-icon: ':luggage:'
-aliases: Phantasmal Force
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JcMQKIUYQSK3xyhT
-tags:
-- Item
----
-
 # Phantasmal Force
 
 **Phantasmal Force**

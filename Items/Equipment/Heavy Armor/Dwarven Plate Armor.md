@@ -1,12 +1,3 @@
----
-title: Dwarven Plate Armor
-icon: ':luggage:'
-aliases: Dwarven Plate Armor
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.sJY3zvbAutmtXo0k
-tags:
-- Item
----
-
 # Dwarven Plate Armor
 
 **Dwarven Plate Armor**

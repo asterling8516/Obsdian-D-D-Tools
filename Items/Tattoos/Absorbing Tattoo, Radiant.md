@@ -1,12 +1,3 @@
----
-title: Absorbing Tattoo, Radiant
-icon: ':luggage:'
-aliases: Absorbing Tattoo, Radiant
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eGGTark4j4KQlJYo
-tags:
-- Item
----
-
 # Absorbing Tattoo, Radiant
 
 **Absorbing Tattoo, Radiant**

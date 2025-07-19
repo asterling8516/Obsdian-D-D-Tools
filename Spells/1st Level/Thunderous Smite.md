@@ -1,12 +1,3 @@
----
-title: Thunderous Smite
-icon: ':luggage:'
-aliases: Thunderous Smite
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.Xgli8ARfGrRc6X0q
-tags:
-- Item
----
-
 # Thunderous Smite
 
 **Thunderous Smite**

@@ -1,12 +1,3 @@
----
-title: Circlet of Human Perfection
-icon: ':luggage:'
-aliases: Circlet of Human Perfection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.aMebqgWAU15WKyYl
-tags:
-- Item
----
-
 # Circlet of Human Perfection
 
 **Circlet of Human Perfection**

@@ -1,12 +1,3 @@
----
-title: Mithral Splint
-icon: ':luggage:'
-aliases: Mithral Splint
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.x3UqPO0OLHW5iYZZ
-tags:
-- Item
----
-
 # Mithral Splint
 
 **Mithral Splint**

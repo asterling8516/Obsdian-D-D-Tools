@@ -1,12 +1,3 @@
----
-title: Armor of Fire Resistance, Breastplate
-icon: ':luggage:'
-aliases: Armor of Fire Resistance, Breastplate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.U8CDxusPpXJk3OEn
-tags:
-- Item
----
-
 # Armor of Fire Resistance, Breastplate
 
 **Armor of Fire Resistance, Breastplate**

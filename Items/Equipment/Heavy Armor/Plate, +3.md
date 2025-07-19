@@ -1,12 +1,3 @@
----
-title: Plate, +3
-icon: ':luggage:'
-aliases: Plate, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.8RR6pA2NEFskXK6P
-tags:
-- Item
----
-
 # Plate, +3
 
 **Plate, +3**

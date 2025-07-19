@@ -1,12 +1,3 @@
----
-title: Necklace of Prayer Beads
-icon: ':luggage:'
-aliases: Necklace of Prayer Beads
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.eLxeH7giIYX71Qyi
-tags:
-- Item
----
-
 # Necklace of Prayer Beads
 
 **Necklace of Prayer Beads**

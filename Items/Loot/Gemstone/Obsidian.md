@@ -1,12 +1,3 @@
----
-title: Obsidian
-icon: ':luggage:'
-aliases: Obsidian
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.dWNxlW9RToGnVunP
-tags:
-- Item
----
-
 # Obsidian
 
 **Obsidian**

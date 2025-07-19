@@ -1,12 +1,3 @@
----
-title: Tree Stride
-icon: ':luggage:'
-aliases: Tree Stride
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.6Kbi6KUZoJBARgpl
-tags:
-- Item
----
-
 # Tree Stride
 
 **Tree Stride**

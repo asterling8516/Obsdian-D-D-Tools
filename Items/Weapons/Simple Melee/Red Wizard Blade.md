@@ -1,12 +1,3 @@
----
-title: Red Wizard Blade
-icon: ':luggage:'
-aliases: Red Wizard Blade
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ipd8eHd4Xncg5Lvu
-tags:
-- Item
----
-
 # Red Wizard Blade
 
 **Red Wizard Blade**

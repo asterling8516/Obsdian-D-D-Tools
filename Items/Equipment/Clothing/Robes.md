@@ -1,12 +1,3 @@
----
-title: Robes
-icon: ':luggage:'
-aliases: Robes
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.gN8pG3WYWKxAreXC
-tags:
-- Item
----
-
 # Robes
 
 **Robes**

@@ -1,12 +1,3 @@
----
-title: Blue Dragon Mask
-icon: ':luggage:'
-aliases: Blue Dragon Mask
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.0FXIhpOKSyhFB0lV
-tags:
-- Item
----
-
 # Blue Dragon Mask
 
 **Blue Dragon Mask**

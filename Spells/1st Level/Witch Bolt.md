@@ -1,12 +1,3 @@
----
-title: Witch Bolt
-icon: ':luggage:'
-aliases: Witch Bolt
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rOCb03USO5gxal1i
-tags:
-- Item
----
-
 # Witch Bolt
 
 **Witch Bolt**

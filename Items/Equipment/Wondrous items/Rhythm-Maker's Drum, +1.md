@@ -1,12 +1,3 @@
----
-title: Rhythm-Maker's Drum, +1
-icon: ':luggage:'
-aliases: Rhythm-Maker's Drum, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.OoysxYqIA3MxyAc1
-tags:
-- Item
----
-
 # Rhythm-Maker's Drum, +1
 
 **Rhythm-Maker's Drum, +1**

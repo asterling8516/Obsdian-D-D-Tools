@@ -1,12 +1,3 @@
----
-title: Hellfire Club
-icon: ':luggage:'
-aliases: Hellfire Club
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IHrIOydBvfF3bIWr
-tags:
-- Item
----
-
 # Hellfire Club
 
 **Hellfire Club**

@@ -1,12 +1,3 @@
----
-title: Flame Tongue Shortsword
-icon: ':luggage:'
-aliases: Flame Tongue Shortsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.51rhANjxYpmr7Beb
-tags:
-- Item
----
-
 # Flame Tongue Shortsword
 
 **Flame Tongue Shortsword**

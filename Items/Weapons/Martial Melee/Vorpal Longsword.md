@@ -1,12 +1,3 @@
----
-title: Vorpal Longsword
-icon: ':luggage:'
-aliases: Vorpal Longsword
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.anxT1UJxCeaCOiJ1
-tags:
-- Item
----
-
 # Vorpal Longsword
 
 **Vorpal Longsword**

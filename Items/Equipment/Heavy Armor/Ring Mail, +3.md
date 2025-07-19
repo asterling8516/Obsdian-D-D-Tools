@@ -1,12 +1,3 @@
----
-title: Ring Mail, +3
-icon: ':luggage:'
-aliases: Ring Mail, +3
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.WZkFB4iimWgqAFZi
-tags:
-- Item
----
-
 # Ring Mail, +3
 
 **Ring Mail, +3**

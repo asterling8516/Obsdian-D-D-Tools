@@ -1,12 +1,3 @@
----
-title: Agitated Kuzuri
-icon: ':luggage:'
-aliases: Agitated Kuzuri
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.J0GdBqqsElmTilv3
-tags:
-- Item
----
-
 # Agitated Kuzuri
 
 **Agitated Kuzuri**

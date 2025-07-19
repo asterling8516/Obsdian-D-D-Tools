@@ -1,12 +1,3 @@
----
-title: Living Armor, Half Plate
-icon: ':luggage:'
-aliases: Living Armor, Half Plate
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.lPgY8F7KrIumAiP7
-tags:
-- Item
----
-
 # Living Armor, Half Plate
 
 **Living Armor, Half Plate**

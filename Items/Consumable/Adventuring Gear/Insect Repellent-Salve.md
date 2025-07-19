@@ -1,12 +1,3 @@
----
-title: Insect Repellent-Salve
-icon: ':luggage:'
-aliases: Insect Repellent-Salve
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TpgkS83y7Lk9pZLN
-tags:
-- Item
----
-
 # Insect Repellent-Salve
 
 **Insect Repellent-Salve**

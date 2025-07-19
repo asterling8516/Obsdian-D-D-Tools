@@ -1,12 +1,3 @@
----
-title: Murgaxor's Elixir of Life
-icon: ':luggage:'
-aliases: Murgaxor's Elixir of Life
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Ey5GL04Jjp4wWSLd
-tags:
-- Item
----
-
 # Murgaxor's Elixir of Life
 
 **Murgaxor's Elixir of Life**

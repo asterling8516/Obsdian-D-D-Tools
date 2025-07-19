@@ -1,12 +1,3 @@
----
-title: Periapt of Proof against Poison
-icon: ':luggage:'
-aliases: Periapt of Proof against Poison
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UCP4EtrNnRz0RgbJ
-tags:
-- Item
----
-
 # Periapt of Proof against Poison
 
 **Periapt of Proof against Poison**

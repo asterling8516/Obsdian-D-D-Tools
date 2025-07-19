@@ -1,12 +1,3 @@
----
-title: Enhance Ability
-icon: ':luggage:'
-aliases: Enhance Ability
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.QgEsFsEn3bw4eOOu
-tags:
-- Item
----
-
 # Enhance Ability
 
 **Enhance Ability**

@@ -1,12 +1,3 @@
----
-title: Serpent's Fang
-icon: ':luggage:'
-aliases: Serpent's Fang
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UzrH0gJegnAya4Ai
-tags:
-- Item
----
-
 # Serpent's Fang
 
 **Serpent's Fang**

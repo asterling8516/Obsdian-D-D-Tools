@@ -1,12 +1,3 @@
----
-title: Strixhaven Pennant
-icon: ':luggage:'
-aliases: Strixhaven Pennant
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oJ5wzUq8V8pxvffz
-tags:
-- Item
----
-
 # Strixhaven Pennant
 
 **Strixhaven Pennant**

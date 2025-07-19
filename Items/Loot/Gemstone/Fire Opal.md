@@ -1,12 +1,3 @@
----
-title: Fire Opal
-icon: ':luggage:'
-aliases: Fire Opal
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Rrf1llooA5WiwjV8
-tags:
-- Item
----
-
 # Fire Opal
 
 **Fire Opal**

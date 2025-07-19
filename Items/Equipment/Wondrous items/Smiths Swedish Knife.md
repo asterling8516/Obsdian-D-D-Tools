@@ -1,12 +1,3 @@
----
-title: Smiths Swedish Knife
-icon: ':luggage:'
-aliases: Smiths Swedish Knife
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tJ17WzF54Ar9Eup1
-tags:
-- Item
----
-
 # Smiths Swedish Knife
 
 **Smiths Swedish Knife**

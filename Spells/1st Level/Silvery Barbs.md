@@ -1,12 +1,3 @@
----
-title: Silvery Barbs
-icon: ':luggage:'
-aliases: Silvery Barbs
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.n7yNICX9QNwhll0S
-tags:
-- Item
----
-
 # Silvery Barbs
 
 **Silvery Barbs**

@@ -1,12 +1,3 @@
----
-title: Armblade (Dagger)
-icon: ':luggage:'
-aliases: Armblade (Dagger)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EmZQdM52aicohN8p
-tags:
-- Item
----
-
 # Armblade (Dagger)
 
 **Armblade (Dagger)**

@@ -1,12 +1,3 @@
----
-title: Topaz
-icon: ':luggage:'
-aliases: Topaz
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.mu4vBwm3oojov7lG
-tags:
-- Item
----
-
 # Topaz
 
 **Topaz**

@@ -1,12 +1,3 @@
----
-title: Cloak of Protection
-icon: ':luggage:'
-aliases: Cloak of Protection
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.febMMudxhMFBJOFo
-tags:
-- Item
----
-
 # Cloak of Protection
 
 **Cloak of Protection**

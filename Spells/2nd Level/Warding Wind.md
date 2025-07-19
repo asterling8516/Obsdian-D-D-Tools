@@ -1,12 +1,3 @@
----
-title: Warding Wind
-icon: ':luggage:'
-aliases: Warding Wind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.36wzTI8xLfULVfiT
-tags:
-- Item
----
-
 # Warding Wind
 
 **Warding Wind**

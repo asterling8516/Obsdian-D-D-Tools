@@ -1,12 +1,3 @@
----
-title: Sleep
-icon: ':luggage:'
-aliases: Sleep
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.WiTTPZN9fXuGn3Iq
-tags:
-- Item
----
-
 # Sleep
 
 **Sleep**

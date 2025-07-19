@@ -1,12 +1,3 @@
----
-title: Lock of Trickery
-icon: ':luggage:'
-aliases: Lock of Trickery
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BJ8vYt0C9S2wn8nR
-tags:
-- Item
----
-
 # Lock of Trickery
 
 **Lock of Trickery**

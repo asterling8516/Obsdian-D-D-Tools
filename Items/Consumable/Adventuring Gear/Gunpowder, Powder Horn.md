@@ -1,12 +1,3 @@
----
-title: Gunpowder, Powder Horn
-icon: ':luggage:'
-aliases: Gunpowder, Powder Horn
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.zCCsYLomMHZ7Gaqq
-tags:
-- Item
----
-
 # Gunpowder, Powder Horn
 
 **Gunpowder, Powder Horn**

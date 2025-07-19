@@ -1,12 +1,3 @@
----
-title: Chariot
-icon: ':luggage:'
-aliases: Chariot
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rdta4Jr32jIcsrs7
-tags:
-- Item
----
-
 # Chariot
 
 **Chariot**

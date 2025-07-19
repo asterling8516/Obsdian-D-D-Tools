@@ -1,12 +1,3 @@
----
-title: Chain Shirt, +1
-icon: ':luggage:'
-aliases: Chain Shirt, +1
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IPRO0HI06s16YCkB
-tags:
-- Item
----
-
 # Chain Shirt, +1
 
 **Chain Shirt, +1**

@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (Gold)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (Gold)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UecKWGTWKJh2XYsd
-tags:
-- Item
----
-
 # Dragon Scale Mail (Gold)
 
 **Dragon Scale Mail (Gold)**

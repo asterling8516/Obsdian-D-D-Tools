@@ -1,12 +1,3 @@
----
-title: Distort Value
-icon: ':luggage:'
-aliases: Distort Value
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rP7Emz3AEFgEFO0r
-tags:
-- Item
----
-
 # Distort Value
 
 **Distort Value**

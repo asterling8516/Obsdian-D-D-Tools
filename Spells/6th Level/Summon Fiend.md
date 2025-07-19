@@ -1,12 +1,3 @@
----
-title: Summon Fiend
-icon: ':luggage:'
-aliases: Summon Fiend
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.JMwmvEchCrpxITQ4
-tags:
-- Item
----
-
 # Summon Fiend
 
 **Summon Fiend**

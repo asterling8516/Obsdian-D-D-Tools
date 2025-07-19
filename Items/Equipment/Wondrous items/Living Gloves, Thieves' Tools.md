@@ -1,12 +1,3 @@
----
-title: Living Gloves, Thieves' Tools
-icon: ':luggage:'
-aliases: Living Gloves, Thieves' Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.DyeGYar8UCKbkiSh
-tags:
-- Item
----
-
 # Living Gloves, Thieves' Tools
 
 **Living Gloves, Thieves' Tools**

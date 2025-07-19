@@ -1,12 +1,3 @@
----
-title: Mold Earth
-icon: ':luggage:'
-aliases: Mold Earth
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.GXDt9ZwUaHGB6dLc
-tags:
-- Item
----
-
 # Mold Earth
 
 **Mold Earth**

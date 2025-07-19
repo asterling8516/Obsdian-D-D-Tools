@@ -1,12 +1,3 @@
----
-title: Mariner's Hide
-icon: ':luggage:'
-aliases: Mariner's Hide
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.BTr0BOQ1gWkmliFE
-tags:
-- Item
----
-
 # Mariner's Hide
 
 **Mariner's Hide**

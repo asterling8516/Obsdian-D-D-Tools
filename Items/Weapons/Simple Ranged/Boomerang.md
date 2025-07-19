@@ -1,12 +1,3 @@
----
-title: Boomerang
-icon: ':luggage:'
-aliases: Boomerang
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.EPIZ1IGkXGPccBFv
-tags:
-- Item
----
-
 # Boomerang
 
 **Boomerang**

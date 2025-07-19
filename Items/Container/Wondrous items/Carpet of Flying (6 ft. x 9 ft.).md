@@ -1,12 +1,3 @@
----
-title: Carpet of Flying (6 ft. x 9 ft.)
-icon: ':luggage:'
-aliases: Carpet of Flying (6 ft. x 9 ft.)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.I5KuprlyjV5vOnXb
-tags:
-- Item
----
-
 # Carpet of Flying (6 ft. x 9 ft.)
 
 **Carpet of Flying (6 ft. x 9 ft.)**

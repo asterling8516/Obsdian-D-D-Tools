@@ -1,12 +1,3 @@
----
-title: Witchlight Vane
-icon: ':luggage:'
-aliases: Witchlight Vane
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.oIoDHY6vopLcNOrV
-tags:
-- Item
----
-
 # Witchlight Vane
 
 **Witchlight Vane**

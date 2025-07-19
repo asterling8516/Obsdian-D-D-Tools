@@ -1,12 +1,3 @@
----
-title: Mage Armor
-icon: ':luggage:'
-aliases: Mage Armor
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.e8xVMFOicoIEDPJ5
-tags:
-- Item
----
-
 # Mage Armor
 
 **Mage Armor**

@@ -1,12 +1,3 @@
----
-title: Grenade Launcher
-icon: ':luggage:'
-aliases: Grenade Launcher
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.tmUZVPIUveZ6KRCW
-tags:
-- Item
----
-
 # Grenade Launcher
 
 **Grenade Launcher**

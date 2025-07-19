@@ -1,12 +1,3 @@
----
-title: Talos' Hammer
-icon: ':luggage:'
-aliases: Talos' Hammer
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Mal9Wgaq6raQMFNO
-tags:
-- Item
----
-
 # Talos' Hammer
 
 **Talos' Hammer**

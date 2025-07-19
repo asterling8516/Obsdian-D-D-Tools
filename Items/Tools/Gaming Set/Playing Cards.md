@@ -1,12 +1,3 @@
----
-title: Playing Cards
-icon: ':luggage:'
-aliases: Playing Cards
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ATiYZk8fMyqz1jSI
-tags:
-- Item
----
-
 # Playing Cards
 
 **Playing Cards**

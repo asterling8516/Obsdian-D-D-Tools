@@ -1,12 +1,3 @@
----
-title: Blood Spear
-icon: ':luggage:'
-aliases: Blood Spear
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IQd1AG9whxeTHfLP
-tags:
-- Item
----
-
 # Blood Spear
 
 **Blood Spear**

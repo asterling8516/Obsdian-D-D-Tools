@@ -1,12 +1,3 @@
----
-title: Augury
-icon: ':luggage:'
-aliases: Augury
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.t6rIHTL5uaWluDAm
-tags:
-- Item
----
-
 # Augury
 
 **Augury**

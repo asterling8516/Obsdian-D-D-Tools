@@ -1,12 +1,3 @@
----
-title: Enduring Spellbook
-icon: ':luggage:'
-aliases: Enduring Spellbook
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Xm0d0a5bmmw0LzeQ
-tags:
-- Item
----
-
 # Enduring Spellbook
 
 **Enduring Spellbook**

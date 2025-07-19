@@ -1,12 +1,3 @@
----
-title: Hellfire War Pick
-icon: ':luggage:'
-aliases: Hellfire War Pick
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.RJ7vYrp4aLOupUKD
-tags:
-- Item
----
-
 # Hellfire War Pick
 
 **Hellfire War Pick**

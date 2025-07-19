@@ -1,12 +1,3 @@
----
-title: Armor of Psychic Resistance, Ring Mail
-icon: ':luggage:'
-aliases: Armor of Psychic Resistance, Ring Mail
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.Qkl0w3VHnNRq66IW
-tags:
-- Item
----
-
 # Armor of Psychic Resistance, Ring Mail
 
 **Armor of Psychic Resistance, Ring Mail**

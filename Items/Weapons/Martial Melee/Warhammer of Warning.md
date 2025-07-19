@@ -1,12 +1,3 @@
----
-title: Warhammer of Warning
-icon: ':luggage:'
-aliases: Warhammer of Warning
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.6Tt6x5E7Tj2hvrRa
-tags:
-- Item
----
-
 # Warhammer of Warning
 
 **Warhammer of Warning**

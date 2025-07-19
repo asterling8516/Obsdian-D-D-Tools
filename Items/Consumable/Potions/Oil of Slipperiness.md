@@ -1,12 +1,3 @@
----
-title: Oil of Slipperiness
-icon: ':luggage:'
-aliases: Oil of Slipperiness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.ryWtfkHfnqsyjqZE
-tags:
-- Item
----
-
 # Oil of Slipperiness
 
 **Oil of Slipperiness**

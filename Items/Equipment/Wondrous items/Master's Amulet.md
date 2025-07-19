@@ -1,12 +1,3 @@
----
-title: Master's Amulet
-icon: ':luggage:'
-aliases: Master's Amulet
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.IKV29GgebuuPUcnH
-tags:
-- Item
----
-
 # Master's Amulet
 
 **Master's Amulet**

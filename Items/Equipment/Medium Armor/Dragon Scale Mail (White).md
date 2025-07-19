@@ -1,12 +1,3 @@
----
-title: Dragon Scale Mail (White)
-icon: ':luggage:'
-aliases: Dragon Scale Mail (White)
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.TfXBUKysoSf42iZY
-tags:
-- Item
----
-
 # Dragon Scale Mail (White)
 
 **Dragon Scale Mail (White)**

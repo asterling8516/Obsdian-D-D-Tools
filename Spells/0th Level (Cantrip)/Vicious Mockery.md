@@ -1,12 +1,3 @@
----
-title: Vicious Mockery
-icon: ':luggage:'
-aliases: Vicious Mockery
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.wnyJgkeBsrY7TUxV
-tags:
-- Item
----
-
 # Vicious Mockery
 
 **Vicious Mockery**

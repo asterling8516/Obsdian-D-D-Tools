@@ -1,12 +1,3 @@
----
-title: Friends
-icon: ':luggage:'
-aliases: Friends
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.jug6fysg9PlFCxU4
-tags:
-- Item
----
-
 # Friends
 
 **Friends**

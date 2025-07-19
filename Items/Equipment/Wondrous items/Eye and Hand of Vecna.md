@@ -1,12 +1,3 @@
----
-title: Eye and Hand of Vecna
-icon: ':luggage:'
-aliases: Eye and Hand of Vecna
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.3H54JqLRRj3m12gH
-tags:
-- Item
----
-
 # Eye and Hand of Vecna
 
 **Eye and Hand of Vecna**

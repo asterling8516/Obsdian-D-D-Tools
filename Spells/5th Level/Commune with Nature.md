@@ -1,12 +1,3 @@
----
-title: Commune with Nature
-icon: ':luggage:'
-aliases: Commune with Nature
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.CR30Su8gKOYmf7yJ
-tags:
-- Item
----
-
 # Commune with Nature
 
 **Commune with Nature**

@@ -1,12 +1,3 @@
----
-title: Ring of Telekinesis
-icon: ':luggage:'
-aliases: Ring of Telekinesis
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.UFcAxZ69VJqymRFM
-tags:
-- Item
----
-
 # Ring of Telekinesis
 
 **Ring of Telekinesis**

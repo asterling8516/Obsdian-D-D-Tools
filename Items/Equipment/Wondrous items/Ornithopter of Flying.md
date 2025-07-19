@@ -1,12 +1,3 @@
----
-title: Ornithopter of Flying
-icon: ':luggage:'
-aliases: Ornithopter of Flying
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2DZmy6UXd45SVTB8
-tags:
-- Item
----
-
 # Ornithopter of Flying
 
 **Ornithopter of Flying**

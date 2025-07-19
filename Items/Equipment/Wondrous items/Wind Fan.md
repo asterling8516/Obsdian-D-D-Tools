@@ -1,12 +1,3 @@
----
-title: Wind Fan
-icon: ':luggage:'
-aliases: Wind Fan
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.haTnm5LCKJ0KP1fl
-tags:
-- Item
----
-
 # Wind Fan
 
 **Wind Fan**

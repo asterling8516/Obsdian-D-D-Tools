@@ -1,12 +1,3 @@
----
-title: Dust of Dryness
-icon: ':luggage:'
-aliases: Dust of Dryness
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.E61rbkEc3rtupkuK
-tags:
-- Item
----
-
 # Dust of Dryness
 
 **Dust of Dryness**

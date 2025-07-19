@@ -1,12 +1,3 @@
----
-title: Summon Construct
-icon: ':luggage:'
-aliases: Summon Construct
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.X7k0rDHlbQoiJsCL
-tags:
-- Item
----
-
 # Summon Construct
 
 **Summon Construct**

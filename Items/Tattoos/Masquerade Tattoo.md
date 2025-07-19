@@ -1,12 +1,3 @@
----
-title: Masquerade Tattoo
-icon: ':luggage:'
-aliases: Masquerade Tattoo
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.2JS6FKCCgnKCtntK
-tags:
-- Item
----
-
 # Masquerade Tattoo
 
 **Masquerade Tattoo**

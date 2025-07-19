@@ -1,12 +1,3 @@
----
-title: Earthbind
-icon: ':luggage:'
-aliases: Earthbind
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.rzLRUl5HLEiGHeZj
-tags:
-- Item
----
-
 # Earthbind
 
 **Earthbind**

@@ -1,12 +1,3 @@
----
-title: Living Gloves, Potter's Tools
-icon: ':luggage:'
-aliases: Living Gloves, Potter's Tools
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.9i4vBfjlBIP4ohL1
-tags:
-- Item
----
-
 # Living Gloves, Potter's Tools
 
 **Living Gloves, Potter's Tools**

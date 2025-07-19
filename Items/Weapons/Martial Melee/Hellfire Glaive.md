@@ -1,12 +1,3 @@
----
-title: Hellfire Glaive
-icon: ':luggage:'
-aliases: Hellfire Glaive
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.b5PcrQhhsVyDTBg1
-tags:
-- Item
----
-
 # Hellfire Glaive
 
 **Hellfire Glaive**

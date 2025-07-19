@@ -1,12 +1,3 @@
----
-title: Bag of Tricks
-icon: ':luggage:'
-aliases: Bag of Tricks
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.P8yM5ZLBbIWT7fij
-tags:
-- Item
----
-
 # Bag of Tricks
 
 **Bag of Tricks**

@@ -1,12 +1,3 @@
----
-title: Potion of Lightning Resistance
-icon: ':luggage:'
-aliases: Potion of Lightning Resistance
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.bc4rkZAuENin5IG0
-tags:
-- Item
----
-
 # Potion of Lightning Resistance
 
 **Potion of Lightning Resistance**

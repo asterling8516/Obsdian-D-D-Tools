@@ -1,12 +1,3 @@
----
-title: Nine Lives Stealer Greataxe
-icon: ':luggage:'
-aliases: Nine Lives Stealer Greataxe
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.rhW7lQ2vDrfWwCWG
-tags:
-- Item
----
-
 # Nine Lives Stealer Greataxe
 
 **Nine Lives Stealer Greataxe**

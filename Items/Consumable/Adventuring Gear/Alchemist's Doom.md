@@ -1,12 +1,3 @@
----
-title: Alchemist's Doom
-icon: ':luggage:'
-aliases: Alchemist's Doom
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.V16o95KAhApVYgLw
-tags:
-- Item
----
-
 # Alchemist's Doom
 
 **Alchemist's Doom**

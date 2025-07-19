@@ -1,12 +1,3 @@
----
-title: Balance of Harmony
-icon: ':luggage:'
-aliases: Balance of Harmony
-foundryId: Compendium.world.ddb-eureka-ddb-items.Item.d4jQ6Y9e5uXtbmbJ
-tags:
-- Item
----
-
 # Balance of Harmony
 
 **Balance of Harmony**

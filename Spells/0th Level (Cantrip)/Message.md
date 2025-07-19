@@ -1,12 +1,3 @@
----
-title: Message
-icon: ':luggage:'
-aliases: Message
-foundryId: Compendium.world.ddb-eureka-ddb-spells.Item.dCkMyCufgYLBBII1
-tags:
-- Item
----
-
 # Message
 
 **Message**
